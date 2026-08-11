@@ -1,0 +1,39 @@
+name: Build bins layer
+
+# Builds the worldwide waste-basket ("Mülleimer") layer via TileDistillery's
+# reusable pipeline (foxandfeature/tiledistillery, see its
+# docs/ARCHITECTURE.md) from Geofabrik OSM extracts, then publishes the
+# result as a GitHub Release. No region_scope input: every Geofabrik leaf
+# worldwide is in scope, since the point of this layer is every waste
+# basket, not a regional subset — amenity=waste_basket is a small,
+# lightweight filter (see tiles/process.lua), so a global point layer stays
+# well within what GitHub Releases can hold; there's no B2 publish job
+# wired up here. If that ever changes, tiledistillery also exposes a
+# _publish-b2.yml (see its docs/ARCHITECTURE.md "Publishing") — it would
+# need its own b2-publish environment/secrets set up on this repo first.
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * 0"  # weekly, Sunday 03:00 UTC
+
+jobs:
+  build:
+    uses: foxandfeature/tiledistillery/.github/workflows/_pipeline.yml@main
+    permissions:
+      contents: write  # tiledistillery keeps its claim/timing state on THIS repo's own `state` branch
+    with:
+      config: tiles/config.json
+      process: tiles/process.lua
+      output_basename: bins
+      attribution: "TrashTracker bins — data (c) OpenStreetMap contributors, ODbL"
+
+  publish:
+    needs: build
+    uses: foxandfeature/tiledistillery/.github/workflows/_publish-release.yml@main
+    permissions:
+      contents: write
+    with:
+      output_basename: bins
+      tag: bins-latest
+      title: "TrashTracker bins (worldwide, zoom 10+)"
