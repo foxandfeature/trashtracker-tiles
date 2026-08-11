@@ -15,7 +15,7 @@ name: Build bins layer
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 2 * 0"  # weekly, Sunday 03:00 UTC
+    - cron: "0 0 1 * 0"  # weekly, Sunday 03:00 UTC
 
 jobs:
   build:
