@@ -20,7 +20,7 @@
 -- feature back to its source node.
 
 local function set_common_attributes(node)
-	node:AttributeNumeric("id", node:Id())
+	node:Attribute("id", node:Id())
 
 	local name = node:Find("name")
 	if name ~= "" then
