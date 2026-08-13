@@ -6,10 +6,10 @@
 		"minzoom": 10,
 		"maxzoom": 14,
 		"basezoom": 14,
-		"include_ids": false,
+		"include_ids": true,
 		"name": "TrashTracker bins",
 		"version": "0.1",
-		"description": "Public waste baskets (OSM amenity=waste_basket) worldwide, visible from zoom 10.",
+		"description": "Public waste baskets, waste disposal points and recycling points (OSM amenity=waste_basket/waste_disposal/recycling, plus bin=yes+waste=* proxies) worldwide, visible from zoom 10.",
 		"compress": "gzip"
 	}
 }
