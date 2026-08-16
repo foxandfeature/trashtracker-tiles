@@ -19,55 +19,55 @@
 -- settings.include_ids in config.json. Either lets a consumer match a
 -- feature back to its source node.
 
-local function set_common_attributes(node)
-	node:Attribute("id", node:Id())
+local function set_common_attributes()
+	Attribute("id", Id())
 
-	local name = node:Find("name")
+	local name = Find("name")
 	if name ~= "" then
-		node:Attribute("name", name)
+		Attribute("name", name)
 	end
 
-	local opening_hours = node:Find("opening_hours")
+	local opening_hours = Find("opening_hours")
 	if opening_hours ~= "" then
-		node:Attribute("opening_hours", opening_hours)
+		Attribute("opening_hours", opening_hours)
 	end
 end
 
 function node_function(node)
-	local amenity = node:Find("amenity")
-	local waste = node:Find("waste")
+	local amenity = Find("amenity")
+	local waste = Find("waste")
 
 	if amenity == "waste_basket" then
-		node:Layer("bins", false)
-		node:Attribute("class", "waste_basket")
+		Layer("bins", false)
+		Attribute("class", "waste_basket")
 		if waste ~= "" then
-			node:Attribute("waste", waste)
+			Attribute("waste", waste)
 		end
-		set_common_attributes(node)
+		set_common_attributes()
 	elseif amenity == "waste_disposal" then
-		node:Layer("bins", false)
-		node:Attribute("class", "waste_disposal")
+		Layer("bins", false)
+		Attribute("class", "waste_disposal")
 		if waste ~= "" then
-			node:Attribute("waste", waste)
+			Attribute("waste", waste)
 		end
-		set_common_attributes(node)
+		set_common_attributes()
 	elseif amenity == "recycling" then
-		node:Layer("bins", false)
-		node:Attribute("class", "recycling")
+		Layer("bins", false)
+		Attribute("class", "recycling")
 
-		local recycling_type = node:Find("recycling_type")
+		local recycling_type = Find("recycling_type")
 		if recycling_type ~= "" then
-			node:Attribute("recycling_type", recycling_type)
+			Attribute("recycling_type", recycling_type)
 		end
-		set_common_attributes(node)
-	elseif node:Find("bin") == "yes" then
-		node:Layer("bins", false)
-		node:Attribute("class", "waste_basket")
-		node:Attribute("precision", "low")
+		set_common_attributes()
+	elseif Find("bin") == "yes" then
+		Layer("bins", false)
+		Attribute("class", "waste_basket")
+		Attribute("precision", "low")
 		if waste ~= "" then
-			node:Attribute("waste", waste)
+			Attribute("waste", waste)
 		end
-		set_common_attributes(node)
+		set_common_attributes()
 	end
 end
 
