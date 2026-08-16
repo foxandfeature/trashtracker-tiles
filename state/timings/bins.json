@@ -31,7 +31,8 @@
     12
   ],
   "africa/congo-democratic-republic": [
-    37
+    37,
+    42
   ],
   "africa/ethiopia": [
     12
@@ -426,7 +427,8 @@
     196
   ],
   "europe/austria": [
-    64
+    64,
+    68
   ],
   "europe/belarus": [
     41
@@ -1217,9 +1219,11 @@
     11
   ],
   "russia/northwestern-fed-district": [
-    57
+    57,
+    50
   ],
   "russia/siberian-fed-district": [
+    42,
     42
   ],
   "russia/south-fed-district": [
