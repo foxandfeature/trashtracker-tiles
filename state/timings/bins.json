@@ -99,7 +99,8 @@
     17
   ],
   "africa/south-africa": [
-    37
+    37,
+    39
   ],
   "africa/south-africa-and-lesotho": [
     47
@@ -1011,7 +1012,8 @@
     10
   ],
   "north-america/canada/nunavut/kitikmeot": [
-    40
+    40,
+    39
   ],
   "north-america/canada/nunavut/kivalliq": [
     36
@@ -1022,7 +1024,8 @@
   "north-america/canada/ontario": [
     63,
     85,
-    152
+    152,
+    82
   ],
   "north-america/canada/quebec": [
     123
@@ -1056,7 +1059,8 @@
     50
   ],
   "north-america/us/california/socal": [
-    56
+    56,
+    59
   ],
   "north-america/us/colorado": [
     30
