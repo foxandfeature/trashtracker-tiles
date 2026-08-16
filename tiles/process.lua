@@ -18,6 +18,23 @@
 -- set_common_attributes) and, separately, as the MVT feature id through
 -- settings.include_ids in config.json. Either lets a consumer match a
 -- feature back to its source node.
+--
+-- node_keys/way_keys: kept as a pure perf/defensive win, not a
+-- correctness requirement — the pipeline now runs tilemaker via
+-- ghcr.io/systemed/tilemaker (see claim-and-build/action.yml), not
+-- apt's tilemaker 2.4.0. That old apt build was the actual cause of a
+-- past incident: its GetSignificantNodeKeys read `node_keys` via kaguya
+-- with no nil-guard, so an undefined `node_keys` made every region's
+-- build abort with "kaguya::LuaTypeMismatch" converting Lua nil to a
+-- C++ vector<string>, before a single node was processed. Current
+-- tilemaker guards that read, so it's no longer required — but the
+-- image tag isn't pinned to a release (it floats with upstream's
+-- master), so keeping node_keys/way_keys defined costs nothing and
+-- avoids depending on that guard staying in place. Must list every key
+-- node_function branches on (amenity, bin) or a matching node gets
+-- silently skipped instead of processed.
+node_keys = { "amenity", "bin" }
+way_keys = {}
 
 local function set_common_attributes()
 	Attribute("id", Id())
