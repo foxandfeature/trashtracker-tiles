@@ -233,14 +233,16 @@
   ],
   "asia/india/southern-zone": [
     49,
-    69
+    69,
+    38
   ],
   "asia/india/western-zone": [
     21
   ],
   "asia/indonesia/java": [
     74,
-    103
+    103,
+    57
   ],
   "asia/indonesia/kalimantan": [
     14
@@ -268,7 +270,8 @@
   ],
   "asia/japan/chubu": [
     37,
-    53
+    53,
+    48
   ],
   "asia/japan/chugoku": [
     21,
@@ -329,7 +332,8 @@
     14
   ],
   "asia/philippines": [
-    47
+    47,
+    44
   ],
   "asia/sea": [
     285
@@ -1222,7 +1226,8 @@
     24
   ],
   "russia/ural-fed-district": [
-    40
+    40,
+    27
   ],
   "russia/volga-fed-district": [
     66,
