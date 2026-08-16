@@ -685,6 +685,7 @@
     39
   ],
   "europe/italy/sud": [
+    40,
     40
   ],
   "europe/latvia": [
@@ -975,7 +976,8 @@
     8
   ],
   "north-america/canada/british-columbia/north-admreg": [
-    57
+    57,
+    65
   ],
   "north-america/canada/british-columbia/okanagan-admreg": [
     5,
@@ -1064,7 +1066,8 @@
     14
   ],
   "north-america/us/illinois": [
-    37
+    37,
+    40
   ],
   "north-america/us/indiana": [
     17
@@ -1193,7 +1196,8 @@
     12
   ],
   "russia/central-fed-district": [
-    71
+    71,
+    76
   ],
   "russia/crimean-fed-district": [
     6,
