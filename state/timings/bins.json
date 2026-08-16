@@ -267,7 +267,8 @@
     11
   ],
   "asia/japan/chubu": [
-    37
+    37,
+    53
   ],
   "asia/japan/chugoku": [
     21,
@@ -278,7 +279,8 @@
   ],
   "asia/japan/kansai": [
     41,
-    40
+    40,
+    30
   ],
   "asia/japan/kanto": [
     33
@@ -679,7 +681,8 @@
     22
   ],
   "europe/italy/nord-est": [
-    50
+    50,
+    54
   ],
   "europe/italy/nord-ovest": [
     39
@@ -1222,7 +1225,8 @@
     40
   ],
   "russia/volga-fed-district": [
-    66
+    66,
+    81
   ],
   "south-america/argentina": [
     39
