@@ -32,7 +32,8 @@
   ],
   "africa/congo-democratic-republic": [
     37,
-    42
+    42,
+    39
   ],
   "africa/ethiopia": [
     12
@@ -62,7 +63,8 @@
   ],
   "africa/madagascar": [
     37,
-    28
+    28,
+    36
   ],
   "africa/malawi": [
     16
@@ -84,7 +86,8 @@
     8
   ],
   "africa/nigeria": [
-    67
+    67,
+    55
   ],
   "africa/rwanda": [
     7,
@@ -101,10 +104,12 @@
   ],
   "africa/south-africa": [
     37,
-    39
+    39,
+    30
   ],
   "africa/south-africa-and-lesotho": [
-    47
+    47,
+    83
   ],
   "africa/south-sudan": [
     13
@@ -113,7 +118,8 @@
     17
   ],
   "africa/tanzania": [
-    66
+    66,
+    90
   ],
   "africa/togo": [
     6
@@ -122,7 +128,8 @@
     10
   ],
   "africa/uganda": [
-    37
+    37,
+    38
   ],
   "africa/zambia": [
     20
@@ -237,7 +244,8 @@
   "asia/india/southern-zone": [
     49,
     69,
-    38
+    38,
+    89
   ],
   "asia/india/western-zone": [
     21
@@ -245,7 +253,8 @@
   "asia/indonesia/java": [
     74,
     103,
-    57
+    57,
+    67
   ],
   "asia/indonesia/kalimantan": [
     14
@@ -274,7 +283,8 @@
   "asia/japan/chubu": [
     37,
     53,
-    48
+    48,
+    38
   ],
   "asia/japan/chugoku": [
     21,
@@ -286,10 +296,12 @@
   "asia/japan/kansai": [
     41,
     40,
-    30
+    30,
+    28
   ],
   "asia/japan/kanto": [
-    33
+    33,
+    39
   ],
   "asia/japan/kyushu": [
     21
@@ -325,7 +337,8 @@
     21
   ],
   "asia/nepal": [
-    39
+    39,
+    34
   ],
   "asia/north-korea": [
     10,
@@ -336,7 +349,8 @@
   ],
   "asia/philippines": [
     47,
-    44
+    44,
+    52
   ],
   "asia/sea": [
     285
@@ -365,7 +379,8 @@
     10
   ],
   "asia/vietnam": [
-    31
+    31,
+    23
   ],
   "asia/yemen": [
     7
@@ -427,17 +442,21 @@
   "europe/alps": [
     146,
     196,
-    173
+    173,
+    269
   ],
   "europe/austria": [
     64,
-    68
+    68,
+    73
   ],
   "europe/belarus": [
-    41
+    41,
+    45
   ],
   "europe/belgium": [
-    63
+    63,
+    73
   ],
   "europe/bosnia-herzegovina": [
     15,
@@ -445,7 +464,8 @@
   ],
   "europe/britain-and-ireland": [
     184,
-    195
+    195,
+    293
   ],
   "europe/bulgaria": [
     16
@@ -502,13 +522,15 @@
     427
   ],
   "europe/denmark": [
-    46
+    46,
+    76
   ],
   "europe/estonia": [
     10
   ],
   "europe/finland": [
-    57
+    57,
+    114
   ],
   "europe/france/alsace": [
     12
@@ -527,7 +549,8 @@
     19
   ],
   "europe/france/bretagne": [
-    41
+    41,
+    31
   ],
   "europe/france/centre": [
     24
@@ -544,7 +567,8 @@
     12
   ],
   "europe/france/ile-de-france": [
-    31
+    31,
+    32
   ],
   "europe/france/languedoc-roussillon": [
     20
@@ -563,7 +587,8 @@
     23
   ],
   "europe/france/pays-de-la-loire": [
-    34
+    34,
+    45
   ],
   "europe/france/picardie": [
     14
@@ -572,11 +597,13 @@
     18
   ],
   "europe/france/provence-alpes-cote-d-azur": [
-    38
+    38,
+    36
   ],
   "europe/france/rhone-alpes": [
     42,
-    42
+    42,
+    63
   ],
   "europe/georgia": [
     9,
@@ -631,7 +658,8 @@
     13
   ],
   "europe/germany/niedersachsen": [
-    35
+    35,
+    43
   ],
   "europe/germany/nordrhein-westfalen/arnsberg-regbez": [
     20,
@@ -667,7 +695,8 @@
   "europe/great-britain": [
     151,
     188,
-    162
+    162,
+    263
   ],
   "europe/greece": [
     27
@@ -681,7 +710,8 @@
   ],
   "europe/ireland-and-northern-ireland": [
     29,
-    40
+    40,
+    43
   ],
   "europe/italy/centro": [
     28
@@ -692,14 +722,17 @@
   ],
   "europe/italy/nord-est": [
     50,
-    54
+    54,
+    239
   ],
   "europe/italy/nord-ovest": [
-    39
+    39,
+    51
   ],
   "europe/italy/sud": [
     40,
-    40
+    40,
+    39
   ],
   "europe/latvia": [
     13,
@@ -759,12 +792,14 @@
     17
   ],
   "europe/norway/nord-norge": [
-    39
+    39,
+    31
   ],
   "europe/norway/ostlandet": [
     32,
     39,
-    36
+    36,
+    38
   ],
   "europe/norway/sorlandet": [
     9
@@ -895,16 +930,20 @@
     15
   ],
   "europe/sweden": [
-    105
+    105,
+    66
   ],
   "europe/switzerland": [
-    41
+    41,
+    71
   ],
   "europe/turkey": [
-    44
+    44,
+    78
   ],
   "europe/ukraine": [
-    102
+    102,
+    60
   ],
   "europe/united-kingdom/england/cambridgeshire": [
     5
@@ -978,7 +1017,8 @@
     15
   ],
   "north-america/canada/alberta": [
-    56
+    56,
+    42
   ],
   "north-america/canada/british-columbia/interior-admreg": [
     14
@@ -991,7 +1031,8 @@
   ],
   "north-america/canada/british-columbia/north-admreg": [
     57,
-    65
+    65,
+    66
   ],
   "north-america/canada/british-columbia/okanagan-admreg": [
     5,
@@ -1010,29 +1051,35 @@
   ],
   "north-america/canada/northwest-territories": [
     38,
-    37
+    37,
+    38
   ],
   "north-america/canada/nova-scotia": [
     10
   ],
   "north-america/canada/nunavut/kitikmeot": [
     40,
-    39
+    39,
+    48
   ],
   "north-america/canada/nunavut/kivalliq": [
-    36
+    36,
+    37
   ],
   "north-america/canada/nunavut/qikiqtaaluk": [
-    49
+    49,
+    73
   ],
   "north-america/canada/ontario": [
     63,
     85,
     152,
-    82
+    82,
+    92
   ],
   "north-america/canada/quebec": [
-    123
+    123,
+    112
   ],
   "north-america/canada/saskatchewan": [
     13
@@ -1042,7 +1089,8 @@
     8
   ],
   "north-america/mexico": [
-    58
+    58,
+    87
   ],
   "north-america/us/alabama": [
     12,
@@ -1060,11 +1108,13 @@
     9
   ],
   "north-america/us/california/norcal": [
-    50
+    50,
+    84
   ],
   "north-america/us/california/socal": [
     56,
-    59
+    59,
+    107
   ],
   "north-america/us/colorado": [
     30
@@ -1073,11 +1123,13 @@
     18
   ],
   "north-america/us/florida": [
-    58
+    58,
+    73
   ],
   "north-america/us/georgia": [
     39,
-    32
+    32,
+    27
   ],
   "north-america/us/idaho": [
     11,
@@ -1085,7 +1137,8 @@
   ],
   "north-america/us/illinois": [
     37,
-    40
+    40,
+    39
   ],
   "north-america/us/indiana": [
     17
@@ -1114,7 +1167,8 @@
     28
   ],
   "north-america/us/michigan": [
-    31
+    31,
+    30
   ],
   "north-america/us/minnesota": [
     22,
@@ -1149,10 +1203,12 @@
     13
   ],
   "north-america/us/new-york": [
-    36
+    36,
+    39
   ],
   "north-america/us/north-carolina": [
-    44
+    44,
+    62
   ],
   "north-america/us/north-dakota": [
     12,
@@ -1169,7 +1225,8 @@
   ],
   "north-america/us/pennsylvania": [
     40,
-    26
+    26,
+    31
   ],
   "north-america/us/puerto-rico": [
     7,
@@ -1190,7 +1247,8 @@
     18
   ],
   "north-america/us/texas": [
-    49
+    49,
+    88
   ],
   "north-america/us/utah": [
     13
@@ -1199,10 +1257,12 @@
     6
   ],
   "north-america/us/virginia": [
-    39
+    39,
+    36
   ],
   "north-america/us/washington": [
-    33
+    33,
+    26
   ],
   "north-america/us/west-virginia": [
     9
@@ -1216,39 +1276,46 @@
   ],
   "russia/central-fed-district": [
     71,
-    76
+    76,
+    105
   ],
   "russia/crimean-fed-district": [
     6,
     7
   ],
   "russia/far-eastern-fed-district": [
-    32
+    32,
+    45
   ],
   "russia/north-caucasus-fed-district": [
     11
   ],
   "russia/northwestern-fed-district": [
     57,
-    50
+    50,
+    81
   ],
   "russia/siberian-fed-district": [
     42,
-    42
+    42,
+    62
   ],
   "russia/south-fed-district": [
     24
   ],
   "russia/ural-fed-district": [
     40,
-    27
+    27,
+    48
   ],
   "russia/volga-fed-district": [
     66,
-    81
+    81,
+    53
   ],
   "south-america/argentina": [
-    39
+    39,
+    31
   ],
   "south-america/bolivia": [
     14,
@@ -1259,6 +1326,7 @@
     17
   ],
   "south-america/brazil/nordeste": [
+    34,
     34
   ],
   "south-america/brazil/norte": [
@@ -1266,13 +1334,15 @@
     14
   ],
   "south-america/brazil/sudeste": [
-    98
+    98,
+    76
   ],
   "south-america/brazil/sul": [
     31
   ],
   "south-america/chile": [
-    39
+    39,
+    42
   ],
   "south-america/colombia": [
     26,
