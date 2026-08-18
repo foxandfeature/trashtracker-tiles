@@ -5,6 +5,7 @@
     "africa/nigeria",
     "africa/tanzania",
     "asia/india/central-zone",
+    "asia/india/southern-zone",
     "asia/indonesia/java",
     "asia/indonesia/sumatra",
     "asia/japan/chubu",
@@ -20,9 +21,11 @@
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/niedersachsen",
+    "europe/italy/centro",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/norway/ostlandet",
+    "europe/slovakia",
     "europe/sweden",
     "europe/turkey",
     "europe/ukraine",
@@ -44,6 +47,8 @@
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
-    "south-america/brazil/sudeste"
+    "south-america/brazil/nordeste",
+    "south-america/brazil/sudeste",
+    "south-america/brazil/sul"
   ]
 }
