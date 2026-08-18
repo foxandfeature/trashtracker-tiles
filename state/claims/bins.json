@@ -3,9 +3,12 @@
     "africa/nigeria",
     "africa/tanzania",
     "asia/indonesia/java",
+    "asia/philippines",
+    "europe/belgium",
     "europe/finland",
     "europe/sweden",
     "europe/turkey",
+    "europe/ukraine",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
@@ -13,7 +16,9 @@
     "north-america/us/california/socal",
     "north-america/us/florida",
     "russia/central-fed-district",
+    "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
+    "russia/volga-fed-district",
     "south-america/brazil/sudeste"
   ]
 }
