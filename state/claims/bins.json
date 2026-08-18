@@ -1,6 +1,7 @@
 {
   "lock": [
     "africa/algeria",
+    "africa/angola",
     "africa/botswana",
     "africa/burkina-faso",
     "africa/cameroon",
@@ -20,7 +21,9 @@
     "africa/mali",
     "africa/morocco",
     "africa/mozambique",
+    "africa/niger",
     "africa/nigeria",
+    "africa/rwanda",
     "africa/senegal-and-gambia",
     "africa/somalia",
     "africa/south-africa",
@@ -182,6 +185,7 @@
     "europe/poland/swietokrzyskie",
     "europe/poland/warminsko-mazurskie",
     "europe/poland/wielkopolskie",
+    "europe/poland/zachodniopomorskie",
     "europe/portugal",
     "europe/romania",
     "europe/serbia",
@@ -209,6 +213,7 @@
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/british-columbia/southcoast-admreg",
     "north-america/canada/manitoba",
+    "north-america/canada/new-brunswick",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/northwest-territories",
     "north-america/canada/nova-scotia",
