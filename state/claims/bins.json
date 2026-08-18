@@ -23,6 +23,7 @@
     "asia/philippines",
     "asia/taiwan",
     "asia/vietnam",
+    "australia-oceania/australia/new-south-wales",
     "australia-oceania/new-zealand",
     "europe/austria",
     "europe/belarus",
@@ -34,6 +35,7 @@
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/germany/bayern/oberbayern",
     "europe/germany/brandenburg",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
@@ -65,12 +67,14 @@
     "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/mexico",
+    "north-america/us/arizona",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
     "north-america/us/colorado",
     "north-america/us/florida",
     "north-america/us/georgia",
     "north-america/us/illinois",
+    "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/minnesota",
     "north-america/us/new-york",
@@ -89,6 +93,7 @@
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
+    "south-america/chile",
     "south-america/colombia"
   ]
 }
