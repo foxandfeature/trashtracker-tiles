@@ -6,6 +6,7 @@
     "africa/mozambique",
     "africa/nigeria",
     "africa/tanzania",
+    "asia/bangladesh",
     "asia/india/central-zone",
     "asia/india/southern-zone",
     "asia/indonesia/java",
@@ -30,6 +31,7 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/norway/ostlandet",
+    "europe/portugal",
     "europe/slovakia",
     "europe/sweden",
     "europe/switzerland",
@@ -50,6 +52,7 @@
     "north-america/us/georgia",
     "north-america/us/michigan",
     "north-america/us/new-york",
+    "north-america/us/north-carolina",
     "north-america/us/texas",
     "north-america/us/virginia",
     "russia/central-fed-district",
@@ -57,8 +60,10 @@
     "russia/siberian-fed-district",
     "russia/ural-fed-district",
     "russia/volga-fed-district",
+    "south-america/argentina",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
-    "south-america/brazil/sul"
+    "south-america/brazil/sul",
+    "south-america/colombia"
   ]
 }
