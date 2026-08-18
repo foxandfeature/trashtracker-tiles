@@ -5,6 +5,8 @@
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/egypt",
+    "africa/ghana",
+    "africa/guinea",
     "africa/kenya",
     "africa/madagascar",
     "africa/malawi",
@@ -117,8 +119,10 @@
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
     "europe/poland/dolnoslaskie",
+    "europe/poland/lubelskie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
+    "europe/poland/podkarpackie",
     "europe/poland/slaskie",
     "europe/poland/wielkopolskie",
     "europe/portugal",
@@ -194,6 +198,7 @@
     "south-america/brazil/sul",
     "south-america/chile",
     "south-america/colombia",
-    "south-america/peru"
+    "south-america/peru",
+    "south-america/venezuela"
   ]
 }
