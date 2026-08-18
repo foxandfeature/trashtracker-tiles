@@ -133,7 +133,9 @@
     "europe/spain/andalucia",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
+    "europe/spain/galicia",
     "europe/spain/pais-vasco",
+    "europe/spain/valencia",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
@@ -160,6 +162,7 @@
     "north-america/us/connecticut",
     "north-america/us/florida",
     "north-america/us/georgia",
+    "north-america/us/idaho",
     "north-america/us/illinois",
     "north-america/us/indiana",
     "north-america/us/kentucky",
@@ -170,6 +173,7 @@
     "north-america/us/minnesota",
     "north-america/us/missouri",
     "north-america/us/new-jersey",
+    "north-america/us/new-mexico",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/ohio",
@@ -198,6 +202,7 @@
     "south-america/brazil/sul",
     "south-america/chile",
     "south-america/colombia",
+    "south-america/paraguay",
     "south-america/peru",
     "south-america/venezuela"
   ]
