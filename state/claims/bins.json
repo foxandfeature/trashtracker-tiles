@@ -1,5 +1,5 @@
 {
-  "lock": [
+  "done": [
     "africa/algeria",
     "africa/angola",
     "africa/benin",
@@ -510,5 +510,7 @@
     "south-america/suriname",
     "south-america/uruguay",
     "south-america/venezuela"
-  ]
+  ],
+  "failed": [],
+  "lock": []
 }
