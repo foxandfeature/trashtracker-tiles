@@ -1,11 +1,15 @@
 {
   "lock": [
+    "africa/morocco",
     "africa/nigeria",
     "africa/tanzania",
     "asia/indonesia/java",
+    "asia/indonesia/sumatra",
     "asia/philippines",
+    "europe/austria",
     "europe/belgium",
     "europe/finland",
+    "europe/italy/nord-ovest",
     "europe/sweden",
     "europe/turkey",
     "europe/ukraine",
@@ -15,6 +19,7 @@
     "north-america/canada/quebec",
     "north-america/us/california/socal",
     "north-america/us/florida",
+    "north-america/us/texas",
     "russia/central-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
