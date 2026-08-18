@@ -9,6 +9,7 @@
     "africa/mozambique",
     "africa/nigeria",
     "africa/south-africa",
+    "africa/sudan",
     "africa/tanzania",
     "africa/uganda",
     "africa/zambia",
@@ -59,6 +60,7 @@
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/germany/rheinland-pfalz",
+    "europe/germany/sachsen",
     "europe/greece",
     "europe/hungary",
     "europe/ireland-and-northern-ireland",
@@ -67,10 +69,12 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/netherlands/noord-brabant",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/vestlandet",
     "europe/poland/mazowieckie",
+    "europe/poland/slaskie",
     "europe/portugal",
     "europe/romania",
     "europe/slovakia",
@@ -124,6 +128,7 @@
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
     "south-america/chile",
-    "south-america/colombia"
+    "south-america/colombia",
+    "south-america/peru"
   ]
 }
