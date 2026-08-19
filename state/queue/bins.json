@@ -2,6 +2,7 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/algeria",
     "africa/congo-democratic-republic",
     "africa/kenya",
     "africa/morocco",
@@ -21,10 +22,12 @@
     "asia/japan/kyushu",
     "asia/nepal",
     "asia/philippines",
+    "asia/south-korea",
     "asia/taiwan",
     "asia/vietnam",
     "australia-oceania/new-zealand",
     "europe/austria",
+    "europe/belarus",
     "europe/belgium",
     "europe/denmark",
     "europe/finland",
@@ -33,6 +36,7 @@
     "europe/france/midi-pyrenees",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/germany/brandenburg",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/greece",
@@ -41,6 +45,7 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/vestlandet",
     "europe/portugal",
@@ -84,26 +89,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/brandenburg",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/brandenburg-latest.osm.pbf"
-    },
-    {
-      "id": "asia/south-korea",
-      "pbf_url": "https://download.geofabrik.de/asia/south-korea-latest.osm.pbf"
-    },
-    {
-      "id": "europe/belarus",
-      "pbf_url": "https://download.geofabrik.de/europe/belarus-latest.osm.pbf"
-    },
-    {
-      "id": "africa/algeria",
-      "pbf_url": "https://download.geofabrik.de/africa/algeria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/nord-norge",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/nord-norge-latest.osm.pbf"
-    },
     {
       "id": "europe/romania",
       "pbf_url": "https://download.geofabrik.de/europe/romania-latest.osm.pbf"
