@@ -21,6 +21,7 @@
     "africa/mali",
     "africa/morocco",
     "africa/mozambique",
+    "africa/niger",
     "africa/nigeria",
     "africa/senegal-and-gambia",
     "africa/somalia",
@@ -93,6 +94,7 @@
     "europe/bosnia-herzegovina",
     "europe/bulgaria",
     "europe/croatia",
+    "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/plzensky",
     "europe/czech-republic/stredocesky",
@@ -161,6 +163,7 @@
     "europe/moldova",
     "europe/netherlands/friesland",
     "europe/netherlands/gelderland",
+    "europe/netherlands/limburg",
     "europe/netherlands/noord-brabant",
     "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
@@ -168,6 +171,7 @@
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
+    "europe/norway/sorlandet",
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
     "europe/poland/dolnoslaskie",
@@ -203,6 +207,7 @@
     "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/england/greater-london",
+    "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
@@ -289,26 +294,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/netherlands/limburg",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/limburg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/sorlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/sorlandet-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/jihocesky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/jihocesky-latest.osm.pbf"
-    },
-    {
-      "id": "africa/niger",
-      "pbf_url": "https://download.geofabrik.de/africa/niger-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/west-midlands",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-midlands-latest.osm.pbf"
-    },
     {
       "id": "europe/netherlands/drenthe",
       "pbf_url": "https://download.geofabrik.de/europe/netherlands/drenthe-latest.osm.pbf"
