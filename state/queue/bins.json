@@ -24,6 +24,7 @@
     "africa/mali",
     "africa/morocco",
     "africa/mozambique",
+    "africa/namibia",
     "africa/niger",
     "africa/nigeria",
     "africa/rwanda",
@@ -75,6 +76,7 @@
     "asia/japan/tohoku",
     "asia/kazakhstan",
     "asia/kyrgyzstan",
+    "asia/lebanon",
     "asia/malaysia-singapore-brunei",
     "asia/mongolia",
     "asia/myanmar",
@@ -100,6 +102,8 @@
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
+    "central-america/nicaragua",
+    "europe/albania",
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
@@ -154,6 +158,7 @@
     "europe/germany/bayern/unterfranken",
     "europe/germany/berlin",
     "europe/germany/brandenburg",
+    "europe/germany/hamburg",
     "europe/germany/hessen",
     "europe/germany/mecklenburg-vorpommern",
     "europe/germany/niedersachsen",
@@ -324,26 +329,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/hamburg",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/hamburg-latest.osm.pbf"
-    },
-    {
-      "id": "asia/lebanon",
-      "pbf_url": "https://download.geofabrik.de/asia/lebanon-latest.osm.pbf"
-    },
-    {
-      "id": "africa/namibia",
-      "pbf_url": "https://download.geofabrik.de/africa/namibia-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/nicaragua",
-      "pbf_url": "https://download.geofabrik.de/central-america/nicaragua-latest.osm.pbf"
-    },
-    {
-      "id": "europe/albania",
-      "pbf_url": "https://download.geofabrik.de/europe/albania-latest.osm.pbf"
-    },
     {
       "id": "asia/china/gansu",
       "pbf_url": "https://download.geofabrik.de/asia/china/gansu-latest.osm.pbf"
