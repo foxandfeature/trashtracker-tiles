@@ -42,6 +42,7 @@
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/iran",
+    "asia/iraq",
     "asia/israel-and-palestine",
     "asia/japan/chubu",
     "asia/japan/chugoku",
@@ -65,6 +66,7 @@
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/victoria",
     "australia-oceania/new-zealand",
+    "central-america/haiti-and-domrep",
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
@@ -131,6 +133,7 @@
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/poland/podkarpackie",
+    "europe/poland/pomorskie",
     "europe/poland/slaskie",
     "europe/poland/wielkopolskie",
     "europe/portugal",
@@ -170,6 +173,7 @@
     "north-america/us/connecticut",
     "north-america/us/florida",
     "north-america/us/georgia",
+    "north-america/us/idaho",
     "north-america/us/illinois",
     "north-america/us/indiana",
     "north-america/us/kentucky",
@@ -190,6 +194,7 @@
     "north-america/us/pennsylvania",
     "north-america/us/tennessee",
     "north-america/us/texas",
+    "north-america/us/utah",
     "north-america/us/virginia",
     "north-america/us/washington",
     "north-america/us/wisconsin",
@@ -214,26 +219,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/poland/pomorskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/pomorskie-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/idaho",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/idaho-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/utah",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/utah-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/haiti-and-domrep",
-      "pbf_url": "https://download.geofabrik.de/central-america/haiti-and-domrep-latest.osm.pbf"
-    },
-    {
-      "id": "asia/iraq",
-      "pbf_url": "https://download.geofabrik.de/asia/iraq-latest.osm.pbf"
-    },
     {
       "id": "europe/latvia",
       "pbf_url": "https://download.geofabrik.de/europe/latvia-latest.osm.pbf"
