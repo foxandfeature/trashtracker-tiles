@@ -33,6 +33,7 @@
     "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
+    "africa/togo",
     "africa/tunisia",
     "africa/uganda",
     "africa/zambia",
@@ -94,6 +95,7 @@
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
+    "central-america/cuba",
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
@@ -106,6 +108,7 @@
     "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/moravskoslezky",
+    "europe/czech-republic/olomoucky",
     "europe/czech-republic/plzensky",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
@@ -191,6 +194,7 @@
     "europe/poland/kujawsko-pomorskie",
     "europe/poland/lodzkie",
     "europe/poland/lubelskie",
+    "europe/poland/lubuskie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/poland/podkarpackie",
@@ -221,6 +225,7 @@
     "europe/ukraine",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/greater-london",
+    "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-yorkshire",
@@ -314,26 +319,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/poland/lubuskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lubuskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/olomoucky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/olomoucky-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/cuba",
-      "pbf_url": "https://download.geofabrik.de/central-america/cuba-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/hampshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/hampshire-latest.osm.pbf"
-    },
-    {
-      "id": "africa/togo",
-      "pbf_url": "https://download.geofabrik.de/africa/togo-latest.osm.pbf"
-    },
     {
       "id": "europe/czech-republic/kralovehradecky",
       "pbf_url": "https://download.geofabrik.de/europe/czech-republic/kralovehradecky-latest.osm.pbf"
