@@ -4,6 +4,7 @@
   "lock": [
     "africa/algeria",
     "africa/cameroon",
+    "africa/chad",
     "africa/congo-democratic-republic",
     "africa/egypt",
     "africa/ethiopia",
@@ -35,6 +36,7 @@
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/iran",
+    "asia/israel-and-palestine",
     "asia/japan/chubu",
     "asia/japan/chugoku",
     "asia/japan/hokkaido",
@@ -73,6 +75,7 @@
     "europe/france/centre",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
+    "europe/france/lorraine",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
@@ -93,6 +96,7 @@
     "europe/germany/rheinland-pfalz",
     "europe/germany/sachsen",
     "europe/germany/sachsen-anhalt",
+    "europe/germany/thueringen",
     "europe/greece",
     "europe/hungary",
     "europe/ireland-and-northern-ireland",
@@ -176,6 +180,7 @@
     "north-america/us/wisconsin",
     "russia/central-fed-district",
     "russia/far-eastern-fed-district",
+    "russia/north-caucasus-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/south-fed-district",
@@ -194,26 +199,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/france/lorraine",
-      "pbf_url": "https://download.geofabrik.de/europe/france/lorraine-latest.osm.pbf"
-    },
-    {
-      "id": "africa/chad",
-      "pbf_url": "https://download.geofabrik.de/africa/chad-latest.osm.pbf"
-    },
-    {
-      "id": "asia/israel-and-palestine",
-      "pbf_url": "https://download.geofabrik.de/asia/israel-and-palestine-latest.osm.pbf"
-    },
-    {
-      "id": "russia/north-caucasus-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/north-caucasus-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/thueringen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/thueringen-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/wielkopolskie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/wielkopolskie-latest.osm.pbf"
