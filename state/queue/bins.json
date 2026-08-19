@@ -44,9 +44,11 @@
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/germany/bayern/oberbayern",
     "europe/germany/brandenburg",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
+    "europe/germany/rheinland-pfalz",
     "europe/greece",
     "europe/hungary",
     "europe/ireland-and-northern-ireland",
@@ -61,6 +63,7 @@
     "europe/portugal",
     "europe/romania",
     "europe/slovakia",
+    "europe/spain/andalucia",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
@@ -86,6 +89,7 @@
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/oregon",
+    "north-america/us/pennsylvania",
     "north-america/us/texas",
     "north-america/us/virginia",
     "north-america/us/washington",
@@ -101,29 +105,10 @@
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
+    "south-america/chile",
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "south-america/chile",
-      "pbf_url": "https://download.geofabrik.de/south-america/chile-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/oberbayern",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberbayern-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/rheinland-pfalz",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/rheinland-pfalz-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/pennsylvania",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/pennsylvania-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/andalucia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/andalucia-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/australia/new-south-wales",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/new-south-wales-latest.osm.pbf"
