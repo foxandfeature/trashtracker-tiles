@@ -11,6 +11,7 @@
     "africa/south-africa",
     "africa/tanzania",
     "africa/uganda",
+    "africa/zambia",
     "asia/bangladesh",
     "asia/india/central-zone",
     "asia/india/southern-zone",
@@ -33,6 +34,7 @@
     "europe/finland",
     "europe/france/aquitaine",
     "europe/france/centre",
+    "europe/france/ile-de-france",
     "europe/france/midi-pyrenees",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
@@ -41,6 +43,7 @@
     "europe/germany/niedersachsen",
     "europe/greece",
     "europe/hungary",
+    "europe/ireland-and-northern-ireland",
     "europe/italy/centro",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
@@ -49,6 +52,7 @@
     "europe/norway/ostlandet",
     "europe/norway/vestlandet",
     "europe/portugal",
+    "europe/romania",
     "europe/slovakia",
     "europe/sweden",
     "europe/switzerland",
@@ -80,6 +84,7 @@
     "russia/far-eastern-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
+    "russia/south-fed-district",
     "russia/ural-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
@@ -89,26 +94,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/romania",
-      "pbf_url": "https://download.geofabrik.de/europe/romania-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/ile-de-france",
-      "pbf_url": "https://download.geofabrik.de/europe/france/ile-de-france-latest.osm.pbf"
-    },
-    {
-      "id": "europe/ireland-and-northern-ireland",
-      "pbf_url": "https://download.geofabrik.de/europe/ireland-and-northern-ireland-latest.osm.pbf"
-    },
-    {
-      "id": "africa/zambia",
-      "pbf_url": "https://download.geofabrik.de/africa/zambia-latest.osm.pbf"
-    },
-    {
-      "id": "russia/south-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/south-fed-district-latest.osm.pbf"
-    },
     {
       "id": "africa/zimbabwe",
       "pbf_url": "https://download.geofabrik.de/africa/zimbabwe-latest.osm.pbf"
