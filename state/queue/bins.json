@@ -130,6 +130,7 @@
     "asia/uzbekistan",
     "asia/vietnam",
     "asia/yemen",
+    "australia-oceania/australia/act",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/south-australia",
@@ -138,6 +139,7 @@
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
+    "australia-oceania/polynesie-francaise",
     "central-america/belize",
     "central-america/costa-rica",
     "central-america/cuba",
@@ -327,6 +329,7 @@
     "europe/united-kingdom/england/merseyside",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
+    "europe/united-kingdom/england/northamptonshire",
     "europe/united-kingdom/england/northumberland",
     "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/oxfordshire",
@@ -342,6 +345,7 @@
     "europe/united-kingdom/england/west-sussex",
     "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/england/wiltshire",
+    "europe/united-kingdom/england/worcestershire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
@@ -440,30 +444,11 @@
     "south-america/guyana",
     "south-america/paraguay",
     "south-america/peru",
+    "south-america/suriname",
     "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/northamptonshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/northamptonshire-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/polynesie-francaise",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/polynesie-francaise-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/suriname",
-      "pbf_url": "https://download.geofabrik.de/south-america/suriname-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/worcestershire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/worcestershire-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/act",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/act-latest.osm.pbf"
-    },
     {
       "id": "central-america/bahamas",
       "pbf_url": "https://download.geofabrik.de/central-america/bahamas-latest.osm.pbf"
