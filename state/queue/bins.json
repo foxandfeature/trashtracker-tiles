@@ -3,6 +3,7 @@
   "failed": [],
   "lock": [
     "africa/algeria",
+    "africa/cameroon",
     "africa/congo-democratic-republic",
     "africa/kenya",
     "africa/madagascar",
@@ -30,6 +31,7 @@
     "asia/taiwan",
     "asia/thailand",
     "asia/vietnam",
+    "australia-oceania/australia/new-south-wales",
     "australia-oceania/new-zealand",
     "europe/austria",
     "europe/belarus",
@@ -39,6 +41,7 @@
     "europe/france/aquitaine",
     "europe/france/centre",
     "europe/france/ile-de-france",
+    "europe/france/languedoc-roussillon",
     "europe/france/midi-pyrenees",
     "europe/france/pays-de-la-loire",
     "europe/france/poitou-charentes",
@@ -53,6 +56,7 @@
     "europe/hungary",
     "europe/ireland-and-northern-ireland",
     "europe/italy/centro",
+    "europe/italy/isole",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
@@ -84,6 +88,7 @@
     "north-america/us/florida",
     "north-america/us/georgia",
     "north-america/us/illinois",
+    "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/minnesota",
     "north-america/us/new-york",
@@ -109,26 +114,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/australia/new-south-wales",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/new-south-wales-latest.osm.pbf"
-    },
-    {
-      "id": "africa/cameroon",
-      "pbf_url": "https://download.geofabrik.de/africa/cameroon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/isole",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/isole-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/languedoc-roussillon",
-      "pbf_url": "https://download.geofabrik.de/europe/france/languedoc-roussillon-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/massachusetts",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/massachusetts-latest.osm.pbf"
-    },
     {
       "id": "europe/slovenia",
       "pbf_url": "https://download.geofabrik.de/europe/slovenia-latest.osm.pbf"
