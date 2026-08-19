@@ -35,9 +35,12 @@
     "asia/bangladesh",
     "asia/china/guangdong",
     "asia/china/hebei",
+    "asia/china/hubei",
     "asia/china/jiangsu",
     "asia/china/shaanxi",
     "asia/china/sichuan",
+    "asia/china/yunnan",
+    "asia/china/zhejiang",
     "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
@@ -83,6 +86,7 @@
     "australia-oceania/papua-new-guinea",
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
+    "central-america/honduras",
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
@@ -241,6 +245,7 @@
     "north-america/us/minnesota",
     "north-america/us/mississippi",
     "north-america/us/missouri",
+    "north-america/us/montana",
     "north-america/us/nebraska",
     "north-america/us/nevada",
     "north-america/us/new-jersey",
@@ -284,26 +289,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/zhejiang",
-      "pbf_url": "https://download.geofabrik.de/asia/china/zhejiang-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hubei",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hubei-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/montana",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/montana-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/yunnan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/yunnan-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/honduras",
-      "pbf_url": "https://download.geofabrik.de/central-america/honduras-latest.osm.pbf"
-    },
     {
       "id": "europe/netherlands/limburg",
       "pbf_url": "https://download.geofabrik.de/europe/netherlands/limburg-latest.osm.pbf"
