@@ -6,6 +6,7 @@
     "africa/botswana",
     "africa/burkina-faso",
     "africa/cameroon",
+    "africa/central-african-republic",
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/egypt",
@@ -29,6 +30,7 @@
     "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
+    "africa/tunisia",
     "africa/uganda",
     "africa/zambia",
     "africa/zimbabwe",
@@ -39,6 +41,7 @@
     "asia/china/hubei",
     "asia/china/jiangsu",
     "asia/china/shaanxi",
+    "asia/china/shandong",
     "asia/china/sichuan",
     "asia/china/yunnan",
     "asia/china/zhejiang",
@@ -161,6 +164,7 @@
     "europe/latvia",
     "europe/lithuania",
     "europe/moldova",
+    "europe/netherlands/drenthe",
     "europe/netherlands/friesland",
     "europe/netherlands/gelderland",
     "europe/netherlands/limburg",
@@ -207,6 +211,7 @@
     "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/england/greater-london",
+    "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -294,26 +299,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/netherlands/drenthe",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/drenthe-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/north-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/north-yorkshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/shandong",
-      "pbf_url": "https://download.geofabrik.de/asia/china/shandong-latest.osm.pbf"
-    },
-    {
-      "id": "africa/tunisia",
-      "pbf_url": "https://download.geofabrik.de/africa/tunisia-latest.osm.pbf"
-    },
-    {
-      "id": "africa/central-african-republic",
-      "pbf_url": "https://download.geofabrik.de/africa/central-african-republic-latest.osm.pbf"
-    },
     {
       "id": "europe/czech-republic/vysocina",
       "pbf_url": "https://download.geofabrik.de/europe/czech-republic/vysocina-latest.osm.pbf"
