@@ -5,7 +5,9 @@
     "africa/congo-democratic-republic",
     "africa/kenya",
     "africa/morocco",
+    "africa/mozambique",
     "africa/nigeria",
+    "africa/south-africa",
     "africa/tanzania",
     "africa/uganda",
     "asia/bangladesh",
@@ -20,6 +22,7 @@
     "asia/nepal",
     "asia/philippines",
     "asia/taiwan",
+    "asia/vietnam",
     "australia-oceania/new-zealand",
     "europe/austria",
     "europe/belgium",
@@ -33,12 +36,14 @@
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/greece",
+    "europe/hungary",
     "europe/italy/centro",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/norway/ostlandet",
     "europe/norway/vestlandet",
+    "europe/portugal",
     "europe/slovakia",
     "europe/sweden",
     "europe/switzerland",
@@ -79,26 +84,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/hungary",
-      "pbf_url": "https://download.geofabrik.de/europe/hungary-latest.osm.pbf"
-    },
-    {
-      "id": "africa/mozambique",
-      "pbf_url": "https://download.geofabrik.de/africa/mozambique-latest.osm.pbf"
-    },
-    {
-      "id": "africa/south-africa",
-      "pbf_url": "https://download.geofabrik.de/africa/south-africa-latest.osm.pbf"
-    },
-    {
-      "id": "asia/vietnam",
-      "pbf_url": "https://download.geofabrik.de/asia/vietnam-latest.osm.pbf"
-    },
-    {
-      "id": "europe/portugal",
-      "pbf_url": "https://download.geofabrik.de/europe/portugal-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/brandenburg",
       "pbf_url": "https://download.geofabrik.de/europe/germany/brandenburg-latest.osm.pbf"
