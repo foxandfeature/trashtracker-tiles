@@ -29,6 +29,7 @@
     "asia/bangladesh",
     "asia/china/guangdong",
     "asia/china/shaanxi",
+    "asia/china/sichuan",
     "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
@@ -66,6 +67,7 @@
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/victoria",
+    "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
     "central-america/haiti-and-domrep",
     "europe/austria",
@@ -98,6 +100,7 @@
     "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/bayern/oberbayern",
+    "europe/germany/bayern/schwaben",
     "europe/germany/bayern/unterfranken",
     "europe/germany/brandenburg",
     "europe/germany/hessen",
@@ -180,6 +183,7 @@
     "north-america/us/idaho",
     "north-america/us/illinois",
     "north-america/us/indiana",
+    "north-america/us/iowa",
     "north-america/us/kansas",
     "north-america/us/kentucky",
     "north-america/us/louisiana",
@@ -220,30 +224,11 @@
     "south-america/brazil/sul",
     "south-america/chile",
     "south-america/colombia",
+    "south-america/ecuador",
     "south-america/peru",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/australia/western-australia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/western-australia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/schwaben",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/schwaben-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/iowa",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/iowa-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/sichuan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/sichuan-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/ecuador",
-      "pbf_url": "https://download.geofabrik.de/south-america/ecuador-latest.osm.pbf"
-    },
     {
       "id": "asia/china/hebei",
       "pbf_url": "https://download.geofabrik.de/asia/china/hebei-latest.osm.pbf"
