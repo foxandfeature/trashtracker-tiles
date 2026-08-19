@@ -9,6 +9,7 @@
     "africa/egypt",
     "africa/ethiopia",
     "africa/ghana",
+    "africa/guinea",
     "africa/kenya",
     "africa/madagascar",
     "africa/malawi",
@@ -26,9 +27,11 @@
     "africa/zimbabwe",
     "asia/bangladesh",
     "asia/china/guangdong",
+    "asia/china/shaanxi",
     "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
+    "asia/india/north-eastern-zone",
     "asia/india/northern-zone",
     "asia/india/southern-zone",
     "asia/india/western-zone",
@@ -165,12 +168,14 @@
     "north-america/us/illinois",
     "north-america/us/indiana",
     "north-america/us/kentucky",
+    "north-america/us/louisiana",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/minnesota",
     "north-america/us/missouri",
     "north-america/us/new-jersey",
+    "north-america/us/new-mexico",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
@@ -204,26 +209,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/louisiana",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/louisiana-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-mexico",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-mexico-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/north-eastern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/north-eastern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/shaanxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/shaanxi-latest.osm.pbf"
-    },
-    {
-      "id": "africa/guinea",
-      "pbf_url": "https://download.geofabrik.de/africa/guinea-latest.osm.pbf"
-    },
     {
       "id": "europe/france/alsace",
       "pbf_url": "https://download.geofabrik.de/europe/france/alsace-latest.osm.pbf"
