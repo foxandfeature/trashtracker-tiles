@@ -63,6 +63,7 @@
     "asia/china/guangdong",
     "asia/china/guangxi",
     "asia/china/guizhou",
+    "asia/china/hainan",
     "asia/china/hebei",
     "asia/china/heilongjiang",
     "asia/china/henan",
@@ -181,6 +182,7 @@
     "europe/czech-republic/zlinsky",
     "europe/denmark",
     "europe/estonia",
+    "europe/faroe-islands",
     "europe/finland",
     "europe/france/alsace",
     "europe/france/aquitaine",
@@ -193,6 +195,7 @@
     "europe/france/corse",
     "europe/france/franche-comte",
     "europe/france/guadeloupe",
+    "europe/france/guyane",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
@@ -302,6 +305,7 @@
     "europe/spain/extremadura",
     "europe/spain/galicia",
     "europe/spain/islas-baleares",
+    "europe/spain/la-rioja",
     "europe/spain/madrid",
     "europe/spain/murcia",
     "europe/spain/navarra",
@@ -330,6 +334,7 @@
     "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/england/greater-manchester",
     "europe/united-kingdom/england/hampshire",
+    "europe/united-kingdom/england/herefordshire",
     "europe/united-kingdom/england/hertfordshire",
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/lancashire",
@@ -459,26 +464,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/faroe-islands",
-      "pbf_url": "https://download.geofabrik.de/europe/faroe-islands-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/guyane",
-      "pbf_url": "https://download.geofabrik.de/europe/france/guyane-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hainan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hainan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/herefordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/herefordshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/la-rioja",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/la-rioja-latest.osm.pbf"
-    },
     {
       "id": "europe/france/mayotte",
       "pbf_url": "https://download.geofabrik.de/europe/france/mayotte-latest.osm.pbf"
