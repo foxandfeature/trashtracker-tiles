@@ -8,9 +8,11 @@
     "africa/nigeria",
     "africa/tanzania",
     "asia/india/central-zone",
+    "asia/india/southern-zone",
     "asia/indonesia/java",
     "asia/indonesia/sumatra",
     "asia/japan/chubu",
+    "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/japan/kyushu",
     "asia/nepal",
@@ -37,6 +39,7 @@
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/northwest-territories",
     "north-america/canada/nunavut/kitikmeot",
+    "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
     "north-america/canada/quebec",
@@ -48,6 +51,7 @@
     "north-america/us/georgia",
     "north-america/us/michigan",
     "north-america/us/new-york",
+    "north-america/us/north-carolina",
     "north-america/us/texas",
     "north-america/us/virginia",
     "russia/central-fed-district",
@@ -56,29 +60,10 @@
     "russia/ural-fed-district",
     "russia/volga-fed-district",
     "south-america/brazil/nordeste",
-    "south-america/brazil/sudeste"
+    "south-america/brazil/sudeste",
+    "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "asia/india/southern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/southern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/north-carolina",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/north-carolina-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/nunavut/kivalliq",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/nunavut/kivalliq-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/sul",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/sul-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/kansai",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kansai-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/washington",
       "pbf_url": "https://download.geofabrik.de/north-america/us/washington-latest.osm.pbf"
