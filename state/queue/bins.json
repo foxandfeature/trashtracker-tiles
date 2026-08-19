@@ -172,6 +172,7 @@
     "central-america/nicaragua",
     "central-america/panama",
     "europe/albania",
+    "europe/andorra",
     "europe/austria",
     "europe/azores",
     "europe/belarus",
@@ -256,6 +257,7 @@
     "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
     "europe/greece",
+    "europe/guernsey-jersey",
     "europe/hungary",
     "europe/iceland",
     "europe/ireland-and-northern-ireland",
@@ -320,6 +322,7 @@
     "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
+    "europe/spain/ceuta",
     "europe/spain/extremadura",
     "europe/spain/galicia",
     "europe/spain/islas-baleares",
@@ -333,6 +336,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/bermuda",
     "europe/united-kingdom/england/bedfordshire",
     "europe/united-kingdom/england/berkshire",
     "europe/united-kingdom/england/bristol",
@@ -366,6 +370,7 @@
     "europe/united-kingdom/england/northumberland",
     "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/oxfordshire",
+    "europe/united-kingdom/england/rutland",
     "europe/united-kingdom/england/shropshire",
     "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/south-yorkshire",
@@ -484,26 +489,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/andorra",
-      "pbf_url": "https://download.geofabrik.de/europe/andorra-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/bermuda",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/bermuda-latest.osm.pbf"
-    },
-    {
-      "id": "europe/guernsey-jersey",
-      "pbf_url": "https://download.geofabrik.de/europe/guernsey-jersey-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/rutland",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/rutland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/ceuta",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/ceuta-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/cook-islands",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/cook-islands-latest.osm.pbf"
