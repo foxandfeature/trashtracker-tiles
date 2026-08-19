@@ -45,6 +45,7 @@
     "asia/armenia",
     "asia/bangladesh",
     "asia/cambodia",
+    "asia/china/anhui",
     "asia/china/fujian",
     "asia/china/gansu",
     "asia/china/guangdong",
@@ -148,6 +149,7 @@
     "europe/france/bretagne",
     "europe/france/centre",
     "europe/france/champagne-ardenne",
+    "europe/france/corse",
     "europe/france/franche-comte",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
@@ -253,7 +255,10 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/cornwall",
+    "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/devon",
+    "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/england/greater-manchester",
     "europe/united-kingdom/england/hampshire",
@@ -359,26 +364,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/anhui",
-      "pbf_url": "https://download.geofabrik.de/asia/china/anhui-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/cornwall",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cornwall-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/corse",
-      "pbf_url": "https://download.geofabrik.de/europe/france/corse-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/cumbria",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cumbria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/essex",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/essex-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/murcia",
       "pbf_url": "https://download.geofabrik.de/europe/spain/murcia-latest.osm.pbf"
