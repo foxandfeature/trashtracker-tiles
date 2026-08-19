@@ -219,14 +219,17 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/west-midlands",
+    "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/island-admreg",
+    "north-america/canada/british-columbia/kootenay-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/british-columbia/southcoast-admreg",
     "north-america/canada/manitoba",
@@ -268,6 +271,7 @@
     "north-america/us/montana",
     "north-america/us/nebraska",
     "north-america/us/nevada",
+    "north-america/us/new-hampshire",
     "north-america/us/new-jersey",
     "north-america/us/new-mexico",
     "north-america/us/new-york",
@@ -277,6 +281,7 @@
     "north-america/us/oklahoma",
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
+    "north-america/us/puerto-rico",
     "north-america/us/south-carolina",
     "north-america/us/tennessee",
     "north-america/us/texas",
@@ -309,26 +314,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/west-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-yorkshire-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/kootenay-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/kootenay-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-hampshire",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-hampshire-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/puerto-rico",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/puerto-rico-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/devon",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/devon-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/lubuskie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/lubuskie-latest.osm.pbf"
