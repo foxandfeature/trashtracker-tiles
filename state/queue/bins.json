@@ -106,7 +106,10 @@
     "europe/germany/baden-wuerttemberg/freiburg-regbez",
     "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
+    "europe/germany/baden-wuerttemberg/tuebingen-regbez",
+    "europe/germany/bayern/niederbayern",
     "europe/germany/bayern/oberbayern",
+    "europe/germany/bayern/oberfranken",
     "europe/germany/bayern/schwaben",
     "europe/germany/bayern/unterfranken",
     "europe/germany/brandenburg",
@@ -160,6 +163,7 @@
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
     "europe/spain/galicia",
+    "europe/spain/madrid",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
@@ -204,6 +208,7 @@
     "north-america/us/michigan",
     "north-america/us/minnesota",
     "north-america/us/missouri",
+    "north-america/us/nebraska",
     "north-america/us/nevada",
     "north-america/us/new-jersey",
     "north-america/us/new-mexico",
@@ -244,26 +249,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/madrid",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/madrid-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/niederbayern",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/niederbayern-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/oberfranken",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberfranken-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/baden-wuerttemberg/tuebingen-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/tuebingen-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/nebraska",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/nebraska-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/nordrhein-westfalen/muenster-regbez",
       "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/muenster-regbez-latest.osm.pbf"
