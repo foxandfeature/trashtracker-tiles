@@ -56,6 +56,7 @@
     "asia/china/henan",
     "asia/china/hubei",
     "asia/china/hunan",
+    "asia/china/inner-mongolia",
     "asia/china/jiangsu",
     "asia/china/jiangxi",
     "asia/china/shaanxi",
@@ -208,6 +209,7 @@
     "europe/luxembourg",
     "europe/moldova",
     "europe/netherlands/drenthe",
+    "europe/netherlands/flevoland",
     "europe/netherlands/friesland",
     "europe/netherlands/gelderland",
     "europe/netherlands/groningen",
@@ -262,9 +264,11 @@
     "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/essex",
+    "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/england/greater-manchester",
     "europe/united-kingdom/england/hampshire",
+    "europe/united-kingdom/england/hertfordshire",
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/lincolnshire",
     "europe/united-kingdom/england/north-yorkshire",
@@ -346,6 +350,7 @@
     "north-america/us/wisconsin",
     "north-america/us/wyoming",
     "russia/central-fed-district",
+    "russia/crimean-fed-district",
     "russia/far-eastern-fed-district",
     "russia/north-caucasus-fed-district",
     "russia/northwestern-fed-district",
@@ -369,26 +374,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "russia/crimean-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/crimean-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/flevoland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/flevoland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/gloucestershire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/gloucestershire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/hertfordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/hertfordshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/inner-mongolia",
-      "pbf_url": "https://download.geofabrik.de/asia/china/inner-mongolia-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/lancashire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/lancashire-latest.osm.pbf"
