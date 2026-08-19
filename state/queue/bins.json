@@ -26,6 +26,7 @@
     "africa/madagascar",
     "africa/malawi",
     "africa/mali",
+    "africa/mauritania",
     "africa/morocco",
     "africa/mozambique",
     "africa/namibia",
@@ -50,6 +51,7 @@
     "asia/bangladesh",
     "asia/cambodia",
     "asia/china/anhui",
+    "asia/china/beijing",
     "asia/china/fujian",
     "asia/china/gansu",
     "asia/china/guangdong",
@@ -170,6 +172,7 @@
     "europe/france/picardie",
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
+    "europe/france/reunion",
     "europe/france/rhone-alpes",
     "europe/georgia",
     "europe/germany/baden-wuerttemberg/freiburg-regbez",
@@ -214,6 +217,7 @@
     "europe/luxembourg",
     "europe/macedonia",
     "europe/moldova",
+    "europe/montenegro",
     "europe/netherlands/drenthe",
     "europe/netherlands/flevoland",
     "europe/netherlands/friesland",
@@ -253,6 +257,7 @@
     "europe/slovenia",
     "europe/spain/andalucia",
     "europe/spain/aragon",
+    "europe/spain/asturias",
     "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
@@ -384,26 +389,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/mauritania",
-      "pbf_url": "https://download.geofabrik.de/africa/mauritania-latest.osm.pbf"
-    },
-    {
-      "id": "europe/montenegro",
-      "pbf_url": "https://download.geofabrik.de/europe/montenegro-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/reunion",
-      "pbf_url": "https://download.geofabrik.de/europe/france/reunion-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/asturias",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/asturias-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/beijing",
-      "pbf_url": "https://download.geofabrik.de/asia/china/beijing-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/cheshire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cheshire-latest.osm.pbf"
