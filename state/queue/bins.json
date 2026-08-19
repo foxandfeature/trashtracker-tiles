@@ -3,6 +3,7 @@
   "failed": [],
   "lock": [
     "africa/algeria",
+    "africa/botswana",
     "africa/cameroon",
     "africa/chad",
     "africa/congo-democratic-republic",
@@ -73,8 +74,10 @@
     "europe/czech-republic/stredocesky",
     "europe/denmark",
     "europe/finland",
+    "europe/france/alsace",
     "europe/france/aquitaine",
     "europe/france/auvergne",
+    "europe/france/basse-normandie",
     "europe/france/bourgogne",
     "europe/france/bretagne",
     "europe/france/centre",
@@ -102,6 +105,7 @@
     "europe/germany/rheinland-pfalz",
     "europe/germany/sachsen",
     "europe/germany/sachsen-anhalt",
+    "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
     "europe/greece",
     "europe/hungary",
@@ -126,6 +130,7 @@
     "europe/poland/lubelskie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
+    "europe/poland/podkarpackie",
     "europe/poland/slaskie",
     "europe/poland/wielkopolskie",
     "europe/portugal",
@@ -209,26 +214,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/france/alsace",
-      "pbf_url": "https://download.geofabrik.de/europe/france/alsace-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/schleswig-holstein",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/schleswig-holstein-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/basse-normandie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/basse-normandie-latest.osm.pbf"
-    },
-    {
-      "id": "africa/botswana",
-      "pbf_url": "https://download.geofabrik.de/africa/botswana-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/podkarpackie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/podkarpackie-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/pomorskie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/pomorskie-latest.osm.pbf"
