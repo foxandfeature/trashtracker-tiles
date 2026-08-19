@@ -44,11 +44,13 @@
     "asia/afghanistan",
     "asia/armenia",
     "asia/bangladesh",
+    "asia/cambodia",
     "asia/china/gansu",
     "asia/china/guangdong",
     "asia/china/guangxi",
     "asia/china/hebei",
     "asia/china/hubei",
+    "asia/china/hunan",
     "asia/china/jiangsu",
     "asia/china/jiangxi",
     "asia/china/shaanxi",
@@ -100,6 +102,7 @@
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/south-australia",
+    "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
@@ -123,6 +126,7 @@
     "europe/czech-republic/olomoucky",
     "europe/czech-republic/pardubicky",
     "europe/czech-republic/plzensky",
+    "europe/czech-republic/praha",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/vysocina",
@@ -175,6 +179,7 @@
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
     "europe/germany/rheinland-pfalz",
+    "europe/germany/saarland",
     "europe/germany/sachsen",
     "europe/germany/sachsen-anhalt",
     "europe/germany/schleswig-holstein",
@@ -344,26 +349,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/cambodia",
-      "pbf_url": "https://download.geofabrik.de/asia/cambodia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hunan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hunan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/praha",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/praha-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/saarland",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/saarland-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/tasmania",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/tasmania-latest.osm.pbf"
-    },
     {
       "id": "south-america/uruguay",
       "pbf_url": "https://download.geofabrik.de/south-america/uruguay-latest.osm.pbf"
