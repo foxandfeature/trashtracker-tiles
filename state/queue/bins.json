@@ -22,6 +22,7 @@
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
+    "asia/indonesia/nusa-tenggara",
     "asia/indonesia/sumatra",
     "asia/japan/chubu",
     "asia/japan/chugoku",
@@ -63,6 +64,7 @@
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/rheinland-pfalz",
+    "europe/germany/sachsen",
     "europe/greece",
     "europe/hungary",
     "europe/ireland-and-northern-ireland",
@@ -83,6 +85,7 @@
     "europe/slovakia",
     "europe/slovenia",
     "europe/spain/andalucia",
+    "europe/spain/cataluna",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
@@ -126,34 +129,16 @@
     "russia/ural-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
+    "south-america/bolivia",
     "south-america/brazil/centro-oeste",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
     "south-america/chile",
-    "south-america/colombia"
+    "south-america/colombia",
+    "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/sachsen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/sachsen-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/cataluna",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/cataluna-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/peru",
-      "pbf_url": "https://download.geofabrik.de/south-america/peru-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/nusa-tenggara",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/nusa-tenggara-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/bolivia",
-      "pbf_url": "https://download.geofabrik.de/south-america/bolivia-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
       "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/duesseldorf-regbez-latest.osm.pbf"
