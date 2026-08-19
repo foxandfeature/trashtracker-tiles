@@ -49,6 +49,7 @@
     "antarctica",
     "asia/afghanistan",
     "asia/armenia",
+    "asia/azerbaijan",
     "asia/bangladesh",
     "asia/cambodia",
     "asia/china/anhui",
@@ -138,6 +139,7 @@
     "europe/bosnia-herzegovina",
     "europe/bulgaria",
     "europe/croatia",
+    "europe/cyprus",
     "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/kralovehradecky",
@@ -231,6 +233,7 @@
     "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
     "europe/netherlands/utrecht",
+    "europe/netherlands/zeeland",
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
@@ -275,11 +278,13 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cheshire",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/devon",
+    "europe/united-kingdom/england/durham",
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
@@ -394,26 +399,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/netherlands/zeeland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/zeeland-latest.osm.pbf"
-    },
-    {
-      "id": "asia/azerbaijan",
-      "pbf_url": "https://download.geofabrik.de/asia/azerbaijan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/cambridgeshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cambridgeshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/cyprus",
-      "pbf_url": "https://download.geofabrik.de/europe/cyprus-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/durham",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/durham-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/extremadura",
       "pbf_url": "https://download.geofabrik.de/europe/spain/extremadura-latest.osm.pbf"
