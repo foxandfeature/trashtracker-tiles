@@ -3,32 +3,17 @@
   "failed": [],
   "lock": [
     "asia/indonesia/java",
+    "europe/sweden",
+    "europe/turkey",
     "europe/ukraine",
+    "north-america/canada/nunavut/qikiqtaaluk",
+    "north-america/canada/ontario",
     "north-america/canada/quebec",
+    "north-america/us/california/socal",
     "russia/central-fed-district",
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/ontario",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/ontario-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/california/socal",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/california/socal-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/nunavut/qikiqtaaluk",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/nunavut/qikiqtaaluk-latest.osm.pbf"
-    },
-    {
-      "id": "europe/sweden",
-      "pbf_url": "https://download.geofabrik.de/europe/sweden-latest.osm.pbf"
-    },
-    {
-      "id": "europe/turkey",
-      "pbf_url": "https://download.geofabrik.de/europe/turkey-latest.osm.pbf"
-    },
     {
       "id": "europe/finland",
       "pbf_url": "https://download.geofabrik.de/europe/finland-latest.osm.pbf"
