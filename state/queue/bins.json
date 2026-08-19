@@ -8,6 +8,7 @@
     "africa/kenya",
     "africa/madagascar",
     "africa/malawi",
+    "africa/mali",
     "africa/morocco",
     "africa/mozambique",
     "africa/nigeria",
@@ -18,6 +19,7 @@
     "africa/zambia",
     "africa/zimbabwe",
     "asia/bangladesh",
+    "asia/china/guangdong",
     "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
@@ -36,6 +38,7 @@
     "asia/japan/kyushu",
     "asia/japan/tohoku",
     "asia/kazakhstan",
+    "asia/malaysia-singapore-brunei",
     "asia/myanmar",
     "asia/nepal",
     "asia/philippines",
@@ -74,6 +77,7 @@
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/rheinland-pfalz",
     "europe/germany/sachsen",
+    "europe/germany/sachsen-anhalt",
     "europe/greece",
     "europe/hungary",
     "europe/ireland-and-northern-ireland",
@@ -90,6 +94,7 @@
     "europe/norway/ostlandet",
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
+    "europe/poland/dolnoslaskie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/poland/slaskie",
@@ -159,26 +164,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/sachsen-anhalt",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/sachsen-anhalt-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/dolnoslaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/dolnoslaskie-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/guangdong",
-      "pbf_url": "https://download.geofabrik.de/asia/china/guangdong-latest.osm.pbf"
-    },
-    {
-      "id": "asia/malaysia-singapore-brunei",
-      "pbf_url": "https://download.geofabrik.de/asia/malaysia-singapore-brunei-latest.osm.pbf"
-    },
-    {
-      "id": "africa/mali",
-      "pbf_url": "https://download.geofabrik.de/africa/mali-latest.osm.pbf"
-    },
     {
       "id": "south-america/brazil/norte",
       "pbf_url": "https://download.geofabrik.de/south-america/brazil/norte-latest.osm.pbf"
