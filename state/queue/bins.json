@@ -148,7 +148,9 @@
     "asia/yemen",
     "australia-oceania/american-oceania",
     "australia-oceania/australia/act",
+    "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/cocos-islands",
+    "australia-oceania/australia/coral-sea-islands",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/northern-territory",
     "australia-oceania/australia/queensland",
@@ -166,9 +168,11 @@
     "australia-oceania/new-zealand",
     "australia-oceania/palau",
     "australia-oceania/papua-new-guinea",
+    "australia-oceania/pitcairn-islands",
     "australia-oceania/polynesie-francaise",
     "australia-oceania/samoa",
     "australia-oceania/solomon-islands",
+    "australia-oceania/tokelau",
     "australia-oceania/tonga",
     "australia-oceania/tuvalu",
     "australia-oceania/vanuatu",
@@ -288,6 +292,7 @@
     "europe/macedonia",
     "europe/malta",
     "europe/moldova",
+    "europe/monaco",
     "europe/montenegro",
     "europe/netherlands/drenthe",
     "europe/netherlands/flevoland",
@@ -504,26 +509,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/monaco",
-      "pbf_url": "https://download.geofabrik.de/europe/monaco-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/pitcairn-islands",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/pitcairn-islands-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/tokelau",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/tokelau-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/christmas-island",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/christmas-island-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/coral-sea-islands",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/coral-sea-islands-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/australia/heard-mcdonald",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/heard-mcdonald-latest.osm.pbf"
