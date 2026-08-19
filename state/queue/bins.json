@@ -41,7 +41,9 @@
     "africa/zimbabwe",
     "asia/afghanistan",
     "asia/bangladesh",
+    "asia/china/gansu",
     "asia/china/guangdong",
+    "asia/china/guangxi",
     "asia/china/hebei",
     "asia/china/hubei",
     "asia/china/jiangsu",
@@ -115,6 +117,7 @@
     "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/olomoucky",
+    "europe/czech-republic/pardubicky",
     "europe/czech-republic/plzensky",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
@@ -234,7 +237,9 @@
     "europe/ukraine",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/greater-london",
+    "europe/united-kingdom/england/greater-manchester",
     "europe/united-kingdom/england/hampshire",
+    "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-yorkshire",
@@ -329,26 +334,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/gansu",
-      "pbf_url": "https://download.geofabrik.de/asia/china/gansu-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/greater-manchester",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/greater-manchester-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/kent",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/kent-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/guangxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/guangxi-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/pardubicky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/pardubicky-latest.osm.pbf"
-    },
     {
       "id": "africa/sierra-leone",
       "pbf_url": "https://download.geofabrik.de/africa/sierra-leone-latest.osm.pbf"
