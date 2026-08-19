@@ -7,6 +7,7 @@
     "africa/morocco",
     "africa/nigeria",
     "africa/tanzania",
+    "asia/bangladesh",
     "asia/india/central-zone",
     "asia/india/southern-zone",
     "asia/indonesia/java",
@@ -17,6 +18,7 @@
     "asia/japan/kyushu",
     "asia/nepal",
     "asia/philippines",
+    "asia/taiwan",
     "australia-oceania/new-zealand",
     "europe/austria",
     "europe/belgium",
@@ -36,8 +38,10 @@
     "europe/norway/vestlandet",
     "europe/slovakia",
     "europe/sweden",
+    "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/scotland",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/northwest-territories",
     "north-america/canada/nunavut/kitikmeot",
@@ -51,6 +55,7 @@
     "north-america/us/colorado",
     "north-america/us/florida",
     "north-america/us/georgia",
+    "north-america/us/illinois",
     "north-america/us/michigan",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
@@ -69,26 +74,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/scotland",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/scotland-latest.osm.pbf"
-    },
-    {
-      "id": "asia/bangladesh",
-      "pbf_url": "https://download.geofabrik.de/asia/bangladesh-latest.osm.pbf"
-    },
-    {
-      "id": "europe/switzerland",
-      "pbf_url": "https://download.geofabrik.de/europe/switzerland-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/illinois",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/illinois-latest.osm.pbf"
-    },
-    {
-      "id": "asia/taiwan",
-      "pbf_url": "https://download.geofabrik.de/asia/taiwan-latest.osm.pbf"
-    },
     {
       "id": "europe/italy/sud",
       "pbf_url": "https://download.geofabrik.de/europe/italy/sud-latest.osm.pbf"
