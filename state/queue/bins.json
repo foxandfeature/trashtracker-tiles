@@ -4,6 +4,7 @@
   "lock": [
     "africa/algeria",
     "africa/botswana",
+    "africa/burkina-faso",
     "africa/cameroon",
     "africa/chad",
     "africa/congo-democratic-republic",
@@ -57,6 +58,7 @@
     "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/japan/kyushu",
+    "asia/japan/shikoku",
     "asia/japan/tohoku",
     "asia/kazakhstan",
     "asia/malaysia-singapore-brunei",
@@ -163,6 +165,7 @@
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
     "europe/poland/dolnoslaskie",
+    "europe/poland/kujawsko-pomorskie",
     "europe/poland/lodzkie",
     "europe/poland/lubelskie",
     "europe/poland/malopolskie",
@@ -197,6 +200,7 @@
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
     "north-america/canada/british-columbia/interior-admreg",
+    "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/british-columbia/southcoast-admreg",
     "north-america/canada/manitoba",
@@ -249,6 +253,7 @@
     "north-america/us/utah",
     "north-america/us/virginia",
     "north-america/us/washington",
+    "north-america/us/west-virginia",
     "north-america/us/wisconsin",
     "north-america/us/wyoming",
     "russia/central-fed-district",
@@ -274,26 +279,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/japan/shikoku",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/shikoku-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/west-virginia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/west-virginia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/kujawsko-pomorskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/kujawsko-pomorskie-latest.osm.pbf"
-    },
-    {
-      "id": "africa/burkina-faso",
-      "pbf_url": "https://download.geofabrik.de/africa/burkina-faso-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/island-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/island-admreg-latest.osm.pbf"
-    },
     {
       "id": "asia/china/jiangsu",
       "pbf_url": "https://download.geofabrik.de/asia/china/jiangsu-latest.osm.pbf"
