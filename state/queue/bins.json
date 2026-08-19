@@ -18,6 +18,7 @@
     "asia/bangladesh",
     "asia/gcc-states",
     "asia/india/central-zone",
+    "asia/india/eastern-zone",
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
@@ -57,6 +58,7 @@
     "europe/germany/brandenburg",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
+    "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/rheinland-pfalz",
     "europe/greece",
     "europe/hungary",
@@ -95,14 +97,17 @@
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
     "north-america/us/colorado",
+    "north-america/us/connecticut",
     "north-america/us/florida",
     "north-america/us/georgia",
     "north-america/us/illinois",
+    "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/minnesota",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
+    "north-america/us/ohio",
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
     "north-america/us/texas",
@@ -124,26 +129,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "asia/india/eastern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/eastern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/koeln-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/koeln-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/ohio",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/ohio-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/connecticut",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/connecticut-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/maryland",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/maryland-latest.osm.pbf"
-    },
     {
       "id": "asia/japan/chugoku",
       "pbf_url": "https://download.geofabrik.de/asia/japan/chugoku-latest.osm.pbf"
