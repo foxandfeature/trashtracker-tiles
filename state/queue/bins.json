@@ -24,10 +24,13 @@
     "asia/indonesia/java",
     "asia/indonesia/sumatra",
     "asia/japan/chubu",
+    "asia/japan/chugoku",
+    "asia/japan/hokkaido",
     "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/japan/kyushu",
     "asia/japan/tohoku",
+    "asia/kazakhstan",
     "asia/myanmar",
     "asia/nepal",
     "asia/philippines",
@@ -69,6 +72,7 @@
     "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/lithuania",
+    "europe/netherlands/noord-brabant",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/vestlandet",
@@ -122,6 +126,7 @@
     "russia/ural-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
+    "south-america/brazil/centro-oeste",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
@@ -129,26 +134,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "asia/japan/chugoku",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/chugoku-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/hokkaido",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/hokkaido-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/centro-oeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/centro-oeste-latest.osm.pbf"
-    },
-    {
-      "id": "asia/kazakhstan",
-      "pbf_url": "https://download.geofabrik.de/asia/kazakhstan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/noord-brabant",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/noord-brabant-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/sachsen",
       "pbf_url": "https://download.geofabrik.de/europe/germany/sachsen-latest.osm.pbf"
