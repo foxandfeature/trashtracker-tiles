@@ -4,6 +4,7 @@
   "lock": [
     "africa/algeria",
     "africa/angola",
+    "africa/benin",
     "africa/botswana",
     "africa/burkina-faso",
     "africa/burundi",
@@ -11,6 +12,7 @@
     "africa/canary-islands",
     "africa/central-african-republic",
     "africa/chad",
+    "africa/congo-brazzaville",
     "africa/congo-democratic-republic",
     "africa/egypt",
     "africa/ethiopia",
@@ -249,6 +251,7 @@
     "europe/spain/galicia",
     "europe/spain/islas-baleares",
     "europe/spain/madrid",
+    "europe/spain/murcia",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
@@ -266,6 +269,7 @@
     "europe/united-kingdom/england/lincolnshire",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/somerset",
+    "europe/united-kingdom/england/surrey",
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
@@ -335,6 +339,7 @@
     "north-america/us/tennessee",
     "north-america/us/texas",
     "north-america/us/utah",
+    "north-america/us/vermont",
     "north-america/us/virginia",
     "north-america/us/washington",
     "north-america/us/west-virginia",
@@ -364,26 +369,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/murcia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/murcia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/surrey",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/surrey-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/vermont",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/vermont-latest.osm.pbf"
-    },
-    {
-      "id": "africa/benin",
-      "pbf_url": "https://download.geofabrik.de/africa/benin-latest.osm.pbf"
-    },
-    {
-      "id": "africa/congo-brazzaville",
-      "pbf_url": "https://download.geofabrik.de/africa/congo-brazzaville-latest.osm.pbf"
-    },
     {
       "id": "russia/crimean-fed-district",
       "pbf_url": "https://download.geofabrik.de/russia/crimean-fed-district-latest.osm.pbf"
