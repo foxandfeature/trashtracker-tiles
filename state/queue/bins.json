@@ -16,6 +16,7 @@
     "africa/zambia",
     "africa/zimbabwe",
     "asia/bangladesh",
+    "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/southern-zone",
     "asia/india/western-zone",
@@ -34,6 +35,7 @@
     "asia/thailand",
     "asia/vietnam",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/australia/victoria",
     "australia-oceania/new-zealand",
     "europe/austria",
     "europe/belarus",
@@ -42,6 +44,7 @@
     "europe/finland",
     "europe/france/aquitaine",
     "europe/france/bourgogne",
+    "europe/france/bretagne",
     "europe/france/centre",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
@@ -67,6 +70,8 @@
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/vestlandet",
+    "europe/poland/mazowieckie",
+    "europe/poland/slaskie",
     "europe/portugal",
     "europe/romania",
     "europe/slovakia",
@@ -119,26 +124,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/poland/mazowieckie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/mazowieckie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/slaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/slaskie-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/victoria",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/victoria-latest.osm.pbf"
-    },
-    {
-      "id": "asia/gcc-states",
-      "pbf_url": "https://download.geofabrik.de/asia/gcc-states-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/bretagne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/bretagne-latest.osm.pbf"
-    },
     {
       "id": "asia/india/eastern-zone",
       "pbf_url": "https://download.geofabrik.de/asia/india/eastern-zone-latest.osm.pbf"
