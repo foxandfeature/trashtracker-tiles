@@ -55,11 +55,14 @@
     "asia/cambodia",
     "asia/china/anhui",
     "asia/china/beijing",
+    "asia/china/chongqing",
     "asia/china/fujian",
     "asia/china/gansu",
     "asia/china/guangdong",
     "asia/china/guangxi",
+    "asia/china/guizhou",
     "asia/china/hebei",
+    "asia/china/heilongjiang",
     "asia/china/henan",
     "asia/china/hong-kong",
     "asia/china/hubei",
@@ -226,6 +229,7 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/kosovo",
     "europe/latvia",
     "europe/lithuania",
     "europe/luxembourg",
@@ -342,6 +346,7 @@
     "north-america/canada/quebec",
     "north-america/canada/saskatchewan",
     "north-america/canada/yukon",
+    "north-america/greenland",
     "north-america/mexico",
     "north-america/us/alabama",
     "north-america/us/alaska",
@@ -419,26 +424,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/chongqing",
-      "pbf_url": "https://download.geofabrik.de/asia/china/chongqing-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/greenland",
-      "pbf_url": "https://download.geofabrik.de/north-america/greenland-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/guizhou",
-      "pbf_url": "https://download.geofabrik.de/asia/china/guizhou-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/heilongjiang",
-      "pbf_url": "https://download.geofabrik.de/asia/china/heilongjiang-latest.osm.pbf"
-    },
-    {
-      "id": "europe/kosovo",
-      "pbf_url": "https://download.geofabrik.de/europe/kosovo-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/leicestershire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/leicestershire-latest.osm.pbf"
