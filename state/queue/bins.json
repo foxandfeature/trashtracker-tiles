@@ -92,8 +92,11 @@
     "europe/france/bretagne",
     "europe/france/centre",
     "europe/france/champagne-ardenne",
+    "europe/france/franche-comte",
+    "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
+    "europe/france/limousin",
     "europe/france/lorraine",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
@@ -112,6 +115,7 @@
     "europe/germany/bayern/oberfranken",
     "europe/germany/bayern/schwaben",
     "europe/germany/bayern/unterfranken",
+    "europe/germany/berlin",
     "europe/germany/brandenburg",
     "europe/germany/hessen",
     "europe/germany/mecklenburg-vorpommern",
@@ -120,6 +124,7 @@
     "europe/germany/nordrhein-westfalen/detmold-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
+    "europe/germany/nordrhein-westfalen/muenster-regbez",
     "europe/germany/rheinland-pfalz",
     "europe/germany/sachsen",
     "europe/germany/sachsen-anhalt",
@@ -249,26 +254,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/nordrhein-westfalen/muenster-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/muenster-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/berlin",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/berlin-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/haute-normandie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/haute-normandie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/franche-comte",
-      "pbf_url": "https://download.geofabrik.de/europe/france/franche-comte-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/limousin",
-      "pbf_url": "https://download.geofabrik.de/europe/france/limousin-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/zachodniopomorskie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/zachodniopomorskie-latest.osm.pbf"
