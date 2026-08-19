@@ -67,6 +67,7 @@
     "europe/germany/brandenburg",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
+    "europe/germany/nordrhein-westfalen/arnsberg-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/rheinland-pfalz",
@@ -89,6 +90,7 @@
     "europe/poland/slaskie",
     "europe/portugal",
     "europe/romania",
+    "europe/serbia",
     "europe/slovakia",
     "europe/slovenia",
     "europe/spain/andalucia",
@@ -117,10 +119,13 @@
     "north-america/us/florida",
     "north-america/us/georgia",
     "north-america/us/illinois",
+    "north-america/us/indiana",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/minnesota",
+    "north-america/us/missouri",
+    "north-america/us/new-jersey",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/ohio",
@@ -149,26 +154,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/serbia",
-      "pbf_url": "https://download.geofabrik.de/europe/serbia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/indiana",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/indiana-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/arnsberg-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/arnsberg-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/missouri",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/missouri-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-jersey",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-jersey-latest.osm.pbf"
-    },
     {
       "id": "europe/norway/trondelag",
       "pbf_url": "https://download.geofabrik.de/europe/norway/trondelag-latest.osm.pbf"
