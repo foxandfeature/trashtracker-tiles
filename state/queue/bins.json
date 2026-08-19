@@ -28,10 +28,12 @@
     "europe/france/rhone-alpes",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
+    "europe/greece",
     "europe/italy/centro",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/norway/ostlandet",
+    "europe/norway/vestlandet",
     "europe/slovakia",
     "europe/sweden",
     "europe/turkey",
@@ -54,36 +56,19 @@
     "north-america/us/north-carolina",
     "north-america/us/texas",
     "north-america/us/virginia",
+    "north-america/us/washington",
     "russia/central-fed-district",
+    "russia/far-eastern-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/ural-fed-district",
     "russia/volga-fed-district",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
-    "south-america/brazil/sul"
+    "south-america/brazil/sul",
+    "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/washington",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/washington-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/colombia",
-      "pbf_url": "https://download.geofabrik.de/south-america/colombia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/vestlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/vestlandet-latest.osm.pbf"
-    },
-    {
-      "id": "russia/far-eastern-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/far-eastern-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/greece",
-      "pbf_url": "https://download.geofabrik.de/europe/greece-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/scotland",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/scotland-latest.osm.pbf"
