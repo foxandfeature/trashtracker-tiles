@@ -13,6 +13,7 @@
     "africa/mozambique",
     "africa/nigeria",
     "africa/south-africa",
+    "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
     "africa/uganda",
@@ -28,6 +29,7 @@
     "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/indonesia/nusa-tenggara",
+    "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/iran",
     "asia/japan/chubu",
@@ -47,6 +49,7 @@
     "asia/thailand",
     "asia/vietnam",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/australia/queensland",
     "australia-oceania/australia/victoria",
     "australia-oceania/new-zealand",
     "europe/austria",
@@ -139,6 +142,7 @@
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/ohio",
+    "north-america/us/oklahoma",
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
     "north-america/us/tennessee",
@@ -157,6 +161,7 @@
     "south-america/bolivia",
     "south-america/brazil/centro-oeste",
     "south-america/brazil/nordeste",
+    "south-america/brazil/norte",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
     "south-america/chile",
@@ -164,26 +169,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "south-america/brazil/norte",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/norte-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/queensland",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/queensland-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/oklahoma",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/oklahoma-latest.osm.pbf"
-    },
-    {
-      "id": "africa/south-sudan",
-      "pbf_url": "https://download.geofabrik.de/africa/south-sudan-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/sulawesi",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/sulawesi-latest.osm.pbf"
-    },
     {
       "id": "europe/bosnia-herzegovina",
       "pbf_url": "https://download.geofabrik.de/europe/bosnia-herzegovina-latest.osm.pbf"
