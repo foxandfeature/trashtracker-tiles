@@ -58,6 +58,7 @@
     "europe/belarus",
     "europe/belgium",
     "europe/bosnia-herzegovina",
+    "europe/croatia",
     "europe/czech-republic/stredocesky",
     "europe/denmark",
     "europe/finland",
@@ -106,6 +107,7 @@
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
     "europe/poland/dolnoslaskie",
+    "europe/poland/lubelskie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/poland/slaskie",
@@ -115,6 +117,7 @@
     "europe/slovakia",
     "europe/slovenia",
     "europe/spain/andalucia",
+    "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
     "europe/sweden",
     "europe/switzerland",
@@ -143,6 +146,7 @@
     "north-america/us/georgia",
     "north-america/us/illinois",
     "north-america/us/indiana",
+    "north-america/us/kentucky",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
@@ -176,29 +180,10 @@
     "south-america/brazil/sul",
     "south-america/chile",
     "south-america/colombia",
-    "south-america/peru"
+    "south-america/peru",
+    "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/croatia",
-      "pbf_url": "https://download.geofabrik.de/europe/croatia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/castilla-y-leon",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/castilla-y-leon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/lubelskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lubelskie-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/venezuela",
-      "pbf_url": "https://download.geofabrik.de/south-america/venezuela-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/kentucky",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/kentucky-latest.osm.pbf"
-    },
     {
       "id": "asia/pakistan",
       "pbf_url": "https://download.geofabrik.de/asia/pakistan-latest.osm.pbf"
