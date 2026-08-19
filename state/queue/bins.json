@@ -6,6 +6,7 @@
     "africa/angola",
     "africa/botswana",
     "africa/burkina-faso",
+    "africa/burundi",
     "africa/cameroon",
     "africa/canary-islands",
     "africa/central-african-republic",
@@ -245,8 +246,10 @@
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/north-yorkshire",
+    "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
+    "europe/united-kingdom/england/west-sussex",
     "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -307,7 +310,9 @@
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
     "north-america/us/puerto-rico",
+    "north-america/us/rhode-island",
     "north-america/us/south-carolina",
+    "north-america/us/south-dakota",
     "north-america/us/tennessee",
     "north-america/us/texas",
     "north-america/us/utah",
@@ -339,26 +344,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/somerset",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/somerset-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/rhode-island",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/rhode-island-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/south-dakota",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/south-dakota-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/west-sussex",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-sussex-latest.osm.pbf"
-    },
-    {
-      "id": "africa/burundi",
-      "pbf_url": "https://download.geofabrik.de/africa/burundi-latest.osm.pbf"
-    },
     {
       "id": "asia/cambodia",
       "pbf_url": "https://download.geofabrik.de/asia/cambodia-latest.osm.pbf"
