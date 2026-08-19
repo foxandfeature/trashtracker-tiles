@@ -61,6 +61,7 @@
     "europe/belarus",
     "europe/belgium",
     "europe/bosnia-herzegovina",
+    "europe/bulgaria",
     "europe/croatia",
     "europe/czech-republic/stredocesky",
     "europe/denmark",
@@ -111,6 +112,7 @@
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
     "europe/poland/dolnoslaskie",
+    "europe/poland/lodzkie",
     "europe/poland/lubelskie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
@@ -123,10 +125,13 @@
     "europe/spain/andalucia",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
+    "europe/spain/galicia",
+    "europe/spain/pais-vasco",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
@@ -189,26 +194,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/poland/lodzkie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lodzkie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/galicia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/galicia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/greater-london",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/greater-london-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/pais-vasco",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/pais-vasco-latest.osm.pbf"
-    },
-    {
-      "id": "europe/bulgaria",
-      "pbf_url": "https://download.geofabrik.de/europe/bulgaria-latest.osm.pbf"
-    },
     {
       "id": "europe/france/lorraine",
       "pbf_url": "https://download.geofabrik.de/europe/france/lorraine-latest.osm.pbf"
