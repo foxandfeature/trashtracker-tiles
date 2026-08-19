@@ -28,6 +28,7 @@
     "africa/zimbabwe",
     "asia/bangladesh",
     "asia/china/guangdong",
+    "asia/china/hebei",
     "asia/china/shaanxi",
     "asia/china/sichuan",
     "asia/gcc-states",
@@ -86,6 +87,7 @@
     "europe/france/bourgogne",
     "europe/france/bretagne",
     "europe/france/centre",
+    "europe/france/champagne-ardenne",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
     "europe/france/lorraine",
@@ -96,6 +98,7 @@
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/georgia",
     "europe/germany/baden-wuerttemberg/freiburg-regbez",
     "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
@@ -152,6 +155,7 @@
     "europe/spain/cataluna",
     "europe/spain/galicia",
     "europe/spain/pais-vasco",
+    "europe/spain/valencia",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
@@ -225,30 +229,11 @@
     "south-america/chile",
     "south-america/colombia",
     "south-america/ecuador",
+    "south-america/paraguay",
     "south-america/peru",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/hebei",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hebei-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/paraguay",
-      "pbf_url": "https://download.geofabrik.de/south-america/paraguay-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/valencia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/valencia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/champagne-ardenne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/champagne-ardenne-latest.osm.pbf"
-    },
-    {
-      "id": "europe/georgia",
-      "pbf_url": "https://download.geofabrik.de/europe/georgia-latest.osm.pbf"
-    },
     {
       "id": "europe/moldova",
       "pbf_url": "https://download.geofabrik.de/europe/moldova-latest.osm.pbf"
