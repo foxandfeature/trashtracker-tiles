@@ -11,7 +11,10 @@
     "africa/ethiopia",
     "africa/ghana",
     "africa/guinea",
+    "africa/ivory-coast",
     "africa/kenya",
+    "africa/lesotho",
+    "africa/libya",
     "africa/madagascar",
     "africa/malawi",
     "africa/mali",
@@ -80,6 +83,7 @@
     "europe/bosnia-herzegovina",
     "europe/bulgaria",
     "europe/croatia",
+    "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
     "europe/denmark",
@@ -241,6 +245,7 @@
     "north-america/us/virginia",
     "north-america/us/washington",
     "north-america/us/wisconsin",
+    "north-america/us/wyoming",
     "russia/central-fed-district",
     "russia/far-eastern-fed-district",
     "russia/north-caucasus-fed-district",
@@ -264,26 +269,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/ivory-coast",
-      "pbf_url": "https://download.geofabrik.de/africa/ivory-coast-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/wyoming",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/wyoming-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/jihomoravsky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/jihomoravsky-latest.osm.pbf"
-    },
-    {
-      "id": "africa/lesotho",
-      "pbf_url": "https://download.geofabrik.de/africa/lesotho-latest.osm.pbf"
-    },
-    {
-      "id": "africa/libya",
-      "pbf_url": "https://download.geofabrik.de/africa/libya-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/papua-new-guinea",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/papua-new-guinea-latest.osm.pbf"
