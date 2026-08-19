@@ -2,15 +2,19 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/morocco",
     "africa/nigeria",
     "africa/tanzania",
     "asia/indonesia/java",
     "asia/indonesia/sumatra",
+    "asia/nepal",
     "asia/philippines",
     "europe/austria",
     "europe/belgium",
     "europe/denmark",
     "europe/finland",
+    "europe/italy/nord-est",
+    "europe/italy/nord-ovest",
     "europe/norway/ostlandet",
     "europe/sweden",
     "europe/turkey",
@@ -21,6 +25,7 @@
     "north-america/canada/quebec",
     "north-america/us/california/socal",
     "north-america/us/florida",
+    "north-america/us/new-york",
     "north-america/us/texas",
     "russia/central-fed-district",
     "russia/northwestern-fed-district",
@@ -29,26 +34,6 @@
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "africa/morocco",
-      "pbf_url": "https://download.geofabrik.de/africa/morocco-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/nord-ovest",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/nord-ovest-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/nord-est",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/nord-est-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-york",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-york-latest.osm.pbf"
-    },
-    {
-      "id": "asia/nepal",
-      "pbf_url": "https://download.geofabrik.de/asia/nepal-latest.osm.pbf"
-    },
     {
       "id": "north-america/mexico",
       "pbf_url": "https://download.geofabrik.de/north-america/mexico-latest.osm.pbf"
