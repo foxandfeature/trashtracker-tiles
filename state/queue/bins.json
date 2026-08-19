@@ -29,6 +29,7 @@
     "africa/nigeria",
     "africa/rwanda",
     "africa/senegal-and-gambia",
+    "africa/sierra-leone",
     "africa/somalia",
     "africa/south-africa",
     "africa/south-sudan",
@@ -40,6 +41,7 @@
     "africa/zambia",
     "africa/zimbabwe",
     "asia/afghanistan",
+    "asia/armenia",
     "asia/bangladesh",
     "asia/china/gansu",
     "asia/china/guangdong",
@@ -51,6 +53,7 @@
     "asia/china/shaanxi",
     "asia/china/shandong",
     "asia/china/sichuan",
+    "asia/china/xinjiang",
     "asia/china/yunnan",
     "asia/china/zhejiang",
     "asia/gcc-states",
@@ -186,6 +189,7 @@
     "europe/italy/sud",
     "europe/latvia",
     "europe/lithuania",
+    "europe/luxembourg",
     "europe/moldova",
     "europe/netherlands/drenthe",
     "europe/netherlands/friesland",
@@ -241,6 +245,7 @@
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/north-yorkshire",
+    "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/scotland",
@@ -334,26 +339,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/sierra-leone",
-      "pbf_url": "https://download.geofabrik.de/africa/sierra-leone-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/warwickshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/warwickshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/xinjiang",
-      "pbf_url": "https://download.geofabrik.de/asia/china/xinjiang-latest.osm.pbf"
-    },
-    {
-      "id": "europe/luxembourg",
-      "pbf_url": "https://download.geofabrik.de/europe/luxembourg-latest.osm.pbf"
-    },
-    {
-      "id": "asia/armenia",
-      "pbf_url": "https://download.geofabrik.de/asia/armenia-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/somerset",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/somerset-latest.osm.pbf"
