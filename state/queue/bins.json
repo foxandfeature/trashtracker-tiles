@@ -5,8 +5,13 @@
     "africa/nigeria",
     "africa/tanzania",
     "asia/indonesia/java",
+    "asia/indonesia/sumatra",
+    "asia/philippines",
     "europe/austria",
+    "europe/belgium",
+    "europe/denmark",
     "europe/finland",
+    "europe/norway/ostlandet",
     "europe/sweden",
     "europe/turkey",
     "europe/ukraine",
@@ -24,26 +29,6 @@
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "europe/belgium",
-      "pbf_url": "https://download.geofabrik.de/europe/belgium-latest.osm.pbf"
-    },
-    {
-      "id": "asia/philippines",
-      "pbf_url": "https://download.geofabrik.de/asia/philippines-latest.osm.pbf"
-    },
-    {
-      "id": "europe/denmark",
-      "pbf_url": "https://download.geofabrik.de/europe/denmark-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/sumatra",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/sumatra-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/ostlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/ostlandet-latest.osm.pbf"
-    },
     {
       "id": "africa/morocco",
       "pbf_url": "https://download.geofabrik.de/africa/morocco-latest.osm.pbf"
