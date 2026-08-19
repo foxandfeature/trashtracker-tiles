@@ -49,6 +49,7 @@
     "asia/china/guangdong",
     "asia/china/guangxi",
     "asia/china/hebei",
+    "asia/china/henan",
     "asia/china/hubei",
     "asia/china/hunan",
     "asia/china/jiangsu",
@@ -56,6 +57,7 @@
     "asia/china/shaanxi",
     "asia/china/shandong",
     "asia/china/sichuan",
+    "asia/china/tibet",
     "asia/china/xinjiang",
     "asia/china/yunnan",
     "asia/china/zhejiang",
@@ -84,6 +86,7 @@
     "asia/japan/tohoku",
     "asia/kazakhstan",
     "asia/kyrgyzstan",
+    "asia/laos",
     "asia/lebanon",
     "asia/malaysia-singapore-brunei",
     "asia/mongolia",
@@ -250,6 +253,7 @@
     "europe/united-kingdom/england/greater-manchester",
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/kent",
+    "europe/united-kingdom/england/lincolnshire",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/warwickshire",
@@ -346,29 +350,10 @@
     "south-america/ecuador",
     "south-america/paraguay",
     "south-america/peru",
+    "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "south-america/uruguay",
-      "pbf_url": "https://download.geofabrik.de/south-america/uruguay-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/henan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/henan-latest.osm.pbf"
-    },
-    {
-      "id": "asia/laos",
-      "pbf_url": "https://download.geofabrik.de/asia/laos-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/lincolnshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/lincolnshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/tibet",
-      "pbf_url": "https://download.geofabrik.de/asia/china/tibet-latest.osm.pbf"
-    },
     {
       "id": "asia/china/fujian",
       "pbf_url": "https://download.geofabrik.de/asia/china/fujian-latest.osm.pbf"
