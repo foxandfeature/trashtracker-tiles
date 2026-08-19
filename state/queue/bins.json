@@ -21,6 +21,7 @@
     "africa/ivory-coast",
     "africa/kenya",
     "africa/lesotho",
+    "africa/liberia",
     "africa/libya",
     "africa/madagascar",
     "africa/malawi",
@@ -43,6 +44,7 @@
     "africa/uganda",
     "africa/zambia",
     "africa/zimbabwe",
+    "antarctica",
     "asia/afghanistan",
     "asia/armenia",
     "asia/bangladesh",
@@ -134,6 +136,7 @@
     "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/kralovehradecky",
+    "europe/czech-republic/liberecky",
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/olomoucky",
     "europe/czech-republic/pardubicky",
@@ -209,6 +212,7 @@
     "europe/latvia",
     "europe/lithuania",
     "europe/luxembourg",
+    "europe/macedonia",
     "europe/moldova",
     "europe/netherlands/drenthe",
     "europe/netherlands/flevoland",
@@ -264,6 +268,7 @@
     "europe/ukraine",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/cumbria",
+    "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
@@ -379,26 +384,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "antarctica",
-      "pbf_url": "https://download.geofabrik.de/antarctica-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/derbyshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/derbyshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/liberecky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/liberecky-latest.osm.pbf"
-    },
-    {
-      "id": "africa/liberia",
-      "pbf_url": "https://download.geofabrik.de/africa/liberia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/macedonia",
-      "pbf_url": "https://download.geofabrik.de/europe/macedonia-latest.osm.pbf"
-    },
     {
       "id": "africa/mauritania",
       "pbf_url": "https://download.geofabrik.de/africa/mauritania-latest.osm.pbf"
