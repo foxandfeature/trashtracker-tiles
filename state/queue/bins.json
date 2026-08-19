@@ -7,6 +7,7 @@
     "africa/morocco",
     "africa/nigeria",
     "africa/tanzania",
+    "africa/uganda",
     "asia/bangladesh",
     "asia/india/central-zone",
     "asia/india/southern-zone",
@@ -24,6 +25,7 @@
     "europe/belgium",
     "europe/denmark",
     "europe/finland",
+    "europe/france/aquitaine",
     "europe/france/centre",
     "europe/france/midi-pyrenees",
     "europe/france/provence-alpes-cote-d-azur",
@@ -34,6 +36,7 @@
     "europe/italy/centro",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
+    "europe/italy/sud",
     "europe/norway/ostlandet",
     "europe/norway/vestlandet",
     "europe/slovakia",
@@ -59,6 +62,7 @@
     "north-america/us/michigan",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
+    "north-america/us/oregon",
     "north-america/us/texas",
     "north-america/us/virginia",
     "north-america/us/washington",
@@ -68,32 +72,13 @@
     "russia/siberian-fed-district",
     "russia/ural-fed-district",
     "russia/volga-fed-district",
+    "south-america/argentina",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/italy/sud",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/sud-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/aquitaine",
-      "pbf_url": "https://download.geofabrik.de/europe/france/aquitaine-latest.osm.pbf"
-    },
-    {
-      "id": "africa/uganda",
-      "pbf_url": "https://download.geofabrik.de/africa/uganda-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/oregon",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/oregon-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/argentina",
-      "pbf_url": "https://download.geofabrik.de/south-america/argentina-latest.osm.pbf"
-    },
     {
       "id": "europe/hungary",
       "pbf_url": "https://download.geofabrik.de/europe/hungary-latest.osm.pbf"
