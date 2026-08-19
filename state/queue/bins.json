@@ -25,6 +25,8 @@
     "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/japan/kyushu",
+    "asia/japan/tohoku",
+    "asia/myanmar",
     "asia/nepal",
     "asia/philippines",
     "asia/south-korea",
@@ -39,6 +41,7 @@
     "europe/denmark",
     "europe/finland",
     "europe/france/aquitaine",
+    "europe/france/bourgogne",
     "europe/france/centre",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
@@ -67,12 +70,14 @@
     "europe/portugal",
     "europe/romania",
     "europe/slovakia",
+    "europe/slovenia",
     "europe/spain/andalucia",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/scotland",
+    "north-america/canada/alberta",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/northwest-territories",
     "north-america/canada/nunavut/kitikmeot",
@@ -114,26 +119,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/slovenia",
-      "pbf_url": "https://download.geofabrik.de/europe/slovenia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/alberta",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/alberta-latest.osm.pbf"
-    },
-    {
-      "id": "asia/myanmar",
-      "pbf_url": "https://download.geofabrik.de/asia/myanmar-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/tohoku",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/tohoku-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/bourgogne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/bourgogne-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/mazowieckie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/mazowieckie-latest.osm.pbf"
