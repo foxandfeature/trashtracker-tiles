@@ -73,7 +73,9 @@
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/germany/baden-wuerttemberg/freiburg-regbez",
     "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
+    "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/unterfranken",
     "europe/germany/brandenburg",
@@ -97,6 +99,7 @@
     "europe/netherlands/gelderland",
     "europe/netherlands/noord-brabant",
     "europe/netherlands/noord-holland",
+    "europe/netherlands/overijssel",
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
@@ -119,6 +122,7 @@
     "europe/ukraine",
     "europe/united-kingdom/scotland",
     "north-america/canada/alberta",
+    "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/manitoba",
     "north-america/canada/newfoundland-and-labrador",
@@ -129,6 +133,7 @@
     "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/mexico",
+    "north-america/us/alaska",
     "north-america/us/arizona",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
@@ -174,26 +179,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/baden-wuerttemberg/freiburg-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/freiburg-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/overijssel",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/overijssel-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/alaska",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/alaska-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/interior-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/interior-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/baden-wuerttemberg/stuttgart-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/stuttgart-regbez-latest.osm.pbf"
-    },
     {
       "id": "europe/croatia",
       "pbf_url": "https://download.geofabrik.de/europe/croatia-latest.osm.pbf"
