@@ -8,6 +8,7 @@
     "africa/congo-democratic-republic",
     "africa/egypt",
     "africa/ethiopia",
+    "africa/ghana",
     "africa/kenya",
     "africa/madagascar",
     "africa/malawi",
@@ -15,6 +16,7 @@
     "africa/morocco",
     "africa/mozambique",
     "africa/nigeria",
+    "africa/somalia",
     "africa/south-africa",
     "africa/south-sudan",
     "africa/sudan",
@@ -89,6 +91,7 @@
     "europe/germany/bayern/unterfranken",
     "europe/germany/brandenburg",
     "europe/germany/hessen",
+    "europe/germany/mecklenburg-vorpommern",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
@@ -121,6 +124,7 @@
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/poland/slaskie",
+    "europe/poland/wielkopolskie",
     "europe/portugal",
     "europe/romania",
     "europe/serbia",
@@ -169,6 +173,7 @@
     "north-america/us/new-jersey",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
+    "north-america/us/north-dakota",
     "north-america/us/ohio",
     "north-america/us/oklahoma",
     "north-america/us/oregon",
@@ -199,26 +204,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/poland/wielkopolskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/wielkopolskie-latest.osm.pbf"
-    },
-    {
-      "id": "africa/somalia",
-      "pbf_url": "https://download.geofabrik.de/africa/somalia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/north-dakota",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/north-dakota-latest.osm.pbf"
-    },
-    {
-      "id": "africa/ghana",
-      "pbf_url": "https://download.geofabrik.de/africa/ghana-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/mecklenburg-vorpommern",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/mecklenburg-vorpommern-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/louisiana",
       "pbf_url": "https://download.geofabrik.de/north-america/us/louisiana-latest.osm.pbf"
