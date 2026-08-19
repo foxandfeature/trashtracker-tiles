@@ -3,9 +3,11 @@
   "failed": [],
   "lock": [
     "africa/algeria",
+    "africa/angola",
     "africa/botswana",
     "africa/burkina-faso",
     "africa/cameroon",
+    "africa/canary-islands",
     "africa/central-african-republic",
     "africa/chad",
     "africa/congo-democratic-republic",
@@ -24,6 +26,7 @@
     "africa/mozambique",
     "africa/niger",
     "africa/nigeria",
+    "africa/rwanda",
     "africa/senegal-and-gambia",
     "africa/somalia",
     "africa/south-africa",
@@ -102,6 +105,7 @@
     "europe/czech-republic/plzensky",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
+    "europe/czech-republic/vysocina",
     "europe/denmark",
     "europe/estonia",
     "europe/finland",
@@ -131,6 +135,7 @@
     "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/baden-wuerttemberg/tuebingen-regbez",
+    "europe/germany/bayern/mittelfranken",
     "europe/germany/bayern/niederbayern",
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
@@ -299,26 +304,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/czech-republic/vysocina",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/vysocina-latest.osm.pbf"
-    },
-    {
-      "id": "africa/angola",
-      "pbf_url": "https://download.geofabrik.de/africa/angola-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/mittelfranken",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/mittelfranken-latest.osm.pbf"
-    },
-    {
-      "id": "africa/rwanda",
-      "pbf_url": "https://download.geofabrik.de/africa/rwanda-latest.osm.pbf"
-    },
-    {
-      "id": "africa/canary-islands",
-      "pbf_url": "https://download.geofabrik.de/africa/canary-islands-latest.osm.pbf"
-    },
     {
       "id": "asia/china/jiangxi",
       "pbf_url": "https://download.geofabrik.de/asia/china/jiangxi-latest.osm.pbf"
