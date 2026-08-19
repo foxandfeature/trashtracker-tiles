@@ -49,6 +49,7 @@
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
+    "europe/czech-republic/stredocesky",
     "europe/denmark",
     "europe/finland",
     "europe/france/aquitaine",
@@ -63,6 +64,7 @@
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
     "europe/germany/bayern/oberbayern",
     "europe/germany/brandenburg",
     "europe/germany/hessen",
@@ -82,10 +84,13 @@
     "europe/italy/sud",
     "europe/lithuania",
     "europe/netherlands/noord-brabant",
+    "europe/netherlands/noord-holland",
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
+    "europe/norway/trondelag",
     "europe/norway/vestlandet",
+    "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/poland/slaskie",
     "europe/portugal",
@@ -154,26 +159,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/norway/trondelag",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/trondelag-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/stredocesky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/stredocesky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/malopolskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/malopolskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/karlsruhe-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/noord-holland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/noord-holland-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/sachsen-anhalt",
       "pbf_url": "https://download.geofabrik.de/europe/germany/sachsen-anhalt-latest.osm.pbf"
