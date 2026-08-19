@@ -70,6 +70,7 @@
     "asia/china/inner-mongolia",
     "asia/china/jiangsu",
     "asia/china/jiangxi",
+    "asia/china/liaoning",
     "asia/china/qinghai",
     "asia/china/shaanxi",
     "asia/china/shandong",
@@ -293,6 +294,8 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/bristol",
+    "europe/united-kingdom/england/buckinghamshire",
     "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cheshire",
     "europe/united-kingdom/england/cornwall",
@@ -301,6 +304,7 @@
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/dorset",
     "europe/united-kingdom/england/durham",
+    "europe/united-kingdom/england/east-sussex",
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
@@ -309,6 +313,7 @@
     "europe/united-kingdom/england/hertfordshire",
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/lancashire",
+    "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/lincolnshire",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
@@ -424,26 +429,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/leicestershire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/leicestershire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/liaoning",
-      "pbf_url": "https://download.geofabrik.de/asia/china/liaoning-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/bristol",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/bristol-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/buckinghamshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/buckinghamshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/east-sussex",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/east-sussex-latest.osm.pbf"
-    },
     {
       "id": "europe/france/guadeloupe",
       "pbf_url": "https://download.geofabrik.de/europe/france/guadeloupe-latest.osm.pbf"
