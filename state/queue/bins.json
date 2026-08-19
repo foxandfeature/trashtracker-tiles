@@ -72,6 +72,7 @@
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
+    "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "europe/austria",
     "europe/belarus",
@@ -147,6 +148,7 @@
     "europe/netherlands/noord-brabant",
     "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
+    "europe/netherlands/utrecht",
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
@@ -160,6 +162,7 @@
     "europe/poland/podkarpackie",
     "europe/poland/pomorskie",
     "europe/poland/slaskie",
+    "europe/poland/swietokrzyskie",
     "europe/poland/wielkopolskie",
     "europe/poland/zachodniopomorskie",
     "europe/portugal",
@@ -168,6 +171,7 @@
     "europe/slovakia",
     "europe/slovenia",
     "europe/spain/andalucia",
+    "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
@@ -185,6 +189,7 @@
     "north-america/canada/alberta",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/british-columbia/southcoast-admreg",
     "north-america/canada/manitoba",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/northwest-territories",
@@ -259,26 +264,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "central-america/guatemala",
-      "pbf_url": "https://download.geofabrik.de/central-america/guatemala-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/utrecht",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/utrecht-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/southcoast-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/southcoast-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/swietokrzyskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/swietokrzyskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/aragon",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/aragon-latest.osm.pbf"
-    },
     {
       "id": "africa/ivory-coast",
       "pbf_url": "https://download.geofabrik.de/africa/ivory-coast-latest.osm.pbf"
