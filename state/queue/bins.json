@@ -21,6 +21,7 @@
     "africa/morocco",
     "africa/mozambique",
     "africa/nigeria",
+    "africa/senegal-and-gambia",
     "africa/somalia",
     "africa/south-africa",
     "africa/south-sudan",
@@ -66,6 +67,7 @@
     "asia/philippines",
     "asia/south-korea",
     "asia/sri-lanka",
+    "asia/syria",
     "asia/taiwan",
     "asia/thailand",
     "asia/uzbekistan",
@@ -75,6 +77,7 @@
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
+    "australia-oceania/papua-new-guinea",
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "europe/austria",
@@ -138,6 +141,7 @@
     "europe/germany/thueringen",
     "europe/greece",
     "europe/hungary",
+    "europe/iceland",
     "europe/ireland-and-northern-ireland",
     "europe/italy/centro",
     "europe/italy/isole",
@@ -167,6 +171,7 @@
     "europe/poland/pomorskie",
     "europe/poland/slaskie",
     "europe/poland/swietokrzyskie",
+    "europe/poland/warminsko-mazurskie",
     "europe/poland/wielkopolskie",
     "europe/poland/zachodniopomorskie",
     "europe/portugal",
@@ -269,26 +274,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/papua-new-guinea",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/papua-new-guinea-latest.osm.pbf"
-    },
-    {
-      "id": "africa/senegal-and-gambia",
-      "pbf_url": "https://download.geofabrik.de/africa/senegal-and-gambia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/syria",
-      "pbf_url": "https://download.geofabrik.de/asia/syria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/warminsko-mazurskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/warminsko-mazurskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/iceland",
-      "pbf_url": "https://download.geofabrik.de/europe/iceland-latest.osm.pbf"
-    },
     {
       "id": "asia/japan/shikoku",
       "pbf_url": "https://download.geofabrik.de/asia/japan/shikoku-latest.osm.pbf"
