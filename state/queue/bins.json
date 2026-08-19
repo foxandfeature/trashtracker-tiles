@@ -5,6 +5,8 @@
     "africa/algeria",
     "africa/cameroon",
     "africa/congo-democratic-republic",
+    "africa/egypt",
+    "africa/ethiopia",
     "africa/kenya",
     "africa/madagascar",
     "africa/malawi",
@@ -44,6 +46,7 @@
     "asia/malaysia-singapore-brunei",
     "asia/myanmar",
     "asia/nepal",
+    "asia/pakistan",
     "asia/philippines",
     "asia/south-korea",
     "asia/sri-lanka",
@@ -63,6 +66,7 @@
     "europe/denmark",
     "europe/finland",
     "europe/france/aquitaine",
+    "europe/france/auvergne",
     "europe/france/bourgogne",
     "europe/france/bretagne",
     "europe/france/centre",
@@ -124,6 +128,7 @@
     "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/scotland",
+    "europe/united-kingdom/wales",
     "north-america/canada/alberta",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/north-admreg",
@@ -184,26 +189,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/pakistan",
-      "pbf_url": "https://download.geofabrik.de/asia/pakistan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/auvergne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/auvergne-latest.osm.pbf"
-    },
-    {
-      "id": "africa/ethiopia",
-      "pbf_url": "https://download.geofabrik.de/africa/ethiopia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/wales",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/wales-latest.osm.pbf"
-    },
-    {
-      "id": "africa/egypt",
-      "pbf_url": "https://download.geofabrik.de/africa/egypt-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/lodzkie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/lodzkie-latest.osm.pbf"
