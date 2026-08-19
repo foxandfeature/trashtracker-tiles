@@ -83,6 +83,7 @@
     "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/indonesia/kalimantan",
+    "asia/indonesia/maluku",
     "asia/indonesia/nusa-tenggara",
     "asia/indonesia/papua",
     "asia/indonesia/sulawesi",
@@ -127,6 +128,7 @@
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
     "central-america/cuba",
+    "central-america/el-salvador",
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
@@ -143,6 +145,7 @@
     "europe/cyprus",
     "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
+    "europe/czech-republic/karlovarsky",
     "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/liberecky",
     "europe/czech-republic/moravskoslezky",
@@ -266,6 +269,7 @@
     "europe/spain/andalucia",
     "europe/spain/aragon",
     "europe/spain/asturias",
+    "europe/spain/cantabria",
     "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
@@ -287,6 +291,7 @@
     "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/devon",
+    "europe/united-kingdom/england/dorset",
     "europe/united-kingdom/england/durham",
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
@@ -404,26 +409,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/cantabria",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/cantabria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/dorset",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/dorset-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/el-salvador",
-      "pbf_url": "https://download.geofabrik.de/central-america/el-salvador-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/karlovarsky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/karlovarsky-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/maluku",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/maluku-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/oxfordshire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/oxfordshire-latest.osm.pbf"
