@@ -45,6 +45,7 @@
     "asia/armenia",
     "asia/bangladesh",
     "asia/cambodia",
+    "asia/china/fujian",
     "asia/china/gansu",
     "asia/china/guangdong",
     "asia/china/guangxi",
@@ -99,6 +100,7 @@
     "asia/sri-lanka",
     "asia/syria",
     "asia/taiwan",
+    "asia/tajikistan",
     "asia/thailand",
     "asia/uzbekistan",
     "asia/vietnam",
@@ -114,6 +116,7 @@
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
+    "central-america/jamaica",
     "central-america/nicaragua",
     "europe/albania",
     "europe/austria",
@@ -222,6 +225,7 @@
     "europe/poland/lubuskie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
+    "europe/poland/opolskie",
     "europe/poland/podkarpackie",
     "europe/poland/podlaskie",
     "europe/poland/pomorskie",
@@ -241,6 +245,7 @@
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
     "europe/spain/galicia",
+    "europe/spain/islas-baleares",
     "europe/spain/madrid",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
@@ -354,26 +359,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/fujian",
-      "pbf_url": "https://download.geofabrik.de/asia/china/fujian-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/islas-baleares",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/islas-baleares-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/jamaica",
-      "pbf_url": "https://download.geofabrik.de/central-america/jamaica-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/opolskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/opolskie-latest.osm.pbf"
-    },
-    {
-      "id": "asia/tajikistan",
-      "pbf_url": "https://download.geofabrik.de/asia/tajikistan-latest.osm.pbf"
-    },
     {
       "id": "asia/china/anhui",
       "pbf_url": "https://download.geofabrik.de/asia/china/anhui-latest.osm.pbf"
