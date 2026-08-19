@@ -2,6 +2,7 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/congo-democratic-republic",
     "africa/kenya",
     "africa/morocco",
     "africa/nigeria",
@@ -21,6 +22,7 @@
     "europe/finland",
     "europe/france/centre",
     "europe/france/midi-pyrenees",
+    "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
@@ -34,12 +36,14 @@
     "europe/ukraine",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/northwest-territories",
+    "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/mexico",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
+    "north-america/us/colorado",
     "north-america/us/florida",
     "north-america/us/georgia",
     "north-america/us/michigan",
@@ -51,29 +55,10 @@
     "russia/siberian-fed-district",
     "russia/ural-fed-district",
     "russia/volga-fed-district",
+    "south-america/brazil/nordeste",
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "africa/congo-democratic-republic",
-      "pbf_url": "https://download.geofabrik.de/africa/congo-democratic-republic-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/nunavut/kitikmeot",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/nunavut/kitikmeot-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/provence-alpes-cote-d-azur",
-      "pbf_url": "https://download.geofabrik.de/europe/france/provence-alpes-cote-d-azur-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/colorado",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/colorado-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/nordeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/nordeste-latest.osm.pbf"
-    },
     {
       "id": "asia/india/southern-zone",
       "pbf_url": "https://download.geofabrik.de/asia/india/southern-zone-latest.osm.pbf"
