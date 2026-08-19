@@ -127,6 +127,7 @@
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
+    "central-america/costa-rica",
     "central-america/cuba",
     "central-america/el-salvador",
     "central-america/guatemala",
@@ -305,12 +306,16 @@
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/nottinghamshire",
+    "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/somerset",
+    "europe/united-kingdom/england/south-yorkshire",
+    "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/surrey",
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
     "europe/united-kingdom/england/west-yorkshire",
+    "europe/united-kingdom/england/wiltshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
@@ -409,26 +414,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/oxfordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/oxfordshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/south-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/south-yorkshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/suffolk",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/suffolk-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/wiltshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/wiltshire-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/costa-rica",
-      "pbf_url": "https://download.geofabrik.de/central-america/costa-rica-latest.osm.pbf"
-    },
     {
       "id": "asia/jordan",
       "pbf_url": "https://download.geofabrik.de/asia/jordan-latest.osm.pbf"
