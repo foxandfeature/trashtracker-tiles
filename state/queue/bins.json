@@ -148,6 +148,7 @@
     "asia/yemen",
     "australia-oceania/american-oceania",
     "australia-oceania/australia/act",
+    "australia-oceania/australia/cocos-islands",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/northern-territory",
     "australia-oceania/australia/queensland",
@@ -160,6 +161,7 @@
     "australia-oceania/kiribati",
     "australia-oceania/marshall-islands",
     "australia-oceania/micronesia",
+    "australia-oceania/nauru",
     "australia-oceania/new-caledonia",
     "australia-oceania/new-zealand",
     "australia-oceania/palau",
@@ -168,7 +170,9 @@
     "australia-oceania/samoa",
     "australia-oceania/solomon-islands",
     "australia-oceania/tonga",
+    "australia-oceania/tuvalu",
     "australia-oceania/vanuatu",
+    "australia-oceania/wallis-et-futuna",
     "central-america/bahamas",
     "central-america/belize",
     "central-america/costa-rica",
@@ -337,6 +341,7 @@
     "europe/spain/islas-baleares",
     "europe/spain/la-rioja",
     "europe/spain/madrid",
+    "europe/spain/melilla",
     "europe/spain/murcia",
     "europe/spain/navarra",
     "europe/spain/pais-vasco",
@@ -499,26 +504,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/tuvalu",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/tuvalu-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/wallis-et-futuna",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/wallis-et-futuna-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/nauru",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/nauru-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/melilla",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/melilla-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/cocos-islands",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/cocos-islands-latest.osm.pbf"
-    },
     {
       "id": "europe/monaco",
       "pbf_url": "https://download.geofabrik.de/europe/monaco-latest.osm.pbf"
