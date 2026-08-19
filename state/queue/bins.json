@@ -12,6 +12,7 @@
     "africa/mozambique",
     "africa/nigeria",
     "africa/south-africa",
+    "africa/sudan",
     "africa/tanzania",
     "africa/uganda",
     "africa/zambia",
@@ -20,6 +21,7 @@
     "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
+    "asia/india/northern-zone",
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
@@ -79,6 +81,7 @@
     "europe/italy/sud",
     "europe/lithuania",
     "europe/netherlands/noord-brabant",
+    "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/vestlandet",
@@ -97,6 +100,8 @@
     "europe/united-kingdom/scotland",
     "north-america/canada/alberta",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/manitoba",
+    "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/northwest-territories",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
@@ -144,26 +149,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/manitoba",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/manitoba-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/newfoundland-and-labrador",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/newfoundland-and-labrador-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/northern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/northern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "africa/sudan",
-      "pbf_url": "https://download.geofabrik.de/africa/sudan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/zuid-holland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/zuid-holland-latest.osm.pbf"
-    },
     {
       "id": "europe/serbia",
       "pbf_url": "https://download.geofabrik.de/europe/serbia-latest.osm.pbf"
