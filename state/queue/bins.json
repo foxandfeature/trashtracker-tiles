@@ -68,6 +68,7 @@
     "asia/china/jiangxi",
     "asia/china/jilin",
     "asia/china/liaoning",
+    "asia/china/qinghai",
     "asia/china/shaanxi",
     "asia/china/shandong",
     "asia/china/shanxi",
@@ -85,6 +86,7 @@
     "asia/indonesia/java",
     "asia/indonesia/kalimantan",
     "asia/indonesia/nusa-tenggara",
+    "asia/indonesia/papua",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/iran",
@@ -113,6 +115,7 @@
     "asia/sri-lanka",
     "asia/syria",
     "asia/taiwan",
+    "asia/tajikistan",
     "asia/thailand",
     "asia/uzbekistan",
     "asia/vietnam",
@@ -133,6 +136,7 @@
     "central-america/honduras",
     "central-america/jamaica",
     "central-america/nicaragua",
+    "central-america/panama",
     "europe/albania",
     "europe/austria",
     "europe/belarus",
@@ -179,6 +183,7 @@
     "europe/france/picardie",
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
+    "europe/france/reunion",
     "europe/france/rhone-alpes",
     "europe/georgia",
     "europe/germany/baden-wuerttemberg/freiburg-regbez",
@@ -409,26 +414,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "central-america/panama",
-      "pbf_url": "https://download.geofabrik.de/central-america/panama-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/papua",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/papua-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/qinghai",
-      "pbf_url": "https://download.geofabrik.de/asia/china/qinghai-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/reunion",
-      "pbf_url": "https://download.geofabrik.de/europe/france/reunion-latest.osm.pbf"
-    },
-    {
-      "id": "asia/tajikistan",
-      "pbf_url": "https://download.geofabrik.de/asia/tajikistan-latest.osm.pbf"
-    },
     {
       "id": "asia/turkmenistan",
       "pbf_url": "https://download.geofabrik.de/asia/turkmenistan-latest.osm.pbf"
