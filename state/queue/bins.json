@@ -15,6 +15,7 @@
     "africa/congo-brazzaville",
     "africa/congo-democratic-republic",
     "africa/egypt",
+    "africa/eritrea",
     "africa/ethiopia",
     "africa/ghana",
     "africa/guinea",
@@ -156,6 +157,7 @@
     "europe/france/bretagne",
     "europe/france/centre",
     "europe/france/champagne-ardenne",
+    "europe/france/corse",
     "europe/france/franche-comte",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
@@ -183,6 +185,7 @@
     "europe/germany/bayern/unterfranken",
     "europe/germany/berlin",
     "europe/germany/brandenburg",
+    "europe/germany/bremen",
     "europe/germany/hamburg",
     "europe/germany/hessen",
     "europe/germany/mecklenburg-vorpommern",
@@ -266,11 +269,13 @@
     "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/england/cambridgeshire",
+    "europe/united-kingdom/england/cheshire",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/durham",
+    "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
@@ -389,26 +394,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/bremen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bremen-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/cheshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cheshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/corse",
-      "pbf_url": "https://download.geofabrik.de/europe/france/corse-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/east-yorkshire-with-hull",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/east-yorkshire-with-hull-latest.osm.pbf"
-    },
-    {
-      "id": "africa/eritrea",
-      "pbf_url": "https://download.geofabrik.de/africa/eritrea-latest.osm.pbf"
-    },
     {
       "id": "europe/netherlands/flevoland",
       "pbf_url": "https://download.geofabrik.de/europe/netherlands/flevoland-latest.osm.pbf"
