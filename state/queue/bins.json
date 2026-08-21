@@ -41,6 +41,7 @@
     "africa/south-africa",
     "africa/south-sudan",
     "africa/sudan",
+    "africa/swaziland",
     "africa/tanzania",
     "africa/togo",
     "africa/tunisia",
@@ -341,6 +342,8 @@
     "europe/united-kingdom/england/staffordshire",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/surrey",
+    "europe/united-kingdom/england/tyne-and-wear",
+    "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
     "europe/united-kingdom/england/west-yorkshire",
@@ -377,6 +380,7 @@
     "north-america/us/colorado",
     "north-america/us/connecticut",
     "north-america/us/delaware",
+    "north-america/us/district-of-columbia",
     "north-america/us/florida",
     "north-america/us/georgia",
     "north-america/us/idaho",
@@ -440,30 +444,11 @@
     "south-america/ecuador",
     "south-america/paraguay",
     "south-america/peru",
+    "south-america/suriname",
     "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "south-america/suriname",
-      "pbf_url": "https://download.geofabrik.de/south-america/suriname-latest.osm.pbf"
-    },
-    {
-      "id": "africa/swaziland",
-      "pbf_url": "https://download.geofabrik.de/africa/swaziland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/tyne-and-wear",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/tyne-and-wear-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/district-of-columbia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/district-of-columbia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/warwickshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/warwickshire-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/worcestershire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/worcestershire-latest.osm.pbf"
