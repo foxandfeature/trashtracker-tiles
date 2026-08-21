@@ -2,6 +2,7 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/madagascar",
     "africa/mozambique",
     "africa/nigeria",
     "africa/south-africa",
@@ -13,6 +14,7 @@
     "asia/japan/chubu",
     "asia/japan/kanto",
     "asia/malaysia-singapore-brunei",
+    "asia/nepal",
     "asia/philippines",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/new-zealand",
@@ -33,6 +35,7 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/norway/ostlandet",
     "europe/norway/trondelag",
     "europe/poland/lodzkie",
     "europe/poland/mazowieckie",
@@ -41,6 +44,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "north-america/canada/alberta",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/northwest-territories",
@@ -58,6 +62,7 @@
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/texas",
+    "north-america/us/washington",
     "russia/central-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
@@ -69,26 +74,6 @@
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "africa/madagascar",
-      "pbf_url": "https://download.geofabrik.de/africa/madagascar-latest.osm.pbf"
-    },
-    {
-      "id": "asia/nepal",
-      "pbf_url": "https://download.geofabrik.de/asia/nepal-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/ostlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/ostlandet-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/washington",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/washington-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/alberta",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/alberta-latest.osm.pbf"
-    },
     {
       "id": "south-america/colombia",
       "pbf_url": "https://download.geofabrik.de/south-america/colombia-latest.osm.pbf"
