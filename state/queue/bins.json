@@ -52,6 +52,7 @@
     "europe/czech-republic/stredocesky",
     "europe/denmark",
     "europe/finland",
+    "europe/france/alsace",
     "europe/france/aquitaine",
     "europe/france/bretagne",
     "europe/france/centre",
@@ -63,6 +64,7 @@
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/germany/baden-wuerttemberg/freiburg-regbez",
     "europe/germany/bayern/oberbayern",
     "europe/germany/brandenburg",
     "europe/germany/hessen",
@@ -84,9 +86,11 @@
     "europe/italy/sud",
     "europe/lithuania",
     "europe/netherlands/noord-brabant",
+    "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/trondelag",
+    "europe/norway/vestlandet",
     "europe/poland/dolnoslaskie",
     "europe/poland/lodzkie",
     "europe/poland/malopolskie",
@@ -122,6 +126,7 @@
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
     "north-america/us/colorado",
+    "north-america/us/connecticut",
     "north-america/us/florida",
     "north-america/us/georgia",
     "north-america/us/illinois",
@@ -159,26 +164,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/connecticut",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/connecticut-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/vestlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/vestlandet-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/zuid-holland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/zuid-holland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/alsace",
-      "pbf_url": "https://download.geofabrik.de/europe/france/alsace-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/baden-wuerttemberg/freiburg-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/freiburg-regbez-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/galicia",
       "pbf_url": "https://download.geofabrik.de/europe/spain/galicia-latest.osm.pbf"
