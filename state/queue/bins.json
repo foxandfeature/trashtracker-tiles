@@ -2,6 +2,7 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/egypt",
     "africa/madagascar",
     "africa/mozambique",
     "africa/nigeria",
@@ -13,6 +14,7 @@
     "asia/indonesia/java",
     "asia/japan/chubu",
     "asia/japan/kanto",
+    "asia/japan/kyushu",
     "asia/malaysia-singapore-brunei",
     "asia/nepal",
     "asia/philippines",
@@ -35,6 +37,7 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/trondelag",
     "europe/poland/lodzkie",
@@ -64,6 +67,7 @@
     "north-america/us/texas",
     "north-america/us/washington",
     "russia/central-fed-district",
+    "russia/far-eastern-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
@@ -71,29 +75,10 @@
     "south-america/brazil/centro-oeste",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
-    "south-america/brazil/sul"
+    "south-america/brazil/sul",
+    "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "south-america/colombia",
-      "pbf_url": "https://download.geofabrik.de/south-america/colombia-latest.osm.pbf"
-    },
-    {
-      "id": "africa/egypt",
-      "pbf_url": "https://download.geofabrik.de/africa/egypt-latest.osm.pbf"
-    },
-    {
-      "id": "russia/far-eastern-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/far-eastern-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/kyushu",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kyushu-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/nord-norge",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/nord-norge-latest.osm.pbf"
-    },
     {
       "id": "europe/portugal",
       "pbf_url": "https://download.geofabrik.de/europe/portugal-latest.osm.pbf"
