@@ -62,6 +62,7 @@
     "europe/finland",
     "europe/france/alsace",
     "europe/france/aquitaine",
+    "europe/france/basse-normandie",
     "europe/france/bretagne",
     "europe/france/centre",
     "europe/france/ile-de-france",
@@ -73,6 +74,7 @@
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/georgia",
     "europe/germany/baden-wuerttemberg/freiburg-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/baden-wuerttemberg/tuebingen-regbez",
@@ -98,12 +100,14 @@
     "europe/italy/sud",
     "europe/lithuania",
     "europe/netherlands/noord-brabant",
+    "europe/netherlands/noord-holland",
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
     "europe/poland/dolnoslaskie",
+    "europe/poland/kujawsko-pomorskie",
     "europe/poland/lodzkie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
@@ -157,6 +161,7 @@
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
     "north-america/us/ohio",
+    "north-america/us/oregon",
     "north-america/us/pennsylvania",
     "north-america/us/south-carolina",
     "north-america/us/tennessee",
@@ -184,26 +189,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/georgia",
-      "pbf_url": "https://download.geofabrik.de/europe/georgia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/kujawsko-pomorskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/kujawsko-pomorskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/noord-holland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/noord-holland-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/oregon",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/oregon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/basse-normandie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/basse-normandie-latest.osm.pbf"
-    },
     {
       "id": "europe/netherlands/overijssel",
       "pbf_url": "https://download.geofabrik.de/europe/netherlands/overijssel-latest.osm.pbf"
