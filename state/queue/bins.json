@@ -66,6 +66,7 @@
     "asia/china/inner-mongolia",
     "asia/china/jiangsu",
     "asia/china/jiangxi",
+    "asia/china/jilin",
     "asia/china/liaoning",
     "asia/china/shaanxi",
     "asia/china/shandong",
@@ -99,6 +100,7 @@
     "asia/japan/tohoku",
     "asia/kazakhstan",
     "asia/kyrgyzstan",
+    "asia/laos",
     "asia/lebanon",
     "asia/malaysia-singapore-brunei",
     "asia/mongolia",
@@ -140,7 +142,9 @@
     "europe/croatia",
     "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
+    "europe/czech-republic/karlovarsky",
     "europe/czech-republic/kralovehradecky",
+    "europe/czech-republic/liberecky",
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/pardubicky",
     "europe/czech-republic/plzensky",
@@ -213,6 +217,7 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/kosovo",
     "europe/latvia",
     "europe/lithuania",
     "europe/luxembourg",
@@ -399,26 +404,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/jilin",
-      "pbf_url": "https://download.geofabrik.de/asia/china/jilin-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/karlovarsky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/karlovarsky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/kosovo",
-      "pbf_url": "https://download.geofabrik.de/europe/kosovo-latest.osm.pbf"
-    },
-    {
-      "id": "asia/laos",
-      "pbf_url": "https://download.geofabrik.de/asia/laos-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/liberecky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/liberecky-latest.osm.pbf"
-    },
     {
       "id": "europe/france/martinique",
       "pbf_url": "https://download.geofabrik.de/europe/france/martinique-latest.osm.pbf"
