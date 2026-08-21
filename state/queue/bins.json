@@ -54,6 +54,7 @@
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
+    "europe/bosnia-herzegovina",
     "europe/bulgaria",
     "europe/croatia",
     "europe/czech-republic/stredocesky",
@@ -72,6 +73,7 @@
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/germany/baden-wuerttemberg/freiburg-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/bayern/oberbayern",
     "europe/germany/brandenburg",
@@ -83,6 +85,7 @@
     "europe/germany/rheinland-pfalz",
     "europe/germany/sachsen",
     "europe/germany/sachsen-anhalt",
+    "europe/germany/thueringen",
     "europe/greece",
     "europe/hungary",
     "europe/ireland-and-northern-ireland",
@@ -118,6 +121,7 @@
     "europe/ukraine",
     "europe/united-kingdom/scotland",
     "north-america/canada/alberta",
+    "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/manitoba",
     "north-america/canada/newfoundland-and-labrador",
@@ -167,6 +171,7 @@
     "south-america/bolivia",
     "south-america/brazil/centro-oeste",
     "south-america/brazil/nordeste",
+    "south-america/brazil/norte",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
     "south-america/chile",
@@ -174,26 +179,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/british-columbia/interior-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/interior-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/bosnia-herzegovina",
-      "pbf_url": "https://download.geofabrik.de/europe/bosnia-herzegovina-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/norte",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/norte-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/thueringen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/thueringen-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/baden-wuerttemberg/freiburg-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/freiburg-regbez-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/wielkopolskie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/wielkopolskie-latest.osm.pbf"
