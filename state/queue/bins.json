@@ -40,6 +40,7 @@
     "africa/zambia",
     "africa/zimbabwe",
     "asia/afghanistan",
+    "asia/armenia",
     "asia/bangladesh",
     "asia/china/anhui",
     "asia/china/guangdong",
@@ -50,6 +51,7 @@
     "asia/china/sichuan",
     "asia/china/tibet",
     "asia/china/yunnan",
+    "asia/china/zhejiang",
     "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
@@ -99,6 +101,7 @@
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
+    "europe/albania",
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
@@ -293,9 +296,11 @@
     "north-america/us/pennsylvania",
     "north-america/us/puerto-rico",
     "north-america/us/south-carolina",
+    "north-america/us/south-dakota",
     "north-america/us/tennessee",
     "north-america/us/texas",
     "north-america/us/utah",
+    "north-america/us/vermont",
     "north-america/us/virginia",
     "north-america/us/washington",
     "north-america/us/west-virginia",
@@ -324,26 +329,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/south-dakota",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/south-dakota-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/vermont",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/vermont-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/zhejiang",
-      "pbf_url": "https://download.geofabrik.de/asia/china/zhejiang-latest.osm.pbf"
-    },
-    {
-      "id": "europe/albania",
-      "pbf_url": "https://download.geofabrik.de/europe/albania-latest.osm.pbf"
-    },
-    {
-      "id": "asia/armenia",
-      "pbf_url": "https://download.geofabrik.de/asia/armenia-latest.osm.pbf"
-    },
     {
       "id": "asia/china/beijing",
       "pbf_url": "https://download.geofabrik.de/asia/china/beijing-latest.osm.pbf"
