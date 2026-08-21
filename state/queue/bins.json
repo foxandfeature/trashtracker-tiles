@@ -4,6 +4,7 @@
   "lock": [
     "africa/algeria",
     "africa/cameroon",
+    "africa/chad",
     "africa/congo-democratic-republic",
     "africa/egypt",
     "africa/ethiopia",
@@ -58,6 +59,7 @@
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/victoria",
     "australia-oceania/new-zealand",
+    "central-america/guatemala",
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
@@ -67,6 +69,7 @@
     "europe/czech-republic/stredocesky",
     "europe/denmark",
     "europe/finland",
+    "europe/france/alsace",
     "europe/france/aquitaine",
     "europe/france/auvergne",
     "europe/france/basse-normandie",
@@ -79,6 +82,7 @@
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
+    "europe/france/picardie",
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
@@ -162,6 +166,7 @@
     "north-america/us/georgia",
     "north-america/us/illinois",
     "north-america/us/indiana",
+    "north-america/us/iowa",
     "north-america/us/kentucky",
     "north-america/us/louisiana",
     "north-america/us/maryland",
@@ -204,26 +209,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "africa/chad",
-      "pbf_url": "https://download.geofabrik.de/africa/chad-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/iowa",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/iowa-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/picardie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/picardie-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/guatemala",
-      "pbf_url": "https://download.geofabrik.de/central-america/guatemala-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/alsace",
-      "pbf_url": "https://download.geofabrik.de/europe/france/alsace-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/lodzkie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/lodzkie-latest.osm.pbf"
