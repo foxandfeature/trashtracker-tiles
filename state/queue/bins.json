@@ -41,6 +41,8 @@
     "africa/niger",
     "africa/nigeria",
     "africa/rwanda",
+    "africa/saint-helena-ascension-and-tristan-da-cunha",
+    "africa/sao-tome-and-principe",
     "africa/senegal-and-gambia",
     "africa/seychelles",
     "africa/sierra-leone",
@@ -153,12 +155,14 @@
     "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
+    "australia-oceania/cook-islands",
     "australia-oceania/fiji",
     "australia-oceania/kiribati",
     "australia-oceania/marshall-islands",
     "australia-oceania/micronesia",
     "australia-oceania/new-caledonia",
     "australia-oceania/new-zealand",
+    "australia-oceania/palau",
     "australia-oceania/papua-new-guinea",
     "australia-oceania/polynesie-francaise",
     "australia-oceania/samoa",
@@ -332,6 +336,7 @@
     "europe/spain/islas-baleares",
     "europe/spain/la-rioja",
     "europe/spain/madrid",
+    "europe/spain/melilla",
     "europe/spain/murcia",
     "europe/spain/navarra",
     "europe/spain/pais-vasco",
@@ -494,26 +499,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/sao-tome-and-principe",
-      "pbf_url": "https://download.geofabrik.de/africa/sao-tome-and-principe-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/cook-islands",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/cook-islands-latest.osm.pbf"
-    },
-    {
-      "id": "africa/saint-helena-ascension-and-tristan-da-cunha",
-      "pbf_url": "https://download.geofabrik.de/africa/saint-helena-ascension-and-tristan-da-cunha-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/palau",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/palau-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/melilla",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/melilla-latest.osm.pbf"
-    },
     {
       "id": "europe/monaco",
       "pbf_url": "https://download.geofabrik.de/europe/monaco-latest.osm.pbf"
