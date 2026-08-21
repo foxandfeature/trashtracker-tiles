@@ -7,11 +7,15 @@
     "asia/india/central-zone",
     "asia/india/southern-zone",
     "asia/indonesia/java",
+    "asia/philippines",
+    "australia-oceania/australia/new-south-wales",
     "europe/austria",
     "europe/belgium",
     "europe/finland",
     "europe/germany/bayern/oberbayern",
+    "europe/italy/nord-est",
     "europe/italy/nord-ovest",
+    "europe/italy/sud",
     "europe/poland/lodzkie",
     "europe/sweden",
     "europe/switzerland",
@@ -25,30 +29,11 @@
     "north-america/us/texas",
     "russia/central-fed-district",
     "russia/northwestern-fed-district",
+    "russia/siberian-fed-district",
     "russia/volga-fed-district",
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "asia/philippines",
-      "pbf_url": "https://download.geofabrik.de/asia/philippines-latest.osm.pbf"
-    },
-    {
-      "id": "russia/siberian-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/siberian-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/new-south-wales",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/new-south-wales-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/sud",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/sud-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/nord-est",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/nord-est-latest.osm.pbf"
-    },
     {
       "id": "asia/malaysia-singapore-brunei",
       "pbf_url": "https://download.geofabrik.de/asia/malaysia-singapore-brunei-latest.osm.pbf"
