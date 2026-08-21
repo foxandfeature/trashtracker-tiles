@@ -80,6 +80,7 @@
     "asia/china/shanghai",
     "asia/china/shanxi",
     "asia/china/sichuan",
+    "asia/china/tianjin",
     "asia/china/tibet",
     "asia/china/xinjiang",
     "asia/china/yunnan",
@@ -141,9 +142,11 @@
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
     "australia-oceania/fiji",
+    "australia-oceania/new-caledonia",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
     "australia-oceania/polynesie-francaise",
+    "central-america/bahamas",
     "central-america/belize",
     "central-america/costa-rica",
     "central-america/cuba",
@@ -191,6 +194,7 @@
     "europe/france/corse",
     "europe/france/franche-comte",
     "europe/france/guadeloupe",
+    "europe/france/guyane",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
@@ -310,6 +314,7 @@
     "europe/ukraine",
     "europe/united-kingdom/england/bedfordshire",
     "europe/united-kingdom/england/berkshire",
+    "europe/united-kingdom/england/bristol",
     "europe/united-kingdom/england/buckinghamshire",
     "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cheshire",
@@ -454,26 +459,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/tianjin",
-      "pbf_url": "https://download.geofabrik.de/asia/china/tianjin-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/guyane",
-      "pbf_url": "https://download.geofabrik.de/europe/france/guyane-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/bahamas",
-      "pbf_url": "https://download.geofabrik.de/central-america/bahamas-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/new-caledonia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/new-caledonia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/bristol",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/bristol-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/la-rioja",
       "pbf_url": "https://download.geofabrik.de/europe/spain/la-rioja-latest.osm.pbf"
