@@ -36,6 +36,7 @@
     "asia/bangladesh",
     "asia/china/guangdong",
     "asia/china/hebei",
+    "asia/china/jiangsu",
     "asia/china/sichuan",
     "asia/gcc-states",
     "asia/india/central-zone",
@@ -74,6 +75,7 @@
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
+    "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
     "europe/austria",
@@ -82,6 +84,7 @@
     "europe/bosnia-herzegovina",
     "europe/bulgaria",
     "europe/croatia",
+    "europe/czech-republic/jihocesky",
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/stredocesky",
     "europe/denmark",
@@ -96,6 +99,7 @@
     "europe/france/centre",
     "europe/france/champagne-ardenne",
     "europe/france/franche-comte",
+    "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
     "europe/france/lorraine",
@@ -176,6 +180,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/england/merseyside",
     "europe/united-kingdom/scotland",
@@ -259,26 +264,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/derbyshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/derbyshire-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/guatemala",
-      "pbf_url": "https://download.geofabrik.de/central-america/guatemala-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/haute-normandie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/haute-normandie-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/jiangsu",
-      "pbf_url": "https://download.geofabrik.de/asia/china/jiangsu-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/jihocesky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/jihocesky-latest.osm.pbf"
-    },
     {
       "id": "africa/libya",
       "pbf_url": "https://download.geofabrik.de/africa/libya-latest.osm.pbf"
