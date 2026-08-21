@@ -4,17 +4,22 @@
   "lock": [
     "africa/nigeria",
     "africa/tanzania",
+    "asia/india/southern-zone",
     "asia/indonesia/java",
+    "asia/japan/chubu",
     "asia/philippines",
     "europe/austria",
     "europe/belgium",
     "europe/finland",
+    "europe/france/rhone-alpes",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/sweden",
+    "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/mexico",
@@ -29,26 +34,6 @@
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/nunavut/qikiqtaaluk",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/nunavut/qikiqtaaluk-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/southern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/southern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "europe/switzerland",
-      "pbf_url": "https://download.geofabrik.de/europe/switzerland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/rhone-alpes",
-      "pbf_url": "https://download.geofabrik.de/europe/france/rhone-alpes-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/chubu",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/chubu-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/niedersachsen",
       "pbf_url": "https://download.geofabrik.de/europe/germany/niedersachsen-latest.osm.pbf"
