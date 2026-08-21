@@ -54,13 +54,16 @@
     "asia/china/beijing",
     "asia/china/chongqing",
     "asia/china/fujian",
+    "asia/china/gansu",
     "asia/china/guangdong",
     "asia/china/guangxi",
     "asia/china/guizhou",
     "asia/china/hebei",
+    "asia/china/heilongjiang",
     "asia/china/henan",
     "asia/china/hubei",
     "asia/china/hunan",
+    "asia/china/inner-mongolia",
     "asia/china/jiangsu",
     "asia/china/jiangxi",
     "asia/china/liaoning",
@@ -216,6 +219,7 @@
     "europe/macedonia",
     "europe/moldova",
     "europe/netherlands/drenthe",
+    "europe/netherlands/flevoland",
     "europe/netherlands/friesland",
     "europe/netherlands/gelderland",
     "europe/netherlands/groningen",
@@ -318,6 +322,7 @@
     "north-america/canada/quebec",
     "north-america/canada/saskatchewan",
     "north-america/canada/yukon",
+    "north-america/greenland",
     "north-america/mexico",
     "north-america/us/alabama",
     "north-america/us/alaska",
@@ -394,26 +399,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/netherlands/flevoland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/flevoland-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/gansu",
-      "pbf_url": "https://download.geofabrik.de/asia/china/gansu-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/greenland",
-      "pbf_url": "https://download.geofabrik.de/north-america/greenland-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/heilongjiang",
-      "pbf_url": "https://download.geofabrik.de/asia/china/heilongjiang-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/inner-mongolia",
-      "pbf_url": "https://download.geofabrik.de/asia/china/inner-mongolia-latest.osm.pbf"
-    },
     {
       "id": "asia/china/jilin",
       "pbf_url": "https://download.geofabrik.de/asia/china/jilin-latest.osm.pbf"
