@@ -3,6 +3,7 @@
   "failed": [],
   "lock": [
     "africa/algeria",
+    "africa/chad",
     "africa/congo-democratic-republic",
     "africa/egypt",
     "africa/kenya",
@@ -90,6 +91,7 @@
     "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/scotland",
+    "europe/united-kingdom/wales",
     "north-america/canada/alberta",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/north-admreg",
@@ -102,12 +104,15 @@
     "north-america/mexico",
     "north-america/us/alabama",
     "north-america/us/alaska",
+    "north-america/us/arizona",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
     "north-america/us/colorado",
     "north-america/us/florida",
     "north-america/us/georgia",
+    "north-america/us/illinois",
     "north-america/us/indiana",
+    "north-america/us/iowa",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
@@ -139,26 +144,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/wales",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/wales-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/arizona",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/arizona-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/illinois",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/illinois-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/iowa",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/iowa-latest.osm.pbf"
-    },
-    {
-      "id": "africa/chad",
-      "pbf_url": "https://download.geofabrik.de/africa/chad-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/manitoba",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/manitoba-latest.osm.pbf"
