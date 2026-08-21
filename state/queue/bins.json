@@ -3,32 +3,17 @@
   "failed": [],
   "lock": [
     "asia/india/central-zone",
+    "asia/indonesia/java",
+    "europe/austria",
     "europe/belgium",
     "europe/poland/lodzkie",
+    "europe/ukraine",
     "north-america/canada/british-columbia/interior-admreg",
-    "north-america/canada/quebec"
+    "north-america/canada/quebec",
+    "north-america/us/massachusetts",
+    "russia/volga-fed-district"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/massachusetts",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/massachusetts-latest.osm.pbf"
-    },
-    {
-      "id": "europe/ukraine",
-      "pbf_url": "https://download.geofabrik.de/europe/ukraine-latest.osm.pbf"
-    },
-    {
-      "id": "europe/austria",
-      "pbf_url": "https://download.geofabrik.de/europe/austria-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/java",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/java-latest.osm.pbf"
-    },
-    {
-      "id": "russia/volga-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/volga-fed-district-latest.osm.pbf"
-    },
     {
       "id": "russia/central-fed-district",
       "pbf_url": "https://download.geofabrik.de/russia/central-fed-district-latest.osm.pbf"
