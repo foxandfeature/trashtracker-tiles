@@ -29,9 +29,11 @@
     "asia/afghanistan",
     "asia/bangladesh",
     "asia/china/guangdong",
+    "asia/china/hebei",
     "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
+    "asia/india/north-eastern-zone",
     "asia/india/northern-zone",
     "asia/india/southern-zone",
     "asia/india/western-zone",
@@ -74,6 +76,7 @@
     "europe/bulgaria",
     "europe/croatia",
     "europe/czech-republic/stredocesky",
+    "europe/czech-republic/ustecky",
     "europe/denmark",
     "europe/estonia",
     "europe/finland",
@@ -151,6 +154,7 @@
     "europe/spain/andalucia",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
+    "europe/spain/galicia",
     "europe/spain/valencia",
     "europe/sweden",
     "europe/switzerland",
@@ -161,6 +165,7 @@
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
     "north-america/canada/british-columbia/interior-admreg",
+    "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/british-columbia/southcoast-admreg",
     "north-america/canada/manitoba",
@@ -234,26 +239,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/czech-republic/ustecky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/ustecky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/galicia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/galicia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/island-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/island-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/north-eastern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/north-eastern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hebei",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hebei-latest.osm.pbf"
-    },
     {
       "id": "europe/france/haute-normandie",
       "pbf_url": "https://download.geofabrik.de/europe/france/haute-normandie-latest.osm.pbf"
