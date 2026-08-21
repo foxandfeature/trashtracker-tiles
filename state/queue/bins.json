@@ -27,6 +27,7 @@
     "asia/iran",
     "asia/japan/chubu",
     "asia/japan/chugoku",
+    "asia/japan/hokkaido",
     "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/japan/kyushu",
@@ -48,6 +49,7 @@
     "europe/belarus",
     "europe/belgium",
     "europe/croatia",
+    "europe/czech-republic/stredocesky",
     "europe/denmark",
     "europe/finland",
     "europe/france/aquitaine",
@@ -87,9 +89,12 @@
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
+    "europe/norway/trondelag",
     "europe/norway/vestlandet",
+    "europe/poland/dolnoslaskie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
+    "europe/poland/slaskie",
     "europe/portugal",
     "europe/romania",
     "europe/serbia",
@@ -154,26 +159,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "asia/japan/hokkaido",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/hokkaido-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/slaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/slaskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/trondelag",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/trondelag-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/stredocesky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/stredocesky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/dolnoslaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/dolnoslaskie-latest.osm.pbf"
-    },
     {
       "id": "africa/zimbabwe",
       "pbf_url": "https://download.geofabrik.de/africa/zimbabwe-latest.osm.pbf"
