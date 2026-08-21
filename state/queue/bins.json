@@ -41,6 +41,7 @@
     "asia/china/hebei",
     "asia/china/jiangsu",
     "asia/china/shaanxi",
+    "asia/china/shandong",
     "asia/china/sichuan",
     "asia/china/yunnan",
     "asia/china/zhejiang",
@@ -98,8 +99,10 @@
     "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/moravskoslezky",
+    "europe/czech-republic/plzensky",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
+    "europe/czech-republic/vysocina",
     "europe/denmark",
     "europe/estonia",
     "europe/finland",
@@ -253,6 +256,7 @@
     "north-america/us/montana",
     "north-america/us/nebraska",
     "north-america/us/nevada",
+    "north-america/us/new-hampshire",
     "north-america/us/new-jersey",
     "north-america/us/new-mexico",
     "north-america/us/new-york",
@@ -262,6 +266,7 @@
     "north-america/us/oklahoma",
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
+    "north-america/us/puerto-rico",
     "north-america/us/south-carolina",
     "north-america/us/tennessee",
     "north-america/us/texas",
@@ -294,26 +299,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/puerto-rico",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/puerto-rico-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/vysocina",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/vysocina-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/plzensky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/plzensky-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-hampshire",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-hampshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/shandong",
-      "pbf_url": "https://download.geofabrik.de/asia/china/shandong-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/pais-vasco",
       "pbf_url": "https://download.geofabrik.de/europe/spain/pais-vasco-latest.osm.pbf"
