@@ -189,6 +189,7 @@
     "europe/france/languedoc-roussillon",
     "europe/france/limousin",
     "europe/france/lorraine",
+    "europe/france/martinique",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
@@ -319,6 +320,7 @@
     "europe/united-kingdom/england/hertfordshire",
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/lancashire",
+    "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/lincolnshire",
     "europe/united-kingdom/england/merseyside",
     "europe/united-kingdom/england/norfolk",
@@ -333,11 +335,13 @@
     "europe/united-kingdom/england/staffordshire",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/surrey",
+    "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
     "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/england/wiltshire",
+    "europe/united-kingdom/england/worcestershire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
@@ -370,6 +374,7 @@
     "north-america/us/colorado",
     "north-america/us/connecticut",
     "north-america/us/delaware",
+    "north-america/us/district-of-columbia",
     "north-america/us/florida",
     "north-america/us/georgia",
     "north-america/us/hawaii",
@@ -439,26 +444,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/district-of-columbia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/district-of-columbia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/martinique",
-      "pbf_url": "https://download.geofabrik.de/europe/france/martinique-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/leicestershire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/leicestershire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/worcestershire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/worcestershire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/tyne-and-wear",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/tyne-and-wear-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/east-yorkshire-with-hull",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/east-yorkshire-with-hull-latest.osm.pbf"
