@@ -23,6 +23,7 @@
     "africa/gabon",
     "africa/ghana",
     "africa/guinea",
+    "africa/guinea-bissau",
     "africa/ivory-coast",
     "africa/kenya",
     "africa/lesotho",
@@ -117,6 +118,7 @@
     "asia/laos",
     "asia/lebanon",
     "asia/malaysia-singapore-brunei",
+    "asia/maldives",
     "asia/mongolia",
     "asia/myanmar",
     "asia/nepal",
@@ -251,9 +253,11 @@
     "europe/italy/sud",
     "europe/kosovo",
     "europe/latvia",
+    "europe/liechtenstein",
     "europe/lithuania",
     "europe/luxembourg",
     "europe/macedonia",
+    "europe/malta",
     "europe/moldova",
     "europe/montenegro",
     "europe/netherlands/drenthe",
@@ -452,6 +456,7 @@
     "south-america/chile",
     "south-america/colombia",
     "south-america/ecuador",
+    "south-america/guyana",
     "south-america/paraguay",
     "south-america/peru",
     "south-america/suriname",
@@ -459,26 +464,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/guinea-bissau",
-      "pbf_url": "https://download.geofabrik.de/africa/guinea-bissau-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/guyana",
-      "pbf_url": "https://download.geofabrik.de/south-america/guyana-latest.osm.pbf"
-    },
-    {
-      "id": "europe/liechtenstein",
-      "pbf_url": "https://download.geofabrik.de/europe/liechtenstein-latest.osm.pbf"
-    },
-    {
-      "id": "asia/maldives",
-      "pbf_url": "https://download.geofabrik.de/asia/maldives-latest.osm.pbf"
-    },
-    {
-      "id": "europe/malta",
-      "pbf_url": "https://download.geofabrik.de/europe/malta-latest.osm.pbf"
-    },
     {
       "id": "asia/indonesia/maluku",
       "pbf_url": "https://download.geofabrik.de/asia/indonesia/maluku-latest.osm.pbf"
