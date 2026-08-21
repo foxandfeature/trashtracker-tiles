@@ -72,6 +72,7 @@
     "asia/japan/tohoku",
     "asia/kazakhstan",
     "asia/malaysia-singapore-brunei",
+    "asia/mongolia",
     "asia/myanmar",
     "asia/nepal",
     "asia/north-korea",
@@ -90,9 +91,11 @@
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
+    "central-america/cuba",
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
+    "central-america/nicaragua",
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
@@ -101,6 +104,7 @@
     "europe/croatia",
     "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
+    "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/plzensky",
     "europe/czech-republic/stredocesky",
@@ -218,6 +222,7 @@
     "europe/ukraine",
     "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/england/hampshire",
+    "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
@@ -309,26 +314,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/mongolia",
-      "pbf_url": "https://download.geofabrik.de/asia/mongolia-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/cuba",
-      "pbf_url": "https://download.geofabrik.de/central-america/cuba-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/north-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/north-yorkshire-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/nicaragua",
-      "pbf_url": "https://download.geofabrik.de/central-america/nicaragua-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/kralovehradecky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/kralovehradecky-latest.osm.pbf"
-    },
     {
       "id": "africa/canary-islands",
       "pbf_url": "https://download.geofabrik.de/africa/canary-islands-latest.osm.pbf"
