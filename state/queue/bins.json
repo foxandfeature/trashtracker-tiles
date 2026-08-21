@@ -29,6 +29,7 @@
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
+    "asia/indonesia/kalimantan",
     "asia/indonesia/nusa-tenggara",
     "asia/indonesia/sumatra",
     "asia/iran",
@@ -78,6 +79,7 @@
     "europe/france/rhone-alpes",
     "europe/georgia",
     "europe/germany/baden-wuerttemberg/freiburg-regbez",
+    "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/baden-wuerttemberg/tuebingen-regbez",
     "europe/germany/bayern/oberbayern",
@@ -101,6 +103,8 @@
     "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/lithuania",
+    "europe/netherlands/gelderland",
+    "europe/netherlands/limburg",
     "europe/netherlands/noord-brabant",
     "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
@@ -121,6 +125,7 @@
     "europe/slovakia",
     "europe/slovenia",
     "europe/spain/andalucia",
+    "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
     "europe/spain/galicia",
     "europe/sweden",
@@ -194,26 +199,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/castilla-y-leon",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/castilla-y-leon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/gelderland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/gelderland-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/kalimantan",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/kalimantan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/karlsruhe-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/limburg",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/limburg-latest.osm.pbf"
-    },
     {
       "id": "south-america/brazil/norte",
       "pbf_url": "https://download.geofabrik.de/south-america/brazil/norte-latest.osm.pbf"
