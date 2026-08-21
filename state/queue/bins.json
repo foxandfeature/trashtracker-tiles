@@ -5,45 +5,30 @@
     "africa/nigeria",
     "africa/tanzania",
     "asia/india/central-zone",
+    "asia/india/southern-zone",
     "asia/indonesia/java",
     "europe/austria",
     "europe/belgium",
     "europe/finland",
+    "europe/germany/bayern/oberbayern",
     "europe/italy/nord-ovest",
     "europe/poland/lodzkie",
     "europe/sweden",
+    "europe/switzerland",
     "europe/ukraine",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/us/california/norcal",
     "north-america/us/massachusetts",
     "north-america/us/texas",
     "russia/central-fed-district",
+    "russia/northwestern-fed-district",
     "russia/volga-fed-district",
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "russia/northwestern-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/northwestern-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/ontario",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/ontario-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/southern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/southern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/oberbayern",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberbayern-latest.osm.pbf"
-    },
-    {
-      "id": "europe/switzerland",
-      "pbf_url": "https://download.geofabrik.de/europe/switzerland-latest.osm.pbf"
-    },
     {
       "id": "asia/philippines",
       "pbf_url": "https://download.geofabrik.de/asia/philippines-latest.osm.pbf"
