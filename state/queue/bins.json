@@ -4,6 +4,7 @@
   "lock": [
     "africa/mozambique",
     "africa/nigeria",
+    "africa/south-africa",
     "africa/tanzania",
     "asia/india/central-zone",
     "asia/india/southern-zone",
@@ -21,6 +22,7 @@
     "europe/finland",
     "europe/france/ile-de-france",
     "europe/france/lorraine",
+    "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/bayern/oberbayern",
     "europe/germany/niedersachsen",
@@ -38,6 +40,7 @@
     "europe/ukraine",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/northwest-territories",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
@@ -47,6 +50,7 @@
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
     "north-america/us/florida",
+    "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/north-carolina",
     "north-america/us/texas",
@@ -54,31 +58,12 @@
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
+    "south-america/bolivia",
     "south-america/brazil/centro-oeste",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "africa/south-africa",
-      "pbf_url": "https://download.geofabrik.de/africa/south-africa-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/maryland",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/maryland-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/northwest-territories",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/northwest-territories-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/bolivia",
-      "pbf_url": "https://download.geofabrik.de/south-america/bolivia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/provence-alpes-cote-d-azur",
-      "pbf_url": "https://download.geofabrik.de/europe/france/provence-alpes-cote-d-azur-latest.osm.pbf"
-    },
     {
       "id": "south-america/brazil/nordeste",
       "pbf_url": "https://download.geofabrik.de/south-america/brazil/nordeste-latest.osm.pbf"
