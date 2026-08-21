@@ -41,6 +41,8 @@
     "africa/niger",
     "africa/nigeria",
     "africa/rwanda",
+    "africa/saint-helena-ascension-and-tristan-da-cunha",
+    "africa/sao-tome-and-principe",
     "africa/senegal-and-gambia",
     "africa/seychelles",
     "africa/sierra-leone",
@@ -146,6 +148,7 @@
     "asia/yemen",
     "australia-oceania/american-oceania",
     "australia-oceania/australia/act",
+    "australia-oceania/australia/ashmore-cartier",
     "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/cocos-islands",
     "australia-oceania/australia/coral-sea-islands",
@@ -174,7 +177,9 @@
     "australia-oceania/polynesie-francaise",
     "australia-oceania/samoa",
     "australia-oceania/solomon-islands",
+    "australia-oceania/tokelau",
     "australia-oceania/tonga",
+    "australia-oceania/tuvalu",
     "australia-oceania/vanuatu",
     "australia-oceania/wallis-et-futuna",
     "central-america/bahamas",
@@ -508,26 +513,5 @@
     "south-america/uruguay",
     "south-america/venezuela"
   ],
-  "remaining": [
-    {
-      "id": "africa/saint-helena-ascension-and-tristan-da-cunha",
-      "pbf_url": "https://download.geofabrik.de/africa/saint-helena-ascension-and-tristan-da-cunha-latest.osm.pbf"
-    },
-    {
-      "id": "africa/sao-tome-and-principe",
-      "pbf_url": "https://download.geofabrik.de/africa/sao-tome-and-principe-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/tokelau",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/tokelau-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/tuvalu",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/tuvalu-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/ashmore-cartier",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/ashmore-cartier-latest.osm.pbf"
-    }
-  ]
+  "remaining": []
 }
