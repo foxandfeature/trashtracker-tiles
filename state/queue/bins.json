@@ -2,12 +2,17 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/congo-democratic-republic",
+    "africa/kenya",
+    "asia/bangladesh",
     "asia/india/southern-zone",
     "asia/japan/kansai",
     "asia/taiwan",
+    "asia/vietnam",
     "australia-oceania/new-zealand",
     "europe/denmark",
     "europe/finland",
+    "europe/france/bretagne",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/italy/nord-est",
@@ -29,26 +34,6 @@
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "africa/kenya",
-      "pbf_url": "https://download.geofabrik.de/africa/kenya-latest.osm.pbf"
-    },
-    {
-      "id": "africa/congo-democratic-republic",
-      "pbf_url": "https://download.geofabrik.de/africa/congo-democratic-republic-latest.osm.pbf"
-    },
-    {
-      "id": "asia/bangladesh",
-      "pbf_url": "https://download.geofabrik.de/asia/bangladesh-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/bretagne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/bretagne-latest.osm.pbf"
-    },
-    {
-      "id": "asia/vietnam",
-      "pbf_url": "https://download.geofabrik.de/asia/vietnam-latest.osm.pbf"
-    },
     {
       "id": "europe/italy/centro",
       "pbf_url": "https://download.geofabrik.de/europe/italy/centro-latest.osm.pbf"
