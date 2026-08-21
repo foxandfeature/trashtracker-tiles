@@ -9,6 +9,7 @@
     "africa/egypt",
     "africa/ethiopia",
     "africa/kenya",
+    "africa/lesotho",
     "africa/madagascar",
     "africa/malawi",
     "africa/mali",
@@ -89,9 +90,12 @@
     "europe/germany/baden-wuerttemberg/freiburg-regbez",
     "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
+    "europe/germany/baden-wuerttemberg/tuebingen-regbez",
     "europe/germany/bayern/oberbayern",
+    "europe/germany/bayern/schwaben",
     "europe/germany/brandenburg",
     "europe/germany/hessen",
+    "europe/germany/mecklenburg-vorpommern",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
     "europe/germany/nordrhein-westfalen/detmold-regbez",
@@ -211,29 +215,10 @@
     "south-america/chile",
     "south-america/colombia",
     "south-america/paraguay",
-    "south-america/peru"
+    "south-america/peru",
+    "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/bayern/schwaben",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/schwaben-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/mecklenburg-vorpommern",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/mecklenburg-vorpommern-latest.osm.pbf"
-    },
-    {
-      "id": "africa/lesotho",
-      "pbf_url": "https://download.geofabrik.de/africa/lesotho-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/venezuela",
-      "pbf_url": "https://download.geofabrik.de/south-america/venezuela-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/baden-wuerttemberg/tuebingen-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/tuebingen-regbez-latest.osm.pbf"
-    },
     {
       "id": "south-america/ecuador",
       "pbf_url": "https://download.geofabrik.de/south-america/ecuador-latest.osm.pbf"
