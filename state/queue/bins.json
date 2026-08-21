@@ -10,6 +10,7 @@
     "africa/tanzania",
     "africa/uganda",
     "asia/bangladesh",
+    "asia/india/central-zone",
     "asia/india/southern-zone",
     "asia/indonesia/java",
     "asia/japan/chubu",
@@ -21,6 +22,7 @@
     "asia/vietnam",
     "australia-oceania/new-zealand",
     "europe/austria",
+    "europe/belarus",
     "europe/belgium",
     "europe/denmark",
     "europe/finland",
@@ -43,6 +45,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "north-america/canada/alberta",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/northwest-territories",
     "north-america/canada/nunavut/kitikmeot",
@@ -62,6 +65,7 @@
     "north-america/us/pennsylvania",
     "north-america/us/texas",
     "north-america/us/virginia",
+    "north-america/us/washington",
     "russia/central-fed-district",
     "russia/far-eastern-fed-district",
     "russia/northwestern-fed-district",
@@ -71,29 +75,10 @@
     "south-america/argentina",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
-    "south-america/brazil/sul"
+    "south-america/brazil/sul",
+    "south-america/chile"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/washington",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/washington-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/central-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/central-zone-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/alberta",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/alberta-latest.osm.pbf"
-    },
-    {
-      "id": "europe/belarus",
-      "pbf_url": "https://download.geofabrik.de/europe/belarus-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/chile",
-      "pbf_url": "https://download.geofabrik.de/south-america/chile-latest.osm.pbf"
-    },
     {
       "id": "europe/slovakia",
       "pbf_url": "https://download.geofabrik.de/europe/slovakia-latest.osm.pbf"
