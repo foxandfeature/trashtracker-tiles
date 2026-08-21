@@ -27,6 +27,7 @@
     "asia/taiwan",
     "asia/thailand",
     "asia/vietnam",
+    "australia-oceania/australia/new-south-wales",
     "australia-oceania/new-zealand",
     "europe/austria",
     "europe/belarus",
@@ -36,6 +37,7 @@
     "europe/france/aquitaine",
     "europe/france/bretagne",
     "europe/france/ile-de-france",
+    "europe/france/languedoc-roussillon",
     "europe/france/midi-pyrenees",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
@@ -43,6 +45,8 @@
     "europe/germany/brandenburg",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
+    "europe/germany/rheinland-pfalz",
+    "europe/germany/sachsen",
     "europe/greece",
     "europe/hungary",
     "europe/ireland-and-northern-ireland",
@@ -57,6 +61,7 @@
     "europe/romania",
     "europe/slovakia",
     "europe/slovenia",
+    "europe/spain/cataluna",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
@@ -104,26 +109,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/france/languedoc-roussillon",
-      "pbf_url": "https://download.geofabrik.de/europe/france/languedoc-roussillon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/cataluna",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/cataluna-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/sachsen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/sachsen-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/rheinland-pfalz",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/rheinland-pfalz-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/new-south-wales",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/new-south-wales-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/newfoundland-and-labrador",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/newfoundland-and-labrador-latest.osm.pbf"
