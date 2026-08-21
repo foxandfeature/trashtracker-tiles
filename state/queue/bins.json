@@ -22,6 +22,7 @@
     "asia/philippines",
     "asia/south-korea",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/australia/victoria",
     "australia-oceania/new-zealand",
     "europe/austria",
     "europe/belgium",
@@ -49,6 +50,7 @@
     "europe/poland/mazowieckie",
     "europe/poland/wielkopolskie",
     "europe/portugal",
+    "europe/romania",
     "europe/slovenia",
     "europe/sweden",
     "europe/switzerland",
@@ -66,12 +68,14 @@
     "north-america/mexico",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
+    "north-america/us/colorado",
     "north-america/us/florida",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
+    "north-america/us/ohio",
     "north-america/us/texas",
     "north-america/us/virginia",
     "north-america/us/washington",
@@ -79,6 +83,7 @@
     "russia/far-eastern-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
+    "russia/ural-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
     "south-america/bolivia",
@@ -89,26 +94,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/romania",
-      "pbf_url": "https://download.geofabrik.de/europe/romania-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/ohio",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/ohio-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/victoria",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/victoria-latest.osm.pbf"
-    },
-    {
-      "id": "russia/ural-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/ural-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/colorado",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/colorado-latest.osm.pbf"
-    },
     {
       "id": "africa/algeria",
       "pbf_url": "https://download.geofabrik.de/africa/algeria-latest.osm.pbf"
