@@ -4,8 +4,10 @@
   "lock": [
     "africa/algeria",
     "africa/angola",
+    "africa/benin",
     "africa/botswana",
     "africa/burkina-faso",
+    "africa/burundi",
     "africa/cameroon",
     "africa/canary-islands",
     "africa/central-african-republic",
@@ -42,6 +44,7 @@
     "africa/zimbabwe",
     "asia/afghanistan",
     "asia/armenia",
+    "asia/azerbaijan",
     "asia/bangladesh",
     "asia/china/anhui",
     "asia/china/beijing",
@@ -108,6 +111,7 @@
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
+    "central-america/costa-rica",
     "central-america/el-salvador",
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
@@ -203,6 +207,7 @@
     "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
     "europe/netherlands/utrecht",
+    "europe/netherlands/zeeland",
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
@@ -359,26 +364,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/netherlands/zeeland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/zeeland-latest.osm.pbf"
-    },
-    {
-      "id": "asia/azerbaijan",
-      "pbf_url": "https://download.geofabrik.de/asia/azerbaijan-latest.osm.pbf"
-    },
-    {
-      "id": "africa/benin",
-      "pbf_url": "https://download.geofabrik.de/africa/benin-latest.osm.pbf"
-    },
-    {
-      "id": "africa/burundi",
-      "pbf_url": "https://download.geofabrik.de/africa/burundi-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/costa-rica",
-      "pbf_url": "https://download.geofabrik.de/central-america/costa-rica-latest.osm.pbf"
-    },
     {
       "id": "central-america/cuba",
       "pbf_url": "https://download.geofabrik.de/central-america/cuba-latest.osm.pbf"
