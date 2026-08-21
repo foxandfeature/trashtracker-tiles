@@ -37,6 +37,8 @@
     "asia/indonesia/nusa-tenggara",
     "asia/indonesia/sumatra",
     "asia/iran",
+    "asia/iraq",
+    "asia/israel-and-palestine",
     "asia/japan/chubu",
     "asia/japan/chugoku",
     "asia/japan/hokkaido",
@@ -129,8 +131,10 @@
     "europe/poland/dolnoslaskie",
     "europe/poland/kujawsko-pomorskie",
     "europe/poland/lodzkie",
+    "europe/poland/lubelskie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
+    "europe/poland/podkarpackie",
     "europe/poland/slaskie",
     "europe/poland/wielkopolskie",
     "europe/portugal",
@@ -147,6 +151,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/england/merseyside",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -219,26 +224,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/greater-london",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/greater-london-latest.osm.pbf"
-    },
-    {
-      "id": "asia/iraq",
-      "pbf_url": "https://download.geofabrik.de/asia/iraq-latest.osm.pbf"
-    },
-    {
-      "id": "asia/israel-and-palestine",
-      "pbf_url": "https://download.geofabrik.de/asia/israel-and-palestine-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/lubelskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lubelskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/podkarpackie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/podkarpackie-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/saskatchewan",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/saskatchewan-latest.osm.pbf"
