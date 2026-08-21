@@ -8,6 +8,7 @@
     "africa/egypt",
     "africa/kenya",
     "africa/madagascar",
+    "africa/mali",
     "africa/morocco",
     "africa/mozambique",
     "africa/nigeria",
@@ -18,6 +19,7 @@
     "africa/zambia",
     "africa/zimbabwe",
     "asia/bangladesh",
+    "asia/china/guangdong",
     "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
@@ -51,6 +53,7 @@
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
+    "europe/bulgaria",
     "europe/croatia",
     "europe/czech-republic/stredocesky",
     "europe/denmark",
@@ -61,6 +64,7 @@
     "europe/france/centre",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
+    "europe/france/lorraine",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
@@ -155,6 +159,7 @@
     "russia/ural-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
+    "south-america/bolivia",
     "south-america/brazil/centro-oeste",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
@@ -164,26 +169,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "africa/mali",
-      "pbf_url": "https://download.geofabrik.de/africa/mali-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/bolivia",
-      "pbf_url": "https://download.geofabrik.de/south-america/bolivia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/bulgaria",
-      "pbf_url": "https://download.geofabrik.de/europe/bulgaria-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/guangdong",
-      "pbf_url": "https://download.geofabrik.de/asia/china/guangdong-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/lorraine",
-      "pbf_url": "https://download.geofabrik.de/europe/france/lorraine-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/oklahoma",
       "pbf_url": "https://download.geofabrik.de/north-america/us/oklahoma-latest.osm.pbf"
