@@ -3,7 +3,9 @@
   "failed": [],
   "lock": [
     "africa/algeria",
+    "africa/angola",
     "africa/botswana",
+    "africa/burkina-faso",
     "africa/cameroon",
     "africa/central-african-republic",
     "africa/chad",
@@ -124,6 +126,7 @@
     "europe/germany/bayern/niederbayern",
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
+    "europe/germany/bayern/oberpfalz",
     "europe/germany/bayern/schwaben",
     "europe/germany/bayern/unterfranken",
     "europe/germany/berlin",
@@ -174,6 +177,7 @@
     "europe/poland/pomorskie",
     "europe/poland/slaskie",
     "europe/poland/swietokrzyskie",
+    "europe/poland/warminsko-mazurskie",
     "europe/poland/wielkopolskie",
     "europe/poland/zachodniopomorskie",
     "europe/portugal",
@@ -187,6 +191,7 @@
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
     "europe/spain/galicia",
+    "europe/spain/madrid",
     "europe/spain/valencia",
     "europe/sweden",
     "europe/switzerland",
@@ -279,26 +284,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/bayern/oberpfalz",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberpfalz-latest.osm.pbf"
-    },
-    {
-      "id": "africa/angola",
-      "pbf_url": "https://download.geofabrik.de/africa/angola-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/madrid",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/madrid-latest.osm.pbf"
-    },
-    {
-      "id": "africa/burkina-faso",
-      "pbf_url": "https://download.geofabrik.de/africa/burkina-faso-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/warminsko-mazurskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/warminsko-mazurskie-latest.osm.pbf"
-    },
     {
       "id": "africa/tunisia",
       "pbf_url": "https://download.geofabrik.de/africa/tunisia-latest.osm.pbf"
