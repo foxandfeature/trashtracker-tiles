@@ -3,6 +3,7 @@
   "failed": [],
   "lock": [
     "africa/congo-democratic-republic",
+    "africa/kenya",
     "africa/madagascar",
     "africa/nigeria",
     "africa/south-africa",
@@ -13,11 +14,13 @@
     "asia/india/southern-zone",
     "asia/indonesia/java",
     "asia/japan/chubu",
+    "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/nepal",
     "asia/philippines",
     "australia-oceania/new-zealand",
     "europe/austria",
+    "europe/belarus",
     "europe/belgium",
     "europe/denmark",
     "europe/finland",
@@ -38,6 +41,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "north-america/canada/alberta",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/northwest-territories",
     "north-america/canada/nunavut/kitikmeot",
@@ -66,29 +70,10 @@
     "south-america/argentina",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
-    "south-america/brazil/sul"
+    "south-america/brazil/sul",
+    "south-america/chile"
   ],
   "remaining": [
-    {
-      "id": "asia/japan/kansai",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kansai-latest.osm.pbf"
-    },
-    {
-      "id": "africa/kenya",
-      "pbf_url": "https://download.geofabrik.de/africa/kenya-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/alberta",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/alberta-latest.osm.pbf"
-    },
-    {
-      "id": "europe/belarus",
-      "pbf_url": "https://download.geofabrik.de/europe/belarus-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/chile",
-      "pbf_url": "https://download.geofabrik.de/south-america/chile-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/pennsylvania",
       "pbf_url": "https://download.geofabrik.de/north-america/us/pennsylvania-latest.osm.pbf"
