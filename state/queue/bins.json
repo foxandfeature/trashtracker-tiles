@@ -18,12 +18,15 @@
     "asia/japan/kanto",
     "asia/nepal",
     "asia/philippines",
+    "asia/thailand",
+    "asia/vietnam",
     "australia-oceania/new-zealand",
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
     "europe/denmark",
     "europe/finland",
+    "europe/france/bretagne",
     "europe/france/ile-de-france",
     "europe/france/midi-pyrenees",
     "europe/france/pays-de-la-loire",
@@ -40,6 +43,7 @@
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/portugal",
+    "europe/romania",
     "europe/slovakia",
     "europe/sweden",
     "europe/switzerland",
@@ -76,29 +80,10 @@
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
-    "south-america/chile"
+    "south-america/chile",
+    "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/france/bretagne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/bretagne-latest.osm.pbf"
-    },
-    {
-      "id": "asia/vietnam",
-      "pbf_url": "https://download.geofabrik.de/asia/vietnam-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/colombia",
-      "pbf_url": "https://download.geofabrik.de/south-america/colombia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/thailand",
-      "pbf_url": "https://download.geofabrik.de/asia/thailand-latest.osm.pbf"
-    },
-    {
-      "id": "europe/romania",
-      "pbf_url": "https://download.geofabrik.de/europe/romania-latest.osm.pbf"
-    },
     {
       "id": "asia/taiwan",
       "pbf_url": "https://download.geofabrik.de/asia/taiwan-latest.osm.pbf"
