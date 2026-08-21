@@ -5,6 +5,7 @@
     "africa/algeria",
     "africa/cameroon",
     "africa/congo-democratic-republic",
+    "africa/egypt",
     "africa/kenya",
     "africa/madagascar",
     "africa/morocco",
@@ -15,6 +16,7 @@
     "africa/tanzania",
     "africa/uganda",
     "africa/zambia",
+    "africa/zimbabwe",
     "asia/bangladesh",
     "asia/gcc-states",
     "asia/india/central-zone",
@@ -23,6 +25,7 @@
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
+    "asia/indonesia/nusa-tenggara",
     "asia/indonesia/sumatra",
     "asia/iran",
     "asia/japan/chubu",
@@ -74,6 +77,7 @@
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/rheinland-pfalz",
     "europe/germany/sachsen",
+    "europe/germany/sachsen-anhalt",
     "europe/greece",
     "europe/hungary",
     "europe/ireland-and-northern-ireland",
@@ -101,6 +105,7 @@
     "europe/slovakia",
     "europe/slovenia",
     "europe/spain/andalucia",
+    "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
     "europe/sweden",
     "europe/switzerland",
@@ -159,26 +164,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "africa/zimbabwe",
-      "pbf_url": "https://download.geofabrik.de/africa/zimbabwe-latest.osm.pbf"
-    },
-    {
-      "id": "africa/egypt",
-      "pbf_url": "https://download.geofabrik.de/africa/egypt-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/castilla-y-leon",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/castilla-y-leon-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/nusa-tenggara",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/nusa-tenggara-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/sachsen-anhalt",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/sachsen-anhalt-latest.osm.pbf"
-    },
     {
       "id": "africa/mali",
       "pbf_url": "https://download.geofabrik.de/africa/mali-latest.osm.pbf"
