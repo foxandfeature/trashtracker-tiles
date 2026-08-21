@@ -259,8 +259,10 @@
     "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/shropshire",
     "europe/united-kingdom/england/south-yorkshire",
+    "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/surrey",
     "europe/united-kingdom/england/west-yorkshire",
+    "europe/united-kingdom/england/wiltshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
@@ -304,6 +306,7 @@
     "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/minnesota",
+    "north-america/us/mississippi",
     "north-america/us/missouri",
     "north-america/us/montana",
     "north-america/us/nebraska",
@@ -319,6 +322,7 @@
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
     "north-america/us/puerto-rico",
+    "north-america/us/rhode-island",
     "north-america/us/south-carolina",
     "north-america/us/south-dakota",
     "north-america/us/tennessee",
@@ -351,29 +355,10 @@
     "south-america/ecuador",
     "south-america/paraguay",
     "south-america/peru",
+    "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/suffolk",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/suffolk-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/uruguay",
-      "pbf_url": "https://download.geofabrik.de/south-america/uruguay-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/mississippi",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/mississippi-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/rhode-island",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/rhode-island-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/wiltshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/wiltshire-latest.osm.pbf"
-    },
     {
       "id": "europe/netherlands/zeeland",
       "pbf_url": "https://download.geofabrik.de/europe/netherlands/zeeland-latest.osm.pbf"
