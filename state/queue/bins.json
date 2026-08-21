@@ -46,6 +46,7 @@
     "asia/china/guangdong",
     "asia/china/guangxi",
     "asia/china/hebei",
+    "asia/china/henan",
     "asia/china/hubei",
     "asia/china/hunan",
     "asia/china/jiangsu",
@@ -53,6 +54,7 @@
     "asia/china/shaanxi",
     "asia/china/shandong",
     "asia/china/sichuan",
+    "asia/china/tibet",
     "asia/china/yunnan",
     "asia/china/zhejiang",
     "asia/gcc-states",
@@ -93,6 +95,7 @@
     "asia/sri-lanka",
     "asia/syria",
     "asia/taiwan",
+    "asia/tajikistan",
     "asia/thailand",
     "asia/uzbekistan",
     "asia/vietnam",
@@ -250,6 +253,7 @@
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/west-midlands",
+    "europe/united-kingdom/england/west-sussex",
     "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -312,6 +316,7 @@
     "north-america/us/puerto-rico",
     "north-america/us/rhode-island",
     "north-america/us/south-carolina",
+    "north-america/us/south-dakota",
     "north-america/us/tennessee",
     "north-america/us/texas",
     "north-america/us/utah",
@@ -344,26 +349,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/west-sussex",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-sussex-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/tibet",
-      "pbf_url": "https://download.geofabrik.de/asia/china/tibet-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/henan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/henan-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/south-dakota",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/south-dakota-latest.osm.pbf"
-    },
-    {
-      "id": "asia/tajikistan",
-      "pbf_url": "https://download.geofabrik.de/asia/tajikistan-latest.osm.pbf"
-    },
     {
       "id": "africa/benin",
       "pbf_url": "https://download.geofabrik.de/africa/benin-latest.osm.pbf"
