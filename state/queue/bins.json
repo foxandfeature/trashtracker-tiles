@@ -6,8 +6,10 @@
     "australia-oceania/new-zealand",
     "europe/denmark",
     "europe/finland",
+    "europe/germany/niedersachsen",
     "europe/italy/nord-est",
     "europe/italy/sud",
+    "europe/norway/ostlandet",
     "europe/sweden",
     "europe/turkey",
     "north-america/canada/northwest-territories",
@@ -15,30 +17,13 @@
     "north-america/canada/quebec",
     "north-america/us/california/socal",
     "north-america/us/florida",
+    "north-america/us/new-york",
+    "russia/ural-fed-district",
+    "south-america/argentina",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "russia/ural-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/ural-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/argentina",
-      "pbf_url": "https://download.geofabrik.de/south-america/argentina-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/niedersachsen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/niedersachsen-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-york",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-york-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/ostlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/ostlandet-latest.osm.pbf"
-    },
     {
       "id": "south-america/brazil/nordeste",
       "pbf_url": "https://download.geofabrik.de/south-america/brazil/nordeste-latest.osm.pbf"
