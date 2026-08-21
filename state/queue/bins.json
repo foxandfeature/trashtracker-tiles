@@ -15,6 +15,7 @@
     "africa/chad",
     "africa/congo-brazzaville",
     "africa/congo-democratic-republic",
+    "africa/djibouti",
     "africa/egypt",
     "africa/eritrea",
     "africa/ethiopia",
@@ -78,6 +79,7 @@
     "asia/china/jiangxi",
     "asia/china/jilin",
     "asia/china/liaoning",
+    "asia/china/ningxia",
     "asia/china/qinghai",
     "asia/china/shaanxi",
     "asia/china/shandong",
@@ -151,6 +153,7 @@
     "australia-oceania/papua-new-guinea",
     "australia-oceania/polynesie-francaise",
     "australia-oceania/solomon-islands",
+    "australia-oceania/vanuatu",
     "central-america/bahamas",
     "central-america/belize",
     "central-america/costa-rica",
@@ -187,6 +190,7 @@
     "europe/czech-republic/zlinsky",
     "europe/denmark",
     "europe/estonia",
+    "europe/faroe-islands",
     "europe/finland",
     "europe/france/alsace",
     "europe/france/aquitaine",
@@ -259,6 +263,7 @@
     "europe/lithuania",
     "europe/luxembourg",
     "europe/macedonia",
+    "europe/malta",
     "europe/moldova",
     "europe/montenegro",
     "europe/netherlands/drenthe",
@@ -469,26 +474,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/malta",
-      "pbf_url": "https://download.geofabrik.de/europe/malta-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/ningxia",
-      "pbf_url": "https://download.geofabrik.de/asia/china/ningxia-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/vanuatu",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/vanuatu-latest.osm.pbf"
-    },
-    {
-      "id": "europe/faroe-islands",
-      "pbf_url": "https://download.geofabrik.de/europe/faroe-islands-latest.osm.pbf"
-    },
-    {
-      "id": "africa/djibouti",
-      "pbf_url": "https://download.geofabrik.de/africa/djibouti-latest.osm.pbf"
-    },
     {
       "id": "africa/equatorial-guinea",
       "pbf_url": "https://download.geofabrik.de/africa/equatorial-guinea-latest.osm.pbf"
