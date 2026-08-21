@@ -24,11 +24,14 @@
     "europe/belgium",
     "europe/denmark",
     "europe/finland",
+    "europe/france/ile-de-france",
     "europe/france/midi-pyrenees",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/germany/hessen",
     "europe/germany/niedersachsen",
+    "europe/greece",
     "europe/ireland-and-northern-ireland",
     "europe/italy/centro",
     "europe/italy/nord-est",
@@ -37,6 +40,7 @@
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/portugal",
+    "europe/slovakia",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
@@ -58,6 +62,7 @@
     "north-america/us/illinois",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
+    "north-america/us/pennsylvania",
     "north-america/us/texas",
     "north-america/us/virginia",
     "north-america/us/washington",
@@ -74,26 +79,6 @@
     "south-america/chile"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/pennsylvania",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/pennsylvania-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/hessen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/hessen-latest.osm.pbf"
-    },
-    {
-      "id": "europe/slovakia",
-      "pbf_url": "https://download.geofabrik.de/europe/slovakia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/greece",
-      "pbf_url": "https://download.geofabrik.de/europe/greece-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/ile-de-france",
-      "pbf_url": "https://download.geofabrik.de/europe/france/ile-de-france-latest.osm.pbf"
-    },
     {
       "id": "europe/france/bretagne",
       "pbf_url": "https://download.geofabrik.de/europe/france/bretagne-latest.osm.pbf"
