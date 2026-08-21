@@ -42,6 +42,7 @@
     "africa/nigeria",
     "africa/rwanda",
     "africa/senegal-and-gambia",
+    "africa/seychelles",
     "africa/sierra-leone",
     "africa/somalia",
     "africa/south-africa",
@@ -81,6 +82,7 @@
     "asia/china/jiangxi",
     "asia/china/jilin",
     "asia/china/liaoning",
+    "asia/china/macau",
     "asia/china/ningxia",
     "asia/china/qinghai",
     "asia/china/shaanxi",
@@ -172,6 +174,7 @@
     "central-america/nicaragua",
     "central-america/panama",
     "europe/albania",
+    "europe/andorra",
     "europe/austria",
     "europe/azores",
     "europe/belarus",
@@ -290,6 +293,7 @@
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/sorlandet",
+    "europe/norway/svalbard-janmayen",
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
     "europe/poland/dolnoslaskie",
@@ -450,6 +454,7 @@
     "north-america/us/south-dakota",
     "north-america/us/tennessee",
     "north-america/us/texas",
+    "north-america/us/us-virgin-islands",
     "north-america/us/utah",
     "north-america/us/vermont",
     "north-america/us/virginia",
@@ -484,26 +489,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/andorra",
-      "pbf_url": "https://download.geofabrik.de/europe/andorra-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/us-virgin-islands",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/us-virgin-islands-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/macau",
-      "pbf_url": "https://download.geofabrik.de/asia/china/macau-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/svalbard-janmayen",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/svalbard-janmayen-latest.osm.pbf"
-    },
-    {
-      "id": "africa/seychelles",
-      "pbf_url": "https://download.geofabrik.de/africa/seychelles-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/kiribati",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/kiribati-latest.osm.pbf"
