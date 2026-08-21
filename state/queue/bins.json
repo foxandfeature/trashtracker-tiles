@@ -6,6 +6,7 @@
     "africa/cameroon",
     "africa/congo-democratic-republic",
     "africa/egypt",
+    "africa/ethiopia",
     "africa/kenya",
     "africa/madagascar",
     "africa/malawi",
@@ -15,6 +16,7 @@
     "africa/nigeria",
     "africa/somalia",
     "africa/south-africa",
+    "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
     "africa/uganda",
@@ -88,6 +90,7 @@
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
+    "europe/germany/nordrhein-westfalen/detmold-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
@@ -115,6 +118,7 @@
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
     "europe/poland/dolnoslaskie",
+    "europe/poland/lubelskie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/poland/podkarpackie",
@@ -166,6 +170,7 @@
     "north-america/us/minnesota",
     "north-america/us/missouri",
     "north-america/us/new-jersey",
+    "north-america/us/new-mexico",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/ohio",
@@ -199,26 +204,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "africa/ethiopia",
-      "pbf_url": "https://download.geofabrik.de/africa/ethiopia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/lubelskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lubelskie-latest.osm.pbf"
-    },
-    {
-      "id": "africa/south-sudan",
-      "pbf_url": "https://download.geofabrik.de/africa/south-sudan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/detmold-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/detmold-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-mexico",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-mexico-latest.osm.pbf"
-    },
     {
       "id": "africa/chad",
       "pbf_url": "https://download.geofabrik.de/africa/chad-latest.osm.pbf"
