@@ -25,6 +25,7 @@
     "africa/mozambique",
     "africa/niger",
     "africa/nigeria",
+    "africa/rwanda",
     "africa/senegal-and-gambia",
     "africa/somalia",
     "africa/south-africa",
@@ -84,6 +85,7 @@
     "asia/vietnam",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
+    "australia-oceania/australia/south-australia",
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
@@ -156,6 +158,7 @@
     "europe/germany/thueringen",
     "europe/greece",
     "europe/hungary",
+    "europe/iceland",
     "europe/ireland-and-northern-ireland",
     "europe/italy/centro",
     "europe/italy/isole",
@@ -204,6 +207,7 @@
     "europe/spain/cataluna",
     "europe/spain/galicia",
     "europe/spain/madrid",
+    "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
     "europe/switzerland",
@@ -218,6 +222,7 @@
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/british-columbia/southcoast-admreg",
     "north-america/canada/manitoba",
+    "north-america/canada/new-brunswick",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/northwest-territories",
     "north-america/canada/nova-scotia",
@@ -299,26 +304,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/pais-vasco",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/pais-vasco-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/south-australia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/south-australia-latest.osm.pbf"
-    },
-    {
-      "id": "africa/rwanda",
-      "pbf_url": "https://download.geofabrik.de/africa/rwanda-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/new-brunswick",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/new-brunswick-latest.osm.pbf"
-    },
-    {
-      "id": "europe/iceland",
-      "pbf_url": "https://download.geofabrik.de/europe/iceland-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/british-columbia/kootenay-admreg",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/kootenay-admreg-latest.osm.pbf"
