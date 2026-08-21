@@ -2,10 +2,12 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/mozambique",
     "africa/nigeria",
     "africa/tanzania",
     "asia/india/central-zone",
     "asia/india/southern-zone",
+    "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/malaysia-singapore-brunei",
     "asia/philippines",
@@ -14,12 +16,15 @@
     "europe/austria",
     "europe/belgium",
     "europe/finland",
+    "europe/france/rhone-alpes",
     "europe/germany/bayern/oberbayern",
+    "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/poland/lodzkie",
     "europe/poland/mazowieckie",
+    "europe/slovenia",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
@@ -44,26 +49,6 @@
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "africa/mozambique",
-      "pbf_url": "https://download.geofabrik.de/africa/mozambique-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/western-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/western-zone-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/koeln-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/koeln-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/rhone-alpes",
-      "pbf_url": "https://download.geofabrik.de/europe/france/rhone-alpes-latest.osm.pbf"
-    },
-    {
-      "id": "europe/slovenia",
-      "pbf_url": "https://download.geofabrik.de/europe/slovenia-latest.osm.pbf"
-    },
     {
       "id": "south-america/brazil/sul",
       "pbf_url": "https://download.geofabrik.de/south-america/brazil/sul-latest.osm.pbf"
