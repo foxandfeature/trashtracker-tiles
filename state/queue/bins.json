@@ -4,6 +4,7 @@
   "lock": [
     "africa/algeria",
     "africa/cameroon",
+    "africa/central-african-republic",
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/egypt",
@@ -110,6 +111,7 @@
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/schwaben",
     "europe/germany/bayern/unterfranken",
+    "europe/germany/berlin",
     "europe/germany/brandenburg",
     "europe/germany/hessen",
     "europe/germany/mecklenburg-vorpommern",
@@ -191,6 +193,7 @@
     "north-america/us/alabama",
     "north-america/us/alaska",
     "north-america/us/arizona",
+    "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
     "north-america/us/colorado",
@@ -209,6 +212,8 @@
     "north-america/us/michigan",
     "north-america/us/minnesota",
     "north-america/us/missouri",
+    "north-america/us/montana",
+    "north-america/us/nebraska",
     "north-america/us/nevada",
     "north-america/us/new-jersey",
     "north-america/us/new-mexico",
@@ -249,26 +254,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/nebraska",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/nebraska-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/montana",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/montana-latest.osm.pbf"
-    },
-    {
-      "id": "africa/central-african-republic",
-      "pbf_url": "https://download.geofabrik.de/africa/central-african-republic-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/arkansas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/arkansas-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/berlin",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/berlin-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/nova-scotia",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/nova-scotia-latest.osm.pbf"
