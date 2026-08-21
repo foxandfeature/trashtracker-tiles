@@ -16,6 +16,7 @@
     "asia/japan/chubu",
     "asia/japan/kansai",
     "asia/japan/kanto",
+    "asia/japan/kyushu",
     "asia/nepal",
     "asia/philippines",
     "asia/taiwan",
@@ -36,6 +37,7 @@
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/greece",
+    "europe/hungary",
     "europe/ireland-and-northern-ireland",
     "europe/italy/centro",
     "europe/italy/nord-est",
@@ -44,11 +46,13 @@
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/portugal",
+    "europe/romania",
     "europe/slovakia",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/scotland",
     "north-america/canada/alberta",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/northwest-territories",
@@ -66,6 +70,7 @@
     "north-america/us/illinois",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
+    "north-america/us/ohio",
     "north-america/us/pennsylvania",
     "north-america/us/texas",
     "north-america/us/virginia",
@@ -84,26 +89,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/romania",
-      "pbf_url": "https://download.geofabrik.de/europe/romania-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/scotland",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/scotland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/hungary",
-      "pbf_url": "https://download.geofabrik.de/europe/hungary-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/ohio",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/ohio-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/kyushu",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kyushu-latest.osm.pbf"
-    },
     {
       "id": "russia/south-fed-district",
       "pbf_url": "https://download.geofabrik.de/russia/south-fed-district-latest.osm.pbf"
