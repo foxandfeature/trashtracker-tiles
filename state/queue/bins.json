@@ -21,6 +21,7 @@
     "africa/zambia",
     "africa/zimbabwe",
     "asia/bangladesh",
+    "asia/china/guangdong",
     "asia/china/sichuan",
     "asia/gcc-states",
     "asia/india/central-zone",
@@ -44,6 +45,7 @@
     "asia/malaysia-singapore-brunei",
     "asia/myanmar",
     "asia/nepal",
+    "asia/pakistan",
     "asia/philippines",
     "asia/south-korea",
     "asia/taiwan",
@@ -106,6 +108,7 @@
     "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/lithuania",
+    "europe/moldova",
     "europe/netherlands/gelderland",
     "europe/netherlands/limburg",
     "europe/netherlands/noord-brabant",
@@ -136,6 +139,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/merseyside",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
@@ -163,6 +167,7 @@
     "north-america/us/indiana",
     "north-america/us/iowa",
     "north-america/us/kansas",
+    "north-america/us/louisiana",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
@@ -204,26 +209,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/guangdong",
-      "pbf_url": "https://download.geofabrik.de/asia/china/guangdong-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/merseyside",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/merseyside-latest.osm.pbf"
-    },
-    {
-      "id": "europe/moldova",
-      "pbf_url": "https://download.geofabrik.de/europe/moldova-latest.osm.pbf"
-    },
-    {
-      "id": "asia/pakistan",
-      "pbf_url": "https://download.geofabrik.de/asia/pakistan-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/louisiana",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/louisiana-latest.osm.pbf"
-    },
     {
       "id": "africa/botswana",
       "pbf_url": "https://download.geofabrik.de/africa/botswana-latest.osm.pbf"
