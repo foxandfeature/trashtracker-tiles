@@ -67,9 +67,12 @@
     "asia/japan/shikoku",
     "asia/japan/tohoku",
     "asia/kazakhstan",
+    "asia/lebanon",
     "asia/malaysia-singapore-brunei",
+    "asia/mongolia",
     "asia/myanmar",
     "asia/nepal",
+    "asia/north-korea",
     "asia/pakistan",
     "asia/philippines",
     "asia/south-korea",
@@ -93,6 +96,7 @@
     "europe/bulgaria",
     "europe/croatia",
     "europe/czech-republic/jihocesky",
+    "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/stredocesky",
     "europe/denmark",
@@ -110,6 +114,7 @@
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
+    "europe/france/limousin",
     "europe/france/lorraine",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
@@ -279,26 +284,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/czech-republic/jihomoravsky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/jihomoravsky-latest.osm.pbf"
-    },
-    {
-      "id": "asia/lebanon",
-      "pbf_url": "https://download.geofabrik.de/asia/lebanon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/limousin",
-      "pbf_url": "https://download.geofabrik.de/europe/france/limousin-latest.osm.pbf"
-    },
-    {
-      "id": "asia/mongolia",
-      "pbf_url": "https://download.geofabrik.de/asia/mongolia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/north-korea",
-      "pbf_url": "https://download.geofabrik.de/asia/north-korea-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/nova-scotia",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/nova-scotia-latest.osm.pbf"
