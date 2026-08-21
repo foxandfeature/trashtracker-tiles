@@ -39,10 +39,12 @@
     "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
+    "africa/togo",
     "africa/tunisia",
     "africa/uganda",
     "africa/zambia",
     "africa/zimbabwe",
+    "antarctica",
     "asia/afghanistan",
     "asia/armenia",
     "asia/azerbaijan",
@@ -112,6 +114,7 @@
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/south-australia",
+    "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
@@ -283,8 +286,10 @@
     "europe/united-kingdom/england/shropshire",
     "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/south-yorkshire",
+    "europe/united-kingdom/england/staffordshire",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/surrey",
+    "europe/united-kingdom/england/west-sussex",
     "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/england/wiltshire",
     "europe/united-kingdom/scotland",
@@ -384,26 +389,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/staffordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/staffordshire-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/tasmania",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/tasmania-latest.osm.pbf"
-    },
-    {
-      "id": "africa/togo",
-      "pbf_url": "https://download.geofabrik.de/africa/togo-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/west-sussex",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-sussex-latest.osm.pbf"
-    },
-    {
-      "id": "antarctica",
-      "pbf_url": "https://download.geofabrik.de/antarctica-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/bremen",
       "pbf_url": "https://download.geofabrik.de/europe/germany/bremen-latest.osm.pbf"
