@@ -18,6 +18,7 @@
     "africa/morocco",
     "africa/mozambique",
     "africa/nigeria",
+    "africa/senegal-and-gambia",
     "africa/somalia",
     "africa/south-africa",
     "africa/south-sudan",
@@ -30,6 +31,7 @@
     "asia/bangladesh",
     "asia/china/guangdong",
     "asia/china/hebei",
+    "asia/china/sichuan",
     "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
@@ -87,7 +89,9 @@
     "europe/france/bourgogne",
     "europe/france/bretagne",
     "europe/france/centre",
+    "europe/france/champagne-ardenne",
     "europe/france/franche-comte",
+    "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
     "europe/france/lorraine",
@@ -152,6 +156,7 @@
     "europe/slovakia",
     "europe/slovenia",
     "europe/spain/andalucia",
+    "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
     "europe/spain/galicia",
@@ -239,26 +244,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/france/haute-normandie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/haute-normandie-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/sichuan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/sichuan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/castilla-la-mancha",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/castilla-la-mancha-latest.osm.pbf"
-    },
-    {
-      "id": "africa/senegal-and-gambia",
-      "pbf_url": "https://download.geofabrik.de/africa/senegal-and-gambia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/champagne-ardenne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/champagne-ardenne-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/bayern/unterfranken",
       "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/unterfranken-latest.osm.pbf"
