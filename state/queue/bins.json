@@ -8,6 +8,8 @@
     "africa/south-africa",
     "africa/tanzania",
     "africa/uganda",
+    "asia/bangladesh",
+    "asia/india/central-zone",
     "asia/india/southern-zone",
     "asia/indonesia/java",
     "asia/japan/chubu",
@@ -19,6 +21,7 @@
     "europe/belgium",
     "europe/denmark",
     "europe/finland",
+    "europe/france/midi-pyrenees",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
@@ -47,6 +50,8 @@
     "north-america/us/california/socal",
     "north-america/us/colorado",
     "north-america/us/florida",
+    "north-america/us/georgia",
+    "north-america/us/illinois",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/texas",
@@ -64,26 +69,6 @@
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "europe/france/midi-pyrenees",
-      "pbf_url": "https://download.geofabrik.de/europe/france/midi-pyrenees-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/illinois",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/illinois-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/georgia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/georgia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/bangladesh",
-      "pbf_url": "https://download.geofabrik.de/asia/bangladesh-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/central-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/central-zone-latest.osm.pbf"
-    },
     {
       "id": "asia/japan/kansai",
       "pbf_url": "https://download.geofabrik.de/asia/japan/kansai-latest.osm.pbf"
