@@ -2,38 +2,23 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/nigeria",
+    "africa/tanzania",
     "asia/indonesia/java",
     "europe/austria",
+    "europe/belgium",
+    "europe/finland",
     "europe/sweden",
     "europe/ukraine",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/ontario",
     "north-america/canada/quebec",
+    "north-america/us/texas",
     "russia/central-fed-district",
     "russia/volga-fed-district",
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "europe/finland",
-      "pbf_url": "https://download.geofabrik.de/europe/finland-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/texas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/texas-latest.osm.pbf"
-    },
-    {
-      "id": "africa/nigeria",
-      "pbf_url": "https://download.geofabrik.de/africa/nigeria-latest.osm.pbf"
-    },
-    {
-      "id": "africa/tanzania",
-      "pbf_url": "https://download.geofabrik.de/africa/tanzania-latest.osm.pbf"
-    },
-    {
-      "id": "europe/belgium",
-      "pbf_url": "https://download.geofabrik.de/europe/belgium-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/california/socal",
       "pbf_url": "https://download.geofabrik.de/north-america/us/california/socal-latest.osm.pbf"
