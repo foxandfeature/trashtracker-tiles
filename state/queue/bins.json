@@ -2,6 +2,7 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/algeria",
     "africa/egypt",
     "africa/madagascar",
     "africa/mozambique",
@@ -25,10 +26,12 @@
     "australia-oceania/australia/victoria",
     "australia-oceania/new-zealand",
     "europe/austria",
+    "europe/belarus",
     "europe/belgium",
     "europe/denmark",
     "europe/finland",
     "europe/france/aquitaine",
+    "europe/france/bretagne",
     "europe/france/ile-de-france",
     "europe/france/lorraine",
     "europe/france/provence-alpes-cote-d-azur",
@@ -46,6 +49,7 @@
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/trondelag",
+    "europe/poland/dolnoslaskie",
     "europe/poland/lodzkie",
     "europe/poland/mazowieckie",
     "europe/poland/wielkopolskie",
@@ -76,6 +80,7 @@
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/ohio",
+    "north-america/us/pennsylvania",
     "north-america/us/texas",
     "north-america/us/virginia",
     "north-america/us/washington",
@@ -94,26 +99,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "africa/algeria",
-      "pbf_url": "https://download.geofabrik.de/africa/algeria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/bretagne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/bretagne-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/dolnoslaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/dolnoslaskie-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/pennsylvania",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/pennsylvania-latest.osm.pbf"
-    },
-    {
-      "id": "europe/belarus",
-      "pbf_url": "https://download.geofabrik.de/europe/belarus-latest.osm.pbf"
-    },
     {
       "id": "europe/greece",
       "pbf_url": "https://download.geofabrik.de/europe/greece-latest.osm.pbf"
