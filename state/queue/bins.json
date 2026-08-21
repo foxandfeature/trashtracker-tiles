@@ -17,6 +17,7 @@
     "africa/egypt",
     "africa/eritrea",
     "africa/ethiopia",
+    "africa/gabon",
     "africa/ghana",
     "africa/guinea",
     "africa/ivory-coast",
@@ -125,6 +126,7 @@
     "asia/taiwan",
     "asia/tajikistan",
     "asia/thailand",
+    "asia/turkmenistan",
     "asia/uzbekistan",
     "asia/vietnam",
     "asia/yemen",
@@ -180,6 +182,7 @@
     "europe/france/champagne-ardenne",
     "europe/france/corse",
     "europe/france/franche-comte",
+    "europe/france/guadeloupe",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
@@ -311,11 +314,13 @@
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/lancashire",
     "europe/united-kingdom/england/lincolnshire",
+    "europe/united-kingdom/england/merseyside",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/northumberland",
     "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/oxfordshire",
+    "europe/united-kingdom/england/shropshire",
     "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/south-yorkshire",
     "europe/united-kingdom/england/staffordshire",
@@ -424,26 +429,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/gabon",
-      "pbf_url": "https://download.geofabrik.de/africa/gabon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/merseyside",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/merseyside-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/shropshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/shropshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/turkmenistan",
-      "pbf_url": "https://download.geofabrik.de/asia/turkmenistan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/guadeloupe",
-      "pbf_url": "https://download.geofabrik.de/europe/france/guadeloupe-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/warwickshire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/warwickshire-latest.osm.pbf"
