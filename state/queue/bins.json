@@ -8,6 +8,7 @@
     "africa/nigeria",
     "africa/south-africa",
     "africa/tanzania",
+    "africa/zambia",
     "asia/india/central-zone",
     "asia/india/southern-zone",
     "asia/india/western-zone",
@@ -26,6 +27,7 @@
     "europe/belgium",
     "europe/denmark",
     "europe/finland",
+    "europe/france/aquitaine",
     "europe/france/ile-de-france",
     "europe/france/lorraine",
     "europe/france/provence-alpes-cote-d-azur",
@@ -45,6 +47,7 @@
     "europe/norway/trondelag",
     "europe/poland/lodzkie",
     "europe/poland/mazowieckie",
+    "europe/poland/wielkopolskie",
     "europe/portugal",
     "europe/slovenia",
     "europe/sweden",
@@ -70,12 +73,14 @@
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/texas",
+    "north-america/us/virginia",
     "north-america/us/washington",
     "russia/central-fed-district",
     "russia/far-eastern-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
+    "south-america/argentina",
     "south-america/bolivia",
     "south-america/brazil/centro-oeste",
     "south-america/brazil/nordeste",
@@ -84,26 +89,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/virginia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/virginia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/wielkopolskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/wielkopolskie-latest.osm.pbf"
-    },
-    {
-      "id": "africa/zambia",
-      "pbf_url": "https://download.geofabrik.de/africa/zambia-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/argentina",
-      "pbf_url": "https://download.geofabrik.de/south-america/argentina-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/aquitaine",
-      "pbf_url": "https://download.geofabrik.de/europe/france/aquitaine-latest.osm.pbf"
-    },
     {
       "id": "europe/romania",
       "pbf_url": "https://download.geofabrik.de/europe/romania-latest.osm.pbf"
