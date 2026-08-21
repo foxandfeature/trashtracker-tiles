@@ -1,113 +1,1569 @@
 {
-  "africa/congo-democratic-republic": [
-    31
-  ],
-  "africa/kenya": [
-    32
-  ],
-  "africa/uganda": [
-    28
-  ],
-  "asia/bangladesh": [
-    29
-  ],
-  "asia/india/southern-zone": [
-    53
-  ],
-  "asia/japan/kansai": [
-    32
-  ],
-  "asia/taiwan": [
+  "africa/algeria": [
     34
   ],
-  "asia/vietnam": [
-    29
+  "africa/angola": [
+    14
   ],
-  "australia-oceania/new-zealand": [
-    60
+  "africa/benin": [
+    7
   ],
-  "europe/denmark": [
-    40
+  "africa/botswana": [
+    16
   ],
-  "europe/finland": [
-    83
+  "africa/burkina-faso": [
+    11
   ],
-  "europe/france/bretagne": [
-    29
+  "africa/burundi": [
+    7
   ],
-  "europe/france/midi-pyrenees": [
-    28
+  "africa/cameroon": [
+    21
   ],
-  "europe/france/pays-de-la-loire": [
+  "africa/canary-islands": [
+    11
+  ],
+  "africa/cape-verde": [
+    4
+  ],
+  "africa/central-african-republic": [
+    12
+  ],
+  "africa/chad": [
     26
   ],
-  "europe/germany/hessen": [
-    33
+  "africa/comores": [
+    3
   ],
-  "europe/germany/niedersachsen": [
-    38
+  "africa/congo-brazzaville": [
+    12
   ],
-  "europe/italy/centro": [
-    28
+  "africa/congo-democratic-republic": [
+    31,
+    32
   ],
-  "europe/italy/nord-est": [
-    58
+  "africa/djibouti": [
+    4
   ],
-  "europe/italy/sud": [
-    86
-  ],
-  "europe/norway/ostlandet": [
-    37
-  ],
-  "europe/sweden": [
-    57
-  ],
-  "europe/turkey": [
-    63
-  ],
-  "north-america/canada/northwest-territories": [
-    41
-  ],
-  "north-america/canada/nunavut/qikiqtaaluk": [
-    52
-  ],
-  "north-america/canada/quebec": [
-    71
-  ],
-  "north-america/us/california/socal": [
-    51
-  ],
-  "north-america/us/colorado": [
-    28
-  ],
-  "north-america/us/florida": [
-    51
-  ],
-  "north-america/us/georgia": [
-    28
-  ],
-  "north-america/us/illinois": [
-    28
-  ],
-  "north-america/us/new-york": [
-    38
-  ],
-  "north-america/us/pennsylvania": [
-    34
-  ],
-  "russia/ural-fed-district": [
-    39
-  ],
-  "south-america/argentina": [
-    38
-  ],
-  "south-america/brazil/nordeste": [
+  "africa/egypt": [
     36
   ],
+  "africa/equatorial-guinea": [
+    4
+  ],
+  "africa/eritrea": [
+    6
+  ],
+  "africa/ethiopia": [
+    21
+  ],
+  "africa/gabon": [
+    5
+  ],
+  "africa/ghana": [
+    14
+  ],
+  "africa/guinea": [
+    13
+  ],
+  "africa/guinea-bissau": [
+    4
+  ],
+  "africa/ivory-coast": [
+    11
+  ],
+  "africa/kenya": [
+    32,
+    27
+  ],
+  "africa/lesotho": [
+    13
+  ],
+  "africa/liberia": [
+    9
+  ],
+  "africa/libya": [
+    12
+  ],
+  "africa/madagascar": [
+    37
+  ],
+  "africa/malawi": [
+    14
+  ],
+  "africa/mali": [
+    33
+  ],
+  "africa/mauritania": [
+    5
+  ],
+  "africa/mauritius": [
+    3
+  ],
+  "africa/morocco": [
+    24
+  ],
+  "africa/mozambique": [
+    50
+  ],
+  "africa/namibia": [
+    8
+  ],
+  "africa/niger": [
+    10
+  ],
+  "africa/nigeria": [
+    77
+  ],
+  "africa/rwanda": [
+    9
+  ],
+  "africa/saint-helena-ascension-and-tristan-da-cunha": [
+    2
+  ],
+  "africa/sao-tome-and-principe": [
+    2
+  ],
+  "africa/senegal-and-gambia": [
+    13
+  ],
+  "africa/seychelles": [
+    3
+  ],
+  "africa/sierra-leone": [
+    7
+  ],
+  "africa/somalia": [
+    15
+  ],
+  "africa/south-africa": [
+    41
+  ],
+  "africa/south-sudan": [
+    16
+  ],
+  "africa/sudan": [
+    21
+  ],
+  "africa/swaziland": [
+    5
+  ],
+  "africa/tanzania": [
+    77
+  ],
+  "africa/togo": [
+    7
+  ],
+  "africa/tunisia": [
+    16
+  ],
+  "africa/uganda": [
+    28,
+    32
+  ],
+  "africa/zambia": [
+    36
+  ],
+  "africa/zimbabwe": [
+    19
+  ],
+  "antarctica": [
+    6
+  ],
+  "asia/afghanistan": [
+    14
+  ],
+  "asia/armenia": [
+    8
+  ],
+  "asia/azerbaijan": [
+    7
+  ],
+  "asia/bangladesh": [
+    29,
+    29
+  ],
+  "asia/bhutan": [
+    5
+  ],
+  "asia/cambodia": [
+    5
+  ],
+  "asia/china/anhui": [
+    10
+  ],
+  "asia/china/beijing": [
+    8
+  ],
+  "asia/china/chongqing": [
+    8
+  ],
+  "asia/china/fujian": [
+    8
+  ],
+  "asia/china/gansu": [
+    6
+  ],
+  "asia/china/guangdong": [
+    17
+  ],
+  "asia/china/guangxi": [
+    7
+  ],
+  "asia/china/guizhou": [
+    7
+  ],
+  "asia/china/hainan": [
+    3
+  ],
+  "asia/china/hebei": [
+    13
+  ],
+  "asia/china/heilongjiang": [
+    6
+  ],
+  "asia/china/henan": [
+    8
+  ],
+  "asia/china/hong-kong": [
+    5
+  ],
+  "asia/china/hubei": [
+    8
+  ],
+  "asia/china/hunan": [
+    8
+  ],
+  "asia/china/inner-mongolia": [
+    6
+  ],
+  "asia/china/jiangsu": [
+    12
+  ],
+  "asia/china/jiangxi": [
+    8
+  ],
+  "asia/china/jilin": [
+    6
+  ],
+  "asia/china/liaoning": [
+    7
+  ],
+  "asia/china/macau": [
+    3
+  ],
+  "asia/china/ningxia": [
+    4
+  ],
+  "asia/china/qinghai": [
+    6
+  ],
+  "asia/china/shaanxi": [
+    11
+  ],
+  "asia/china/shandong": [
+    12
+  ],
+  "asia/china/shanghai": [
+    4
+  ],
+  "asia/china/shanxi": [
+    7
+  ],
+  "asia/china/sichuan": [
+    21
+  ],
+  "asia/china/tianjin": [
+    4
+  ],
+  "asia/china/tibet": [
+    9
+  ],
+  "asia/china/xinjiang": [
+    6
+  ],
+  "asia/china/yunnan": [
+    10
+  ],
+  "asia/china/zhejiang": [
+    9
+  ],
+  "asia/east-timor": [
+    5
+  ],
+  "asia/gcc-states": [
+    31
+  ],
+  "asia/india/central-zone": [
+    136
+  ],
+  "asia/india/eastern-zone": [
+    31
+  ],
+  "asia/india/north-eastern-zone": [
+    12
+  ],
+  "asia/india/northern-zone": [
+    23
+  ],
+  "asia/india/southern-zone": [
+    53,
+    69
+  ],
+  "asia/india/western-zone": [
+    49
+  ],
+  "asia/indonesia/java": [
+    81
+  ],
+  "asia/indonesia/kalimantan": [
+    18
+  ],
+  "asia/indonesia/maluku": [
+    4
+  ],
+  "asia/indonesia/nusa-tenggara": [
+    21
+  ],
+  "asia/indonesia/papua": [
+    6
+  ],
+  "asia/indonesia/sulawesi": [
+    12
+  ],
+  "asia/indonesia/sumatra": [
+    36
+  ],
+  "asia/iran": [
+    32
+  ],
+  "asia/iraq": [
+    15
+  ],
+  "asia/israel-and-palestine": [
+    15
+  ],
+  "asia/japan/chubu": [
+    43
+  ],
+  "asia/japan/chugoku": [
+    21
+  ],
+  "asia/japan/hokkaido": [
+    21
+  ],
+  "asia/japan/kansai": [
+    32,
+    34
+  ],
+  "asia/japan/kanto": [
+    45
+  ],
+  "asia/japan/kyushu": [
+    36
+  ],
+  "asia/japan/shikoku": [
+    12
+  ],
+  "asia/japan/tohoku": [
+    30
+  ],
+  "asia/jordan": [
+    5
+  ],
+  "asia/kazakhstan": [
+    24
+  ],
+  "asia/kyrgyzstan": [
+    8
+  ],
+  "asia/laos": [
+    6
+  ],
+  "asia/lebanon": [
+    11
+  ],
+  "asia/malaysia-singapore-brunei": [
+    55
+  ],
+  "asia/maldives": [
+    4
+  ],
+  "asia/mongolia": [
+    11
+  ],
+  "asia/myanmar": [
+    28
+  ],
+  "asia/nepal": [
+    37
+  ],
+  "asia/north-korea": [
+    11
+  ],
+  "asia/pakistan": [
+    17
+  ],
+  "asia/philippines": [
+    59
+  ],
+  "asia/south-korea": [
+    36
+  ],
+  "asia/sri-lanka": [
+    14
+  ],
+  "asia/syria": [
+    11
+  ],
+  "asia/taiwan": [
+    34,
+    32
+  ],
+  "asia/tajikistan": [
+    6
+  ],
+  "asia/thailand": [
+    33
+  ],
+  "asia/turkmenistan": [
+    6
+  ],
+  "asia/uzbekistan": [
+    14
+  ],
+  "asia/vietnam": [
+    29,
+    23
+  ],
+  "asia/yemen": [
+    10
+  ],
+  "australia-oceania/american-oceania": [
+    3
+  ],
+  "australia-oceania/australia/act": [
+    5
+  ],
+  "australia-oceania/australia/ashmore-cartier": [
+    1
+  ],
+  "australia-oceania/australia/christmas-island": [
+    2
+  ],
+  "australia-oceania/australia/cocos-islands": [
+    2
+  ],
+  "australia-oceania/australia/coral-sea-islands": [
+    2
+  ],
+  "australia-oceania/australia/heard-mcdonald": [
+    2
+  ],
+  "australia-oceania/australia/new-south-wales": [
+    58
+  ],
+  "australia-oceania/australia/norfolk-island": [
+    2
+  ],
+  "australia-oceania/australia/northern-territory": [
+    5
+  ],
+  "australia-oceania/australia/queensland": [
+    23
+  ],
+  "australia-oceania/australia/south-australia": [
+    11
+  ],
+  "australia-oceania/australia/tasmania": [
+    7
+  ],
+  "australia-oceania/australia/victoria": [
+    35
+  ],
+  "australia-oceania/australia/western-australia": [
+    16
+  ],
+  "australia-oceania/cook-islands": [
+    2
+  ],
+  "australia-oceania/fiji": [
+    4
+  ],
+  "australia-oceania/ile-de-clipperton": [
+    2
+  ],
+  "australia-oceania/kiribati": [
+    3
+  ],
+  "australia-oceania/marshall-islands": [
+    3
+  ],
+  "australia-oceania/micronesia": [
+    3
+  ],
+  "australia-oceania/nauru": [
+    2
+  ],
+  "australia-oceania/new-caledonia": [
+    5
+  ],
+  "australia-oceania/new-zealand": [
+    60,
+    43
+  ],
+  "australia-oceania/niue": [
+    3
+  ],
+  "australia-oceania/palau": [
+    2
+  ],
+  "australia-oceania/papua-new-guinea": [
+    8
+  ],
+  "australia-oceania/pitcairn-islands": [
+    2
+  ],
+  "australia-oceania/polynesie-francaise": [
+    4
+  ],
+  "australia-oceania/samoa": [
+    3
+  ],
+  "australia-oceania/solomon-islands": [
+    4
+  ],
+  "australia-oceania/tokelau": [
+    2
+  ],
+  "australia-oceania/tonga": [
+    4
+  ],
+  "australia-oceania/tuvalu": [
+    2
+  ],
+  "australia-oceania/vanuatu": [
+    4
+  ],
+  "australia-oceania/wallis-et-futuna": [
+    3
+  ],
+  "central-america/bahamas": [
+    5
+  ],
+  "central-america/belize": [
+    5
+  ],
+  "central-america/costa-rica": [
+    7
+  ],
+  "central-america/cuba": [
+    7
+  ],
+  "central-america/el-salvador": [
+    8
+  ],
+  "central-america/guatemala": [
+    12
+  ],
+  "central-america/haiti-and-domrep": [
+    16
+  ],
+  "central-america/honduras": [
+    13
+  ],
+  "central-america/jamaica": [
+    7
+  ],
+  "central-america/nicaragua": [
+    7
+  ],
+  "central-america/panama": [
+    6
+  ],
+  "europe/albania": [
+    8
+  ],
+  "europe/andorra": [
+    3
+  ],
+  "europe/austria": [
+    83
+  ],
+  "europe/azores": [
+    4
+  ],
+  "europe/belarus": [
+    33
+  ],
+  "europe/belgium": [
+    90
+  ],
+  "europe/bosnia-herzegovina": [
+    17
+  ],
+  "europe/bulgaria": [
+    24
+  ],
+  "europe/croatia": [
+    20
+  ],
+  "europe/cyprus": [
+    5
+  ],
+  "europe/czech-republic/jihocesky": [
+    12
+  ],
+  "europe/czech-republic/jihomoravsky": [
+    11
+  ],
+  "europe/czech-republic/karlovarsky": [
+    6
+  ],
+  "europe/czech-republic/kralovehradecky": [
+    7
+  ],
+  "europe/czech-republic/liberecky": [
+    6
+  ],
+  "europe/czech-republic/moravskoslezky": [
+    30
+  ],
+  "europe/czech-republic/olomoucky": [
+    6
+  ],
+  "europe/czech-republic/pardubicky": [
+    8
+  ],
+  "europe/czech-republic/plzensky": [
+    10
+  ],
+  "europe/czech-republic/praha": [
+    7
+  ],
+  "europe/czech-republic/stredocesky": [
+    25
+  ],
+  "europe/czech-republic/ustecky": [
+    11
+  ],
+  "europe/czech-republic/vysocina": [
+    11
+  ],
+  "europe/czech-republic/zlinsky": [
+    11
+  ],
+  "europe/denmark": [
+    40,
+    47
+  ],
+  "europe/estonia": [
+    14
+  ],
+  "europe/faroe-islands": [
+    4
+  ],
+  "europe/finland": [
+    83,
+    55
+  ],
+  "europe/france/alsace": [
+    22
+  ],
+  "europe/france/aquitaine": [
+    35
+  ],
+  "europe/france/auvergne": [
+    12
+  ],
+  "europe/france/basse-normandie": [
+    19
+  ],
+  "europe/france/bourgogne": [
+    18
+  ],
+  "europe/france/bretagne": [
+    29,
+    39
+  ],
+  "europe/france/centre": [
+    29
+  ],
+  "europe/france/champagne-ardenne": [
+    13
+  ],
+  "europe/france/corse": [
+    6
+  ],
+  "europe/france/franche-comte": [
+    14
+  ],
+  "europe/france/guadeloupe": [
+    5
+  ],
+  "europe/france/guyane": [
+    5
+  ],
+  "europe/france/haute-normandie": [
+    12
+  ],
+  "europe/france/ile-de-france": [
+    41
+  ],
+  "europe/france/languedoc-roussillon": [
+    31
+  ],
+  "europe/france/limousin": [
+    11
+  ],
+  "europe/france/lorraine": [
+    41
+  ],
+  "europe/france/martinique": [
+    6
+  ],
+  "europe/france/mayotte": [
+    4
+  ],
+  "europe/france/midi-pyrenees": [
+    28,
+    29
+  ],
+  "europe/france/nord-pas-de-calais": [
+    24
+  ],
+  "europe/france/pays-de-la-loire": [
+    26,
+    37
+  ],
+  "europe/france/picardie": [
+    13
+  ],
+  "europe/france/poitou-charentes": [
+    21
+  ],
+  "europe/france/provence-alpes-cote-d-azur": [
+    39
+  ],
+  "europe/france/reunion": [
+    6
+  ],
+  "europe/france/rhone-alpes": [
+    47
+  ],
+  "europe/georgia": [
+    20
+  ],
+  "europe/germany/baden-wuerttemberg/freiburg-regbez": [
+    22
+  ],
+  "europe/germany/baden-wuerttemberg/karlsruhe-regbez": [
+    18
+  ],
+  "europe/germany/baden-wuerttemberg/stuttgart-regbez": [
+    21
+  ],
+  "europe/germany/baden-wuerttemberg/tuebingen-regbez": [
+    21
+  ],
+  "europe/germany/bayern/mittelfranken": [
+    10
+  ],
+  "europe/germany/bayern/niederbayern": [
+    9
+  ],
+  "europe/germany/bayern/oberbayern": [
+    60
+  ],
+  "europe/germany/bayern/oberfranken": [
+    10
+  ],
+  "europe/germany/bayern/oberpfalz": [
+    11
+  ],
+  "europe/germany/bayern/schwaben": [
+    16
+  ],
+  "europe/germany/bayern/unterfranken": [
+    10
+  ],
+  "europe/germany/berlin": [
+    13
+  ],
+  "europe/germany/brandenburg": [
+    38
+  ],
+  "europe/germany/bremen": [
+    6
+  ],
+  "europe/germany/hamburg": [
+    8
+  ],
+  "europe/germany/hessen": [
+    33,
+    42
+  ],
+  "europe/germany/mecklenburg-vorpommern": [
+    26
+  ],
+  "europe/germany/niedersachsen": [
+    38,
+    44
+  ],
+  "europe/germany/nordrhein-westfalen/arnsberg-regbez": [
+    28
+  ],
+  "europe/germany/nordrhein-westfalen/detmold-regbez": [
+    14
+  ],
+  "europe/germany/nordrhein-westfalen/duesseldorf-regbez": [
+    28
+  ],
+  "europe/germany/nordrhein-westfalen/koeln-regbez": [
+    47
+  ],
+  "europe/germany/nordrhein-westfalen/muenster-regbez": [
+    26
+  ],
+  "europe/germany/rheinland-pfalz": [
+    36
+  ],
+  "europe/germany/saarland": [
+    8
+  ],
+  "europe/germany/sachsen": [
+    33
+  ],
+  "europe/germany/sachsen-anhalt": [
+    18
+  ],
+  "europe/germany/schleswig-holstein": [
+    18
+  ],
+  "europe/germany/thueringen": [
+    30
+  ],
+  "europe/greece": [
+    33
+  ],
+  "europe/guernsey-jersey": [
+    4
+  ],
+  "europe/hungary": [
+    28
+  ],
+  "europe/iceland": [
+    11
+  ],
+  "europe/ireland-and-northern-ireland": [
+    38
+  ],
+  "europe/isle-of-man": [
+    3
+  ],
+  "europe/italy/centro": [
+    28,
+    34
+  ],
+  "europe/italy/isole": [
+    22
+  ],
+  "europe/italy/nord-est": [
+    58,
+    56
+  ],
+  "europe/italy/nord-ovest": [
+    67
+  ],
+  "europe/italy/sud": [
+    86,
+    29
+  ],
+  "europe/kosovo": [
+    6
+  ],
+  "europe/latvia": [
+    16
+  ],
+  "europe/liechtenstein": [
+    4
+  ],
+  "europe/lithuania": [
+    28
+  ],
+  "europe/luxembourg": [
+    8
+  ],
+  "europe/macedonia": [
+    7
+  ],
+  "europe/malta": [
+    4
+  ],
+  "europe/moldova": [
+    17
+  ],
+  "europe/monaco": [
+    3
+  ],
+  "europe/montenegro": [
+    6
+  ],
+  "europe/netherlands/drenthe": [
+    10
+  ],
+  "europe/netherlands/flevoland": [
+    6
+  ],
+  "europe/netherlands/friesland": [
+    10
+  ],
+  "europe/netherlands/gelderland": [
+    18
+  ],
+  "europe/netherlands/groningen": [
+    10
+  ],
+  "europe/netherlands/limburg": [
+    18
+  ],
+  "europe/netherlands/noord-brabant": [
+    31
+  ],
+  "europe/netherlands/noord-holland": [
+    20
+  ],
+  "europe/netherlands/overijssel": [
+    19
+  ],
+  "europe/netherlands/utrecht": [
+    13
+  ],
+  "europe/netherlands/zeeland": [
+    8
+  ],
+  "europe/netherlands/zuid-holland": [
+    23
+  ],
+  "europe/norway/nord-norge": [
+    36
+  ],
+  "europe/norway/ostlandet": [
+    37,
+    37
+  ],
+  "europe/norway/sorlandet": [
+    10
+  ],
+  "europe/norway/svalbard-janmayen": [
+    3
+  ],
+  "europe/norway/trondelag": [
+    42
+  ],
+  "europe/norway/vestlandet": [
+    23
+  ],
+  "europe/poland/dolnoslaskie": [
+    34
+  ],
+  "europe/poland/kujawsko-pomorskie": [
+    20
+  ],
+  "europe/poland/lodzkie": [
+    107
+  ],
+  "europe/poland/lubelskie": [
+    15
+  ],
+  "europe/poland/lubuskie": [
+    7
+  ],
+  "europe/poland/malopolskie": [
+    24
+  ],
+  "europe/poland/mazowieckie": [
+    50
+  ],
+  "europe/poland/opolskie": [
+    8
+  ],
+  "europe/poland/podkarpackie": [
+    15
+  ],
+  "europe/poland/podlaskie": [
+    12
+  ],
+  "europe/poland/pomorskie": [
+    14
+  ],
+  "europe/poland/slaskie": [
+    18
+  ],
+  "europe/poland/swietokrzyskie": [
+    12
+  ],
+  "europe/poland/warminsko-mazurskie": [
+    11
+  ],
+  "europe/poland/wielkopolskie": [
+    36
+  ],
+  "europe/poland/zachodniopomorskie": [
+    12
+  ],
+  "europe/portugal": [
+    36
+  ],
+  "europe/romania": [
+    35
+  ],
+  "europe/serbia": [
+    28
+  ],
+  "europe/slovakia": [
+    32
+  ],
+  "europe/slovenia": [
+    47
+  ],
+  "europe/spain/andalucia": [
+    23
+  ],
+  "europe/spain/aragon": [
+    10
+  ],
+  "europe/spain/asturias": [
+    9
+  ],
+  "europe/spain/cantabria": [
+    5
+  ],
+  "europe/spain/castilla-la-mancha": [
+    15
+  ],
+  "europe/spain/castilla-y-leon": [
+    18
+  ],
+  "europe/spain/cataluna": [
+    21
+  ],
+  "europe/spain/ceuta": [
+    3
+  ],
+  "europe/spain/extremadura": [
+    7
+  ],
+  "europe/spain/galicia": [
+    22
+  ],
+  "europe/spain/islas-baleares": [
+    7
+  ],
+  "europe/spain/la-rioja": [
+    5
+  ],
+  "europe/spain/madrid": [
+    14
+  ],
+  "europe/spain/melilla": [
+    2
+  ],
+  "europe/spain/murcia": [
+    6
+  ],
+  "europe/spain/navarra": [
+    5
+  ],
+  "europe/spain/pais-vasco": [
+    8
+  ],
+  "europe/spain/valencia": [
+    15
+  ],
+  "europe/sweden": [
+    57,
+    78
+  ],
+  "europe/switzerland": [
+    60
+  ],
+  "europe/turkey": [
+    63,
+    43
+  ],
+  "europe/ukraine": [
+    85
+  ],
+  "europe/united-kingdom/bermuda": [
+    3
+  ],
+  "europe/united-kingdom/england/bedfordshire": [
+    4
+  ],
+  "europe/united-kingdom/england/berkshire": [
+    5
+  ],
+  "europe/united-kingdom/england/bristol": [
+    4
+  ],
+  "europe/united-kingdom/england/buckinghamshire": [
+    5
+  ],
+  "europe/united-kingdom/england/cambridgeshire": [
+    8
+  ],
+  "europe/united-kingdom/england/cheshire": [
+    6
+  ],
+  "europe/united-kingdom/england/cornwall": [
+    8
+  ],
+  "europe/united-kingdom/england/cumbria": [
+    10
+  ],
+  "europe/united-kingdom/england/derbyshire": [
+    12
+  ],
+  "europe/united-kingdom/england/devon": [
+    8
+  ],
+  "europe/united-kingdom/england/dorset": [
+    5
+  ],
+  "europe/united-kingdom/england/durham": [
+    7
+  ],
+  "europe/united-kingdom/england/east-sussex": [
+    5
+  ],
+  "europe/united-kingdom/england/east-yorkshire-with-hull": [
+    6
+  ],
+  "europe/united-kingdom/england/essex": [
+    9
+  ],
+  "europe/united-kingdom/england/gloucestershire": [
+    9
+  ],
+  "europe/united-kingdom/england/greater-london": [
+    15
+  ],
+  "europe/united-kingdom/england/greater-manchester": [
+    8
+  ],
+  "europe/united-kingdom/england/hampshire": [
+    7
+  ],
+  "europe/united-kingdom/england/herefordshire": [
+    3
+  ],
+  "europe/united-kingdom/england/hertfordshire": [
+    9
+  ],
+  "europe/united-kingdom/england/isle-of-wight": [
+    3
+  ],
+  "europe/united-kingdom/england/kent": [
+    10
+  ],
+  "europe/united-kingdom/england/lancashire": [
+    5
+  ],
+  "europe/united-kingdom/england/leicestershire": [
+    5
+  ],
+  "europe/united-kingdom/england/lincolnshire": [
+    7
+  ],
+  "europe/united-kingdom/england/merseyside": [
+    17
+  ],
+  "europe/united-kingdom/england/norfolk": [
+    6
+  ],
+  "europe/united-kingdom/england/north-yorkshire": [
+    10
+  ],
+  "europe/united-kingdom/england/northamptonshire": [
+    5
+  ],
+  "europe/united-kingdom/england/northumberland": [
+    7
+  ],
+  "europe/united-kingdom/england/nottinghamshire": [
+    9
+  ],
+  "europe/united-kingdom/england/oxfordshire": [
+    5
+  ],
+  "europe/united-kingdom/england/rutland": [
+    3
+  ],
+  "europe/united-kingdom/england/shropshire": [
+    8
+  ],
+  "europe/united-kingdom/england/somerset": [
+    7
+  ],
+  "europe/united-kingdom/england/south-yorkshire": [
+    8
+  ],
+  "europe/united-kingdom/england/staffordshire": [
+    7
+  ],
+  "europe/united-kingdom/england/suffolk": [
+    8
+  ],
+  "europe/united-kingdom/england/surrey": [
+    10
+  ],
+  "europe/united-kingdom/england/tyne-and-wear": [
+    5
+  ],
+  "europe/united-kingdom/england/warwickshire": [
+    5
+  ],
+  "europe/united-kingdom/england/west-midlands": [
+    6
+  ],
+  "europe/united-kingdom/england/west-sussex": [
+    7
+  ],
+  "europe/united-kingdom/england/west-yorkshire": [
+    10
+  ],
+  "europe/united-kingdom/england/wiltshire": [
+    8
+  ],
+  "europe/united-kingdom/england/worcestershire": [
+    5
+  ],
+  "europe/united-kingdom/falklands": [
+    3
+  ],
+  "europe/united-kingdom/scotland": [
+    32
+  ],
+  "europe/united-kingdom/wales": [
+    28
+  ],
+  "north-america/canada/alberta": [
+    36
+  ],
+  "north-america/canada/british-columbia/interior-admreg": [
+    106
+  ],
+  "north-america/canada/british-columbia/island-admreg": [
+    16
+  ],
+  "north-america/canada/british-columbia/kootenay-admreg": [
+    7
+  ],
+  "north-america/canada/british-columbia/north-admreg": [
+    71
+  ],
+  "north-america/canada/british-columbia/okanagan-admreg": [
+    8
+  ],
+  "north-america/canada/british-columbia/southcoast-admreg": [
+    14
+  ],
+  "north-america/canada/manitoba": [
+    26
+  ],
+  "north-america/canada/new-brunswick": [
+    12
+  ],
+  "north-america/canada/newfoundland-and-labrador": [
+    25
+  ],
+  "north-america/canada/northwest-territories": [
+    41,
+    38
+  ],
+  "north-america/canada/nova-scotia": [
+    11
+  ],
+  "north-america/canada/nunavut/kitikmeot": [
+    50
+  ],
+  "north-america/canada/nunavut/kivalliq": [
+    52
+  ],
+  "north-america/canada/nunavut/qikiqtaaluk": [
+    52,
+    52
+  ],
+  "north-america/canada/ontario": [
+    62
+  ],
+  "north-america/canada/prince-edward-island": [
+    4
+  ],
+  "north-america/canada/quebec": [
+    71,
+    112
+  ],
+  "north-america/canada/saskatchewan": [
+    15
+  ],
+  "north-america/canada/yukon": [
+    10
+  ],
+  "north-america/greenland": [
+    6
+  ],
+  "north-america/mexico": [
+    51
+  ],
+  "north-america/us/alabama": [
+    29
+  ],
+  "north-america/us/alaska": [
+    29
+  ],
+  "north-america/us/arizona": [
+    27
+  ],
+  "north-america/us/arkansas": [
+    13
+  ],
+  "north-america/us/california/norcal": [
+    68
+  ],
+  "north-america/us/california/socal": [
+    51,
+    50
+  ],
+  "north-america/us/colorado": [
+    28,
+    41
+  ],
+  "north-america/us/connecticut": [
+    23
+  ],
+  "north-america/us/delaware": [
+    6
+  ],
+  "north-america/us/district-of-columbia": [
+    5
+  ],
+  "north-america/us/florida": [
+    51,
+    55
+  ],
+  "north-america/us/georgia": [
+    28,
+    31
+  ],
+  "north-america/us/hawaii": [
+    4
+  ],
+  "north-america/us/idaho": [
+    16
+  ],
+  "north-america/us/illinois": [
+    28,
+    26
+  ],
+  "north-america/us/indiana": [
+    28
+  ],
+  "north-america/us/iowa": [
+    27
+  ],
+  "north-america/us/kansas": [
+    24
+  ],
+  "north-america/us/kentucky": [
+    14
+  ],
+  "north-america/us/louisiana": [
+    17
+  ],
+  "north-america/us/maine": [
+    10
+  ],
+  "north-america/us/maryland": [
+    40
+  ],
+  "north-america/us/massachusetts": [
+    89
+  ],
+  "north-america/us/michigan": [
+    36
+  ],
+  "north-america/us/minnesota": [
+    28
+  ],
+  "north-america/us/mississippi": [
+    8
+  ],
+  "north-america/us/missouri": [
+    22
+  ],
+  "north-america/us/montana": [
+    12
+  ],
+  "north-america/us/nebraska": [
+    13
+  ],
+  "north-america/us/nevada": [
+    14
+  ],
+  "north-america/us/new-hampshire": [
+    9
+  ],
+  "north-america/us/new-jersey": [
+    22
+  ],
+  "north-america/us/new-mexico": [
+    15
+  ],
+  "north-america/us/new-york": [
+    38,
+    39
+  ],
+  "north-america/us/north-carolina": [
+    44
+  ],
+  "north-america/us/north-dakota": [
+    21
+  ],
+  "north-america/us/ohio": [
+    35
+  ],
+  "north-america/us/oklahoma": [
+    19
+  ],
+  "north-america/us/oregon": [
+    20
+  ],
+  "north-america/us/pennsylvania": [
+    34,
+    34
+  ],
+  "north-america/us/puerto-rico": [
+    12
+  ],
+  "north-america/us/rhode-island": [
+    8
+  ],
+  "north-america/us/south-carolina": [
+    31
+  ],
+  "north-america/us/south-dakota": [
+    9
+  ],
+  "north-america/us/tennessee": [
+    22
+  ],
+  "north-america/us/texas": [
+    70
+  ],
+  "north-america/us/us-virgin-islands": [
+    3
+  ],
+  "north-america/us/utah": [
+    21
+  ],
+  "north-america/us/vermont": [
+    9
+  ],
+  "north-america/us/virginia": [
+    36
+  ],
+  "north-america/us/washington": [
+    37
+  ],
+  "north-america/us/west-virginia": [
+    14
+  ],
+  "north-america/us/wisconsin": [
+    31
+  ],
+  "north-america/us/wyoming": [
+    10
+  ],
+  "russia/central-fed-district": [
+    78
+  ],
+  "russia/crimean-fed-district": [
+    8
+  ],
+  "russia/far-eastern-fed-district": [
+    36
+  ],
+  "russia/north-caucasus-fed-district": [
+    13
+  ],
+  "russia/northwestern-fed-district": [
+    62
+  ],
+  "russia/siberian-fed-district": [
+    59
+  ],
+  "russia/south-fed-district": [
+    30
+  ],
+  "russia/ural-fed-district": [
+    39,
+    30
+  ],
+  "russia/volga-fed-district": [
+    80
+  ],
+  "south-america/argentina": [
+    38,
+    33
+  ],
+  "south-america/bolivia": [
+    39
+  ],
+  "south-america/brazil/centro-oeste": [
+    45
+  ],
+  "south-america/brazil/nordeste": [
+    36,
+    41
+  ],
+  "south-america/brazil/norte": [
+    18
+  ],
   "south-america/brazil/sudeste": [
-    57
+    57,
+    77
   ],
   "south-america/brazil/sul": [
-    42
+    42,
+    50
+  ],
+  "south-america/chile": [
+    31
+  ],
+  "south-america/colombia": [
+    36
+  ],
+  "south-america/ecuador": [
+    13
+  ],
+  "south-america/guyana": [
+    4
+  ],
+  "south-america/paraguay": [
+    19
+  ],
+  "south-america/peru": [
+    28
+  ],
+  "south-america/suriname": [
+    5
+  ],
+  "south-america/uruguay": [
+    8
+  ],
+  "south-america/venezuela": [
+    21
   ]
 }
