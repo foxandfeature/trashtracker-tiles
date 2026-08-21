@@ -43,6 +43,7 @@
     "asia/china/gansu",
     "asia/china/guangdong",
     "asia/china/hebei",
+    "asia/china/hubei",
     "asia/china/jiangsu",
     "asia/china/shaanxi",
     "asia/china/shandong",
@@ -73,6 +74,7 @@
     "asia/japan/shikoku",
     "asia/japan/tohoku",
     "asia/kazakhstan",
+    "asia/kyrgyzstan",
     "asia/malaysia-singapore-brunei",
     "asia/mongolia",
     "asia/myanmar",
@@ -109,6 +111,7 @@
     "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/olomoucky",
+    "europe/czech-republic/pardubicky",
     "europe/czech-republic/plzensky",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
@@ -179,6 +182,7 @@
     "europe/netherlands/drenthe",
     "europe/netherlands/friesland",
     "europe/netherlands/gelderland",
+    "europe/netherlands/groningen",
     "europe/netherlands/limburg",
     "europe/netherlands/noord-brabant",
     "europe/netherlands/noord-holland",
@@ -316,29 +320,10 @@
     "south-america/ecuador",
     "south-america/paraguay",
     "south-america/peru",
+    "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/netherlands/groningen",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/groningen-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/uruguay",
-      "pbf_url": "https://download.geofabrik.de/south-america/uruguay-latest.osm.pbf"
-    },
-    {
-      "id": "asia/kyrgyzstan",
-      "pbf_url": "https://download.geofabrik.de/asia/kyrgyzstan-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hubei",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hubei-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/pardubicky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/pardubicky-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/saarland",
       "pbf_url": "https://download.geofabrik.de/europe/germany/saarland-latest.osm.pbf"
