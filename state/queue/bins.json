@@ -11,6 +11,7 @@
     "africa/egypt",
     "africa/ethiopia",
     "africa/ghana",
+    "africa/guinea",
     "africa/kenya",
     "africa/madagascar",
     "africa/malawi",
@@ -30,6 +31,7 @@
     "asia/afghanistan",
     "asia/bangladesh",
     "asia/china/guangdong",
+    "asia/china/hebei",
     "asia/china/sichuan",
     "asia/gcc-states",
     "asia/india/central-zone",
@@ -69,6 +71,7 @@
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
     "central-america/haiti-and-domrep",
+    "central-america/honduras",
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
@@ -86,6 +89,7 @@
     "europe/france/bourgogne",
     "europe/france/bretagne",
     "europe/france/centre",
+    "europe/france/champagne-ardenne",
     "europe/france/franche-comte",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
@@ -239,31 +243,12 @@
     "south-america/brazil/sul",
     "south-america/chile",
     "south-america/colombia",
+    "south-america/ecuador",
     "south-america/paraguay",
     "south-america/peru",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/france/champagne-ardenne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/champagne-ardenne-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/ecuador",
-      "pbf_url": "https://download.geofabrik.de/south-america/ecuador-latest.osm.pbf"
-    },
-    {
-      "id": "africa/guinea",
-      "pbf_url": "https://download.geofabrik.de/africa/guinea-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hebei",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hebei-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/honduras",
-      "pbf_url": "https://download.geofabrik.de/central-america/honduras-latest.osm.pbf"
-    },
     {
       "id": "africa/lesotho",
       "pbf_url": "https://download.geofabrik.de/africa/lesotho-latest.osm.pbf"
