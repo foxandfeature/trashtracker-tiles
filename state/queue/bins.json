@@ -11,6 +11,7 @@
     "asia/india/southern-zone",
     "asia/indonesia/java",
     "asia/japan/kansai",
+    "asia/philippines",
     "asia/taiwan",
     "asia/vietnam",
     "australia-oceania/new-zealand",
@@ -25,9 +26,11 @@
     "europe/germany/niedersachsen",
     "europe/italy/centro",
     "europe/italy/nord-est",
+    "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/norway/ostlandet",
     "europe/sweden",
+    "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
     "north-america/canada/british-columbia/north-admreg",
@@ -35,6 +38,7 @@
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
     "north-america/canada/quebec",
+    "north-america/mexico",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
     "north-america/us/colorado",
@@ -46,6 +50,7 @@
     "north-america/us/texas",
     "russia/central-fed-district",
     "russia/northwestern-fed-district",
+    "russia/siberian-fed-district",
     "russia/ural-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
@@ -54,26 +59,6 @@
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "north-america/mexico",
-      "pbf_url": "https://download.geofabrik.de/north-america/mexico-latest.osm.pbf"
-    },
-    {
-      "id": "asia/philippines",
-      "pbf_url": "https://download.geofabrik.de/asia/philippines-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/nord-ovest",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/nord-ovest-latest.osm.pbf"
-    },
-    {
-      "id": "russia/siberian-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/siberian-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/switzerland",
-      "pbf_url": "https://download.geofabrik.de/europe/switzerland-latest.osm.pbf"
-    },
     {
       "id": "europe/france/rhone-alpes",
       "pbf_url": "https://download.geofabrik.de/europe/france/rhone-alpes-latest.osm.pbf"
