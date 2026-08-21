@@ -1,28 +1,14 @@
 {
   "done": [],
   "failed": [],
-  "lock": [],
+  "lock": [
+    "asia/india/central-zone",
+    "europe/belgium",
+    "europe/poland/lodzkie",
+    "north-america/canada/british-columbia/interior-admreg",
+    "north-america/canada/quebec"
+  ],
   "remaining": [
-    {
-      "id": "asia/india/central-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/central-zone-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/lodzkie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lodzkie-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/interior-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/interior-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/quebec",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/quebec-latest.osm.pbf"
-    },
-    {
-      "id": "europe/belgium",
-      "pbf_url": "https://download.geofabrik.de/europe/belgium-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/massachusetts",
       "pbf_url": "https://download.geofabrik.de/north-america/us/massachusetts-latest.osm.pbf"
