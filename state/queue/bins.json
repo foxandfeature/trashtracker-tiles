@@ -11,6 +11,7 @@
     "africa/mozambique",
     "africa/nigeria",
     "africa/south-africa",
+    "africa/sudan",
     "africa/tanzania",
     "africa/uganda",
     "africa/zambia",
@@ -76,10 +77,12 @@
     "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/lithuania",
+    "europe/netherlands/noord-brabant",
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/vestlandet",
+    "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/portugal",
     "europe/romania",
@@ -94,6 +97,7 @@
     "europe/united-kingdom/scotland",
     "north-america/canada/alberta",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/manitoba",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/northwest-territories",
     "north-america/canada/nunavut/kitikmeot",
@@ -131,6 +135,7 @@
     "russia/ural-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
+    "south-america/brazil/centro-oeste",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
@@ -139,26 +144,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/manitoba",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/manitoba-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/noord-brabant",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/noord-brabant-latest.osm.pbf"
-    },
-    {
-      "id": "africa/sudan",
-      "pbf_url": "https://download.geofabrik.de/africa/sudan-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/centro-oeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/centro-oeste-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/malopolskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/malopolskie-latest.osm.pbf"
-    },
     {
       "id": "europe/france/bourgogne",
       "pbf_url": "https://download.geofabrik.de/europe/france/bourgogne-latest.osm.pbf"
