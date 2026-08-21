@@ -6,6 +6,7 @@
     "africa/congo-democratic-republic",
     "africa/kenya",
     "africa/madagascar",
+    "africa/morocco",
     "africa/mozambique",
     "africa/nigeria",
     "africa/south-africa",
@@ -33,6 +34,7 @@
     "asia/thailand",
     "asia/vietnam",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/australia/victoria",
     "australia-oceania/new-zealand",
     "europe/austria",
     "europe/belarus",
@@ -41,9 +43,11 @@
     "europe/finland",
     "europe/france/aquitaine",
     "europe/france/bretagne",
+    "europe/france/centre",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
     "europe/france/midi-pyrenees",
+    "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
@@ -66,6 +70,7 @@
     "europe/poland/mazowieckie",
     "europe/portugal",
     "europe/romania",
+    "europe/serbia",
     "europe/slovakia",
     "europe/slovenia",
     "europe/spain/cataluna",
@@ -119,26 +124,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "africa/morocco",
-      "pbf_url": "https://download.geofabrik.de/africa/morocco-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/centre",
-      "pbf_url": "https://download.geofabrik.de/europe/france/centre-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/victoria",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/victoria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/serbia",
-      "pbf_url": "https://download.geofabrik.de/europe/serbia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/nord-pas-de-calais",
-      "pbf_url": "https://download.geofabrik.de/europe/france/nord-pas-de-calais-latest.osm.pbf"
-    },
     {
       "id": "asia/japan/chugoku",
       "pbf_url": "https://download.geofabrik.de/asia/japan/chugoku-latest.osm.pbf"
