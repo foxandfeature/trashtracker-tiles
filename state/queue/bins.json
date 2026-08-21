@@ -117,10 +117,12 @@
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
+    "central-america/costa-rica",
     "central-america/cuba",
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
+    "central-america/jamaica",
     "central-america/nicaragua",
     "europe/albania",
     "europe/austria",
@@ -250,6 +252,7 @@
     "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
+    "europe/spain/extremadura",
     "europe/spain/galicia",
     "europe/spain/islas-baleares",
     "europe/spain/madrid",
@@ -267,11 +270,13 @@
     "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/england/greater-manchester",
     "europe/united-kingdom/england/hampshire",
+    "europe/united-kingdom/england/hertfordshire",
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/lancashire",
     "europe/united-kingdom/england/lincolnshire",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
+    "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/surrey",
     "europe/united-kingdom/england/west-midlands",
@@ -374,26 +379,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/extremadura",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/extremadura-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/costa-rica",
-      "pbf_url": "https://download.geofabrik.de/central-america/costa-rica-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/jamaica",
-      "pbf_url": "https://download.geofabrik.de/central-america/jamaica-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/nottinghamshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/nottinghamshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/hertfordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/hertfordshire-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/cheshire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cheshire-latest.osm.pbf"
