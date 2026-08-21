@@ -13,6 +13,7 @@
     "africa/ghana",
     "africa/kenya",
     "africa/madagascar",
+    "africa/malawi",
     "africa/mali",
     "africa/morocco",
     "africa/mozambique",
@@ -57,6 +58,7 @@
     "asia/pakistan",
     "asia/philippines",
     "asia/south-korea",
+    "asia/sri-lanka",
     "asia/taiwan",
     "asia/thailand",
     "asia/vietnam",
@@ -142,6 +144,7 @@
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/poland/podkarpackie",
+    "europe/poland/pomorskie",
     "europe/poland/slaskie",
     "europe/poland/wielkopolskie",
     "europe/portugal",
@@ -154,6 +157,7 @@
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
     "europe/spain/galicia",
+    "europe/spain/madrid",
     "europe/spain/valencia",
     "europe/sweden",
     "europe/switzerland",
@@ -167,6 +171,7 @@
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/british-columbia/southcoast-admreg",
     "north-america/canada/manitoba",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/northwest-territories",
@@ -234,26 +239,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/madrid",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/madrid-latest.osm.pbf"
-    },
-    {
-      "id": "africa/malawi",
-      "pbf_url": "https://download.geofabrik.de/africa/malawi-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/pomorskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/pomorskie-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/southcoast-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/southcoast-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "asia/sri-lanka",
-      "pbf_url": "https://download.geofabrik.de/asia/sri-lanka-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/kentucky",
       "pbf_url": "https://download.geofabrik.de/north-america/us/kentucky-latest.osm.pbf"
