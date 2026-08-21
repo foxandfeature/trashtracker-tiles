@@ -140,8 +140,10 @@
     "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
+    "australia-oceania/fiji",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
+    "australia-oceania/polynesie-francaise",
     "central-america/belize",
     "central-america/costa-rica",
     "central-america/cuba",
@@ -154,6 +156,7 @@
     "central-america/panama",
     "europe/albania",
     "europe/austria",
+    "europe/azores",
     "europe/belarus",
     "europe/belgium",
     "europe/bosnia-herzegovina",
@@ -305,6 +308,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/bedfordshire",
     "europe/united-kingdom/england/berkshire",
     "europe/united-kingdom/england/buckinghamshire",
     "europe/united-kingdom/england/cambridgeshire",
@@ -442,6 +446,7 @@
     "south-america/chile",
     "south-america/colombia",
     "south-america/ecuador",
+    "south-america/guyana",
     "south-america/paraguay",
     "south-america/peru",
     "south-america/suriname",
@@ -449,26 +454,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/azores",
-      "pbf_url": "https://download.geofabrik.de/europe/azores-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/fiji",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/fiji-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/polynesie-francaise",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/polynesie-francaise-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/guyana",
-      "pbf_url": "https://download.geofabrik.de/south-america/guyana-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/bedfordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/bedfordshire-latest.osm.pbf"
-    },
     {
       "id": "asia/china/tianjin",
       "pbf_url": "https://download.geofabrik.de/asia/china/tianjin-latest.osm.pbf"
