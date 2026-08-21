@@ -6,6 +6,7 @@
     "africa/congo-democratic-republic",
     "africa/kenya",
     "africa/madagascar",
+    "africa/mozambique",
     "africa/nigeria",
     "africa/south-africa",
     "africa/tanzania",
@@ -42,6 +43,7 @@
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/germany/bayern/oberbayern",
     "europe/germany/brandenburg",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
@@ -56,6 +58,7 @@
     "europe/italy/sud",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
+    "europe/norway/vestlandet",
     "europe/poland/mazowieckie",
     "europe/portugal",
     "europe/romania",
@@ -69,6 +72,7 @@
     "europe/united-kingdom/scotland",
     "north-america/canada/alberta",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/northwest-territories",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
@@ -106,29 +110,10 @@
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
     "south-america/chile",
-    "south-america/colombia"
+    "south-america/colombia",
+    "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/newfoundland-and-labrador",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/newfoundland-and-labrador-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/vestlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/vestlandet-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/oberbayern",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberbayern-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/peru",
-      "pbf_url": "https://download.geofabrik.de/south-america/peru-latest.osm.pbf"
-    },
-    {
-      "id": "africa/mozambique",
-      "pbf_url": "https://download.geofabrik.de/africa/mozambique-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/oregon",
       "pbf_url": "https://download.geofabrik.de/north-america/us/oregon-latest.osm.pbf"
