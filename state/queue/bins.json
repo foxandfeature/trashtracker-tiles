@@ -67,6 +67,7 @@
     "europe/germany/brandenburg",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
+    "europe/germany/nordrhein-westfalen/arnsberg-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/rheinland-pfalz",
@@ -82,6 +83,7 @@
     "europe/lithuania",
     "europe/netherlands/gelderland",
     "europe/netherlands/noord-brabant",
+    "europe/netherlands/noord-holland",
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
@@ -93,6 +95,7 @@
     "europe/serbia",
     "europe/slovakia",
     "europe/slovenia",
+    "europe/spain/andalucia",
     "europe/spain/cataluna",
     "europe/sweden",
     "europe/switzerland",
@@ -123,11 +126,13 @@
     "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/minnesota",
+    "north-america/us/missouri",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/ohio",
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
+    "north-america/us/tennessee",
     "north-america/us/texas",
     "north-america/us/virginia",
     "north-america/us/washington",
@@ -149,26 +154,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/nordrhein-westfalen/arnsberg-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/arnsberg-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/missouri",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/missouri-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/andalucia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/andalucia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/noord-holland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/noord-holland-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/tennessee",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/tennessee-latest.osm.pbf"
-    },
     {
       "id": "asia/japan/hokkaido",
       "pbf_url": "https://download.geofabrik.de/asia/japan/hokkaido-latest.osm.pbf"
