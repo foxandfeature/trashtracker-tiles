@@ -53,6 +53,7 @@
     "asia/armenia",
     "asia/azerbaijan",
     "asia/bangladesh",
+    "asia/bhutan",
     "asia/cambodia",
     "asia/china/anhui",
     "asia/china/beijing",
@@ -298,6 +299,8 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/berkshire",
+    "europe/united-kingdom/england/buckinghamshire",
     "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cheshire",
     "europe/united-kingdom/england/cornwall",
@@ -305,6 +308,7 @@
     "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/dorset",
+    "europe/united-kingdom/england/durham",
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
@@ -326,6 +330,7 @@
     "europe/united-kingdom/england/staffordshire",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/surrey",
+    "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
     "europe/united-kingdom/england/west-yorkshire",
@@ -429,26 +434,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/warwickshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/warwickshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/bhutan",
-      "pbf_url": "https://download.geofabrik.de/asia/bhutan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/durham",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/durham-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/buckinghamshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/buckinghamshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/berkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/berkshire-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/northamptonshire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/northamptonshire-latest.osm.pbf"
