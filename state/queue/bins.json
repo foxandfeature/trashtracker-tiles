@@ -139,6 +139,7 @@
     "asia/uzbekistan",
     "asia/vietnam",
     "asia/yemen",
+    "australia-oceania/american-oceania",
     "australia-oceania/australia/act",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/northern-territory",
@@ -154,6 +155,7 @@
     "australia-oceania/polynesie-francaise",
     "australia-oceania/solomon-islands",
     "australia-oceania/tonga",
+    "australia-oceania/vanuatu",
     "central-america/bahamas",
     "central-america/belize",
     "central-america/costa-rica",
@@ -166,6 +168,7 @@
     "central-america/nicaragua",
     "central-america/panama",
     "europe/albania",
+    "europe/andorra",
     "europe/austria",
     "europe/azores",
     "europe/belarus",
@@ -313,6 +316,7 @@
     "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
+    "europe/spain/ceuta",
     "europe/spain/extremadura",
     "europe/spain/galicia",
     "europe/spain/islas-baleares",
@@ -326,6 +330,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/bermuda",
     "europe/united-kingdom/england/bedfordshire",
     "europe/united-kingdom/england/berkshire",
     "europe/united-kingdom/england/bristol",
@@ -474,26 +479,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/vanuatu",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/vanuatu-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/american-oceania",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/american-oceania-latest.osm.pbf"
-    },
-    {
-      "id": "europe/andorra",
-      "pbf_url": "https://download.geofabrik.de/europe/andorra-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/bermuda",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/bermuda-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/ceuta",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/ceuta-latest.osm.pbf"
-    },
     {
       "id": "africa/comores",
       "pbf_url": "https://download.geofabrik.de/africa/comores-latest.osm.pbf"
