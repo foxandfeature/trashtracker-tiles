@@ -5,12 +5,14 @@
     "africa/algeria",
     "africa/congo-democratic-republic",
     "africa/egypt",
+    "africa/kenya",
     "africa/madagascar",
     "africa/mali",
     "africa/mozambique",
     "africa/nigeria",
     "africa/south-africa",
     "africa/tanzania",
+    "africa/uganda",
     "africa/zambia",
     "asia/gcc-states",
     "asia/india/central-zone",
@@ -24,6 +26,7 @@
     "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/japan/kyushu",
+    "asia/japan/tohoku",
     "asia/malaysia-singapore-brunei",
     "asia/nepal",
     "asia/philippines",
@@ -54,6 +57,7 @@
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/rheinland-pfalz",
     "europe/germany/sachsen",
+    "europe/germany/thueringen",
     "europe/greece",
     "europe/ireland-and-northern-ireland",
     "europe/italy/centro",
@@ -107,6 +111,7 @@
     "russia/far-eastern-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
+    "russia/south-fed-district",
     "russia/ural-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
@@ -119,26 +124,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "russia/south-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/south-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/thueringen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/thueringen-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/tohoku",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/tohoku-latest.osm.pbf"
-    },
-    {
-      "id": "africa/uganda",
-      "pbf_url": "https://download.geofabrik.de/africa/uganda-latest.osm.pbf"
-    },
-    {
-      "id": "africa/kenya",
-      "pbf_url": "https://download.geofabrik.de/africa/kenya-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/georgia",
       "pbf_url": "https://download.geofabrik.de/north-america/us/georgia-latest.osm.pbf"
