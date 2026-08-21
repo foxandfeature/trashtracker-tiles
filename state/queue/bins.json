@@ -4,6 +4,7 @@
   "lock": [
     "africa/algeria",
     "africa/angola",
+    "africa/benin",
     "africa/botswana",
     "africa/burkina-faso",
     "africa/cameroon",
@@ -55,6 +56,7 @@
     "asia/china/shandong",
     "asia/china/sichuan",
     "asia/china/tibet",
+    "asia/china/xinjiang",
     "asia/china/yunnan",
     "asia/china/zhejiang",
     "asia/gcc-states",
@@ -122,6 +124,7 @@
     "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/kralovehradecky",
+    "europe/czech-republic/liberecky",
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/olomoucky",
     "europe/czech-republic/pardubicky",
@@ -194,6 +197,7 @@
     "europe/italy/sud",
     "europe/latvia",
     "europe/lithuania",
+    "europe/luxembourg",
     "europe/moldova",
     "europe/netherlands/drenthe",
     "europe/netherlands/friesland",
@@ -250,6 +254,7 @@
     "europe/united-kingdom/england/greater-manchester",
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/kent",
+    "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/west-midlands",
@@ -349,26 +354,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/benin",
-      "pbf_url": "https://download.geofabrik.de/africa/benin-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/xinjiang",
-      "pbf_url": "https://download.geofabrik.de/asia/china/xinjiang-latest.osm.pbf"
-    },
-    {
-      "id": "europe/luxembourg",
-      "pbf_url": "https://download.geofabrik.de/europe/luxembourg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/norfolk",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/norfolk-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/liberecky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/liberecky-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/islas-baleares",
       "pbf_url": "https://download.geofabrik.de/europe/spain/islas-baleares-latest.osm.pbf"
