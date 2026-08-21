@@ -119,6 +119,7 @@
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
+    "central-america/jamaica",
     "europe/albania",
     "europe/austria",
     "europe/belarus",
@@ -128,6 +129,7 @@
     "europe/croatia",
     "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
+    "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/pardubicky",
     "europe/czech-republic/plzensky",
@@ -245,6 +247,7 @@
     "europe/spain/cataluna",
     "europe/spain/extremadura",
     "europe/spain/galicia",
+    "europe/spain/islas-baleares",
     "europe/spain/madrid",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
@@ -262,6 +265,7 @@
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/england/greater-manchester",
+    "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/hertfordshire",
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/merseyside",
@@ -278,6 +282,7 @@
     "north-america/canada/alberta",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/island-admreg",
+    "north-america/canada/british-columbia/kootenay-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/british-columbia/okanagan-admreg",
     "north-america/canada/british-columbia/southcoast-admreg",
@@ -369,26 +374,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/hampshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/hampshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/islas-baleares",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/islas-baleares-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/jamaica",
-      "pbf_url": "https://download.geofabrik.de/central-america/jamaica-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/kootenay-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/kootenay-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/kralovehradecky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/kralovehradecky-latest.osm.pbf"
-    },
     {
       "id": "asia/china/liaoning",
       "pbf_url": "https://download.geofabrik.de/asia/china/liaoning-latest.osm.pbf"
