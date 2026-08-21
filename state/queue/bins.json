@@ -12,6 +12,7 @@
     "africa/canary-islands",
     "africa/central-african-republic",
     "africa/chad",
+    "africa/congo-brazzaville",
     "africa/congo-democratic-republic",
     "africa/egypt",
     "africa/ethiopia",
@@ -43,6 +44,7 @@
     "africa/uganda",
     "africa/zambia",
     "africa/zimbabwe",
+    "antarctica",
     "asia/afghanistan",
     "asia/armenia",
     "asia/azerbaijan",
@@ -63,8 +65,10 @@
     "asia/china/inner-mongolia",
     "asia/china/jiangsu",
     "asia/china/jiangxi",
+    "asia/china/qinghai",
     "asia/china/shaanxi",
     "asia/china/shandong",
+    "asia/china/shanxi",
     "asia/china/sichuan",
     "asia/china/tibet",
     "asia/china/xinjiang",
@@ -297,6 +301,7 @@
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/somerset",
+    "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/surrey",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
@@ -399,26 +404,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/suffolk",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/suffolk-latest.osm.pbf"
-    },
-    {
-      "id": "antarctica",
-      "pbf_url": "https://download.geofabrik.de/antarctica-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/qinghai",
-      "pbf_url": "https://download.geofabrik.de/asia/china/qinghai-latest.osm.pbf"
-    },
-    {
-      "id": "africa/congo-brazzaville",
-      "pbf_url": "https://download.geofabrik.de/africa/congo-brazzaville-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/shanxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/shanxi-latest.osm.pbf"
-    },
     {
       "id": "africa/eritrea",
       "pbf_url": "https://download.geofabrik.de/africa/eritrea-latest.osm.pbf"
