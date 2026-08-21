@@ -3,9 +3,12 @@
   "failed": [],
   "lock": [
     "asia/india/southern-zone",
+    "asia/japan/kansai",
+    "asia/taiwan",
     "australia-oceania/new-zealand",
     "europe/denmark",
     "europe/finland",
+    "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/italy/nord-est",
     "europe/italy/sud",
@@ -18,32 +21,14 @@
     "north-america/us/california/socal",
     "north-america/us/florida",
     "north-america/us/new-york",
+    "north-america/us/pennsylvania",
     "russia/ural-fed-district",
     "south-america/argentina",
+    "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "south-america/brazil/nordeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/nordeste-latest.osm.pbf"
-    },
-    {
-      "id": "asia/taiwan",
-      "pbf_url": "https://download.geofabrik.de/asia/taiwan-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/pennsylvania",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/pennsylvania-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/hessen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/hessen-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/kansai",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kansai-latest.osm.pbf"
-    },
     {
       "id": "africa/kenya",
       "pbf_url": "https://download.geofabrik.de/africa/kenya-latest.osm.pbf"
