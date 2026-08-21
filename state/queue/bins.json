@@ -67,6 +67,7 @@
     "europe/finland",
     "europe/france/aquitaine",
     "europe/france/auvergne",
+    "europe/france/basse-normandie",
     "europe/france/bourgogne",
     "europe/france/bretagne",
     "europe/france/centre",
@@ -89,6 +90,7 @@
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
+    "europe/germany/nordrhein-westfalen/muenster-regbez",
     "europe/germany/rheinland-pfalz",
     "europe/germany/sachsen",
     "europe/germany/sachsen-anhalt",
@@ -102,6 +104,7 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/latvia",
     "europe/lithuania",
     "europe/netherlands/gelderland",
     "europe/netherlands/noord-brabant",
@@ -125,6 +128,7 @@
     "europe/spain/andalucia",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
+    "europe/spain/valencia",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
@@ -144,6 +148,7 @@
     "north-america/canada/quebec",
     "north-america/mexico",
     "north-america/us/alabama",
+    "north-america/us/alaska",
     "north-america/us/arizona",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
@@ -194,26 +199,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/alaska",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/alaska-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/basse-normandie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/basse-normandie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/muenster-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/muenster-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "europe/latvia",
-      "pbf_url": "https://download.geofabrik.de/europe/latvia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/valencia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/valencia-latest.osm.pbf"
-    },
     {
       "id": "africa/ethiopia",
       "pbf_url": "https://download.geofabrik.de/africa/ethiopia-latest.osm.pbf"
