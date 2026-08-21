@@ -17,11 +17,13 @@
     "africa/ivory-coast",
     "africa/kenya",
     "africa/lesotho",
+    "africa/libya",
     "africa/madagascar",
     "africa/malawi",
     "africa/mali",
     "africa/morocco",
     "africa/mozambique",
+    "africa/niger",
     "africa/nigeria",
     "africa/senegal-and-gambia",
     "africa/somalia",
@@ -86,6 +88,7 @@
     "australia-oceania/new-zealand",
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
+    "central-america/honduras",
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
@@ -169,6 +172,7 @@
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
+    "europe/norway/sorlandet",
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
     "europe/poland/dolnoslaskie",
@@ -220,6 +224,7 @@
     "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/canada/saskatchewan",
+    "north-america/canada/yukon",
     "north-america/mexico",
     "north-america/us/alabama",
     "north-america/us/alaska",
@@ -289,26 +294,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/norway/sorlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/sorlandet-latest.osm.pbf"
-    },
-    {
-      "id": "africa/niger",
-      "pbf_url": "https://download.geofabrik.de/africa/niger-latest.osm.pbf"
-    },
-    {
-      "id": "africa/libya",
-      "pbf_url": "https://download.geofabrik.de/africa/libya-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/yukon",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/yukon-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/honduras",
-      "pbf_url": "https://download.geofabrik.de/central-america/honduras-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/puerto-rico",
       "pbf_url": "https://download.geofabrik.de/north-america/us/puerto-rico-latest.osm.pbf"
