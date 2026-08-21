@@ -1,0 +1,113 @@
+{
+  "africa/congo-democratic-republic": [
+    31
+  ],
+  "africa/kenya": [
+    32
+  ],
+  "africa/uganda": [
+    28
+  ],
+  "asia/bangladesh": [
+    29
+  ],
+  "asia/india/southern-zone": [
+    53
+  ],
+  "asia/japan/kansai": [
+    32
+  ],
+  "asia/taiwan": [
+    34
+  ],
+  "asia/vietnam": [
+    29
+  ],
+  "australia-oceania/new-zealand": [
+    60
+  ],
+  "europe/denmark": [
+    40
+  ],
+  "europe/finland": [
+    83
+  ],
+  "europe/france/bretagne": [
+    29
+  ],
+  "europe/france/midi-pyrenees": [
+    28
+  ],
+  "europe/france/pays-de-la-loire": [
+    26
+  ],
+  "europe/germany/hessen": [
+    33
+  ],
+  "europe/germany/niedersachsen": [
+    38
+  ],
+  "europe/italy/centro": [
+    28
+  ],
+  "europe/italy/nord-est": [
+    58
+  ],
+  "europe/italy/sud": [
+    86
+  ],
+  "europe/norway/ostlandet": [
+    37
+  ],
+  "europe/sweden": [
+    57
+  ],
+  "europe/turkey": [
+    63
+  ],
+  "north-america/canada/northwest-territories": [
+    41
+  ],
+  "north-america/canada/nunavut/qikiqtaaluk": [
+    52
+  ],
+  "north-america/canada/quebec": [
+    71
+  ],
+  "north-america/us/california/socal": [
+    51
+  ],
+  "north-america/us/colorado": [
+    28
+  ],
+  "north-america/us/florida": [
+    51
+  ],
+  "north-america/us/georgia": [
+    28
+  ],
+  "north-america/us/illinois": [
+    28
+  ],
+  "north-america/us/new-york": [
+    38
+  ],
+  "north-america/us/pennsylvania": [
+    34
+  ],
+  "russia/ural-fed-district": [
+    39
+  ],
+  "south-america/argentina": [
+    38
+  ],
+  "south-america/brazil/nordeste": [
+    36
+  ],
+  "south-america/brazil/sudeste": [
+    57
+  ],
+  "south-america/brazil/sul": [
+    42
+  ]
+}
