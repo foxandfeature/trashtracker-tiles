@@ -36,11 +36,13 @@
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
+    "europe/czech-republic/moravskoslezky",
     "europe/denmark",
     "europe/finland",
     "europe/france/aquitaine",
     "europe/france/bretagne",
     "europe/france/ile-de-france",
+    "europe/france/languedoc-roussillon",
     "europe/france/lorraine",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
@@ -58,6 +60,7 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/netherlands/noord-brabant",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/trondelag",
@@ -95,9 +98,11 @@
     "north-america/us/north-carolina",
     "north-america/us/ohio",
     "north-america/us/pennsylvania",
+    "north-america/us/south-carolina",
     "north-america/us/texas",
     "north-america/us/virginia",
     "north-america/us/washington",
+    "north-america/us/wisconsin",
     "russia/central-fed-district",
     "russia/far-eastern-fed-district",
     "russia/northwestern-fed-district",
@@ -114,26 +119,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/france/languedoc-roussillon",
-      "pbf_url": "https://download.geofabrik.de/europe/france/languedoc-roussillon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/noord-brabant",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/noord-brabant-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/south-carolina",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/south-carolina-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/wisconsin",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/wisconsin-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/moravskoslezky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/moravskoslezky-latest.osm.pbf"
-    },
     {
       "id": "russia/south-fed-district",
       "pbf_url": "https://download.geofabrik.de/russia/south-fed-district-latest.osm.pbf"
