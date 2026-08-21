@@ -29,6 +29,7 @@
     "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/indonesia/nusa-tenggara",
+    "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/iran",
     "asia/japan/chubu",
@@ -42,6 +43,7 @@
     "asia/malaysia-singapore-brunei",
     "asia/myanmar",
     "asia/nepal",
+    "asia/pakistan",
     "asia/philippines",
     "asia/south-korea",
     "asia/taiwan",
@@ -61,6 +63,7 @@
     "europe/denmark",
     "europe/finland",
     "europe/france/aquitaine",
+    "europe/france/auvergne",
     "europe/france/bourgogne",
     "europe/france/bretagne",
     "europe/france/centre",
@@ -85,6 +88,7 @@
     "europe/germany/rheinland-pfalz",
     "europe/germany/sachsen",
     "europe/germany/sachsen-anhalt",
+    "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
     "europe/greece",
     "europe/hungary",
@@ -107,6 +111,7 @@
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/poland/slaskie",
+    "europe/poland/wielkopolskie",
     "europe/portugal",
     "europe/romania",
     "europe/serbia",
@@ -179,26 +184,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/poland/wielkopolskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/wielkopolskie-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/sulawesi",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/sulawesi-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/schleswig-holstein",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/schleswig-holstein-latest.osm.pbf"
-    },
-    {
-      "id": "asia/pakistan",
-      "pbf_url": "https://download.geofabrik.de/asia/pakistan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/auvergne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/auvergne-latest.osm.pbf"
-    },
     {
       "id": "africa/malawi",
       "pbf_url": "https://download.geofabrik.de/africa/malawi-latest.osm.pbf"
