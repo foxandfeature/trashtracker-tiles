@@ -5,6 +5,7 @@
     "africa/congo-democratic-republic",
     "africa/kenya",
     "africa/nigeria",
+    "africa/south-africa",
     "africa/tanzania",
     "africa/uganda",
     "asia/bangladesh",
@@ -13,6 +14,7 @@
     "asia/japan/chubu",
     "asia/japan/kansai",
     "asia/japan/kanto",
+    "asia/nepal",
     "asia/philippines",
     "asia/taiwan",
     "asia/vietnam",
@@ -32,12 +34,14 @@
     "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/norway/ostlandet",
+    "europe/portugal",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/northwest-territories",
+    "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
@@ -53,6 +57,7 @@
     "north-america/us/north-carolina",
     "north-america/us/pennsylvania",
     "north-america/us/texas",
+    "north-america/us/virginia",
     "russia/central-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
@@ -64,26 +69,6 @@
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/virginia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/virginia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/portugal",
-      "pbf_url": "https://download.geofabrik.de/europe/portugal-latest.osm.pbf"
-    },
-    {
-      "id": "africa/south-africa",
-      "pbf_url": "https://download.geofabrik.de/africa/south-africa-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/nunavut/kitikmeot",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/nunavut/kitikmeot-latest.osm.pbf"
-    },
-    {
-      "id": "asia/nepal",
-      "pbf_url": "https://download.geofabrik.de/asia/nepal-latest.osm.pbf"
-    },
     {
       "id": "europe/ireland-and-northern-ireland",
       "pbf_url": "https://download.geofabrik.de/europe/ireland-and-northern-ireland-latest.osm.pbf"
