@@ -12,7 +12,9 @@
     "africa/south-africa",
     "africa/tanzania",
     "africa/zambia",
+    "asia/gcc-states",
     "asia/india/central-zone",
+    "asia/india/eastern-zone",
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
@@ -40,6 +42,7 @@
     "europe/france/bretagne",
     "europe/france/ile-de-france",
     "europe/france/lorraine",
+    "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/bayern/oberbayern",
@@ -51,6 +54,7 @@
     "europe/germany/sachsen",
     "europe/greece",
     "europe/ireland-and-northern-ireland",
+    "europe/italy/centro",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
@@ -106,29 +110,10 @@
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
+    "south-america/chile",
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/france/pays-de-la-loire",
-      "pbf_url": "https://download.geofabrik.de/europe/france/pays-de-la-loire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/centro",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/centro-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/chile",
-      "pbf_url": "https://download.geofabrik.de/south-america/chile-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/eastern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/eastern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "asia/gcc-states",
-      "pbf_url": "https://download.geofabrik.de/asia/gcc-states-latest.osm.pbf"
-    },
     {
       "id": "europe/france/languedoc-roussillon",
       "pbf_url": "https://download.geofabrik.de/europe/france/languedoc-roussillon-latest.osm.pbf"
