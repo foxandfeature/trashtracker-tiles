@@ -25,6 +25,7 @@
     "africa/mali",
     "africa/morocco",
     "africa/mozambique",
+    "africa/niger",
     "africa/nigeria",
     "africa/senegal-and-gambia",
     "africa/somalia",
@@ -135,7 +136,9 @@
     "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/baden-wuerttemberg/tuebingen-regbez",
+    "europe/germany/bayern/mittelfranken",
     "europe/germany/bayern/oberbayern",
+    "europe/germany/bayern/oberfranken",
     "europe/germany/bayern/oberpfalz",
     "europe/germany/bayern/schwaben",
     "europe/germany/berlin",
@@ -213,7 +216,9 @@
     "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/greater-london",
+    "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/merseyside",
+    "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
@@ -299,26 +304,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/kent",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/kent-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/mittelfranken",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/mittelfranken-latest.osm.pbf"
-    },
-    {
-      "id": "africa/niger",
-      "pbf_url": "https://download.geofabrik.de/africa/niger-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/north-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/north-yorkshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/oberfranken",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberfranken-latest.osm.pbf"
-    },
     {
       "id": "europe/czech-republic/plzensky",
       "pbf_url": "https://download.geofabrik.de/europe/czech-republic/plzensky-latest.osm.pbf"
