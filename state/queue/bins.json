@@ -16,8 +16,10 @@
     "africa/mozambique",
     "africa/nigeria",
     "africa/south-africa",
+    "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
+    "africa/tunisia",
     "africa/uganda",
     "africa/zambia",
     "africa/zimbabwe",
@@ -55,6 +57,7 @@
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/victoria",
+    "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
     "central-america/haiti-and-domrep",
     "europe/austria",
@@ -136,6 +139,7 @@
     "europe/slovakia",
     "europe/slovenia",
     "europe/spain/andalucia",
+    "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
     "europe/spain/galicia",
@@ -168,6 +172,7 @@
     "north-america/us/connecticut",
     "north-america/us/florida",
     "north-america/us/georgia",
+    "north-america/us/idaho",
     "north-america/us/illinois",
     "north-america/us/indiana",
     "north-america/us/iowa",
@@ -214,26 +219,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/south-sudan",
-      "pbf_url": "https://download.geofabrik.de/africa/south-sudan-latest.osm.pbf"
-    },
-    {
-      "id": "africa/tunisia",
-      "pbf_url": "https://download.geofabrik.de/africa/tunisia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/idaho",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/idaho-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/western-australia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/western-australia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/castilla-la-mancha",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/castilla-la-mancha-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/greater-london",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/greater-london-latest.osm.pbf"
