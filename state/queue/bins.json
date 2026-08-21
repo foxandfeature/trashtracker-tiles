@@ -4,36 +4,21 @@
   "lock": [
     "asia/india/southern-zone",
     "australia-oceania/new-zealand",
+    "europe/denmark",
     "europe/finland",
     "europe/italy/nord-est",
     "europe/italy/sud",
     "europe/sweden",
     "europe/turkey",
+    "north-america/canada/northwest-territories",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/quebec",
-    "south-america/brazil/sudeste"
+    "north-america/us/california/socal",
+    "north-america/us/florida",
+    "south-america/brazil/sudeste",
+    "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/california/socal",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/california/socal-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/florida",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/florida-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/sul",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/sul-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/northwest-territories",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/northwest-territories-latest.osm.pbf"
-    },
-    {
-      "id": "europe/denmark",
-      "pbf_url": "https://download.geofabrik.de/europe/denmark-latest.osm.pbf"
-    },
     {
       "id": "russia/ural-fed-district",
       "pbf_url": "https://download.geofabrik.de/russia/ural-fed-district-latest.osm.pbf"
