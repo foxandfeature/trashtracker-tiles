@@ -4,6 +4,7 @@
   "lock": [
     "africa/congo-democratic-republic",
     "africa/kenya",
+    "africa/madagascar",
     "africa/nigeria",
     "africa/south-africa",
     "africa/tanzania",
@@ -26,13 +27,16 @@
     "europe/france/bretagne",
     "europe/france/midi-pyrenees",
     "europe/france/pays-de-la-loire",
+    "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
+    "europe/ireland-and-northern-ireland",
     "europe/italy/centro",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/portugal",
     "europe/sweden",
@@ -59,6 +63,7 @@
     "north-america/us/texas",
     "north-america/us/virginia",
     "russia/central-fed-district",
+    "russia/far-eastern-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/ural-fed-district",
@@ -69,26 +74,6 @@
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "europe/ireland-and-northern-ireland",
-      "pbf_url": "https://download.geofabrik.de/europe/ireland-and-northern-ireland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/nord-norge",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/nord-norge-latest.osm.pbf"
-    },
-    {
-      "id": "africa/madagascar",
-      "pbf_url": "https://download.geofabrik.de/africa/madagascar-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/provence-alpes-cote-d-azur",
-      "pbf_url": "https://download.geofabrik.de/europe/france/provence-alpes-cote-d-azur-latest.osm.pbf"
-    },
-    {
-      "id": "russia/far-eastern-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/far-eastern-fed-district-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/washington",
       "pbf_url": "https://download.geofabrik.de/north-america/us/washington-latest.osm.pbf"
