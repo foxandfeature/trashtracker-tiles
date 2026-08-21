@@ -51,6 +51,7 @@
     "asia/azerbaijan",
     "asia/bangladesh",
     "asia/bhutan",
+    "asia/cambodia",
     "asia/china/anhui",
     "asia/china/beijing",
     "asia/china/chongqing",
@@ -150,6 +151,7 @@
     "europe/bosnia-herzegovina",
     "europe/bulgaria",
     "europe/croatia",
+    "europe/cyprus",
     "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/karlovarsky",
@@ -278,6 +280,7 @@
     "europe/spain/andalucia",
     "europe/spain/aragon",
     "europe/spain/asturias",
+    "europe/spain/cantabria",
     "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
@@ -300,7 +303,9 @@
     "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/devon",
+    "europe/united-kingdom/england/dorset",
     "europe/united-kingdom/england/durham",
+    "europe/united-kingdom/england/east-sussex",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
@@ -424,26 +429,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/cambodia",
-      "pbf_url": "https://download.geofabrik.de/asia/cambodia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/cantabria",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/cantabria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/cyprus",
-      "pbf_url": "https://download.geofabrik.de/europe/cyprus-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/dorset",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/dorset-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/east-sussex",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/east-sussex-latest.osm.pbf"
-    },
     {
       "id": "asia/east-timor",
       "pbf_url": "https://download.geofabrik.de/asia/east-timor-latest.osm.pbf"
