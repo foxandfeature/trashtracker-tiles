@@ -2,6 +2,7 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/congo-democratic-republic",
     "africa/nigeria",
     "africa/south-africa",
     "africa/tanzania",
@@ -9,6 +10,7 @@
     "asia/indonesia/java",
     "asia/japan/chubu",
     "asia/japan/kanto",
+    "asia/nepal",
     "asia/philippines",
     "europe/austria",
     "europe/belgium",
@@ -16,8 +18,11 @@
     "europe/finland",
     "europe/france/rhone-alpes",
     "europe/germany/niedersachsen",
+    "europe/ireland-and-northern-ireland",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
+    "europe/italy/sud",
+    "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/portugal",
     "europe/sweden",
@@ -49,26 +54,6 @@
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "africa/congo-democratic-republic",
-      "pbf_url": "https://download.geofabrik.de/africa/congo-democratic-republic-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/sud",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/sud-latest.osm.pbf"
-    },
-    {
-      "id": "asia/nepal",
-      "pbf_url": "https://download.geofabrik.de/asia/nepal-latest.osm.pbf"
-    },
-    {
-      "id": "europe/ireland-and-northern-ireland",
-      "pbf_url": "https://download.geofabrik.de/europe/ireland-and-northern-ireland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/nord-norge",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/nord-norge-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/new-zealand",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/new-zealand-latest.osm.pbf"
