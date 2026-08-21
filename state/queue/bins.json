@@ -4,6 +4,7 @@
   "lock": [
     "africa/congo-democratic-republic",
     "africa/kenya",
+    "africa/uganda",
     "asia/bangladesh",
     "asia/india/southern-zone",
     "asia/japan/kansai",
@@ -13,8 +14,10 @@
     "europe/denmark",
     "europe/finland",
     "europe/france/bretagne",
+    "europe/france/midi-pyrenees",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
+    "europe/italy/centro",
     "europe/italy/nord-est",
     "europe/italy/sud",
     "europe/norway/ostlandet",
@@ -24,7 +27,9 @@
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/quebec",
     "north-america/us/california/socal",
+    "north-america/us/colorado",
     "north-america/us/florida",
+    "north-america/us/georgia",
     "north-america/us/new-york",
     "north-america/us/pennsylvania",
     "russia/ural-fed-district",
@@ -34,26 +39,6 @@
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "europe/italy/centro",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/centro-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/midi-pyrenees",
-      "pbf_url": "https://download.geofabrik.de/europe/france/midi-pyrenees-latest.osm.pbf"
-    },
-    {
-      "id": "africa/uganda",
-      "pbf_url": "https://download.geofabrik.de/africa/uganda-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/colorado",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/colorado-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/georgia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/georgia-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/illinois",
       "pbf_url": "https://download.geofabrik.de/north-america/us/illinois-latest.osm.pbf"
