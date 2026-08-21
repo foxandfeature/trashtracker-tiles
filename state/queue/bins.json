@@ -43,6 +43,8 @@
     "asia/armenia",
     "asia/bangladesh",
     "asia/china/anhui",
+    "asia/china/beijing",
+    "asia/china/chongqing",
     "asia/china/guangdong",
     "asia/china/hebei",
     "asia/china/jiangsu",
@@ -226,6 +228,8 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/cambridgeshire",
+    "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/essex",
@@ -307,6 +311,7 @@
     "north-america/us/wisconsin",
     "north-america/us/wyoming",
     "russia/central-fed-district",
+    "russia/crimean-fed-district",
     "russia/far-eastern-fed-district",
     "russia/north-caucasus-fed-district",
     "russia/northwestern-fed-district",
@@ -329,26 +334,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/beijing",
-      "pbf_url": "https://download.geofabrik.de/asia/china/beijing-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/cambridgeshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cambridgeshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/chongqing",
-      "pbf_url": "https://download.geofabrik.de/asia/china/chongqing-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/cornwall",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cornwall-latest.osm.pbf"
-    },
-    {
-      "id": "russia/crimean-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/crimean-fed-district-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/devon",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/devon-latest.osm.pbf"
