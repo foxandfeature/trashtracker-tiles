@@ -9,12 +9,14 @@
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
+    "asia/japan/kanto",
     "asia/malaysia-singapore-brunei",
     "asia/philippines",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/new-zealand",
     "europe/austria",
     "europe/belgium",
+    "europe/denmark",
     "europe/finland",
     "europe/france/rhone-alpes",
     "europe/germany/bayern/oberbayern",
@@ -41,34 +43,17 @@
     "north-america/us/california/socal",
     "north-america/us/florida",
     "north-america/us/massachusetts",
+    "north-america/us/north-carolina",
     "north-america/us/texas",
     "russia/central-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
-    "south-america/brazil/sudeste"
+    "south-america/brazil/centro-oeste",
+    "south-america/brazil/sudeste",
+    "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "south-america/brazil/sul",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/sul-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/centro-oeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/centro-oeste-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/kanto",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kanto-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/north-carolina",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/north-carolina-latest.osm.pbf"
-    },
-    {
-      "id": "europe/denmark",
-      "pbf_url": "https://download.geofabrik.de/europe/denmark-latest.osm.pbf"
-    },
     {
       "id": "asia/japan/chubu",
       "pbf_url": "https://download.geofabrik.de/asia/japan/chubu-latest.osm.pbf"
