@@ -3,32 +3,17 @@
   "failed": [],
   "lock": [
     "asia/indonesia/java",
+    "europe/austria",
+    "europe/sweden",
     "europe/ukraine",
+    "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/ontario",
     "north-america/canada/quebec",
-    "russia/central-fed-district"
+    "russia/central-fed-district",
+    "russia/volga-fed-district",
+    "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "south-america/brazil/sudeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/sudeste-latest.osm.pbf"
-    },
-    {
-      "id": "europe/sweden",
-      "pbf_url": "https://download.geofabrik.de/europe/sweden-latest.osm.pbf"
-    },
-    {
-      "id": "europe/austria",
-      "pbf_url": "https://download.geofabrik.de/europe/austria-latest.osm.pbf"
-    },
-    {
-      "id": "russia/volga-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/volga-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/north-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/north-admreg-latest.osm.pbf"
-    },
     {
       "id": "europe/finland",
       "pbf_url": "https://download.geofabrik.de/europe/finland-latest.osm.pbf"
