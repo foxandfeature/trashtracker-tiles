@@ -1,28 +1,14 @@
 {
   "done": [],
   "failed": [],
-  "lock": [],
+  "lock": [
+    "asia/indonesia/java",
+    "europe/ukraine",
+    "north-america/canada/ontario",
+    "north-america/canada/quebec",
+    "russia/central-fed-district"
+  ],
   "remaining": [
-    {
-      "id": "north-america/canada/quebec",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/quebec-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/ontario",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/ontario-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/java",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/java-latest.osm.pbf"
-    },
-    {
-      "id": "europe/ukraine",
-      "pbf_url": "https://download.geofabrik.de/europe/ukraine-latest.osm.pbf"
-    },
-    {
-      "id": "russia/central-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/central-fed-district-latest.osm.pbf"
-    },
     {
       "id": "south-america/brazil/sudeste",
       "pbf_url": "https://download.geofabrik.de/south-america/brazil/sudeste-latest.osm.pbf"
