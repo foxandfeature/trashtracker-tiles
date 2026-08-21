@@ -75,6 +75,7 @@
     "asia/china/qinghai",
     "asia/china/shaanxi",
     "asia/china/shandong",
+    "asia/china/shanghai",
     "asia/china/shanxi",
     "asia/china/sichuan",
     "asia/china/tibet",
@@ -90,6 +91,7 @@
     "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/indonesia/kalimantan",
+    "asia/indonesia/maluku",
     "asia/indonesia/nusa-tenggara",
     "asia/indonesia/papua",
     "asia/indonesia/sulawesi",
@@ -311,6 +313,7 @@
     "europe/united-kingdom/england/lincolnshire",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
+    "europe/united-kingdom/england/northumberland",
     "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/somerset",
@@ -343,6 +346,7 @@
     "north-america/canada/quebec",
     "north-america/canada/saskatchewan",
     "north-america/canada/yukon",
+    "north-america/greenland",
     "north-america/mexico",
     "north-america/us/alabama",
     "north-america/us/alaska",
@@ -354,6 +358,7 @@
     "north-america/us/connecticut",
     "north-america/us/florida",
     "north-america/us/georgia",
+    "north-america/us/hawaii",
     "north-america/us/idaho",
     "north-america/us/illinois",
     "north-america/us/indiana",
@@ -419,26 +424,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/hawaii",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/hawaii-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/maluku",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/maluku-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/northumberland",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/northumberland-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/shanghai",
-      "pbf_url": "https://download.geofabrik.de/asia/china/shanghai-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/greenland",
-      "pbf_url": "https://download.geofabrik.de/north-america/greenland-latest.osm.pbf"
-    },
     {
       "id": "africa/gabon",
       "pbf_url": "https://download.geofabrik.de/africa/gabon-latest.osm.pbf"
