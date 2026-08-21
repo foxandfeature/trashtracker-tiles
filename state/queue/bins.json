@@ -15,6 +15,7 @@
     "africa/morocco",
     "africa/mozambique",
     "africa/nigeria",
+    "africa/somalia",
     "africa/south-africa",
     "africa/south-sudan",
     "africa/sudan",
@@ -23,6 +24,7 @@
     "africa/uganda",
     "africa/zambia",
     "africa/zimbabwe",
+    "asia/afghanistan",
     "asia/bangladesh",
     "asia/china/guangdong",
     "asia/china/sichuan",
@@ -147,6 +149,7 @@
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
     "europe/spain/galicia",
+    "europe/spain/valencia",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
@@ -167,6 +170,7 @@
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
     "north-america/canada/quebec",
+    "north-america/canada/saskatchewan",
     "north-america/mexico",
     "north-america/us/alabama",
     "north-america/us/alaska",
@@ -189,6 +193,7 @@
     "north-america/us/minnesota",
     "north-america/us/missouri",
     "north-america/us/new-jersey",
+    "north-america/us/new-mexico",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
@@ -224,26 +229,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/saskatchewan",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/saskatchewan-latest.osm.pbf"
-    },
-    {
-      "id": "africa/somalia",
-      "pbf_url": "https://download.geofabrik.de/africa/somalia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-mexico",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-mexico-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/valencia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/valencia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/afghanistan",
-      "pbf_url": "https://download.geofabrik.de/asia/afghanistan-latest.osm.pbf"
-    },
     {
       "id": "africa/angola",
       "pbf_url": "https://download.geofabrik.de/africa/angola-latest.osm.pbf"
