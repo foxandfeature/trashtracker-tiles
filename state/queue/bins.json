@@ -38,6 +38,7 @@
     "africa/zimbabwe",
     "asia/afghanistan",
     "asia/bangladesh",
+    "asia/china/anhui",
     "asia/china/guangdong",
     "asia/china/hebei",
     "asia/china/jiangsu",
@@ -102,6 +103,9 @@
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/stredocesky",
+    "europe/czech-republic/ustecky",
+    "europe/czech-republic/vysocina",
+    "europe/czech-republic/zlinsky",
     "europe/denmark",
     "europe/estonia",
     "europe/finland",
@@ -183,6 +187,7 @@
     "europe/poland/pomorskie",
     "europe/poland/slaskie",
     "europe/poland/swietokrzyskie",
+    "europe/poland/warminsko-mazurskie",
     "europe/poland/wielkopolskie",
     "europe/poland/zachodniopomorskie",
     "europe/portugal",
@@ -289,26 +294,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/czech-republic/ustecky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/ustecky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/vysocina",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/vysocina-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/warminsko-mazurskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/warminsko-mazurskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/zlinsky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/zlinsky-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/anhui",
-      "pbf_url": "https://download.geofabrik.de/asia/china/anhui-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/aragon",
       "pbf_url": "https://download.geofabrik.de/europe/spain/aragon-latest.osm.pbf"
