@@ -2,6 +2,7 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/algeria",
     "africa/congo-democratic-republic",
     "africa/kenya",
     "africa/madagascar",
@@ -29,12 +30,14 @@
     "europe/belgium",
     "europe/denmark",
     "europe/finland",
+    "europe/france/aquitaine",
     "europe/france/bretagne",
     "europe/france/ile-de-france",
     "europe/france/midi-pyrenees",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/germany/brandenburg",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/greece",
@@ -46,6 +49,7 @@
     "europe/italy/sud",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
+    "europe/poland/mazowieckie",
     "europe/portugal",
     "europe/romania",
     "europe/slovakia",
@@ -64,6 +68,7 @@
     "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/mexico",
+    "north-america/us/arizona",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
     "north-america/us/colorado",
@@ -94,26 +99,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/arizona",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/arizona-latest.osm.pbf"
-    },
-    {
-      "id": "africa/algeria",
-      "pbf_url": "https://download.geofabrik.de/africa/algeria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/brandenburg",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/brandenburg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/mazowieckie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/mazowieckie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/aquitaine",
-      "pbf_url": "https://download.geofabrik.de/europe/france/aquitaine-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/wisconsin",
       "pbf_url": "https://download.geofabrik.de/north-america/us/wisconsin-latest.osm.pbf"
