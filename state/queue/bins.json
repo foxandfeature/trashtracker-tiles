@@ -55,6 +55,7 @@
     "europe/belarus",
     "europe/belgium",
     "europe/bulgaria",
+    "europe/croatia",
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/stredocesky",
     "europe/denmark",
@@ -74,6 +75,7 @@
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/freiburg-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
+    "europe/germany/baden-wuerttemberg/tuebingen-regbez",
     "europe/germany/bayern/oberbayern",
     "europe/germany/brandenburg",
     "europe/germany/hessen",
@@ -153,11 +155,13 @@
     "north-america/us/new-jersey",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
+    "north-america/us/north-dakota",
     "north-america/us/ohio",
     "north-america/us/pennsylvania",
     "north-america/us/south-carolina",
     "north-america/us/tennessee",
     "north-america/us/texas",
+    "north-america/us/utah",
     "north-america/us/virginia",
     "north-america/us/washington",
     "north-america/us/wisconsin",
@@ -176,29 +180,10 @@
     "south-america/brazil/sul",
     "south-america/chile",
     "south-america/colombia",
-    "south-america/peru"
+    "south-america/peru",
+    "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/baden-wuerttemberg/tuebingen-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/tuebingen-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/north-dakota",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/north-dakota-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/utah",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/utah-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/venezuela",
-      "pbf_url": "https://download.geofabrik.de/south-america/venezuela-latest.osm.pbf"
-    },
-    {
-      "id": "europe/croatia",
-      "pbf_url": "https://download.geofabrik.de/europe/croatia-latest.osm.pbf"
-    },
     {
       "id": "europe/georgia",
       "pbf_url": "https://download.geofabrik.de/europe/georgia-latest.osm.pbf"
