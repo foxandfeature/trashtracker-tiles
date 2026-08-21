@@ -12,12 +12,14 @@
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
+    "asia/indonesia/sumatra",
     "asia/japan/chubu",
     "asia/japan/kanto",
     "asia/japan/kyushu",
     "asia/malaysia-singapore-brunei",
     "asia/nepal",
     "asia/philippines",
+    "asia/south-korea",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/new-zealand",
     "europe/austria",
@@ -33,6 +35,7 @@
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
+    "europe/germany/rheinland-pfalz",
     "europe/ireland-and-northern-ireland",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
@@ -42,6 +45,7 @@
     "europe/norway/trondelag",
     "europe/poland/lodzkie",
     "europe/poland/mazowieckie",
+    "europe/portugal",
     "europe/slovenia",
     "europe/sweden",
     "europe/switzerland",
@@ -62,6 +66,7 @@
     "north-america/us/florida",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
+    "north-america/us/michigan",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/texas",
@@ -79,26 +84,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/portugal",
-      "pbf_url": "https://download.geofabrik.de/europe/portugal-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/rheinland-pfalz",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/rheinland-pfalz-latest.osm.pbf"
-    },
-    {
-      "id": "asia/south-korea",
-      "pbf_url": "https://download.geofabrik.de/asia/south-korea-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/sumatra",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/sumatra-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/michigan",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/michigan-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/virginia",
       "pbf_url": "https://download.geofabrik.de/north-america/us/virginia-latest.osm.pbf"
