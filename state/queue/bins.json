@@ -10,6 +10,7 @@
     "asia/malaysia-singapore-brunei",
     "asia/philippines",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/new-zealand",
     "europe/austria",
     "europe/belgium",
     "europe/finland",
@@ -18,17 +19,21 @@
     "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/poland/lodzkie",
+    "europe/poland/mazowieckie",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
     "north-america/canada/quebec",
+    "north-america/mexico",
     "north-america/us/california/norcal",
+    "north-america/us/california/socal",
     "north-america/us/florida",
     "north-america/us/massachusetts",
     "north-america/us/texas",
@@ -39,26 +44,6 @@
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/new-zealand",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/new-zealand-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/mexico",
-      "pbf_url": "https://download.geofabrik.de/north-america/mexico-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/california/socal",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/california/socal-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/nunavut/kitikmeot",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/nunavut/kitikmeot-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/mazowieckie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/mazowieckie-latest.osm.pbf"
-    },
     {
       "id": "africa/mozambique",
       "pbf_url": "https://download.geofabrik.de/africa/mozambique-latest.osm.pbf"
