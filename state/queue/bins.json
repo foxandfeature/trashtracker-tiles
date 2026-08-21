@@ -46,6 +46,7 @@
     "asia/china/shaanxi",
     "asia/china/shandong",
     "asia/china/sichuan",
+    "asia/china/yunnan",
     "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
@@ -85,6 +86,7 @@
     "asia/thailand",
     "asia/uzbekistan",
     "asia/vietnam",
+    "asia/yemen",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/south-australia",
@@ -223,6 +225,7 @@
     "europe/united-kingdom/england/merseyside",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/surrey",
+    "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
@@ -241,6 +244,7 @@
     "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/canada/saskatchewan",
+    "north-america/canada/yukon",
     "north-america/mexico",
     "north-america/us/alabama",
     "north-america/us/alaska",
@@ -286,6 +290,7 @@
     "north-america/us/washington",
     "north-america/us/west-virginia",
     "north-america/us/wisconsin",
+    "north-america/us/wyoming",
     "russia/central-fed-district",
     "russia/far-eastern-fed-district",
     "russia/north-caucasus-fed-district",
@@ -309,26 +314,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/wyoming",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/wyoming-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/west-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-yorkshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/yemen",
-      "pbf_url": "https://download.geofabrik.de/asia/yemen-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/yukon",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/yukon-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/yunnan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/yunnan-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/asturias",
       "pbf_url": "https://download.geofabrik.de/europe/spain/asturias-latest.osm.pbf"
