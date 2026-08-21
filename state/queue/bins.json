@@ -7,6 +7,7 @@
     "africa/benin",
     "africa/botswana",
     "africa/burkina-faso",
+    "africa/burundi",
     "africa/cameroon",
     "africa/canary-islands",
     "africa/central-african-republic",
@@ -42,6 +43,7 @@
     "africa/zimbabwe",
     "asia/afghanistan",
     "asia/armenia",
+    "asia/azerbaijan",
     "asia/bangladesh",
     "asia/china/gansu",
     "asia/china/guangdong",
@@ -241,6 +243,7 @@
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
     "europe/spain/galicia",
+    "europe/spain/islas-baleares",
     "europe/spain/madrid",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
@@ -248,6 +251,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/greater-london",
@@ -325,6 +329,7 @@
     "north-america/us/tennessee",
     "north-america/us/texas",
     "north-america/us/utah",
+    "north-america/us/vermont",
     "north-america/us/virginia",
     "north-america/us/washington",
     "north-america/us/west-virginia",
@@ -354,26 +359,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/islas-baleares",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/islas-baleares-latest.osm.pbf"
-    },
-    {
-      "id": "africa/burundi",
-      "pbf_url": "https://download.geofabrik.de/africa/burundi-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/vermont",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/vermont-latest.osm.pbf"
-    },
-    {
-      "id": "asia/azerbaijan",
-      "pbf_url": "https://download.geofabrik.de/asia/azerbaijan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/cumbria",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cumbria-latest.osm.pbf"
-    },
     {
       "id": "africa/sierra-leone",
       "pbf_url": "https://download.geofabrik.de/africa/sierra-leone-latest.osm.pbf"
