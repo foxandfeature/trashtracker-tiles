@@ -29,6 +29,7 @@
     "asia/japan/kyushu",
     "asia/japan/tohoku",
     "asia/malaysia-singapore-brunei",
+    "asia/myanmar",
     "asia/nepal",
     "asia/philippines",
     "asia/south-korea",
@@ -81,6 +82,7 @@
     "europe/poland/wielkopolskie",
     "europe/portugal",
     "europe/romania",
+    "europe/serbia",
     "europe/slovakia",
     "europe/slovenia",
     "europe/sweden",
@@ -105,9 +107,11 @@
     "north-america/us/colorado",
     "north-america/us/florida",
     "north-america/us/georgia",
+    "north-america/us/indiana",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
+    "north-america/us/minnesota",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/ohio",
@@ -131,29 +135,10 @@
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
     "south-america/chile",
-    "south-america/colombia"
+    "south-america/colombia",
+    "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "asia/myanmar",
-      "pbf_url": "https://download.geofabrik.de/asia/myanmar-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/peru",
-      "pbf_url": "https://download.geofabrik.de/south-america/peru-latest.osm.pbf"
-    },
-    {
-      "id": "europe/serbia",
-      "pbf_url": "https://download.geofabrik.de/europe/serbia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/indiana",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/indiana-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/minnesota",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/minnesota-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/wales",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/wales-latest.osm.pbf"
