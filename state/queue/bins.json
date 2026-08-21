@@ -12,6 +12,7 @@
     "asia/taiwan",
     "asia/vietnam",
     "australia-oceania/new-zealand",
+    "europe/austria",
     "europe/denmark",
     "europe/finland",
     "europe/france/bretagne",
@@ -26,6 +27,7 @@
     "europe/sweden",
     "europe/turkey",
     "europe/ukraine",
+    "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/northwest-territories",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
@@ -37,33 +39,16 @@
     "north-america/us/illinois",
     "north-america/us/new-york",
     "north-america/us/pennsylvania",
+    "north-america/us/texas",
+    "russia/central-fed-district",
     "russia/ural-fed-district",
+    "russia/volga-fed-district",
     "south-america/argentina",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "russia/central-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/central-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/austria",
-      "pbf_url": "https://download.geofabrik.de/europe/austria-latest.osm.pbf"
-    },
-    {
-      "id": "russia/volga-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/volga-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/north-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/north-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/texas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/texas-latest.osm.pbf"
-    },
     {
       "id": "africa/nigeria",
       "pbf_url": "https://download.geofabrik.de/africa/nigeria-latest.osm.pbf"
