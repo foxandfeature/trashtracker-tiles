@@ -7,6 +7,7 @@
     "africa/botswana",
     "africa/burkina-faso",
     "africa/cameroon",
+    "africa/canary-islands",
     "africa/central-african-republic",
     "africa/chad",
     "africa/congo-democratic-republic",
@@ -39,6 +40,7 @@
     "africa/zimbabwe",
     "asia/afghanistan",
     "asia/bangladesh",
+    "asia/china/gansu",
     "asia/china/guangdong",
     "asia/china/hebei",
     "asia/china/jiangsu",
@@ -106,6 +108,7 @@
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/moravskoslezky",
+    "europe/czech-republic/olomoucky",
     "europe/czech-republic/plzensky",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
@@ -220,9 +223,11 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/north-yorkshire",
+    "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
@@ -314,26 +319,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/canary-islands",
-      "pbf_url": "https://download.geofabrik.de/africa/canary-islands-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/west-midlands",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-midlands-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/devon",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/devon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/olomoucky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/olomoucky-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/gansu",
-      "pbf_url": "https://download.geofabrik.de/asia/china/gansu-latest.osm.pbf"
-    },
     {
       "id": "europe/netherlands/groningen",
       "pbf_url": "https://download.geofabrik.de/europe/netherlands/groningen-latest.osm.pbf"
