@@ -3,12 +3,14 @@
   "failed": [],
   "lock": [
     "africa/algeria",
+    "africa/angola",
     "africa/botswana",
     "africa/cameroon",
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/egypt",
     "africa/ethiopia",
+    "africa/ghana",
     "africa/kenya",
     "africa/madagascar",
     "africa/mali",
@@ -73,6 +75,7 @@
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/stredocesky",
     "europe/denmark",
+    "europe/estonia",
     "europe/finland",
     "europe/france/alsace",
     "europe/france/aquitaine",
@@ -80,6 +83,7 @@
     "europe/france/bourgogne",
     "europe/france/bretagne",
     "europe/france/centre",
+    "europe/france/franche-comte",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
     "europe/france/lorraine",
@@ -101,6 +105,7 @@
     "europe/germany/mecklenburg-vorpommern",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
+    "europe/germany/nordrhein-westfalen/detmold-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
@@ -229,26 +234,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/angola",
-      "pbf_url": "https://download.geofabrik.de/africa/angola-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/detmold-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/detmold-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "europe/estonia",
-      "pbf_url": "https://download.geofabrik.de/europe/estonia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/franche-comte",
-      "pbf_url": "https://download.geofabrik.de/europe/france/franche-comte-latest.osm.pbf"
-    },
-    {
-      "id": "africa/ghana",
-      "pbf_url": "https://download.geofabrik.de/africa/ghana-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/madrid",
       "pbf_url": "https://download.geofabrik.de/europe/spain/madrid-latest.osm.pbf"
