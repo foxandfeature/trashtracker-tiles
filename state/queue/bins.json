@@ -10,6 +10,7 @@
     "africa/burundi",
     "africa/cameroon",
     "africa/canary-islands",
+    "africa/cape-verde",
     "africa/central-african-republic",
     "africa/chad",
     "africa/congo-brazzaville",
@@ -154,6 +155,7 @@
     "central-america/panama",
     "europe/albania",
     "europe/austria",
+    "europe/azores",
     "europe/belarus",
     "europe/belgium",
     "europe/bosnia-herzegovina",
@@ -307,7 +309,9 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/bedfordshire",
     "europe/united-kingdom/england/berkshire",
+    "europe/united-kingdom/england/bristol",
     "europe/united-kingdom/england/buckinghamshire",
     "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cheshire",
@@ -348,6 +352,7 @@
     "europe/united-kingdom/england/west-sussex",
     "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/england/wiltshire",
+    "europe/united-kingdom/england/worcestershire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
@@ -449,26 +454,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/worcestershire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/worcestershire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/azores",
-      "pbf_url": "https://download.geofabrik.de/europe/azores-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/bedfordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/bedfordshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/bristol",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/bristol-latest.osm.pbf"
-    },
-    {
-      "id": "africa/cape-verde",
-      "pbf_url": "https://download.geofabrik.de/africa/cape-verde-latest.osm.pbf"
-    },
     {
       "id": "africa/djibouti",
       "pbf_url": "https://download.geofabrik.de/africa/djibouti-latest.osm.pbf"
