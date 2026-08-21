@@ -131,11 +131,13 @@
     "asia/yemen",
     "australia-oceania/australia/act",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/australia/northern-territory",
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/south-australia",
     "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
+    "australia-oceania/new-caledonia",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
     "central-america/bahamas",
@@ -297,6 +299,7 @@
     "europe/spain/la-rioja",
     "europe/spain/madrid",
     "europe/spain/murcia",
+    "europe/spain/navarra",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
@@ -328,8 +331,10 @@
     "europe/united-kingdom/england/merseyside",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
+    "europe/united-kingdom/england/northamptonshire",
     "europe/united-kingdom/england/northumberland",
     "europe/united-kingdom/england/nottinghamshire",
+    "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/shropshire",
     "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/south-yorkshire",
@@ -439,26 +444,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/navarra",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/navarra-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/new-caledonia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/new-caledonia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/northamptonshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/northamptonshire-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/northern-territory",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/northern-territory-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/oxfordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/oxfordshire-latest.osm.pbf"
-    },
     {
       "id": "south-america/suriname",
       "pbf_url": "https://download.geofabrik.de/south-america/suriname-latest.osm.pbf"
