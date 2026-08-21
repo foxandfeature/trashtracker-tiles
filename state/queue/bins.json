@@ -165,7 +165,10 @@
     "europe/latvia",
     "europe/lithuania",
     "europe/moldova",
+    "europe/netherlands/drenthe",
+    "europe/netherlands/friesland",
     "europe/netherlands/gelderland",
+    "europe/netherlands/groningen",
     "europe/netherlands/limburg",
     "europe/netherlands/noord-brabant",
     "europe/netherlands/noord-holland",
@@ -196,6 +199,7 @@
     "europe/slovakia",
     "europe/slovenia",
     "europe/spain/andalucia",
+    "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
@@ -206,6 +210,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/england/merseyside",
@@ -294,26 +299,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/aragon",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/aragon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/cumbria",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cumbria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/drenthe",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/drenthe-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/friesland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/friesland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/groningen",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/groningen-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/kent",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/kent-latest.osm.pbf"
