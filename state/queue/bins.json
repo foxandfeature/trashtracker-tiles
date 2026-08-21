@@ -155,10 +155,13 @@
     "australia-oceania/fiji",
     "australia-oceania/kiribati",
     "australia-oceania/marshall-islands",
+    "australia-oceania/micronesia",
     "australia-oceania/new-caledonia",
     "australia-oceania/new-zealand",
+    "australia-oceania/niue",
     "australia-oceania/papua-new-guinea",
     "australia-oceania/polynesie-francaise",
+    "australia-oceania/samoa",
     "australia-oceania/solomon-islands",
     "australia-oceania/tonga",
     "australia-oceania/vanuatu",
@@ -277,6 +280,7 @@
     "europe/macedonia",
     "europe/malta",
     "europe/moldova",
+    "europe/monaco",
     "europe/montenegro",
     "europe/netherlands/drenthe",
     "europe/netherlands/flevoland",
@@ -371,6 +375,7 @@
     "europe/united-kingdom/england/northumberland",
     "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/oxfordshire",
+    "europe/united-kingdom/england/rutland",
     "europe/united-kingdom/england/shropshire",
     "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/south-yorkshire",
@@ -489,26 +494,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/micronesia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/micronesia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/monaco",
-      "pbf_url": "https://download.geofabrik.de/europe/monaco-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/niue",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/niue-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/rutland",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/rutland-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/samoa",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/samoa-latest.osm.pbf"
-    },
     {
       "id": "africa/seychelles",
       "pbf_url": "https://download.geofabrik.de/africa/seychelles-latest.osm.pbf"
