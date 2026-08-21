@@ -3,6 +3,7 @@
   "failed": [],
   "lock": [
     "africa/algeria",
+    "africa/botswana",
     "africa/cameroon",
     "africa/central-african-republic",
     "africa/chad",
@@ -11,6 +12,7 @@
     "africa/ethiopia",
     "africa/ghana",
     "africa/guinea",
+    "africa/ivory-coast",
     "africa/kenya",
     "africa/lesotho",
     "africa/madagascar",
@@ -78,6 +80,7 @@
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
     "central-america/guatemala",
+    "central-america/haiti-and-domrep",
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
@@ -149,6 +152,7 @@
     "europe/latvia",
     "europe/lithuania",
     "europe/moldova",
+    "europe/netherlands/friesland",
     "europe/netherlands/gelderland",
     "europe/netherlands/limburg",
     "europe/netherlands/noord-brabant",
@@ -169,6 +173,7 @@
     "europe/poland/podkarpackie",
     "europe/poland/pomorskie",
     "europe/poland/slaskie",
+    "europe/poland/swietokrzyskie",
     "europe/poland/wielkopolskie",
     "europe/poland/zachodniopomorskie",
     "europe/portugal",
@@ -274,26 +279,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "central-america/haiti-and-domrep",
-      "pbf_url": "https://download.geofabrik.de/central-america/haiti-and-domrep-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/friesland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/friesland-latest.osm.pbf"
-    },
-    {
-      "id": "africa/botswana",
-      "pbf_url": "https://download.geofabrik.de/africa/botswana-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/swietokrzyskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/swietokrzyskie-latest.osm.pbf"
-    },
-    {
-      "id": "africa/ivory-coast",
-      "pbf_url": "https://download.geofabrik.de/africa/ivory-coast-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/bayern/oberpfalz",
       "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberpfalz-latest.osm.pbf"
