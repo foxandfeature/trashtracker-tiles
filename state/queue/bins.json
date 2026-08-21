@@ -46,6 +46,7 @@
     "asia/armenia",
     "asia/azerbaijan",
     "asia/bangladesh",
+    "asia/china/anhui",
     "asia/china/gansu",
     "asia/china/guangdong",
     "asia/china/guangxi",
@@ -53,6 +54,7 @@
     "asia/china/henan",
     "asia/china/hubei",
     "asia/china/hunan",
+    "asia/china/inner-mongolia",
     "asia/china/jiangsu",
     "asia/china/jiangxi",
     "asia/china/shaanxi",
@@ -104,6 +106,7 @@
     "asia/thailand",
     "asia/uzbekistan",
     "asia/vietnam",
+    "asia/yemen",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/south-australia",
@@ -262,9 +265,11 @@
     "europe/united-kingdom/england/greater-manchester",
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/kent",
+    "europe/united-kingdom/england/lincolnshire",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/somerset",
+    "europe/united-kingdom/england/surrey",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
     "europe/united-kingdom/england/west-yorkshire",
@@ -364,26 +369,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/anhui",
-      "pbf_url": "https://download.geofabrik.de/asia/china/anhui-latest.osm.pbf"
-    },
-    {
-      "id": "asia/yemen",
-      "pbf_url": "https://download.geofabrik.de/asia/yemen-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/surrey",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/surrey-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/lincolnshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/lincolnshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/inner-mongolia",
-      "pbf_url": "https://download.geofabrik.de/asia/china/inner-mongolia-latest.osm.pbf"
-    },
     {
       "id": "asia/china/fujian",
       "pbf_url": "https://download.geofabrik.de/asia/china/fujian-latest.osm.pbf"
