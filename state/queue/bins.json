@@ -3,6 +3,7 @@
   "failed": [],
   "lock": [
     "africa/algeria",
+    "africa/congo-democratic-republic",
     "africa/egypt",
     "africa/madagascar",
     "africa/mali",
@@ -16,6 +17,7 @@
     "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/indonesia/sumatra",
+    "asia/iran",
     "asia/japan/chubu",
     "asia/japan/kansai",
     "asia/japan/kanto",
@@ -25,6 +27,7 @@
     "asia/philippines",
     "asia/south-korea",
     "asia/taiwan",
+    "asia/thailand",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/victoria",
     "australia-oceania/new-zealand",
@@ -60,11 +63,13 @@
     "europe/poland/wielkopolskie",
     "europe/portugal",
     "europe/romania",
+    "europe/slovakia",
     "europe/slovenia",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/scotland",
     "north-america/canada/alberta",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/north-admreg",
@@ -104,26 +109,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "asia/thailand",
-      "pbf_url": "https://download.geofabrik.de/asia/thailand-latest.osm.pbf"
-    },
-    {
-      "id": "asia/iran",
-      "pbf_url": "https://download.geofabrik.de/asia/iran-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/scotland",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/scotland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/slovakia",
-      "pbf_url": "https://download.geofabrik.de/europe/slovakia-latest.osm.pbf"
-    },
-    {
-      "id": "africa/congo-democratic-republic",
-      "pbf_url": "https://download.geofabrik.de/africa/congo-democratic-republic-latest.osm.pbf"
-    },
     {
       "id": "europe/france/pays-de-la-loire",
       "pbf_url": "https://download.geofabrik.de/europe/france/pays-de-la-loire-latest.osm.pbf"
