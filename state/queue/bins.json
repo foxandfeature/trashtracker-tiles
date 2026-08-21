@@ -9,6 +9,7 @@
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
+    "asia/japan/chubu",
     "asia/japan/kanto",
     "asia/malaysia-singapore-brunei",
     "asia/philippines",
@@ -18,12 +19,16 @@
     "europe/belgium",
     "europe/denmark",
     "europe/finland",
+    "europe/france/ile-de-france",
+    "europe/france/lorraine",
     "europe/france/rhone-alpes",
     "europe/germany/bayern/oberbayern",
+    "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/norway/trondelag",
     "europe/poland/lodzkie",
     "europe/poland/mazowieckie",
     "europe/slovenia",
@@ -54,26 +59,6 @@
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "asia/japan/chubu",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/chubu-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/trondelag",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/trondelag-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/ile-de-france",
-      "pbf_url": "https://download.geofabrik.de/europe/france/ile-de-france-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/lorraine",
-      "pbf_url": "https://download.geofabrik.de/europe/france/lorraine-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/niedersachsen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/niedersachsen-latest.osm.pbf"
-    },
     {
       "id": "africa/south-africa",
       "pbf_url": "https://download.geofabrik.de/africa/south-africa-latest.osm.pbf"
