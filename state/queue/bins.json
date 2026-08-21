@@ -41,6 +41,7 @@
     "asia/china/guangdong",
     "asia/china/hebei",
     "asia/china/jiangsu",
+    "asia/china/shaanxi",
     "asia/china/shandong",
     "asia/china/sichuan",
     "asia/gcc-states",
@@ -77,12 +78,14 @@
     "asia/philippines",
     "asia/south-korea",
     "asia/sri-lanka",
+    "asia/syria",
     "asia/taiwan",
     "asia/thailand",
     "asia/uzbekistan",
     "asia/vietnam",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
+    "australia-oceania/australia/south-australia",
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
@@ -129,6 +132,7 @@
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/baden-wuerttemberg/tuebingen-regbez",
     "europe/germany/bayern/oberbayern",
+    "europe/germany/bayern/oberpfalz",
     "europe/germany/bayern/schwaben",
     "europe/germany/berlin",
     "europe/germany/brandenburg",
@@ -211,6 +215,7 @@
     "north-america/canada/new-brunswick",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/northwest-territories",
+    "north-america/canada/nova-scotia",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
@@ -284,26 +289,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/nova-scotia",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/nova-scotia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/oberpfalz",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberpfalz-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/shaanxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/shaanxi-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/south-australia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/south-australia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/syria",
-      "pbf_url": "https://download.geofabrik.de/asia/syria-latest.osm.pbf"
-    },
     {
       "id": "europe/czech-republic/ustecky",
       "pbf_url": "https://download.geofabrik.de/europe/czech-republic/ustecky-latest.osm.pbf"
