@@ -42,6 +42,7 @@
     "africa/nigeria",
     "africa/rwanda",
     "africa/senegal-and-gambia",
+    "africa/seychelles",
     "africa/sierra-leone",
     "africa/somalia",
     "africa/south-africa",
@@ -145,6 +146,7 @@
     "asia/yemen",
     "australia-oceania/american-oceania",
     "australia-oceania/australia/act",
+    "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/northern-territory",
     "australia-oceania/australia/queensland",
@@ -165,6 +167,7 @@
     "australia-oceania/solomon-islands",
     "australia-oceania/tonga",
     "australia-oceania/vanuatu",
+    "australia-oceania/wallis-et-futuna",
     "central-america/bahamas",
     "central-america/belize",
     "central-america/costa-rica",
@@ -297,6 +300,7 @@
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/sorlandet",
+    "europe/norway/svalbard-janmayen",
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
     "europe/poland/dolnoslaskie",
@@ -460,6 +464,7 @@
     "north-america/us/south-dakota",
     "north-america/us/tennessee",
     "north-america/us/texas",
+    "north-america/us/us-virgin-islands",
     "north-america/us/utah",
     "north-america/us/vermont",
     "north-america/us/virginia",
@@ -494,26 +499,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/seychelles",
-      "pbf_url": "https://download.geofabrik.de/africa/seychelles-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/svalbard-janmayen",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/svalbard-janmayen-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/us-virgin-islands",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/us-virgin-islands-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/wallis-et-futuna",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/wallis-et-futuna-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/christmas-island",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/christmas-island-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/australia/cocos-islands",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/cocos-islands-latest.osm.pbf"
