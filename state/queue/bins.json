@@ -2,33 +2,18 @@
   "done": [],
   "failed": [],
   "lock": [
+    "asia/india/southern-zone",
     "australia-oceania/new-zealand",
     "europe/finland",
+    "europe/italy/nord-est",
     "europe/italy/sud",
+    "europe/sweden",
     "europe/turkey",
-    "north-america/canada/quebec"
+    "north-america/canada/nunavut/qikiqtaaluk",
+    "north-america/canada/quebec",
+    "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "europe/italy/nord-est",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/nord-est-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/sudeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/sudeste-latest.osm.pbf"
-    },
-    {
-      "id": "europe/sweden",
-      "pbf_url": "https://download.geofabrik.de/europe/sweden-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/southern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/southern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/nunavut/qikiqtaaluk",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/nunavut/qikiqtaaluk-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/california/socal",
       "pbf_url": "https://download.geofabrik.de/north-america/us/california/socal-latest.osm.pbf"
