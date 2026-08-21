@@ -47,7 +47,9 @@
     "asia/china/guangxi",
     "asia/china/hebei",
     "asia/china/hubei",
+    "asia/china/hunan",
     "asia/china/jiangsu",
+    "asia/china/jiangxi",
     "asia/china/shaanxi",
     "asia/china/shandong",
     "asia/china/sichuan",
@@ -240,10 +242,13 @@
     "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/england/devon",
+    "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/greater-london",
+    "europe/united-kingdom/england/greater-manchester",
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/north-yorkshire",
+    "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/scotland",
@@ -339,26 +344,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/greater-manchester",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/greater-manchester-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hunan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hunan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/essex",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/essex-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/jiangxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/jiangxi-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/somerset",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/somerset-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/west-sussex",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-sussex-latest.osm.pbf"
