@@ -31,6 +31,7 @@
     "africa/malawi",
     "africa/mali",
     "africa/mauritania",
+    "africa/mauritius",
     "africa/morocco",
     "africa/mozambique",
     "africa/namibia",
@@ -65,6 +66,7 @@
     "asia/china/guangdong",
     "asia/china/guangxi",
     "asia/china/guizhou",
+    "asia/china/hainan",
     "asia/china/hebei",
     "asia/china/heilongjiang",
     "asia/china/henan",
@@ -204,6 +206,7 @@
     "europe/france/limousin",
     "europe/france/lorraine",
     "europe/france/martinique",
+    "europe/france/mayotte",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
@@ -335,7 +338,9 @@
     "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/england/greater-manchester",
     "europe/united-kingdom/england/hampshire",
+    "europe/united-kingdom/england/herefordshire",
     "europe/united-kingdom/england/hertfordshire",
+    "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/lancashire",
     "europe/united-kingdom/england/leicestershire",
@@ -464,26 +469,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/herefordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/herefordshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/mayotte",
-      "pbf_url": "https://download.geofabrik.de/europe/france/mayotte-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hainan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hainan-latest.osm.pbf"
-    },
-    {
-      "id": "africa/mauritius",
-      "pbf_url": "https://download.geofabrik.de/africa/mauritius-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/isle-of-wight",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/isle-of-wight-latest.osm.pbf"
-    },
     {
       "id": "europe/malta",
       "pbf_url": "https://download.geofabrik.de/europe/malta-latest.osm.pbf"
