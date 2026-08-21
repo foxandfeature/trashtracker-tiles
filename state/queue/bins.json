@@ -43,6 +43,7 @@
     "asia/bangladesh",
     "asia/china/gansu",
     "asia/china/guangdong",
+    "asia/china/guangxi",
     "asia/china/hebei",
     "asia/china/hubei",
     "asia/china/jiangsu",
@@ -76,6 +77,7 @@
     "asia/japan/tohoku",
     "asia/kazakhstan",
     "asia/kyrgyzstan",
+    "asia/laos",
     "asia/malaysia-singapore-brunei",
     "asia/mongolia",
     "asia/myanmar",
@@ -93,6 +95,7 @@
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/south-australia",
+    "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
@@ -157,6 +160,7 @@
     "europe/germany/bayern/unterfranken",
     "europe/germany/berlin",
     "europe/germany/brandenburg",
+    "europe/germany/hamburg",
     "europe/germany/hessen",
     "europe/germany/mecklenburg-vorpommern",
     "europe/germany/niedersachsen",
@@ -237,6 +241,7 @@
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/west-midlands",
+    "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
@@ -329,26 +334,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/australia/tasmania",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/tasmania-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/hamburg",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/hamburg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/west-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-yorkshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/laos",
-      "pbf_url": "https://download.geofabrik.de/asia/laos-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/guangxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/guangxi-latest.osm.pbf"
-    },
     {
       "id": "asia/armenia",
       "pbf_url": "https://download.geofabrik.de/asia/armenia-latest.osm.pbf"
