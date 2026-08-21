@@ -125,6 +125,7 @@
     "asia/laos",
     "asia/lebanon",
     "asia/malaysia-singapore-brunei",
+    "asia/maldives",
     "asia/mongolia",
     "asia/myanmar",
     "asia/nepal",
@@ -155,7 +156,9 @@
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
     "australia-oceania/polynesie-francaise",
+    "australia-oceania/samoa",
     "australia-oceania/solomon-islands",
+    "australia-oceania/tonga",
     "australia-oceania/vanuatu",
     "central-america/bahamas",
     "central-america/belize",
@@ -253,6 +256,7 @@
     "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
     "europe/greece",
+    "europe/guernsey-jersey",
     "europe/hungary",
     "europe/iceland",
     "europe/ireland-and-northern-ireland",
@@ -264,6 +268,7 @@
     "europe/italy/sud",
     "europe/kosovo",
     "europe/latvia",
+    "europe/liechtenstein",
     "europe/lithuania",
     "europe/luxembourg",
     "europe/macedonia",
@@ -479,26 +484,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/guernsey-jersey",
-      "pbf_url": "https://download.geofabrik.de/europe/guernsey-jersey-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/tonga",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/tonga-latest.osm.pbf"
-    },
-    {
-      "id": "asia/maldives",
-      "pbf_url": "https://download.geofabrik.de/asia/maldives-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/samoa",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/samoa-latest.osm.pbf"
-    },
-    {
-      "id": "europe/liechtenstein",
-      "pbf_url": "https://download.geofabrik.de/europe/liechtenstein-latest.osm.pbf"
-    },
     {
       "id": "europe/andorra",
       "pbf_url": "https://download.geofabrik.de/europe/andorra-latest.osm.pbf"
