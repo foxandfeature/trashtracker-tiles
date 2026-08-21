@@ -14,13 +14,16 @@
     "asia/india/central-zone",
     "asia/india/southern-zone",
     "asia/indonesia/java",
+    "asia/indonesia/sumatra",
     "asia/japan/chubu",
     "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/japan/kyushu",
     "asia/japan/tohoku",
+    "asia/myanmar",
     "asia/nepal",
     "asia/philippines",
+    "asia/south-korea",
     "asia/taiwan",
     "asia/thailand",
     "asia/vietnam",
@@ -77,6 +80,7 @@
     "north-america/us/illinois",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
+    "north-america/us/minnesota",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/ohio",
@@ -84,6 +88,7 @@
     "north-america/us/texas",
     "north-america/us/virginia",
     "north-america/us/washington",
+    "north-america/us/wisconsin",
     "russia/central-fed-district",
     "russia/far-eastern-fed-district",
     "russia/northwestern-fed-district",
@@ -99,26 +104,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/wisconsin",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/wisconsin-latest.osm.pbf"
-    },
-    {
-      "id": "asia/south-korea",
-      "pbf_url": "https://download.geofabrik.de/asia/south-korea-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/minnesota",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/minnesota-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/sumatra",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/sumatra-latest.osm.pbf"
-    },
-    {
-      "id": "asia/myanmar",
-      "pbf_url": "https://download.geofabrik.de/asia/myanmar-latest.osm.pbf"
-    },
     {
       "id": "europe/france/languedoc-roussillon",
       "pbf_url": "https://download.geofabrik.de/europe/france/languedoc-roussillon-latest.osm.pbf"
