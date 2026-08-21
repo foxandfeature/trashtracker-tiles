@@ -17,6 +17,7 @@
     "africa/egypt",
     "africa/eritrea",
     "africa/ethiopia",
+    "africa/gabon",
     "africa/ghana",
     "africa/guinea",
     "africa/ivory-coast",
@@ -63,6 +64,7 @@
     "asia/china/hebei",
     "asia/china/heilongjiang",
     "asia/china/henan",
+    "asia/china/hong-kong",
     "asia/china/hubei",
     "asia/china/hunan",
     "asia/china/inner-mongolia",
@@ -79,6 +81,7 @@
     "asia/china/xinjiang",
     "asia/china/yunnan",
     "asia/china/zhejiang",
+    "asia/east-timor",
     "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
@@ -179,6 +182,8 @@
     "europe/france/champagne-ardenne",
     "europe/france/corse",
     "europe/france/franche-comte",
+    "europe/france/guadeloupe",
+    "europe/france/guyane",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
@@ -429,26 +434,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/east-timor",
-      "pbf_url": "https://download.geofabrik.de/asia/east-timor-latest.osm.pbf"
-    },
-    {
-      "id": "africa/gabon",
-      "pbf_url": "https://download.geofabrik.de/africa/gabon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/guadeloupe",
-      "pbf_url": "https://download.geofabrik.de/europe/france/guadeloupe-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/guyane",
-      "pbf_url": "https://download.geofabrik.de/europe/france/guyane-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hong-kong",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hong-kong-latest.osm.pbf"
-    },
     {
       "id": "asia/jordan",
       "pbf_url": "https://download.geofabrik.de/asia/jordan-latest.osm.pbf"
