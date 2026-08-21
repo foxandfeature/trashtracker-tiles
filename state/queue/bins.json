@@ -148,7 +148,11 @@
     "asia/yemen",
     "australia-oceania/american-oceania",
     "australia-oceania/australia/act",
+    "australia-oceania/australia/christmas-island",
+    "australia-oceania/australia/cocos-islands",
+    "australia-oceania/australia/coral-sea-islands",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/australia/norfolk-island",
     "australia-oceania/australia/northern-territory",
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/south-australia",
@@ -160,6 +164,7 @@
     "australia-oceania/kiribati",
     "australia-oceania/marshall-islands",
     "australia-oceania/micronesia",
+    "australia-oceania/nauru",
     "australia-oceania/new-caledonia",
     "australia-oceania/new-zealand",
     "australia-oceania/niue",
@@ -504,26 +509,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/australia/norfolk-island",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/norfolk-island-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/nauru",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/nauru-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/cocos-islands",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/cocos-islands-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/christmas-island",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/christmas-island-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/coral-sea-islands",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/coral-sea-islands-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/tokelau",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/tokelau-latest.osm.pbf"
