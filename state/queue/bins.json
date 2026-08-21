@@ -81,6 +81,7 @@
     "europe/hungary",
     "europe/ireland-and-northern-ireland",
     "europe/italy/centro",
+    "europe/italy/isole",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
@@ -102,6 +103,7 @@
     "europe/slovakia",
     "europe/slovenia",
     "europe/spain/andalucia",
+    "europe/spain/galicia",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
@@ -137,11 +139,14 @@
     "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/minnesota",
+    "north-america/us/missouri",
+    "north-america/us/new-jersey",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/ohio",
     "north-america/us/pennsylvania",
     "north-america/us/south-carolina",
+    "north-america/us/tennessee",
     "north-america/us/texas",
     "north-america/us/virginia",
     "north-america/us/washington",
@@ -164,26 +169,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/galicia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/galicia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/isole",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/isole-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/missouri",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/missouri-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-jersey",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-jersey-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/tennessee",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/tennessee-latest.osm.pbf"
-    },
     {
       "id": "africa/cameroon",
       "pbf_url": "https://download.geofabrik.de/africa/cameroon-latest.osm.pbf"
