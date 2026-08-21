@@ -20,6 +20,7 @@
     "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
+    "asia/india/northern-zone",
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
@@ -40,6 +41,7 @@
     "asia/thailand",
     "asia/vietnam",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/australia/queensland",
     "australia-oceania/australia/victoria",
     "australia-oceania/new-zealand",
     "europe/austria",
@@ -57,6 +59,7 @@
     "europe/france/languedoc-roussillon",
     "europe/france/lorraine",
     "europe/france/midi-pyrenees",
+    "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
@@ -94,6 +97,7 @@
     "europe/serbia",
     "europe/slovakia",
     "europe/slovenia",
+    "europe/spain/andalucia",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
@@ -123,6 +127,7 @@
     "north-america/us/illinois",
     "north-america/us/indiana",
     "north-america/us/iowa",
+    "north-america/us/kansas",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
@@ -154,26 +159,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/france/nord-pas-de-calais",
-      "pbf_url": "https://download.geofabrik.de/europe/france/nord-pas-de-calais-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/kansas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/kansas-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/andalucia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/andalucia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/northern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/northern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/queensland",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/queensland-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/connecticut",
       "pbf_url": "https://download.geofabrik.de/north-america/us/connecticut-latest.osm.pbf"
