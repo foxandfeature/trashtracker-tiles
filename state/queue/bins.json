@@ -49,6 +49,7 @@
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
     "europe/france/lorraine",
+    "europe/france/midi-pyrenees",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
@@ -56,16 +57,20 @@
     "europe/germany/brandenburg",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
+    "europe/germany/nordrhein-westfalen/arnsberg-regbez",
+    "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/rheinland-pfalz",
     "europe/germany/sachsen",
     "europe/germany/thueringen",
     "europe/greece",
+    "europe/hungary",
     "europe/ireland-and-northern-ireland",
     "europe/italy/centro",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/lithuania",
     "europe/netherlands/noord-brabant",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
@@ -129,26 +134,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/france/midi-pyrenees",
-      "pbf_url": "https://download.geofabrik.de/europe/france/midi-pyrenees-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/arnsberg-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/arnsberg-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/duesseldorf-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "europe/hungary",
-      "pbf_url": "https://download.geofabrik.de/europe/hungary-latest.osm.pbf"
-    },
-    {
-      "id": "europe/lithuania",
-      "pbf_url": "https://download.geofabrik.de/europe/lithuania-latest.osm.pbf"
-    },
     {
       "id": "asia/myanmar",
       "pbf_url": "https://download.geofabrik.de/asia/myanmar-latest.osm.pbf"
