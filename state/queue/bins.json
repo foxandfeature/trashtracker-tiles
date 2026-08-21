@@ -48,7 +48,11 @@
     "asia/china/fujian",
     "asia/china/guangdong",
     "asia/china/hebei",
+    "asia/china/henan",
+    "asia/china/hubei",
+    "asia/china/hunan",
     "asia/china/jiangsu",
+    "asia/china/jiangxi",
     "asia/china/shaanxi",
     "asia/china/shandong",
     "asia/china/sichuan",
@@ -79,6 +83,7 @@
     "asia/japan/shikoku",
     "asia/japan/tohoku",
     "asia/kazakhstan",
+    "asia/kyrgyzstan",
     "asia/lebanon",
     "asia/malaysia-singapore-brunei",
     "asia/mongolia",
@@ -339,26 +344,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/henan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/henan-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hubei",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hubei-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hunan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hunan-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/jiangxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/jiangxi-latest.osm.pbf"
-    },
-    {
-      "id": "asia/kyrgyzstan",
-      "pbf_url": "https://download.geofabrik.de/asia/kyrgyzstan-latest.osm.pbf"
-    },
     {
       "id": "europe/luxembourg",
       "pbf_url": "https://download.geofabrik.de/europe/luxembourg-latest.osm.pbf"
