@@ -2,6 +2,8 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/nigeria",
+    "africa/tanzania",
     "asia/india/central-zone",
     "asia/indonesia/java",
     "europe/austria",
@@ -9,8 +11,11 @@
     "europe/finland",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/ireland-and-northern-ireland",
+    "europe/poland/lodzkie",
     "europe/sweden",
     "europe/ukraine",
+    "north-america/canada/british-columbia/interior-admreg",
+    "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/us/california/norcal",
@@ -19,26 +24,6 @@
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "africa/nigeria",
-      "pbf_url": "https://download.geofabrik.de/africa/nigeria-latest.osm.pbf"
-    },
-    {
-      "id": "africa/tanzania",
-      "pbf_url": "https://download.geofabrik.de/africa/tanzania-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/interior-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/interior-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/lodzkie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lodzkie-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/north-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/north-admreg-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/texas",
       "pbf_url": "https://download.geofabrik.de/north-america/us/texas-latest.osm.pbf"
