@@ -23,6 +23,7 @@
     "africa/uganda",
     "africa/zambia",
     "africa/zimbabwe",
+    "asia/afghanistan",
     "asia/bangladesh",
     "asia/china/guangdong",
     "asia/china/sichuan",
@@ -38,6 +39,7 @@
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/iran",
+    "asia/israel-and-palestine",
     "asia/japan/chubu",
     "asia/japan/chugoku",
     "asia/japan/hokkaido",
@@ -116,6 +118,7 @@
     "europe/latvia",
     "europe/lithuania",
     "europe/netherlands/gelderland",
+    "europe/netherlands/limburg",
     "europe/netherlands/noord-brabant",
     "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
@@ -127,8 +130,10 @@
     "europe/poland/dolnoslaskie",
     "europe/poland/kujawsko-pomorskie",
     "europe/poland/lodzkie",
+    "europe/poland/lubelskie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
+    "europe/poland/podkarpackie",
     "europe/poland/slaskie",
     "europe/poland/wielkopolskie",
     "europe/portugal",
@@ -219,26 +224,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/afghanistan",
-      "pbf_url": "https://download.geofabrik.de/asia/afghanistan-latest.osm.pbf"
-    },
-    {
-      "id": "asia/israel-and-palestine",
-      "pbf_url": "https://download.geofabrik.de/asia/israel-and-palestine-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/limburg",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/limburg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/lubelskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lubelskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/podkarpackie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/podkarpackie-latest.osm.pbf"
-    },
     {
       "id": "africa/botswana",
       "pbf_url": "https://download.geofabrik.de/africa/botswana-latest.osm.pbf"
