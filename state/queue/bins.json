@@ -51,7 +51,9 @@
     "asia/china/anhui",
     "asia/china/beijing",
     "asia/china/chongqing",
+    "asia/china/fujian",
     "asia/china/guangdong",
+    "asia/china/guangxi",
     "asia/china/hebei",
     "asia/china/henan",
     "asia/china/hubei",
@@ -115,6 +117,7 @@
     "australia-oceania/papua-new-guinea",
     "central-america/costa-rica",
     "central-america/cuba",
+    "central-america/el-salvador",
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
@@ -248,6 +251,7 @@
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
     "europe/spain/galicia",
+    "europe/spain/islas-baleares",
     "europe/spain/madrid",
     "europe/spain/murcia",
     "europe/spain/pais-vasco",
@@ -269,6 +273,7 @@
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/hertfordshire",
     "europe/united-kingdom/england/kent",
+    "europe/united-kingdom/england/lincolnshire",
     "europe/united-kingdom/england/merseyside",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/northumberland",
@@ -374,26 +379,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "central-america/el-salvador",
-      "pbf_url": "https://download.geofabrik.de/central-america/el-salvador-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/fujian",
-      "pbf_url": "https://download.geofabrik.de/asia/china/fujian-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/guangxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/guangxi-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/islas-baleares",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/islas-baleares-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/lincolnshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/lincolnshire-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/norfolk",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/norfolk-latest.osm.pbf"
