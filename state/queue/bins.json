@@ -5,6 +5,7 @@
     "africa/algeria",
     "africa/angola",
     "africa/botswana",
+    "africa/burkina-faso",
     "africa/cameroon",
     "africa/chad",
     "africa/congo-democratic-republic",
@@ -20,6 +21,7 @@
     "africa/morocco",
     "africa/mozambique",
     "africa/nigeria",
+    "africa/senegal-and-gambia",
     "africa/somalia",
     "africa/south-africa",
     "africa/south-sudan",
@@ -157,6 +159,7 @@
     "europe/poland/podkarpackie",
     "europe/poland/pomorskie",
     "europe/poland/slaskie",
+    "europe/poland/swietokrzyskie",
     "europe/poland/wielkopolskie",
     "europe/poland/zachodniopomorskie",
     "europe/portugal",
@@ -181,6 +184,7 @@
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/british-columbia/southcoast-admreg",
     "north-america/canada/manitoba",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/northwest-territories",
@@ -194,6 +198,7 @@
     "north-america/us/alabama",
     "north-america/us/alaska",
     "north-america/us/arizona",
+    "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
     "north-america/us/colorado",
@@ -254,26 +259,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/senegal-and-gambia",
-      "pbf_url": "https://download.geofabrik.de/africa/senegal-and-gambia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/southcoast-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/southcoast-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/swietokrzyskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/swietokrzyskie-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/arkansas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/arkansas-latest.osm.pbf"
-    },
-    {
-      "id": "africa/burkina-faso",
-      "pbf_url": "https://download.geofabrik.de/africa/burkina-faso-latest.osm.pbf"
-    },
     {
       "id": "europe/france/haute-normandie",
       "pbf_url": "https://download.geofabrik.de/europe/france/haute-normandie-latest.osm.pbf"
