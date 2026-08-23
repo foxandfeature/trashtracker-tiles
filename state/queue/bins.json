@@ -147,6 +147,10 @@
     "asia/yemen",
     "australia-oceania/american-oceania",
     "australia-oceania/australia/act",
+    "australia-oceania/australia/christmas-island",
+    "australia-oceania/australia/cocos-islands",
+    "australia-oceania/australia/coral-sea-islands",
+    "australia-oceania/australia/heard-mcdonald",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/northern-territory",
     "australia-oceania/australia/queensland",
@@ -154,6 +158,7 @@
     "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
+    "australia-oceania/cook-islands",
     "australia-oceania/fiji",
     "australia-oceania/kiribati",
     "australia-oceania/marshall-islands",
@@ -499,26 +504,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/australia/christmas-island",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/christmas-island-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/cocos-islands",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/cocos-islands-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/cook-islands",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/cook-islands-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/coral-sea-islands",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/coral-sea-islands-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/heard-mcdonald",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/heard-mcdonald-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/ile-de-clipperton",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/ile-de-clipperton-latest.osm.pbf"
