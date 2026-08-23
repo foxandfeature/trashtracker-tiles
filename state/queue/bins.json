@@ -13,6 +13,7 @@
     "asia/japan/chubu",
     "asia/japan/kanto",
     "asia/malaysia-singapore-brunei",
+    "asia/nepal",
     "asia/philippines",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/new-zealand",
@@ -20,8 +21,10 @@
     "europe/belgium",
     "europe/denmark",
     "europe/finland",
+    "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/bayern/oberbayern",
+    "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/hungary",
@@ -55,35 +58,17 @@
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/texas",
+    "north-america/us/virginia",
     "russia/central-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
+    "south-america/argentina",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/virginia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/virginia-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/argentina",
-      "pbf_url": "https://download.geofabrik.de/south-america/argentina-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/hessen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/hessen-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/provence-alpes-cote-d-azur",
-      "pbf_url": "https://download.geofabrik.de/europe/france/provence-alpes-cote-d-azur-latest.osm.pbf"
-    },
-    {
-      "id": "asia/nepal",
-      "pbf_url": "https://download.geofabrik.de/asia/nepal-latest.osm.pbf"
-    },
     {
       "id": "europe/france/pays-de-la-loire",
       "pbf_url": "https://download.geofabrik.de/europe/france/pays-de-la-loire-latest.osm.pbf"
