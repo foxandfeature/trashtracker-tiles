@@ -29,6 +29,7 @@
     "asia/iran",
     "asia/japan/chubu",
     "asia/japan/chugoku",
+    "asia/japan/hokkaido",
     "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/japan/kyushu",
@@ -49,6 +50,8 @@
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
+    "europe/bulgaria",
+    "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/stredocesky",
     "europe/denmark",
     "europe/finland",
@@ -135,11 +138,13 @@
     "north-america/us/georgia",
     "north-america/us/illinois",
     "north-america/us/indiana",
+    "north-america/us/iowa",
     "north-america/us/kansas",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/minnesota",
+    "north-america/us/missouri",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/ohio",
@@ -169,26 +174,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/bulgaria",
-      "pbf_url": "https://download.geofabrik.de/europe/bulgaria-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/hokkaido",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/hokkaido-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/moravskoslezky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/moravskoslezky-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/iowa",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/iowa-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/missouri",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/missouri-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/oklahoma",
       "pbf_url": "https://download.geofabrik.de/north-america/us/oklahoma-latest.osm.pbf"
