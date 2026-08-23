@@ -26,6 +26,7 @@
     "asia/japan/kanto",
     "asia/japan/kyushu",
     "asia/malaysia-singapore-brunei",
+    "asia/myanmar",
     "asia/nepal",
     "asia/philippines",
     "asia/south-korea",
@@ -33,6 +34,7 @@
     "asia/thailand",
     "asia/vietnam",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/australia/victoria",
     "australia-oceania/new-zealand",
     "europe/austria",
     "europe/belarus",
@@ -41,7 +43,9 @@
     "europe/finland",
     "europe/france/aquitaine",
     "europe/france/bretagne",
+    "europe/france/centre",
     "europe/france/ile-de-france",
+    "europe/france/languedoc-roussillon",
     "europe/france/lorraine",
     "europe/france/midi-pyrenees",
     "europe/france/pays-de-la-loire",
@@ -102,6 +106,7 @@
     "north-america/us/texas",
     "north-america/us/virginia",
     "north-america/us/washington",
+    "north-america/us/wisconsin",
     "russia/central-fed-district",
     "russia/far-eastern-fed-district",
     "russia/northwestern-fed-district",
@@ -119,26 +124,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/wisconsin",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/wisconsin-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/victoria",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/victoria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/centre",
-      "pbf_url": "https://download.geofabrik.de/europe/france/centre-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/languedoc-roussillon",
-      "pbf_url": "https://download.geofabrik.de/europe/france/languedoc-roussillon-latest.osm.pbf"
-    },
-    {
-      "id": "asia/myanmar",
-      "pbf_url": "https://download.geofabrik.de/asia/myanmar-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/newfoundland-and-labrador",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/newfoundland-and-labrador-latest.osm.pbf"
