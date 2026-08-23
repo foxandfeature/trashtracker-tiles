@@ -2,6 +2,7 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/congo-democratic-republic",
     "africa/madagascar",
     "africa/mozambique",
     "africa/nigeria",
@@ -18,6 +19,7 @@
     "asia/malaysia-singapore-brunei",
     "asia/nepal",
     "asia/philippines",
+    "asia/south-korea",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/new-zealand",
     "europe/austria",
@@ -32,6 +34,7 @@
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
+    "europe/germany/rheinland-pfalz",
     "europe/hungary",
     "europe/ireland-and-northern-ireland",
     "europe/italy/centro",
@@ -60,6 +63,7 @@
     "north-america/mexico",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
+    "north-america/us/colorado",
     "north-america/us/florida",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
@@ -76,29 +80,10 @@
     "south-america/argentina",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
-    "south-america/brazil/sul"
+    "south-america/brazil/sul",
+    "south-america/chile"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/colorado",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/colorado-latest.osm.pbf"
-    },
-    {
-      "id": "africa/congo-democratic-republic",
-      "pbf_url": "https://download.geofabrik.de/africa/congo-democratic-republic-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/chile",
-      "pbf_url": "https://download.geofabrik.de/south-america/chile-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/rheinland-pfalz",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/rheinland-pfalz-latest.osm.pbf"
-    },
-    {
-      "id": "asia/south-korea",
-      "pbf_url": "https://download.geofabrik.de/asia/south-korea-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/washington",
       "pbf_url": "https://download.geofabrik.de/north-america/us/washington-latest.osm.pbf"
