@@ -39,6 +39,7 @@
     "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
+    "asia/india/north-eastern-zone",
     "asia/india/northern-zone",
     "asia/india/southern-zone",
     "asia/india/western-zone",
@@ -56,6 +57,7 @@
     "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/japan/kyushu",
+    "asia/japan/shikoku",
     "asia/japan/tohoku",
     "asia/kazakhstan",
     "asia/malaysia-singapore-brunei",
@@ -97,6 +99,7 @@
     "europe/france/centre",
     "europe/france/champagne-ardenne",
     "europe/france/franche-comte",
+    "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
     "europe/france/lorraine",
@@ -172,6 +175,7 @@
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
     "europe/spain/galicia",
+    "europe/spain/madrid",
     "europe/spain/valencia",
     "europe/sweden",
     "europe/switzerland",
@@ -188,6 +192,7 @@
     "north-america/canada/manitoba",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/northwest-territories",
+    "north-america/canada/nova-scotia",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
@@ -259,26 +264,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/france/haute-normandie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/haute-normandie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/madrid",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/madrid-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/north-eastern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/north-eastern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/nova-scotia",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/nova-scotia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/shikoku",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/shikoku-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/nebraska",
       "pbf_url": "https://download.geofabrik.de/north-america/us/nebraska-latest.osm.pbf"
