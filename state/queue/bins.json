@@ -2,6 +2,7 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/madagascar",
     "africa/mozambique",
     "africa/nigeria",
     "africa/south-africa",
@@ -21,6 +22,8 @@
     "europe/belgium",
     "europe/denmark",
     "europe/finland",
+    "europe/france/ile-de-france",
+    "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/bayern/oberbayern",
@@ -29,6 +32,7 @@
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/hungary",
     "europe/ireland-and-northern-ireland",
+    "europe/italy/centro",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
@@ -55,6 +59,7 @@
     "north-america/us/california/socal",
     "north-america/us/florida",
     "north-america/us/massachusetts",
+    "north-america/us/michigan",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/texas",
@@ -69,26 +74,6 @@
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "europe/france/pays-de-la-loire",
-      "pbf_url": "https://download.geofabrik.de/europe/france/pays-de-la-loire-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/michigan",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/michigan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/centro",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/centro-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/ile-de-france",
-      "pbf_url": "https://download.geofabrik.de/europe/france/ile-de-france-latest.osm.pbf"
-    },
-    {
-      "id": "africa/madagascar",
-      "pbf_url": "https://download.geofabrik.de/africa/madagascar-latest.osm.pbf"
-    },
     {
       "id": "europe/norway/nord-norge",
       "pbf_url": "https://download.geofabrik.de/europe/norway/nord-norge-latest.osm.pbf"
