@@ -14,11 +14,13 @@
     "africa/morocco",
     "africa/mozambique",
     "africa/nigeria",
+    "africa/somalia",
     "africa/south-africa",
     "africa/sudan",
     "africa/tanzania",
     "africa/uganda",
     "africa/zambia",
+    "africa/zimbabwe",
     "asia/bangladesh",
     "asia/gcc-states",
     "asia/india/central-zone",
@@ -53,12 +55,14 @@
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
+    "europe/bosnia-herzegovina",
     "europe/bulgaria",
     "europe/croatia",
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/stredocesky",
     "europe/denmark",
     "europe/finland",
+    "europe/france/alsace",
     "europe/france/aquitaine",
     "europe/france/basse-normandie",
     "europe/france/bourgogne",
@@ -120,6 +124,7 @@
     "europe/spain/andalucia",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
+    "europe/spain/galicia",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
@@ -189,26 +194,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "africa/somalia",
-      "pbf_url": "https://download.geofabrik.de/africa/somalia-latest.osm.pbf"
-    },
-    {
-      "id": "africa/zimbabwe",
-      "pbf_url": "https://download.geofabrik.de/africa/zimbabwe-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/alsace",
-      "pbf_url": "https://download.geofabrik.de/europe/france/alsace-latest.osm.pbf"
-    },
-    {
-      "id": "europe/bosnia-herzegovina",
-      "pbf_url": "https://download.geofabrik.de/europe/bosnia-herzegovina-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/galicia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/galicia-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/kujawsko-pomorskie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/kujawsko-pomorskie-latest.osm.pbf"
