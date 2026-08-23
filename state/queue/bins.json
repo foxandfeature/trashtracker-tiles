@@ -5,12 +5,14 @@
     "africa/nigeria",
     "africa/tanzania",
     "asia/india/central-zone",
+    "asia/india/southern-zone",
     "asia/indonesia/java",
     "europe/austria",
     "europe/belgium",
     "europe/finland",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/ireland-and-northern-ireland",
+    "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/poland/lodzkie",
     "europe/sweden",
@@ -21,34 +23,17 @@
     "north-america/canada/quebec",
     "north-america/mexico",
     "north-america/us/california/norcal",
+    "north-america/us/california/socal",
+    "north-america/us/florida",
     "north-america/us/massachusetts",
     "north-america/us/texas",
     "russia/central-fed-district",
     "russia/northwestern-fed-district",
+    "russia/siberian-fed-district",
     "russia/volga-fed-district",
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "asia/india/southern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/southern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/nord-est",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/nord-est-latest.osm.pbf"
-    },
-    {
-      "id": "russia/siberian-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/siberian-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/florida",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/florida-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/california/socal",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/california/socal-latest.osm.pbf"
-    },
     {
       "id": "asia/philippines",
       "pbf_url": "https://download.geofabrik.de/asia/philippines-latest.osm.pbf"
