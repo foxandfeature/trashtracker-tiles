@@ -33,6 +33,7 @@
     "asia/japan/kanto",
     "asia/japan/kyushu",
     "asia/japan/tohoku",
+    "asia/kazakhstan",
     "asia/malaysia-singapore-brunei",
     "asia/myanmar",
     "asia/nepal",
@@ -78,10 +79,12 @@
     "europe/hungary",
     "europe/ireland-and-northern-ireland",
     "europe/italy/centro",
+    "europe/italy/isole",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/lithuania",
+    "europe/netherlands/gelderland",
     "europe/netherlands/noord-brabant",
     "europe/netherlands/noord-holland",
     "europe/norway/nord-norge",
@@ -90,6 +93,7 @@
     "europe/norway/vestlandet",
     "europe/poland/dolnoslaskie",
     "europe/poland/lodzkie",
+    "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/poland/wielkopolskie",
     "europe/portugal",
@@ -126,6 +130,7 @@
     "north-america/us/georgia",
     "north-america/us/illinois",
     "north-america/us/indiana",
+    "north-america/us/kansas",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
@@ -159,26 +164,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/kansas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/kansas-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/gelderland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/gelderland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/isole",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/isole-latest.osm.pbf"
-    },
-    {
-      "id": "asia/kazakhstan",
-      "pbf_url": "https://download.geofabrik.de/asia/kazakhstan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/malopolskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/malopolskie-latest.osm.pbf"
-    },
     {
       "id": "europe/czech-republic/stredocesky",
       "pbf_url": "https://download.geofabrik.de/europe/czech-republic/stredocesky-latest.osm.pbf"
