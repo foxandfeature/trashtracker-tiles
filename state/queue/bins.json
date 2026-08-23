@@ -17,6 +17,7 @@
     "africa/egypt",
     "africa/eritrea",
     "africa/ethiopia",
+    "africa/gabon",
     "africa/ghana",
     "africa/guinea",
     "africa/ivory-coast",
@@ -92,6 +93,7 @@
     "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/indonesia/kalimantan",
+    "asia/indonesia/maluku",
     "asia/indonesia/nusa-tenggara",
     "asia/indonesia/papua",
     "asia/indonesia/sulawesi",
@@ -186,6 +188,7 @@
     "europe/france/champagne-ardenne",
     "europe/france/corse",
     "europe/france/franche-comte",
+    "europe/france/guadeloupe",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
@@ -294,6 +297,7 @@
     "europe/spain/extremadura",
     "europe/spain/galicia",
     "europe/spain/islas-baleares",
+    "europe/spain/la-rioja",
     "europe/spain/madrid",
     "europe/spain/murcia",
     "europe/spain/navarra",
@@ -323,6 +327,7 @@
     "europe/united-kingdom/england/hertfordshire",
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/lancashire",
+    "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/lincolnshire",
     "europe/united-kingdom/england/merseyside",
     "europe/united-kingdom/england/norfolk",
@@ -444,26 +449,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/gabon",
-      "pbf_url": "https://download.geofabrik.de/africa/gabon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/guadeloupe",
-      "pbf_url": "https://download.geofabrik.de/europe/france/guadeloupe-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/la-rioja",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/la-rioja-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/leicestershire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/leicestershire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/maluku",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/maluku-latest.osm.pbf"
-    },
     {
       "id": "asia/china/shanghai",
       "pbf_url": "https://download.geofabrik.de/asia/china/shanghai-latest.osm.pbf"
