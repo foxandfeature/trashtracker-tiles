@@ -42,6 +42,7 @@
     "africa/nigeria",
     "africa/rwanda",
     "africa/senegal-and-gambia",
+    "africa/seychelles",
     "africa/sierra-leone",
     "africa/somalia",
     "africa/south-africa",
@@ -155,10 +156,12 @@
     "australia-oceania/fiji",
     "australia-oceania/kiribati",
     "australia-oceania/marshall-islands",
+    "australia-oceania/micronesia",
     "australia-oceania/new-caledonia",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
     "australia-oceania/polynesie-francaise",
+    "australia-oceania/samoa",
     "australia-oceania/solomon-islands",
     "australia-oceania/tonga",
     "australia-oceania/vanuatu",
@@ -293,6 +296,7 @@
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/sorlandet",
+    "europe/norway/svalbard-janmayen",
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
     "europe/poland/dolnoslaskie",
@@ -371,6 +375,7 @@
     "europe/united-kingdom/england/northumberland",
     "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/oxfordshire",
+    "europe/united-kingdom/england/rutland",
     "europe/united-kingdom/england/shropshire",
     "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/south-yorkshire",
@@ -489,26 +494,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/micronesia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/micronesia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/rutland",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/rutland-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/samoa",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/samoa-latest.osm.pbf"
-    },
-    {
-      "id": "africa/seychelles",
-      "pbf_url": "https://download.geofabrik.de/africa/seychelles-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/svalbard-janmayen",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/svalbard-janmayen-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/us-virgin-islands",
       "pbf_url": "https://download.geofabrik.de/north-america/us/us-virgin-islands-latest.osm.pbf"
