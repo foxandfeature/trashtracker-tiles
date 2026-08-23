@@ -3,11 +3,13 @@
   "failed": [],
   "lock": [
     "africa/algeria",
+    "africa/botswana",
     "africa/cameroon",
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/egypt",
     "africa/ethiopia",
+    "africa/guinea",
     "africa/kenya",
     "africa/madagascar",
     "africa/malawi",
@@ -62,6 +64,7 @@
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
+    "central-america/haiti-and-domrep",
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
@@ -117,6 +120,7 @@
     "europe/italy/sud",
     "europe/latvia",
     "europe/lithuania",
+    "europe/moldova",
     "europe/netherlands/gelderland",
     "europe/netherlands/limburg",
     "europe/netherlands/noord-brabant",
@@ -150,6 +154,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
@@ -224,26 +229,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/botswana",
-      "pbf_url": "https://download.geofabrik.de/africa/botswana-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/greater-london",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/greater-london-latest.osm.pbf"
-    },
-    {
-      "id": "africa/guinea",
-      "pbf_url": "https://download.geofabrik.de/africa/guinea-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/haiti-and-domrep",
-      "pbf_url": "https://download.geofabrik.de/central-america/haiti-and-domrep-latest.osm.pbf"
-    },
-    {
-      "id": "europe/moldova",
-      "pbf_url": "https://download.geofabrik.de/europe/moldova-latest.osm.pbf"
-    },
     {
       "id": "europe/france/picardie",
       "pbf_url": "https://download.geofabrik.de/europe/france/picardie-latest.osm.pbf"
