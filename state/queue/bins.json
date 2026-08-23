@@ -20,17 +20,20 @@
     "asia/nepal",
     "asia/philippines",
     "asia/south-korea",
+    "asia/taiwan",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/new-zealand",
     "europe/austria",
     "europe/belgium",
     "europe/denmark",
     "europe/finland",
+    "europe/france/bretagne",
     "europe/france/ile-de-france",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/bayern/oberbayern",
+    "europe/germany/brandenburg",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
@@ -69,8 +72,10 @@
     "north-america/us/michigan",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
+    "north-america/us/pennsylvania",
     "north-america/us/texas",
     "north-america/us/virginia",
+    "north-america/us/washington",
     "russia/central-fed-district",
     "russia/far-eastern-fed-district",
     "russia/northwestern-fed-district",
@@ -84,26 +89,6 @@
     "south-america/chile"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/washington",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/washington-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/brandenburg",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/brandenburg-latest.osm.pbf"
-    },
-    {
-      "id": "asia/taiwan",
-      "pbf_url": "https://download.geofabrik.de/asia/taiwan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/bretagne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/bretagne-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/pennsylvania",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/pennsylvania-latest.osm.pbf"
-    },
     {
       "id": "europe/greece",
       "pbf_url": "https://download.geofabrik.de/europe/greece-latest.osm.pbf"
