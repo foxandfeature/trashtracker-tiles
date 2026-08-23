@@ -50,6 +50,8 @@
     "asia/armenia",
     "asia/azerbaijan",
     "asia/bangladesh",
+    "asia/bhutan",
+    "asia/cambodia",
     "asia/china/anhui",
     "asia/china/beijing",
     "asia/china/chongqing",
@@ -129,6 +131,7 @@
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
     "central-america/bahamas",
+    "central-america/belize",
     "central-america/costa-rica",
     "central-america/cuba",
     "central-america/el-salvador",
@@ -200,6 +203,7 @@
     "europe/germany/bayern/unterfranken",
     "europe/germany/berlin",
     "europe/germany/brandenburg",
+    "europe/germany/bremen",
     "europe/germany/hamburg",
     "europe/germany/hessen",
     "europe/germany/mecklenburg-vorpommern",
@@ -286,6 +290,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/berkshire",
     "europe/united-kingdom/england/buckinghamshire",
     "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cheshire",
@@ -419,26 +424,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "central-america/belize",
-      "pbf_url": "https://download.geofabrik.de/central-america/belize-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/berkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/berkshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/bhutan",
-      "pbf_url": "https://download.geofabrik.de/asia/bhutan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bremen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bremen-latest.osm.pbf"
-    },
-    {
-      "id": "asia/cambodia",
-      "pbf_url": "https://download.geofabrik.de/asia/cambodia-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/cantabria",
       "pbf_url": "https://download.geofabrik.de/europe/spain/cantabria-latest.osm.pbf"
