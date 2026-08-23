@@ -10,10 +10,12 @@
     "africa/burundi",
     "africa/cameroon",
     "africa/canary-islands",
+    "africa/cape-verde",
     "africa/central-african-republic",
     "africa/chad",
     "africa/congo-brazzaville",
     "africa/congo-democratic-republic",
+    "africa/djibouti",
     "africa/egypt",
     "africa/eritrea",
     "africa/ethiopia",
@@ -140,6 +142,7 @@
     "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
+    "australia-oceania/fiji",
     "australia-oceania/new-caledonia",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
@@ -179,6 +182,7 @@
     "europe/czech-republic/zlinsky",
     "europe/denmark",
     "europe/estonia",
+    "europe/faroe-islands",
     "europe/finland",
     "europe/france/alsace",
     "europe/france/aquitaine",
@@ -311,6 +315,7 @@
     "europe/ukraine",
     "europe/united-kingdom/england/bedfordshire",
     "europe/united-kingdom/england/berkshire",
+    "europe/united-kingdom/england/bristol",
     "europe/united-kingdom/england/buckinghamshire",
     "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cheshire",
@@ -454,26 +459,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/bristol",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/bristol-latest.osm.pbf"
-    },
-    {
-      "id": "africa/cape-verde",
-      "pbf_url": "https://download.geofabrik.de/africa/cape-verde-latest.osm.pbf"
-    },
-    {
-      "id": "africa/djibouti",
-      "pbf_url": "https://download.geofabrik.de/africa/djibouti-latest.osm.pbf"
-    },
-    {
-      "id": "europe/faroe-islands",
-      "pbf_url": "https://download.geofabrik.de/europe/faroe-islands-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/fiji",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/fiji-latest.osm.pbf"
-    },
     {
       "id": "south-america/guyana",
       "pbf_url": "https://download.geofabrik.de/south-america/guyana-latest.osm.pbf"
