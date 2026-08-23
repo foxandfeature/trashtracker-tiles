@@ -21,6 +21,7 @@
     "asia/philippines",
     "asia/south-korea",
     "asia/taiwan",
+    "asia/thailand",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/new-zealand",
     "europe/austria",
@@ -38,6 +39,7 @@
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/rheinland-pfalz",
+    "europe/greece",
     "europe/hungary",
     "europe/ireland-and-northern-ireland",
     "europe/italy/centro",
@@ -55,6 +57,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "north-america/canada/alberta",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/northwest-territories",
@@ -83,32 +86,14 @@
     "russia/ural-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
+    "south-america/brazil/centro-oeste",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
-    "south-america/chile"
+    "south-america/chile",
+    "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/greece",
-      "pbf_url": "https://download.geofabrik.de/europe/greece-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/alberta",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/alberta-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/centro-oeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/centro-oeste-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/colombia",
-      "pbf_url": "https://download.geofabrik.de/south-america/colombia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/thailand",
-      "pbf_url": "https://download.geofabrik.de/asia/thailand-latest.osm.pbf"
-    },
     {
       "id": "africa/uganda",
       "pbf_url": "https://download.geofabrik.de/africa/uganda-latest.osm.pbf"
