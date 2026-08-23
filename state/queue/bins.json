@@ -11,7 +11,9 @@
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
+    "asia/indonesia/sumatra",
     "asia/japan/chubu",
+    "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/malaysia-singapore-brunei",
     "asia/nepal",
@@ -36,6 +38,7 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/poland/lodzkie",
     "europe/poland/mazowieckie",
@@ -65,8 +68,10 @@
     "north-america/us/texas",
     "north-america/us/virginia",
     "russia/central-fed-district",
+    "russia/far-eastern-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
+    "russia/ural-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
     "south-america/brazil/nordeste",
@@ -74,26 +79,6 @@
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "europe/norway/nord-norge",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/nord-norge-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/kansai",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kansai-latest.osm.pbf"
-    },
-    {
-      "id": "russia/ural-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/ural-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "russia/far-eastern-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/far-eastern-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/sumatra",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/sumatra-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/colorado",
       "pbf_url": "https://download.geofabrik.de/north-america/us/colorado-latest.osm.pbf"
