@@ -7,12 +7,14 @@
     "africa/botswana",
     "africa/burkina-faso",
     "africa/cameroon",
+    "africa/central-african-republic",
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/egypt",
     "africa/ethiopia",
     "africa/ghana",
     "africa/guinea",
+    "africa/ivory-coast",
     "africa/kenya",
     "africa/lesotho",
     "africa/madagascar",
@@ -148,6 +150,7 @@
     "europe/netherlands/noord-brabant",
     "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
+    "europe/netherlands/utrecht",
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
@@ -223,6 +226,7 @@
     "north-america/us/minnesota",
     "north-america/us/missouri",
     "north-america/us/montana",
+    "north-america/us/nebraska",
     "north-america/us/nevada",
     "north-america/us/new-jersey",
     "north-america/us/new-mexico",
@@ -233,6 +237,7 @@
     "north-america/us/oklahoma",
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
+    "north-america/us/puerto-rico",
     "north-america/us/south-carolina",
     "north-america/us/tennessee",
     "north-america/us/texas",
@@ -264,26 +269,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/nebraska",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/nebraska-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/puerto-rico",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/puerto-rico-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/utrecht",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/utrecht-latest.osm.pbf"
-    },
-    {
-      "id": "africa/central-african-republic",
-      "pbf_url": "https://download.geofabrik.de/africa/central-african-republic-latest.osm.pbf"
-    },
-    {
-      "id": "africa/ivory-coast",
-      "pbf_url": "https://download.geofabrik.de/africa/ivory-coast-latest.osm.pbf"
-    },
     {
       "id": "europe/czech-republic/jihocesky",
       "pbf_url": "https://download.geofabrik.de/europe/czech-republic/jihocesky-latest.osm.pbf"
