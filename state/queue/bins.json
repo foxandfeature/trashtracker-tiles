@@ -24,6 +24,7 @@
     "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
+    "africa/tunisia",
     "africa/uganda",
     "africa/zambia",
     "africa/zimbabwe",
@@ -149,8 +150,10 @@
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/poland/podkarpackie",
+    "europe/poland/pomorskie",
     "europe/poland/slaskie",
     "europe/poland/wielkopolskie",
+    "europe/poland/zachodniopomorskie",
     "europe/portugal",
     "europe/romania",
     "europe/serbia",
@@ -204,6 +207,7 @@
     "north-america/us/michigan",
     "north-america/us/minnesota",
     "north-america/us/missouri",
+    "north-america/us/montana",
     "north-america/us/nevada",
     "north-america/us/new-jersey",
     "north-america/us/new-mexico",
@@ -220,6 +224,7 @@
     "north-america/us/utah",
     "north-america/us/virginia",
     "north-america/us/washington",
+    "north-america/us/west-virginia",
     "north-america/us/wisconsin",
     "russia/central-fed-district",
     "russia/far-eastern-fed-district",
@@ -244,26 +249,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/poland/pomorskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/pomorskie-latest.osm.pbf"
-    },
-    {
-      "id": "africa/tunisia",
-      "pbf_url": "https://download.geofabrik.de/africa/tunisia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/montana",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/montana-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/west-virginia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/west-virginia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/zachodniopomorskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/zachodniopomorskie-latest.osm.pbf"
-    },
     {
       "id": "africa/angola",
       "pbf_url": "https://download.geofabrik.de/africa/angola-latest.osm.pbf"
