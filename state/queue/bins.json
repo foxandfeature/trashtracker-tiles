@@ -6,34 +6,19 @@
     "asia/indonesia/java",
     "europe/austria",
     "europe/belgium",
+    "europe/finland",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/ireland-and-northern-ireland",
+    "europe/sweden",
     "europe/ukraine",
+    "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/us/california/norcal",
-    "russia/central-fed-district"
+    "russia/central-fed-district",
+    "russia/volga-fed-district",
+    "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "south-america/brazil/sudeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/sudeste-latest.osm.pbf"
-    },
-    {
-      "id": "europe/sweden",
-      "pbf_url": "https://download.geofabrik.de/europe/sweden-latest.osm.pbf"
-    },
-    {
-      "id": "europe/finland",
-      "pbf_url": "https://download.geofabrik.de/europe/finland-latest.osm.pbf"
-    },
-    {
-      "id": "russia/volga-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/volga-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/ontario",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/ontario-latest.osm.pbf"
-    },
     {
       "id": "africa/nigeria",
       "pbf_url": "https://download.geofabrik.de/africa/nigeria-latest.osm.pbf"
