@@ -42,6 +42,7 @@
     "asia/bangladesh",
     "asia/china/guangdong",
     "asia/china/hebei",
+    "asia/china/hubei",
     "asia/china/jiangsu",
     "asia/china/shaanxi",
     "asia/china/shandong",
@@ -110,6 +111,7 @@
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/vysocina",
+    "europe/czech-republic/zlinsky",
     "europe/denmark",
     "europe/estonia",
     "europe/finland",
@@ -214,12 +216,15 @@
     "europe/spain/cataluna",
     "europe/spain/galicia",
     "europe/spain/madrid",
+    "europe/spain/murcia",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/buckinghamshire",
+    "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/england/kent",
@@ -314,26 +319,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/czech-republic/zlinsky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/zlinsky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/buckinghamshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/buckinghamshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/cumbria",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cumbria-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hubei",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hubei-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/murcia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/murcia-latest.osm.pbf"
-    },
     {
       "id": "africa/namibia",
       "pbf_url": "https://download.geofabrik.de/africa/namibia-latest.osm.pbf"
