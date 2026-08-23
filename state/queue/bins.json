@@ -23,6 +23,7 @@
     "africa/zambia",
     "africa/zimbabwe",
     "asia/bangladesh",
+    "asia/china/guangdong",
     "asia/china/sichuan",
     "asia/gcc-states",
     "asia/india/central-zone",
@@ -46,6 +47,7 @@
     "asia/malaysia-singapore-brunei",
     "asia/myanmar",
     "asia/nepal",
+    "asia/pakistan",
     "asia/philippines",
     "asia/south-korea",
     "asia/taiwan",
@@ -112,6 +114,7 @@
     "europe/netherlands/gelderland",
     "europe/netherlands/noord-brabant",
     "europe/netherlands/noord-holland",
+    "europe/netherlands/overijssel",
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
@@ -133,6 +136,7 @@
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
     "europe/spain/galicia",
+    "europe/spain/valencia",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
@@ -201,29 +205,10 @@
     "south-america/chile",
     "south-america/colombia",
     "south-america/paraguay",
-    "south-america/peru"
+    "south-america/peru",
+    "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "south-america/venezuela",
-      "pbf_url": "https://download.geofabrik.de/south-america/venezuela-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/guangdong",
-      "pbf_url": "https://download.geofabrik.de/asia/china/guangdong-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/valencia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/valencia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/overijssel",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/overijssel-latest.osm.pbf"
-    },
-    {
-      "id": "asia/pakistan",
-      "pbf_url": "https://download.geofabrik.de/asia/pakistan-latest.osm.pbf"
-    },
     {
       "id": "africa/south-sudan",
       "pbf_url": "https://download.geofabrik.de/africa/south-sudan-latest.osm.pbf"
