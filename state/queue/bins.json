@@ -3,11 +3,13 @@
   "failed": [],
   "lock": [
     "africa/algeria",
+    "africa/cameroon",
     "africa/congo-democratic-republic",
     "africa/egypt",
     "africa/kenya",
     "africa/madagascar",
     "africa/mali",
+    "africa/morocco",
     "africa/mozambique",
     "africa/nigeria",
     "africa/south-africa",
@@ -57,11 +59,13 @@
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
+    "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/bayern/oberbayern",
     "europe/germany/brandenburg",
     "europe/germany/hessen",
+    "europe/germany/mecklenburg-vorpommern",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
@@ -83,6 +87,7 @@
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/trondelag",
+    "europe/norway/vestlandet",
     "europe/poland/dolnoslaskie",
     "europe/poland/lodzkie",
     "europe/poland/mazowieckie",
@@ -154,26 +159,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/norway/vestlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/vestlandet-latest.osm.pbf"
-    },
-    {
-      "id": "africa/cameroon",
-      "pbf_url": "https://download.geofabrik.de/africa/cameroon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/mecklenburg-vorpommern",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/mecklenburg-vorpommern-latest.osm.pbf"
-    },
-    {
-      "id": "africa/morocco",
-      "pbf_url": "https://download.geofabrik.de/africa/morocco-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/poitou-charentes",
-      "pbf_url": "https://download.geofabrik.de/europe/france/poitou-charentes-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/kansas",
       "pbf_url": "https://download.geofabrik.de/north-america/us/kansas-latest.osm.pbf"
