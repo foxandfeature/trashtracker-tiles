@@ -63,11 +63,13 @@
     "asia/china/hebei",
     "asia/china/heilongjiang",
     "asia/china/henan",
+    "asia/china/hong-kong",
     "asia/china/hubei",
     "asia/china/hunan",
     "asia/china/inner-mongolia",
     "asia/china/jiangsu",
     "asia/china/jiangxi",
+    "asia/china/jilin",
     "asia/china/liaoning",
     "asia/china/qinghai",
     "asia/china/shaanxi",
@@ -148,6 +150,7 @@
     "europe/bosnia-herzegovina",
     "europe/bulgaria",
     "europe/croatia",
+    "europe/cyprus",
     "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/karlovarsky",
@@ -275,6 +278,7 @@
     "europe/spain/andalucia",
     "europe/spain/aragon",
     "europe/spain/asturias",
+    "europe/spain/cantabria",
     "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
@@ -348,6 +352,7 @@
     "north-america/canada/quebec",
     "north-america/canada/saskatchewan",
     "north-america/canada/yukon",
+    "north-america/greenland",
     "north-america/mexico",
     "north-america/us/alabama",
     "north-america/us/alaska",
@@ -424,26 +429,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/cantabria",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/cantabria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/cyprus",
-      "pbf_url": "https://download.geofabrik.de/europe/cyprus-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/greenland",
-      "pbf_url": "https://download.geofabrik.de/north-america/greenland-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hong-kong",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hong-kong-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/jilin",
-      "pbf_url": "https://download.geofabrik.de/asia/china/jilin-latest.osm.pbf"
-    },
     {
       "id": "asia/jordan",
       "pbf_url": "https://download.geofabrik.de/asia/jordan-latest.osm.pbf"
