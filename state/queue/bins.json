@@ -10,6 +10,7 @@
     "africa/ethiopia",
     "africa/kenya",
     "africa/madagascar",
+    "africa/malawi",
     "africa/mali",
     "africa/morocco",
     "africa/mozambique",
@@ -81,7 +82,9 @@
     "europe/france/rhone-alpes",
     "europe/georgia",
     "europe/germany/baden-wuerttemberg/freiburg-regbez",
+    "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
+    "europe/germany/baden-wuerttemberg/tuebingen-regbez",
     "europe/germany/bayern/oberbayern",
     "europe/germany/brandenburg",
     "europe/germany/hessen",
@@ -104,6 +107,7 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/latvia",
     "europe/lithuania",
     "europe/netherlands/gelderland",
     "europe/netherlands/noord-brabant",
@@ -168,6 +172,7 @@
     "north-america/us/new-jersey",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
+    "north-america/us/north-dakota",
     "north-america/us/ohio",
     "north-america/us/oklahoma",
     "north-america/us/oregon",
@@ -199,26 +204,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/karlsruhe-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "europe/latvia",
-      "pbf_url": "https://download.geofabrik.de/europe/latvia-latest.osm.pbf"
-    },
-    {
-      "id": "africa/malawi",
-      "pbf_url": "https://download.geofabrik.de/africa/malawi-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/baden-wuerttemberg/tuebingen-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/tuebingen-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/north-dakota",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/north-dakota-latest.osm.pbf"
-    },
     {
       "id": "south-america/venezuela",
       "pbf_url": "https://download.geofabrik.de/south-america/venezuela-latest.osm.pbf"
