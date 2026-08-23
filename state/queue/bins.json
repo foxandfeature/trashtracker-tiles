@@ -7,7 +7,10 @@
     "asia/india/central-zone",
     "asia/india/southern-zone",
     "asia/indonesia/java",
+    "asia/japan/chubu",
+    "asia/japan/kanto",
     "asia/philippines",
+    "australia-oceania/australia/new-south-wales",
     "australia-oceania/new-zealand",
     "europe/austria",
     "europe/belgium",
@@ -27,6 +30,7 @@
     "europe/ukraine",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
@@ -41,29 +45,10 @@
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
-    "south-america/brazil/sudeste"
+    "south-america/brazil/sudeste",
+    "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/nunavut/kitikmeot",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/nunavut/kitikmeot-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/new-south-wales",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/new-south-wales-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/sul",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/sul-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/chubu",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/chubu-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/kanto",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kanto-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/bayern/oberbayern",
       "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberbayern-latest.osm.pbf"
