@@ -9,6 +9,7 @@
     "africa/mozambique",
     "africa/nigeria",
     "africa/south-africa",
+    "africa/sudan",
     "africa/tanzania",
     "africa/uganda",
     "africa/zambia",
@@ -41,6 +42,7 @@
     "europe/france/aquitaine",
     "europe/france/bretagne",
     "europe/france/ile-de-france",
+    "europe/france/lorraine",
     "europe/france/midi-pyrenees",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
@@ -89,6 +91,7 @@
     "north-america/us/colorado",
     "north-america/us/florida",
     "north-america/us/georgia",
+    "north-america/us/illinois",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
@@ -103,9 +106,11 @@
     "russia/far-eastern-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
+    "russia/south-fed-district",
     "russia/ural-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
+    "south-america/bolivia",
     "south-america/brazil/centro-oeste",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
@@ -114,26 +119,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/france/lorraine",
-      "pbf_url": "https://download.geofabrik.de/europe/france/lorraine-latest.osm.pbf"
-    },
-    {
-      "id": "africa/sudan",
-      "pbf_url": "https://download.geofabrik.de/africa/sudan-latest.osm.pbf"
-    },
-    {
-      "id": "russia/south-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/south-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/illinois",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/illinois-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/bolivia",
-      "pbf_url": "https://download.geofabrik.de/south-america/bolivia-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/wisconsin",
       "pbf_url": "https://download.geofabrik.de/north-america/us/wisconsin-latest.osm.pbf"
