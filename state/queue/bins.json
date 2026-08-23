@@ -10,6 +10,7 @@
     "africa/canary-islands",
     "africa/central-african-republic",
     "africa/chad",
+    "africa/congo-brazzaville",
     "africa/congo-democratic-republic",
     "africa/egypt",
     "africa/ethiopia",
@@ -170,8 +171,10 @@
     "europe/latvia",
     "europe/lithuania",
     "europe/moldova",
+    "europe/netherlands/drenthe",
     "europe/netherlands/friesland",
     "europe/netherlands/gelderland",
+    "europe/netherlands/groningen",
     "europe/netherlands/limburg",
     "europe/netherlands/noord-brabant",
     "europe/netherlands/noord-holland",
@@ -215,7 +218,9 @@
     "europe/ukraine",
     "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/greater-london",
+    "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/merseyside",
+    "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
@@ -304,26 +309,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/congo-brazzaville",
-      "pbf_url": "https://download.geofabrik.de/africa/congo-brazzaville-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/drenthe",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/drenthe-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/groningen",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/groningen-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/kent",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/kent-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/north-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/north-yorkshire-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/pais-vasco",
       "pbf_url": "https://download.geofabrik.de/europe/spain/pais-vasco-latest.osm.pbf"
