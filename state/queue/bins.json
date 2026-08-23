@@ -24,6 +24,7 @@
     "africa/mali",
     "africa/morocco",
     "africa/mozambique",
+    "africa/niger",
     "africa/nigeria",
     "africa/rwanda",
     "africa/senegal-and-gambia",
@@ -44,6 +45,7 @@
     "asia/china/shaanxi",
     "asia/china/shandong",
     "asia/china/sichuan",
+    "asia/china/yunnan",
     "asia/china/zhejiang",
     "asia/gcc-states",
     "asia/india/central-zone",
@@ -104,6 +106,7 @@
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
+    "europe/czech-republic/vysocina",
     "europe/denmark",
     "europe/estonia",
     "europe/finland",
@@ -249,6 +252,7 @@
     "north-america/us/kansas",
     "north-america/us/kentucky",
     "north-america/us/louisiana",
+    "north-america/us/maine",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
@@ -276,6 +280,7 @@
     "north-america/us/washington",
     "north-america/us/west-virginia",
     "north-america/us/wisconsin",
+    "north-america/us/wyoming",
     "russia/central-fed-district",
     "russia/far-eastern-fed-district",
     "russia/north-caucasus-fed-district",
@@ -299,26 +304,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/niger",
-      "pbf_url": "https://download.geofabrik.de/africa/niger-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/maine",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/maine-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/wyoming",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/wyoming-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/vysocina",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/vysocina-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/yunnan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/yunnan-latest.osm.pbf"
-    },
     {
       "id": "africa/congo-brazzaville",
       "pbf_url": "https://download.geofabrik.de/africa/congo-brazzaville-latest.osm.pbf"
