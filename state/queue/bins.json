@@ -60,6 +60,7 @@
     "europe/germany/brandenburg",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
+    "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/rheinland-pfalz",
     "europe/germany/sachsen",
@@ -71,14 +72,17 @@
     "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/lithuania",
+    "europe/netherlands/noord-brabant",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/trondelag",
+    "europe/poland/dolnoslaskie",
     "europe/poland/lodzkie",
     "europe/poland/mazowieckie",
     "europe/poland/wielkopolskie",
     "europe/portugal",
     "europe/romania",
+    "europe/serbia",
     "europe/slovakia",
     "europe/slovenia",
     "europe/spain/andalucia",
@@ -98,6 +102,7 @@
     "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/mexico",
+    "north-america/us/arizona",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
     "north-america/us/colorado",
@@ -134,26 +139,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/arizona",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/arizona-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/dolnoslaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/dolnoslaskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/noord-brabant",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/noord-brabant-latest.osm.pbf"
-    },
-    {
-      "id": "europe/serbia",
-      "pbf_url": "https://download.geofabrik.de/europe/serbia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/duesseldorf-regbez-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/manitoba",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/manitoba-latest.osm.pbf"
