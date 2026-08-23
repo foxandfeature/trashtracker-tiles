@@ -7,6 +7,7 @@
     "africa/egypt",
     "africa/kenya",
     "africa/madagascar",
+    "africa/mali",
     "africa/mozambique",
     "africa/nigeria",
     "africa/south-africa",
@@ -37,6 +38,7 @@
     "asia/thailand",
     "asia/vietnam",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/australia/queensland",
     "australia-oceania/australia/victoria",
     "australia-oceania/new-zealand",
     "europe/austria",
@@ -68,11 +70,13 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/lithuania",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/trondelag",
     "europe/poland/lodzkie",
     "europe/poland/mazowieckie",
+    "europe/poland/wielkopolskie",
     "europe/portugal",
     "europe/romania",
     "europe/slovakia",
@@ -126,29 +130,10 @@
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
     "south-america/chile",
-    "south-america/colombia"
+    "south-america/colombia",
+    "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "africa/mali",
-      "pbf_url": "https://download.geofabrik.de/africa/mali-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/queensland",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/queensland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/wielkopolskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/wielkopolskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/lithuania",
-      "pbf_url": "https://download.geofabrik.de/europe/lithuania-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/peru",
-      "pbf_url": "https://download.geofabrik.de/south-america/peru-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/arizona",
       "pbf_url": "https://download.geofabrik.de/north-america/us/arizona-latest.osm.pbf"
