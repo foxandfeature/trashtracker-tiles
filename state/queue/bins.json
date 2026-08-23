@@ -7,6 +7,7 @@
     "asia/india/central-zone",
     "asia/india/southern-zone",
     "asia/indonesia/java",
+    "asia/philippines",
     "europe/austria",
     "europe/belgium",
     "europe/finland",
@@ -14,11 +15,15 @@
     "europe/ireland-and-northern-ireland",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
+    "europe/italy/sud",
     "europe/poland/lodzkie",
     "europe/sweden",
+    "europe/switzerland",
+    "europe/turkey",
     "europe/ukraine",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/mexico",
@@ -34,26 +39,6 @@
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "asia/philippines",
-      "pbf_url": "https://download.geofabrik.de/asia/philippines-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/sud",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/sud-latest.osm.pbf"
-    },
-    {
-      "id": "europe/turkey",
-      "pbf_url": "https://download.geofabrik.de/europe/turkey-latest.osm.pbf"
-    },
-    {
-      "id": "europe/switzerland",
-      "pbf_url": "https://download.geofabrik.de/europe/switzerland-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/nunavut/qikiqtaaluk",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/nunavut/qikiqtaaluk-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/new-zealand",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/new-zealand-latest.osm.pbf"
