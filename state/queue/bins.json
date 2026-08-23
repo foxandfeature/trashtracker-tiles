@@ -19,6 +19,7 @@
     "africa/ivory-coast",
     "africa/kenya",
     "africa/lesotho",
+    "africa/liberia",
     "africa/libya",
     "africa/madagascar",
     "africa/malawi",
@@ -79,6 +80,7 @@
     "asia/japan/shikoku",
     "asia/japan/tohoku",
     "asia/kazakhstan",
+    "asia/kyrgyzstan",
     "asia/lebanon",
     "asia/malaysia-singapore-brunei",
     "asia/mongolia",
@@ -181,6 +183,7 @@
     "europe/italy/sud",
     "europe/latvia",
     "europe/lithuania",
+    "europe/luxembourg",
     "europe/moldova",
     "europe/netherlands/drenthe",
     "europe/netherlands/friesland",
@@ -238,6 +241,8 @@
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
+    "europe/united-kingdom/england/hampshire",
+    "europe/united-kingdom/england/hertfordshire",
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/merseyside",
     "europe/united-kingdom/england/north-yorkshire",
@@ -334,26 +339,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/hampshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/hampshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/hertfordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/hertfordshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/kyrgyzstan",
-      "pbf_url": "https://download.geofabrik.de/asia/kyrgyzstan-latest.osm.pbf"
-    },
-    {
-      "id": "africa/liberia",
-      "pbf_url": "https://download.geofabrik.de/africa/liberia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/luxembourg",
-      "pbf_url": "https://download.geofabrik.de/europe/luxembourg-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/british-columbia/okanagan-admreg",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/okanagan-admreg-latest.osm.pbf"
