@@ -12,6 +12,7 @@
     "africa/ghana",
     "africa/guinea",
     "africa/kenya",
+    "africa/lesotho",
     "africa/madagascar",
     "africa/malawi",
     "africa/mali",
@@ -58,6 +59,7 @@
     "asia/pakistan",
     "asia/philippines",
     "asia/south-korea",
+    "asia/sri-lanka",
     "asia/taiwan",
     "asia/thailand",
     "asia/uzbekistan",
@@ -67,6 +69,7 @@
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
+    "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "europe/austria",
     "europe/belarus",
@@ -81,6 +84,7 @@
     "europe/finland",
     "europe/france/alsace",
     "europe/france/aquitaine",
+    "europe/france/auvergne",
     "europe/france/basse-normandie",
     "europe/france/bourgogne",
     "europe/france/bretagne",
@@ -219,6 +223,7 @@
     "north-america/us/wisconsin",
     "russia/central-fed-district",
     "russia/far-eastern-fed-district",
+    "russia/north-caucasus-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/south-fed-district",
@@ -239,26 +244,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/lesotho",
-      "pbf_url": "https://download.geofabrik.de/africa/lesotho-latest.osm.pbf"
-    },
-    {
-      "id": "russia/north-caucasus-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/north-caucasus-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "asia/sri-lanka",
-      "pbf_url": "https://download.geofabrik.de/asia/sri-lanka-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/auvergne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/auvergne-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/guatemala",
-      "pbf_url": "https://download.geofabrik.de/central-america/guatemala-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/pomorskie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/pomorskie-latest.osm.pbf"
