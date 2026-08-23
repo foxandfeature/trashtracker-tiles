@@ -17,6 +17,7 @@
     "africa/nigeria",
     "africa/somalia",
     "africa/south-africa",
+    "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
     "africa/uganda",
@@ -34,6 +35,7 @@
     "asia/indonesia/java",
     "asia/indonesia/kalimantan",
     "asia/indonesia/nusa-tenggara",
+    "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/iran",
     "asia/japan/chubu",
@@ -164,16 +166,19 @@
     "north-america/us/connecticut",
     "north-america/us/florida",
     "north-america/us/georgia",
+    "north-america/us/idaho",
     "north-america/us/illinois",
     "north-america/us/indiana",
     "north-america/us/iowa",
     "north-america/us/kansas",
+    "north-america/us/louisiana",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/minnesota",
     "north-america/us/missouri",
     "north-america/us/new-jersey",
+    "north-america/us/new-mexico",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
@@ -209,26 +214,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/south-sudan",
-      "pbf_url": "https://download.geofabrik.de/africa/south-sudan-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/sulawesi",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/sulawesi-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/idaho",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/idaho-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/louisiana",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/louisiana-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-mexico",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-mexico-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/australia/western-australia",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/western-australia-latest.osm.pbf"
