@@ -8,6 +8,7 @@
     "africa/nigeria",
     "africa/south-africa",
     "africa/tanzania",
+    "africa/uganda",
     "asia/india/central-zone",
     "asia/india/southern-zone",
     "asia/india/western-zone",
@@ -16,6 +17,7 @@
     "asia/japan/chubu",
     "asia/japan/kansai",
     "asia/japan/kanto",
+    "asia/japan/kyushu",
     "asia/malaysia-singapore-brunei",
     "asia/nepal",
     "asia/philippines",
@@ -28,6 +30,7 @@
     "europe/belgium",
     "europe/denmark",
     "europe/finland",
+    "europe/france/aquitaine",
     "europe/france/bretagne",
     "europe/france/ile-de-france",
     "europe/france/pays-de-la-loire",
@@ -51,6 +54,7 @@
     "europe/poland/lodzkie",
     "europe/poland/mazowieckie",
     "europe/portugal",
+    "europe/romania",
     "europe/slovenia",
     "europe/spain/andalucia",
     "europe/sweden",
@@ -71,6 +75,7 @@
     "north-america/us/california/socal",
     "north-america/us/colorado",
     "north-america/us/florida",
+    "north-america/us/georgia",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/new-york",
@@ -94,26 +99,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "africa/uganda",
-      "pbf_url": "https://download.geofabrik.de/africa/uganda-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/georgia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/georgia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/aquitaine",
-      "pbf_url": "https://download.geofabrik.de/europe/france/aquitaine-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/kyushu",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kyushu-latest.osm.pbf"
-    },
-    {
-      "id": "europe/romania",
-      "pbf_url": "https://download.geofabrik.de/europe/romania-latest.osm.pbf"
-    },
     {
       "id": "asia/bangladesh",
       "pbf_url": "https://download.geofabrik.de/asia/bangladesh-latest.osm.pbf"
