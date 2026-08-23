@@ -82,6 +82,7 @@
     "asia/china/shanghai",
     "asia/china/shanxi",
     "asia/china/sichuan",
+    "asia/china/tianjin",
     "asia/china/tibet",
     "asia/china/xinjiang",
     "asia/china/yunnan",
@@ -146,6 +147,8 @@
     "australia-oceania/new-caledonia",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
+    "australia-oceania/polynesie-francaise",
+    "australia-oceania/solomon-islands",
     "central-america/bahamas",
     "central-america/belize",
     "central-america/costa-rica",
@@ -195,6 +198,7 @@
     "europe/france/corse",
     "europe/france/franche-comte",
     "europe/france/guadeloupe",
+    "europe/france/guyane",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
@@ -452,6 +456,7 @@
     "south-america/chile",
     "south-america/colombia",
     "south-america/ecuador",
+    "south-america/guyana",
     "south-america/paraguay",
     "south-america/peru",
     "south-america/suriname",
@@ -459,26 +464,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "south-america/guyana",
-      "pbf_url": "https://download.geofabrik.de/south-america/guyana-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/guyane",
-      "pbf_url": "https://download.geofabrik.de/europe/france/guyane-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/polynesie-francaise",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/polynesie-francaise-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/solomon-islands",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/solomon-islands-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/tianjin",
-      "pbf_url": "https://download.geofabrik.de/asia/china/tianjin-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/vanuatu",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/vanuatu-latest.osm.pbf"
