@@ -17,6 +17,7 @@
     "africa/ivory-coast",
     "africa/kenya",
     "africa/lesotho",
+    "africa/libya",
     "africa/madagascar",
     "africa/malawi",
     "africa/mali",
@@ -38,6 +39,7 @@
     "asia/bangladesh",
     "asia/china/guangdong",
     "asia/china/hebei",
+    "asia/china/jiangsu",
     "asia/china/shaanxi",
     "asia/china/sichuan",
     "asia/gcc-states",
@@ -72,6 +74,7 @@
     "asia/philippines",
     "asia/south-korea",
     "asia/sri-lanka",
+    "asia/syria",
     "asia/taiwan",
     "asia/thailand",
     "asia/uzbekistan",
@@ -91,8 +94,10 @@
     "europe/bulgaria",
     "europe/croatia",
     "europe/czech-republic/jihocesky",
+    "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/stredocesky",
+    "europe/czech-republic/ustecky",
     "europe/denmark",
     "europe/estonia",
     "europe/finland",
@@ -279,26 +284,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/jiangsu",
-      "pbf_url": "https://download.geofabrik.de/asia/china/jiangsu-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/jihomoravsky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/jihomoravsky-latest.osm.pbf"
-    },
-    {
-      "id": "africa/libya",
-      "pbf_url": "https://download.geofabrik.de/africa/libya-latest.osm.pbf"
-    },
-    {
-      "id": "asia/syria",
-      "pbf_url": "https://download.geofabrik.de/asia/syria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/ustecky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/ustecky-latest.osm.pbf"
-    },
     {
       "id": "africa/canary-islands",
       "pbf_url": "https://download.geofabrik.de/africa/canary-islands-latest.osm.pbf"
