@@ -49,6 +49,7 @@
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
+    "europe/czech-republic/stredocesky",
     "europe/denmark",
     "europe/finland",
     "europe/france/aquitaine",
@@ -63,6 +64,7 @@
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/bayern/oberbayern",
     "europe/germany/brandenburg",
     "europe/germany/hessen",
@@ -87,6 +89,7 @@
     "europe/netherlands/gelderland",
     "europe/netherlands/noord-brabant",
     "europe/netherlands/noord-holland",
+    "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/trondelag",
@@ -108,6 +111,7 @@
     "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/scotland",
+    "europe/united-kingdom/wales",
     "north-america/canada/alberta",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/north-admreg",
@@ -126,6 +130,7 @@
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
     "north-america/us/colorado",
+    "north-america/us/connecticut",
     "north-america/us/florida",
     "north-america/us/georgia",
     "north-america/us/illinois",
@@ -164,26 +169,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/czech-republic/stredocesky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/stredocesky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/baden-wuerttemberg/stuttgart-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/stuttgart-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/connecticut",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/connecticut-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/wales",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/wales-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/zuid-holland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/zuid-holland-latest.osm.pbf"
-    },
     {
       "id": "europe/bulgaria",
       "pbf_url": "https://download.geofabrik.de/europe/bulgaria-latest.osm.pbf"
