@@ -2,6 +2,7 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/algeria",
     "africa/congo-democratic-republic",
     "africa/kenya",
     "africa/madagascar",
@@ -10,9 +11,11 @@
     "africa/south-africa",
     "africa/tanzania",
     "africa/uganda",
+    "africa/zambia",
     "asia/bangladesh",
     "asia/gcc-states",
     "asia/india/central-zone",
+    "asia/india/eastern-zone",
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
@@ -27,6 +30,7 @@
     "asia/south-korea",
     "asia/taiwan",
     "asia/thailand",
+    "asia/vietnam",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/new-zealand",
     "europe/austria",
@@ -57,6 +61,7 @@
     "europe/italy/sud",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
+    "europe/norway/trondelag",
     "europe/poland/lodzkie",
     "europe/poland/mazowieckie",
     "europe/portugal",
@@ -109,26 +114,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "africa/algeria",
-      "pbf_url": "https://download.geofabrik.de/africa/algeria-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/eastern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/eastern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/trondelag",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/trondelag-latest.osm.pbf"
-    },
-    {
-      "id": "asia/vietnam",
-      "pbf_url": "https://download.geofabrik.de/asia/vietnam-latest.osm.pbf"
-    },
-    {
-      "id": "africa/zambia",
-      "pbf_url": "https://download.geofabrik.de/africa/zambia-latest.osm.pbf"
-    },
     {
       "id": "europe/france/lorraine",
       "pbf_url": "https://download.geofabrik.de/europe/france/lorraine-latest.osm.pbf"
