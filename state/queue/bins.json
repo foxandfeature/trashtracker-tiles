@@ -3,6 +3,7 @@
   "failed": [],
   "lock": [
     "africa/congo-democratic-republic",
+    "africa/kenya",
     "africa/madagascar",
     "africa/mozambique",
     "africa/nigeria",
@@ -46,6 +47,7 @@
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/rheinland-pfalz",
+    "europe/germany/sachsen",
     "europe/greece",
     "europe/hungary",
     "europe/ireland-and-northern-ireland",
@@ -59,6 +61,7 @@
     "europe/poland/mazowieckie",
     "europe/portugal",
     "europe/romania",
+    "europe/slovakia",
     "europe/slovenia",
     "europe/spain/andalucia",
     "europe/sweden",
@@ -81,10 +84,12 @@
     "north-america/us/colorado",
     "north-america/us/florida",
     "north-america/us/georgia",
+    "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
+    "north-america/us/ohio",
     "north-america/us/pennsylvania",
     "north-america/us/texas",
     "north-america/us/virginia",
@@ -104,26 +109,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/slovakia",
-      "pbf_url": "https://download.geofabrik.de/europe/slovakia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/maryland",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/maryland-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/ohio",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/ohio-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/sachsen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/sachsen-latest.osm.pbf"
-    },
-    {
-      "id": "africa/kenya",
-      "pbf_url": "https://download.geofabrik.de/africa/kenya-latest.osm.pbf"
-    },
     {
       "id": "africa/algeria",
       "pbf_url": "https://download.geofabrik.de/africa/algeria-latest.osm.pbf"
