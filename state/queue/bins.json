@@ -19,6 +19,7 @@
     "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
+    "asia/india/northern-zone",
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
@@ -53,6 +54,7 @@
     "europe/france/languedoc-roussillon",
     "europe/france/lorraine",
     "europe/france/midi-pyrenees",
+    "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
@@ -60,6 +62,7 @@
     "europe/germany/brandenburg",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
+    "europe/germany/nordrhein-westfalen/arnsberg-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/rheinland-pfalz",
@@ -86,6 +89,7 @@
     "europe/slovakia",
     "europe/slovenia",
     "europe/spain/andalucia",
+    "europe/spain/cataluna",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
@@ -94,6 +98,7 @@
     "north-america/canada/alberta",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/manitoba",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/northwest-territories",
     "north-america/canada/nunavut/kitikmeot",
@@ -139,26 +144,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/manitoba",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/manitoba-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/arnsberg-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/arnsberg-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/cataluna",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/cataluna-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/nord-pas-de-calais",
-      "pbf_url": "https://download.geofabrik.de/europe/france/nord-pas-de-calais-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/northern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/northern-zone-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/utah",
       "pbf_url": "https://download.geofabrik.de/north-america/us/utah-latest.osm.pbf"
