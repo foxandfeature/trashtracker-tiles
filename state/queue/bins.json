@@ -42,6 +42,7 @@
     "asia/china/hebei",
     "asia/china/jiangsu",
     "asia/china/shaanxi",
+    "asia/china/shandong",
     "asia/china/sichuan",
     "asia/gcc-states",
     "asia/india/central-zone",
@@ -83,6 +84,7 @@
     "asia/vietnam",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
+    "australia-oceania/australia/south-australia",
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
@@ -135,6 +137,7 @@
     "europe/germany/bayern/oberfranken",
     "europe/germany/bayern/oberpfalz",
     "europe/germany/bayern/schwaben",
+    "europe/germany/bayern/unterfranken",
     "europe/germany/berlin",
     "europe/germany/brandenburg",
     "europe/germany/hessen",
@@ -181,6 +184,7 @@
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/poland/podkarpackie",
+    "europe/poland/podlaskie",
     "europe/poland/pomorskie",
     "europe/poland/slaskie",
     "europe/poland/swietokrzyskie",
@@ -248,6 +252,7 @@
     "north-america/us/montana",
     "north-america/us/nebraska",
     "north-america/us/nevada",
+    "north-america/us/new-hampshire",
     "north-america/us/new-jersey",
     "north-america/us/new-mexico",
     "north-america/us/new-york",
@@ -289,26 +294,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/poland/podlaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/podlaskie-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/shandong",
-      "pbf_url": "https://download.geofabrik.de/asia/china/shandong-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/south-australia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/south-australia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/unterfranken",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/unterfranken-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-hampshire",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-hampshire-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/warminsko-mazurskie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/warminsko-mazurskie-latest.osm.pbf"
