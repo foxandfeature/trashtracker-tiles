@@ -42,6 +42,7 @@
     "africa/zimbabwe",
     "asia/afghanistan",
     "asia/bangladesh",
+    "asia/china/anhui",
     "asia/china/guangdong",
     "asia/china/hebei",
     "asia/china/hubei",
@@ -101,6 +102,7 @@
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
+    "europe/albania",
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
@@ -235,6 +237,7 @@
     "europe/united-kingdom/england/merseyside",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/nottinghamshire",
+    "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
@@ -277,6 +280,7 @@
     "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/minnesota",
+    "north-america/us/mississippi",
     "north-america/us/missouri",
     "north-america/us/montana",
     "north-america/us/nebraska",
@@ -296,6 +300,7 @@
     "north-america/us/tennessee",
     "north-america/us/texas",
     "north-america/us/utah",
+    "north-america/us/vermont",
     "north-america/us/virginia",
     "north-america/us/washington",
     "north-america/us/west-virginia",
@@ -324,26 +329,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/mississippi",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/mississippi-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/vermont",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/vermont-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/west-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-yorkshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/albania",
-      "pbf_url": "https://download.geofabrik.de/europe/albania-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/anhui",
-      "pbf_url": "https://download.geofabrik.de/asia/china/anhui-latest.osm.pbf"
-    },
     {
       "id": "asia/armenia",
       "pbf_url": "https://download.geofabrik.de/asia/armenia-latest.osm.pbf"
