@@ -2,11 +2,13 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/mozambique",
     "africa/nigeria",
     "africa/south-africa",
     "africa/tanzania",
     "asia/india/central-zone",
     "asia/india/southern-zone",
+    "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/japan/chubu",
     "asia/japan/kanto",
@@ -27,9 +29,12 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/norway/ostlandet",
     "europe/poland/lodzkie",
+    "europe/poland/mazowieckie",
     "europe/portugal",
     "europe/slovenia",
+    "europe/spain/andalucia",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
@@ -59,26 +64,6 @@
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "europe/poland/mazowieckie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/mazowieckie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/andalucia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/andalucia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/western-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/western-zone-latest.osm.pbf"
-    },
-    {
-      "id": "africa/mozambique",
-      "pbf_url": "https://download.geofabrik.de/africa/mozambique-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/ostlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/ostlandet-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/virginia",
       "pbf_url": "https://download.geofabrik.de/north-america/us/virginia-latest.osm.pbf"
