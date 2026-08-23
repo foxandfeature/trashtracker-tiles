@@ -7,6 +7,7 @@
     "africa/benin",
     "africa/botswana",
     "africa/burkina-faso",
+    "africa/burundi",
     "africa/cameroon",
     "africa/canary-islands",
     "africa/central-african-republic",
@@ -49,6 +50,7 @@
     "asia/bangladesh",
     "asia/china/anhui",
     "asia/china/beijing",
+    "asia/china/chongqing",
     "asia/china/guangdong",
     "asia/china/hebei",
     "asia/china/henan",
@@ -111,6 +113,7 @@
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
+    "central-america/costa-rica",
     "central-america/cuba",
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
@@ -334,6 +337,7 @@
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
     "north-america/us/puerto-rico",
+    "north-america/us/rhode-island",
     "north-america/us/south-carolina",
     "north-america/us/south-dakota",
     "north-america/us/tennessee",
@@ -366,29 +370,10 @@
     "south-america/ecuador",
     "south-america/paraguay",
     "south-america/peru",
+    "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "south-america/uruguay",
-      "pbf_url": "https://download.geofabrik.de/south-america/uruguay-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/rhode-island",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/rhode-island-latest.osm.pbf"
-    },
-    {
-      "id": "africa/burundi",
-      "pbf_url": "https://download.geofabrik.de/africa/burundi-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/chongqing",
-      "pbf_url": "https://download.geofabrik.de/asia/china/chongqing-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/costa-rica",
-      "pbf_url": "https://download.geofabrik.de/central-america/costa-rica-latest.osm.pbf"
-    },
     {
       "id": "central-america/el-salvador",
       "pbf_url": "https://download.geofabrik.de/central-america/el-salvador-latest.osm.pbf"
