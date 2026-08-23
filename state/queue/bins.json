@@ -62,6 +62,7 @@
     "asia/china/jiangxi",
     "asia/china/shaanxi",
     "asia/china/shandong",
+    "asia/china/shanxi",
     "asia/china/sichuan",
     "asia/china/tibet",
     "asia/china/yunnan",
@@ -275,10 +276,14 @@
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/lincolnshire",
     "europe/united-kingdom/england/merseyside",
+    "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/northumberland",
     "europe/united-kingdom/england/nottinghamshire",
+    "europe/united-kingdom/england/shropshire",
     "europe/united-kingdom/england/somerset",
+    "europe/united-kingdom/england/south-yorkshire",
+    "europe/united-kingdom/england/staffordshire",
     "europe/united-kingdom/england/surrey",
     "europe/united-kingdom/england/west-sussex",
     "europe/united-kingdom/england/west-yorkshire",
@@ -379,26 +384,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/norfolk",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/norfolk-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/shanxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/shanxi-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/shropshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/shropshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/south-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/south-yorkshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/staffordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/staffordshire-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/suffolk",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/suffolk-latest.osm.pbf"
