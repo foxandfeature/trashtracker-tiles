@@ -7,6 +7,7 @@
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/egypt",
+    "africa/ethiopia",
     "africa/kenya",
     "africa/madagascar",
     "africa/mali",
@@ -53,11 +54,13 @@
     "europe/belarus",
     "europe/belgium",
     "europe/bulgaria",
+    "europe/croatia",
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/stredocesky",
     "europe/denmark",
     "europe/finland",
     "europe/france/aquitaine",
+    "europe/france/basse-normandie",
     "europe/france/bretagne",
     "europe/france/centre",
     "europe/france/ile-de-france",
@@ -69,6 +72,7 @@
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/germany/baden-wuerttemberg/freiburg-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/bayern/oberbayern",
     "europe/germany/brandenburg",
@@ -148,6 +152,7 @@
     "north-america/us/michigan",
     "north-america/us/minnesota",
     "north-america/us/missouri",
+    "north-america/us/new-jersey",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/ohio",
@@ -179,26 +184,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/new-jersey",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-jersey-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/basse-normandie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/basse-normandie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/croatia",
-      "pbf_url": "https://download.geofabrik.de/europe/croatia-latest.osm.pbf"
-    },
-    {
-      "id": "africa/ethiopia",
-      "pbf_url": "https://download.geofabrik.de/africa/ethiopia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/baden-wuerttemberg/freiburg-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/freiburg-regbez-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/sachsen-anhalt",
       "pbf_url": "https://download.geofabrik.de/europe/germany/sachsen-anhalt-latest.osm.pbf"
