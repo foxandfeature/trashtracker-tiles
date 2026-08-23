@@ -4,6 +4,7 @@
   "lock": [
     "africa/algeria",
     "africa/congo-democratic-republic",
+    "africa/egypt",
     "africa/kenya",
     "africa/madagascar",
     "africa/mozambique",
@@ -21,10 +22,12 @@
     "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/indonesia/sumatra",
+    "asia/iran",
     "asia/japan/chubu",
     "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/japan/kyushu",
+    "asia/japan/tohoku",
     "asia/malaysia-singapore-brunei",
     "asia/myanmar",
     "asia/nepal",
@@ -83,6 +86,7 @@
     "north-america/canada/alberta",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/northwest-territories",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
@@ -99,6 +103,7 @@
     "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
+    "north-america/us/minnesota",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/ohio",
@@ -124,26 +129,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/newfoundland-and-labrador",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/newfoundland-and-labrador-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/tohoku",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/tohoku-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/minnesota",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/minnesota-latest.osm.pbf"
-    },
-    {
-      "id": "africa/egypt",
-      "pbf_url": "https://download.geofabrik.de/africa/egypt-latest.osm.pbf"
-    },
-    {
-      "id": "asia/iran",
-      "pbf_url": "https://download.geofabrik.de/asia/iran-latest.osm.pbf"
-    },
     {
       "id": "africa/mali",
       "pbf_url": "https://download.geofabrik.de/africa/mali-latest.osm.pbf"
