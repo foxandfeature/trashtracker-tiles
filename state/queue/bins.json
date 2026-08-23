@@ -46,6 +46,7 @@
     "asia/china/shaanxi",
     "asia/china/shandong",
     "asia/china/sichuan",
+    "asia/china/tibet",
     "asia/china/yunnan",
     "asia/china/zhejiang",
     "asia/gcc-states",
@@ -105,6 +106,7 @@
     "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/moravskoslezky",
+    "europe/czech-republic/plzensky",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/vysocina",
@@ -183,6 +185,7 @@
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
+    "europe/norway/sorlandet",
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
     "europe/poland/dolnoslaskie",
@@ -211,6 +214,7 @@
     "europe/spain/cataluna",
     "europe/spain/galicia",
     "europe/spain/madrid",
+    "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
     "europe/switzerland",
@@ -239,6 +243,7 @@
     "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/canada/saskatchewan",
+    "north-america/canada/yukon",
     "north-america/mexico",
     "north-america/us/alabama",
     "north-america/us/alaska",
@@ -309,26 +314,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/pais-vasco",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/pais-vasco-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/plzensky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/plzensky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/sorlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/sorlandet-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/tibet",
-      "pbf_url": "https://download.geofabrik.de/asia/china/tibet-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/yukon",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/yukon-latest.osm.pbf"
-    },
     {
       "id": "europe/czech-republic/zlinsky",
       "pbf_url": "https://download.geofabrik.de/europe/czech-republic/zlinsky-latest.osm.pbf"
