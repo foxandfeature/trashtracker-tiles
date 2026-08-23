@@ -4,31 +4,16 @@
   "lock": [
     "asia/india/central-zone",
     "asia/indonesia/java",
+    "europe/austria",
+    "europe/belgium",
+    "europe/germany/nordrhein-westfalen/koeln-regbez",
+    "europe/ireland-and-northern-ireland",
     "europe/ukraine",
     "north-america/canada/quebec",
+    "north-america/us/california/norcal",
     "russia/central-fed-district"
   ],
   "remaining": [
-    {
-      "id": "europe/austria",
-      "pbf_url": "https://download.geofabrik.de/europe/austria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/belgium",
-      "pbf_url": "https://download.geofabrik.de/europe/belgium-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/california/norcal",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/california/norcal-latest.osm.pbf"
-    },
-    {
-      "id": "europe/ireland-and-northern-ireland",
-      "pbf_url": "https://download.geofabrik.de/europe/ireland-and-northern-ireland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/koeln-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/koeln-regbez-latest.osm.pbf"
-    },
     {
       "id": "south-america/brazil/sudeste",
       "pbf_url": "https://download.geofabrik.de/south-america/brazil/sudeste-latest.osm.pbf"
