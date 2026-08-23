@@ -52,7 +52,9 @@
     "asia/china/hebei",
     "asia/china/henan",
     "asia/china/hubei",
+    "asia/china/hunan",
     "asia/china/jiangsu",
+    "asia/china/jiangxi",
     "asia/china/shaanxi",
     "asia/china/shandong",
     "asia/china/sichuan",
@@ -121,6 +123,7 @@
     "europe/croatia",
     "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
+    "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/pardubicky",
     "europe/czech-republic/plzensky",
@@ -214,6 +217,7 @@
     "europe/poland/kujawsko-pomorskie",
     "europe/poland/lodzkie",
     "europe/poland/lubelskie",
+    "europe/poland/lubuskie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/poland/opolskie",
@@ -270,6 +274,7 @@
     "north-america/canada/alberta",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/island-admreg",
+    "north-america/canada/british-columbia/kootenay-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/british-columbia/okanagan-admreg",
     "north-america/canada/british-columbia/southcoast-admreg",
@@ -359,26 +364,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/hunan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hunan-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/jiangxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/jiangxi-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/kootenay-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/kootenay-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/kralovehradecky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/kralovehradecky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/lubuskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lubuskie-latest.osm.pbf"
-    },
     {
       "id": "central-america/nicaragua",
       "pbf_url": "https://download.geofabrik.de/central-america/nicaragua-latest.osm.pbf"
