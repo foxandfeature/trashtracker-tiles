@@ -17,12 +17,14 @@
     "asia/india/north-eastern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
+    "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/japan/chugoku",
     "asia/japan/kansai",
     "asia/laos",
     "australia-oceania/australia/new-south-wales",
     "central-america/costa-rica",
+    "central-america/haiti-and-domrep",
     "central-america/honduras",
     "europe/albania",
     "europe/austria",
@@ -35,6 +37,7 @@
     "europe/germany/berlin",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/italy/sud",
+    "europe/netherlands/drenthe",
     "europe/netherlands/limburg",
     "europe/norway/nord-norge",
     "europe/norway/trondelag",
@@ -49,6 +52,7 @@
     "europe/sweden",
     "europe/ukraine",
     "europe/united-kingdom/england/cornwall",
+    "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/oxfordshire",
@@ -69,31 +73,12 @@
     "north-america/us/washington",
     "russia/central-fed-district",
     "russia/siberian-fed-district",
+    "russia/volga-fed-district",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/cumbria",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cumbria-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/haiti-and-domrep",
-      "pbf_url": "https://download.geofabrik.de/central-america/haiti-and-domrep-latest.osm.pbf"
-    },
-    {
-      "id": "russia/volga-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/volga-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/drenthe",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/drenthe-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/sulawesi",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/sulawesi-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/podkarpackie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/podkarpackie-latest.osm.pbf"
