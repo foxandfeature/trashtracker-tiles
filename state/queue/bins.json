@@ -124,10 +124,12 @@
     "asia/taiwan",
     "asia/tajikistan",
     "asia/thailand",
+    "asia/turkmenistan",
     "asia/uzbekistan",
     "asia/vietnam",
     "asia/yemen",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/australia/northern-territory",
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/south-australia",
     "australia-oceania/australia/tasmania",
@@ -367,6 +369,8 @@
     "north-america/us/california/socal",
     "north-america/us/colorado",
     "north-america/us/connecticut",
+    "north-america/us/delaware",
+    "north-america/us/district-of-columbia",
     "north-america/us/florida",
     "north-america/us/georgia",
     "north-america/us/idaho",
@@ -430,30 +434,11 @@
     "south-america/ecuador",
     "south-america/paraguay",
     "south-america/peru",
+    "south-america/suriname",
     "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/australia/northern-territory",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/northern-territory-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/suriname",
-      "pbf_url": "https://download.geofabrik.de/south-america/suriname-latest.osm.pbf"
-    },
-    {
-      "id": "asia/turkmenistan",
-      "pbf_url": "https://download.geofabrik.de/asia/turkmenistan-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/delaware",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/delaware-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/district-of-columbia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/district-of-columbia-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/warwickshire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/warwickshire-latest.osm.pbf"
