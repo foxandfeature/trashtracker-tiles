@@ -14,6 +14,7 @@
     "africa/guinea-bissau",
     "africa/ivory-coast",
     "africa/kenya",
+    "africa/lesotho",
     "africa/madagascar",
     "africa/malawi",
     "africa/morocco",
@@ -118,6 +119,7 @@
     "europe/belgium",
     "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
+    "europe/czech-republic/karlovarsky",
     "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/liberecky",
     "europe/czech-republic/moravskoslezky",
@@ -151,6 +153,7 @@
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/baden-wuerttemberg/tuebingen-regbez",
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
@@ -178,6 +181,7 @@
     "europe/liechtenstein",
     "europe/lithuania",
     "europe/moldova",
+    "europe/montenegro",
     "europe/netherlands/drenthe",
     "europe/netherlands/flevoland",
     "europe/netherlands/friesland",
@@ -301,6 +305,7 @@
     "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/minnesota",
+    "north-america/us/missouri",
     "north-america/us/nebraska",
     "north-america/us/new-jersey",
     "north-america/us/new-mexico",
@@ -339,26 +344,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/lesotho",
-      "pbf_url": "https://download.geofabrik.de/africa/lesotho-latest.osm.pbf"
-    },
-    {
-      "id": "europe/montenegro",
-      "pbf_url": "https://download.geofabrik.de/europe/montenegro-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/baden-wuerttemberg/stuttgart-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/stuttgart-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/missouri",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/missouri-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/karlovarsky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/karlovarsky-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/northamptonshire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/northamptonshire-latest.osm.pbf"
