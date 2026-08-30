@@ -40,6 +40,7 @@
     "africa/zimbabwe",
     "asia/afghanistan",
     "asia/armenia",
+    "asia/azerbaijan",
     "asia/bangladesh",
     "asia/china/anhui",
     "asia/china/guangdong",
@@ -76,6 +77,7 @@
     "asia/japan/shikoku",
     "asia/japan/tohoku",
     "asia/kazakhstan",
+    "asia/kyrgyzstan",
     "asia/lebanon",
     "asia/malaysia-singapore-brunei",
     "asia/mongolia",
@@ -94,9 +96,11 @@
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/south-australia",
+    "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
+    "australia-oceania/papua-new-guinea",
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
@@ -114,6 +118,7 @@
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/vysocina",
+    "europe/czech-republic/zlinsky",
     "europe/denmark",
     "europe/estonia",
     "europe/finland",
@@ -324,26 +329,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/kyrgyzstan",
-      "pbf_url": "https://download.geofabrik.de/asia/kyrgyzstan-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/papua-new-guinea",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/papua-new-guinea-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/tasmania",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/tasmania-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/zlinsky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/zlinsky-latest.osm.pbf"
-    },
-    {
-      "id": "asia/azerbaijan",
-      "pbf_url": "https://download.geofabrik.de/asia/azerbaijan-latest.osm.pbf"
-    },
     {
       "id": "central-america/cuba",
       "pbf_url": "https://download.geofabrik.de/central-america/cuba-latest.osm.pbf"
