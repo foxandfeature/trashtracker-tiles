@@ -15,6 +15,7 @@
     "africa/south-africa",
     "africa/sudan",
     "africa/tanzania",
+    "africa/uganda",
     "asia/afghanistan",
     "asia/china/gansu",
     "asia/china/heilongjiang",
@@ -44,6 +45,7 @@
     "asia/nepal",
     "asia/pakistan",
     "asia/philippines",
+    "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/fiji",
     "australia-oceania/micronesia",
@@ -85,6 +87,7 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/liechtenstein",
     "europe/moldova",
     "europe/netherlands/drenthe",
     "europe/netherlands/friesland",
@@ -160,6 +163,7 @@
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
     "north-america/us/delaware",
+    "north-america/us/district-of-columbia",
     "north-america/us/florida",
     "north-america/us/louisiana",
     "north-america/us/new-york",
@@ -172,6 +176,7 @@
     "russia/far-eastern-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
+    "russia/ural-fed-district",
     "russia/volga-fed-district",
     "south-america/bolivia",
     "south-america/brazil/nordeste",
@@ -179,26 +184,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "russia/ural-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/ural-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/liechtenstein",
-      "pbf_url": "https://download.geofabrik.de/europe/liechtenstein-latest.osm.pbf"
-    },
-    {
-      "id": "africa/uganda",
-      "pbf_url": "https://download.geofabrik.de/africa/uganda-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/district-of-columbia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/district-of-columbia-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/christmas-island",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/christmas-island-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/thueringen",
       "pbf_url": "https://download.geofabrik.de/europe/germany/thueringen-latest.osm.pbf"
