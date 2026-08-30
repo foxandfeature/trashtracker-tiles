@@ -97,6 +97,7 @@
     "asia/thailand",
     "asia/vietnam",
     "asia/yemen",
+    "australia-oceania/australia/act",
     "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
@@ -179,6 +180,7 @@
     "europe/germany/mecklenburg-vorpommern",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
+    "europe/germany/nordrhein-westfalen/detmold-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
@@ -313,9 +315,11 @@
     "north-america/canada/ontario",
     "north-america/canada/prince-edward-island",
     "north-america/canada/quebec",
+    "north-america/canada/saskatchewan",
     "north-america/greenland",
     "north-america/mexico",
     "north-america/us/alabama",
+    "north-america/us/alaska",
     "north-america/us/arizona",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
@@ -328,6 +332,7 @@
     "north-america/us/illinois",
     "north-america/us/indiana",
     "north-america/us/iowa",
+    "north-america/us/kentucky",
     "north-america/us/louisiana",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
@@ -374,26 +379,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/saskatchewan",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/saskatchewan-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/kentucky",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/kentucky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/detmold-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/detmold-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/alaska",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/alaska-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/act",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/act-latest.osm.pbf"
-    },
     {
       "id": "asia/east-timor",
       "pbf_url": "https://download.geofabrik.de/asia/east-timor-latest.osm.pbf"
