@@ -152,6 +152,7 @@
     "central-america/belize",
     "central-america/costa-rica",
     "central-america/cuba",
+    "central-america/el-salvador",
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
@@ -253,6 +254,7 @@
     "europe/liechtenstein",
     "europe/lithuania",
     "europe/luxembourg",
+    "europe/macedonia",
     "europe/malta",
     "europe/moldova",
     "europe/montenegro",
@@ -271,6 +273,7 @@
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/sorlandet",
+    "europe/norway/svalbard-janmayen",
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
     "europe/poland/dolnoslaskie",
@@ -307,6 +310,7 @@
     "europe/spain/la-rioja",
     "europe/spain/madrid",
     "europe/spain/murcia",
+    "europe/spain/navarra",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
@@ -434,6 +438,7 @@
     "north-america/us/wisconsin",
     "north-america/us/wyoming",
     "russia/central-fed-district",
+    "russia/crimean-fed-district",
     "russia/far-eastern-fed-district",
     "russia/north-caucasus-fed-district",
     "russia/northwestern-fed-district",
@@ -459,26 +464,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "russia/crimean-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/crimean-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/el-salvador",
-      "pbf_url": "https://download.geofabrik.de/central-america/el-salvador-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/navarra",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/navarra-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/svalbard-janmayen",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/svalbard-janmayen-latest.osm.pbf"
-    },
-    {
-      "id": "europe/macedonia",
-      "pbf_url": "https://download.geofabrik.de/europe/macedonia-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/staffordshire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/staffordshire-latest.osm.pbf"
