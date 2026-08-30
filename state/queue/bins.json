@@ -66,6 +66,7 @@
     "asia/tajikistan",
     "asia/turkmenistan",
     "asia/yemen",
+    "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/victoria",
     "australia-oceania/fiji",
@@ -73,6 +74,7 @@
     "australia-oceania/nauru",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
+    "australia-oceania/tuvalu",
     "central-america/costa-rica",
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
@@ -123,6 +125,7 @@
     "europe/netherlands/limburg",
     "europe/netherlands/noord-brabant",
     "europe/netherlands/overijssel",
+    "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/sorlandet",
     "europe/norway/trondelag",
@@ -178,6 +181,7 @@
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/oxfordshire",
+    "europe/united-kingdom/england/rutland",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/england/west-midlands",
@@ -222,6 +226,7 @@
     "russia/north-caucasus-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
+    "russia/ural-fed-district",
     "russia/volga-fed-district",
     "south-america/bolivia",
     "south-america/brazil/nordeste",
@@ -234,26 +239,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/norway/nord-norge",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/nord-norge-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/christmas-island",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/christmas-island-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/tuvalu",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/tuvalu-latest.osm.pbf"
-    },
-    {
-      "id": "russia/ural-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/ural-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/rutland",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/rutland-latest.osm.pbf"
-    },
     {
       "id": "south-america/argentina",
       "pbf_url": "https://download.geofabrik.de/south-america/argentina-latest.osm.pbf"
