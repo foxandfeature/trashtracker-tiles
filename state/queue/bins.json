@@ -154,11 +154,13 @@
     "australia-oceania/australia/western-australia",
     "australia-oceania/fiji",
     "australia-oceania/kiribati",
+    "australia-oceania/marshall-islands",
     "australia-oceania/new-caledonia",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
     "australia-oceania/polynesie-francaise",
     "australia-oceania/solomon-islands",
+    "australia-oceania/tonga",
     "australia-oceania/vanuatu",
     "central-america/bahamas",
     "central-america/belize",
@@ -172,6 +174,7 @@
     "central-america/nicaragua",
     "central-america/panama",
     "europe/albania",
+    "europe/andorra",
     "europe/austria",
     "europe/azores",
     "europe/belarus",
@@ -290,6 +293,7 @@
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/sorlandet",
+    "europe/norway/svalbard-janmayen",
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
     "europe/poland/dolnoslaskie",
@@ -333,6 +337,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/bermuda",
     "europe/united-kingdom/england/bedfordshire",
     "europe/united-kingdom/england/berkshire",
     "europe/united-kingdom/england/bristol",
@@ -484,26 +489,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/norway/svalbard-janmayen",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/svalbard-janmayen-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/tonga",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/tonga-latest.osm.pbf"
-    },
-    {
-      "id": "europe/andorra",
-      "pbf_url": "https://download.geofabrik.de/europe/andorra-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/bermuda",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/bermuda-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/marshall-islands",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/marshall-islands-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/micronesia",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/micronesia-latest.osm.pbf"
