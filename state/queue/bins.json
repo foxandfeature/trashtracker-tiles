@@ -13,6 +13,7 @@
     "africa/eritrea",
     "africa/ethiopia",
     "africa/ghana",
+    "africa/guinea",
     "africa/guinea-bissau",
     "africa/ivory-coast",
     "africa/kenya",
@@ -47,6 +48,7 @@
     "asia/china/guangdong",
     "asia/china/guangxi",
     "asia/china/guizhou",
+    "asia/china/hebei",
     "asia/china/heilongjiang",
     "asia/china/hong-kong",
     "asia/china/hubei",
@@ -117,6 +119,7 @@
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
+    "australia-oceania/australia/western-australia",
     "australia-oceania/fiji",
     "australia-oceania/ile-de-clipperton",
     "australia-oceania/micronesia",
@@ -158,6 +161,7 @@
     "europe/czech-republic/vysocina",
     "europe/czech-republic/zlinsky",
     "europe/denmark",
+    "europe/estonia",
     "europe/finland",
     "europe/france/alsace",
     "europe/france/aquitaine",
@@ -182,6 +186,7 @@
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/georgia",
     "europe/germany/baden-wuerttemberg/freiburg-regbez",
     "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
@@ -409,26 +414,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/australia/western-australia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/western-australia-latest.osm.pbf"
-    },
-    {
-      "id": "africa/guinea",
-      "pbf_url": "https://download.geofabrik.de/africa/guinea-latest.osm.pbf"
-    },
-    {
-      "id": "europe/estonia",
-      "pbf_url": "https://download.geofabrik.de/europe/estonia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/georgia",
-      "pbf_url": "https://download.geofabrik.de/europe/georgia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hebei",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hebei-latest.osm.pbf"
-    },
     {
       "id": "asia/china/sichuan",
       "pbf_url": "https://download.geofabrik.de/asia/china/sichuan-latest.osm.pbf"
