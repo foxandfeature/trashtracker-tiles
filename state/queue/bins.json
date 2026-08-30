@@ -124,6 +124,8 @@
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/moravskoslezky",
+    "europe/czech-republic/olomoucky",
+    "europe/czech-republic/pardubicky",
     "europe/czech-republic/plzensky",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
@@ -176,6 +178,7 @@
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
     "europe/germany/rheinland-pfalz",
+    "europe/germany/saarland",
     "europe/germany/sachsen",
     "europe/germany/sachsen-anhalt",
     "europe/germany/schleswig-holstein",
@@ -255,6 +258,7 @@
     "europe/united-kingdom/england/merseyside",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/nottinghamshire",
+    "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -346,29 +350,10 @@
     "south-america/ecuador",
     "south-america/paraguay",
     "south-america/peru",
+    "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/czech-republic/olomoucky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/olomoucky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/pardubicky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/pardubicky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/saarland",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/saarland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/somerset",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/somerset-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/uruguay",
-      "pbf_url": "https://download.geofabrik.de/south-america/uruguay-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/south-dakota",
       "pbf_url": "https://download.geofabrik.de/north-america/us/south-dakota-latest.osm.pbf"
