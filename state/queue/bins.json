@@ -9,6 +9,7 @@
     "africa/congo-democratic-republic",
     "africa/ivory-coast",
     "africa/malawi",
+    "africa/niger",
     "africa/rwanda",
     "africa/somalia",
     "africa/sudan",
@@ -42,19 +43,23 @@
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
+    "europe/germany/bayern/oberfranken",
     "europe/italy/nord-ovest",
     "europe/moldova",
     "europe/netherlands/groningen",
     "europe/netherlands/overijssel",
     "europe/poland/lubelskie",
+    "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/poland/opolskie",
     "europe/poland/swietokrzyskie",
     "europe/poland/warminsko-mazurskie",
     "europe/portugal",
+    "europe/slovenia",
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/ukraine",
+    "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/scotland",
@@ -74,26 +79,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/essex",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/essex-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/malopolskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/malopolskie-latest.osm.pbf"
-    },
-    {
-      "id": "africa/niger",
-      "pbf_url": "https://download.geofabrik.de/africa/niger-latest.osm.pbf"
-    },
-    {
-      "id": "europe/slovenia",
-      "pbf_url": "https://download.geofabrik.de/europe/slovenia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/oberfranken",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberfranken-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/british-columbia/interior-admreg",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/interior-admreg-latest.osm.pbf"
