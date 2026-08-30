@@ -11,18 +11,21 @@
     "asia/india/central-zone",
     "asia/india/southern-zone",
     "asia/indonesia/java",
+    "asia/indonesia/sumatra",
     "asia/japan/chubu",
     "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/malaysia-singapore-brunei",
     "asia/nepal",
     "asia/philippines",
+    "asia/taiwan",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/new-zealand",
     "europe/austria",
     "europe/belgium",
     "europe/denmark",
     "europe/finland",
+    "europe/france/bretagne",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
@@ -47,6 +50,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "north-america/canada/alberta",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/northwest-territories",
@@ -76,29 +80,10 @@
     "south-america/argentina",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
-    "south-america/brazil/sul"
+    "south-america/brazil/sul",
+    "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/alberta",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/alberta-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/colombia",
-      "pbf_url": "https://download.geofabrik.de/south-america/colombia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/sumatra",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/sumatra-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/bretagne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/bretagne-latest.osm.pbf"
-    },
-    {
-      "id": "asia/taiwan",
-      "pbf_url": "https://download.geofabrik.de/asia/taiwan-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/georgia",
       "pbf_url": "https://download.geofabrik.de/north-america/us/georgia-latest.osm.pbf"
