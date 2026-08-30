@@ -7,12 +7,14 @@
     "africa/tanzania",
     "asia/china/sichuan",
     "asia/india/central-zone",
+    "asia/india/north-eastern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/indonesia/sumatra",
     "asia/japan/chubu",
     "asia/japan/kanto",
     "asia/japan/kyushu",
+    "asia/japan/shikoku",
     "australia-oceania/australia/new-south-wales",
     "europe/france/alsace",
     "europe/france/bretagne",
@@ -27,7 +29,9 @@
     "europe/netherlands/groningen",
     "europe/poland/lubelskie",
     "europe/poland/mazowieckie",
+    "europe/poland/slaskie",
     "europe/spain/aragon",
+    "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/scotland",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/nunavut/kitikmeot",
@@ -35,30 +39,11 @@
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/us/california/norcal",
     "north-america/us/wisconsin",
+    "russia/south-fed-district",
     "south-america/brazil/sudeste",
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "russia/south-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/south-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/north-eastern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/north-eastern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/slaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/slaskie-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/shikoku",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/shikoku-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/gloucestershire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/gloucestershire-latest.osm.pbf"
-    },
     {
       "id": "asia/japan/tohoku",
       "pbf_url": "https://download.geofabrik.de/asia/japan/tohoku-latest.osm.pbf"
