@@ -87,6 +87,7 @@
     "europe/czech-republic/liberecky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/zlinsky",
+    "europe/denmark",
     "europe/finland",
     "europe/france/alsace",
     "europe/france/bretagne",
@@ -112,9 +113,12 @@
     "europe/italy/sud",
     "europe/liechtenstein",
     "europe/moldova",
+    "europe/netherlands/drenthe",
+    "europe/netherlands/gelderland",
     "europe/netherlands/groningen",
     "europe/netherlands/limburg",
     "europe/netherlands/overijssel",
+    "europe/norway/sorlandet",
     "europe/norway/trondelag",
     "europe/poland/dolnoslaskie",
     "europe/poland/kujawsko-pomorskie",
@@ -184,6 +188,7 @@
     "north-america/us/florida",
     "north-america/us/louisiana",
     "north-america/us/maine",
+    "north-america/us/massachusetts",
     "north-america/us/nebraska",
     "north-america/us/north-dakota",
     "north-america/us/texas",
@@ -204,26 +209,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/denmark",
-      "pbf_url": "https://download.geofabrik.de/europe/denmark-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/gelderland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/gelderland-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/massachusetts",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/massachusetts-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/drenthe",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/drenthe-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/sorlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/sorlandet-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/australia/christmas-island",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/christmas-island-latest.osm.pbf"
