@@ -24,6 +24,7 @@
     "asia/china/beijing",
     "asia/china/guangdong",
     "asia/china/guangxi",
+    "asia/china/jiangsu",
     "asia/china/jiangxi",
     "asia/china/qinghai",
     "asia/china/shaanxi",
@@ -31,6 +32,7 @@
     "asia/china/tianjin",
     "asia/china/tibet",
     "asia/china/xinjiang",
+    "asia/china/zhejiang",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
     "asia/india/western-zone",
@@ -73,6 +75,7 @@
     "europe/france/alsace",
     "europe/france/bretagne",
     "europe/france/champagne-ardenne",
+    "europe/france/franche-comte",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/midi-pyrenees",
@@ -116,6 +119,7 @@
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
+    "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/suffolk",
@@ -139,6 +143,7 @@
     "north-america/us/maine",
     "north-america/us/nebraska",
     "north-america/us/north-dakota",
+    "north-america/us/texas",
     "north-america/us/washington",
     "north-america/us/wisconsin",
     "russia/central-fed-district",
@@ -154,26 +159,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/isle-of-wight",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/isle-of-wight-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/texas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/texas-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/franche-comte",
-      "pbf_url": "https://download.geofabrik.de/europe/france/franche-comte-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/zhejiang",
-      "pbf_url": "https://download.geofabrik.de/asia/china/zhejiang-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/jiangsu",
-      "pbf_url": "https://download.geofabrik.de/asia/china/jiangsu-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/zachodniopomorskie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/zachodniopomorskie-latest.osm.pbf"
