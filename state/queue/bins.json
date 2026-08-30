@@ -59,6 +59,7 @@
     "asia/indonesia/java",
     "asia/indonesia/kalimantan",
     "asia/indonesia/maluku",
+    "asia/indonesia/papua",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/iran",
@@ -110,6 +111,7 @@
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
+    "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/liberecky",
@@ -153,6 +155,7 @@
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/rheinland-pfalz",
+    "europe/germany/sachsen",
     "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
     "europe/greece",
@@ -166,6 +169,7 @@
     "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/liechtenstein",
+    "europe/lithuania",
     "europe/moldova",
     "europe/netherlands/drenthe",
     "europe/netherlands/flevoland",
@@ -307,6 +311,7 @@
     "russia/volga-fed-district",
     "south-america/argentina",
     "south-america/bolivia",
+    "south-america/brazil/centro-oeste",
     "south-america/brazil/nordeste",
     "south-america/brazil/norte",
     "south-america/brazil/sudeste",
@@ -319,26 +324,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "south-america/brazil/centro-oeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/centro-oeste-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/papua",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/papua-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/jihocesky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/jihocesky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/sachsen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/sachsen-latest.osm.pbf"
-    },
-    {
-      "id": "europe/lithuania",
-      "pbf_url": "https://download.geofabrik.de/europe/lithuania-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/oregon",
       "pbf_url": "https://download.geofabrik.de/north-america/us/oregon-latest.osm.pbf"
