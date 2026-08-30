@@ -50,6 +50,7 @@
     "asia/china/zhejiang",
     "asia/gcc-states",
     "asia/india/central-zone",
+    "asia/india/eastern-zone",
     "asia/india/north-eastern-zone",
     "asia/india/southern-zone",
     "asia/india/western-zone",
@@ -107,9 +108,11 @@
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
+    "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/liberecky",
+    "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/olomoucky",
     "europe/czech-republic/pardubicky",
     "europe/czech-republic/praha",
@@ -149,6 +152,7 @@
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/rheinland-pfalz",
+    "europe/germany/saarland",
     "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
     "europe/greece",
@@ -200,6 +204,7 @@
     "europe/serbia",
     "europe/slovakia",
     "europe/slovenia",
+    "europe/spain/andalucia",
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/spain/cantabria",
@@ -314,26 +319,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/andalucia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/andalucia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/moravskoslezky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/moravskoslezky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/jihocesky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/jihocesky-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/eastern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/eastern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/saarland",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/saarland-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/cambridgeshire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cambridgeshire-latest.osm.pbf"
