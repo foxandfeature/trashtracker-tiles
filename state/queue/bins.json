@@ -4,6 +4,7 @@
   "lock": [
     "africa/algeria",
     "africa/botswana",
+    "africa/burkina-faso",
     "africa/cameroon",
     "africa/central-african-republic",
     "africa/chad",
@@ -103,6 +104,7 @@
     "europe/italy/nord-ovest",
     "europe/moldova",
     "europe/netherlands/groningen",
+    "europe/netherlands/limburg",
     "europe/netherlands/overijssel",
     "europe/poland/dolnoslaskie",
     "europe/poland/kujawsko-pomorskie",
@@ -124,9 +126,12 @@
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/spain/cantabria",
+    "europe/spain/la-rioja",
+    "europe/spain/pais-vasco",
     "europe/sweden",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/bristol",
     "europe/united-kingdom/england/cheshire",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/cumbria",
@@ -184,26 +189,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/netherlands/limburg",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/limburg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/bristol",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/bristol-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/pais-vasco",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/pais-vasco-latest.osm.pbf"
-    },
-    {
-      "id": "africa/burkina-faso",
-      "pbf_url": "https://download.geofabrik.de/africa/burkina-faso-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/la-rioja",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/la-rioja-latest.osm.pbf"
-    },
     {
       "id": "europe/switzerland",
       "pbf_url": "https://download.geofabrik.de/europe/switzerland-latest.osm.pbf"
