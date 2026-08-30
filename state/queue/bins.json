@@ -75,10 +75,12 @@
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
+    "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/liberecky",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/zlinsky",
+    "europe/denmark",
     "europe/finland",
     "europe/france/alsace",
     "europe/france/champagne-ardenne",
@@ -131,6 +133,7 @@
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
+    "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/england/cheshire",
@@ -146,6 +149,7 @@
     "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/leicestershire",
+    "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/tyne-and-wear",
@@ -164,6 +168,7 @@
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
+    "north-america/canada/prince-edward-island",
     "north-america/canada/quebec",
     "north-america/mexico",
     "north-america/us/alaska",
@@ -194,26 +199,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/switzerland",
-      "pbf_url": "https://download.geofabrik.de/europe/switzerland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/denmark",
-      "pbf_url": "https://download.geofabrik.de/europe/denmark-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/prince-edward-island",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/prince-edward-island-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/jihomoravsky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/jihomoravsky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/north-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/north-yorkshire-latest.osm.pbf"
-    },
     {
       "id": "africa/burkina-faso",
       "pbf_url": "https://download.geofabrik.de/africa/burkina-faso-latest.osm.pbf"
