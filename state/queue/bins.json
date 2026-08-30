@@ -20,6 +20,7 @@
     "africa/sudan",
     "africa/tanzania",
     "africa/uganda",
+    "africa/zambia",
     "africa/zimbabwe",
     "asia/afghanistan",
     "asia/bangladesh",
@@ -30,6 +31,7 @@
     "asia/china/jiangsu",
     "asia/china/jilin",
     "asia/china/shaanxi",
+    "asia/china/shanxi",
     "asia/china/tianjin",
     "asia/china/tibet",
     "asia/china/yunnan",
@@ -42,6 +44,7 @@
     "asia/indonesia/java",
     "asia/indonesia/kalimantan",
     "asia/indonesia/maluku",
+    "asia/indonesia/papua",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/iran",
@@ -89,6 +92,7 @@
     "europe/czech-republic/praha",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
+    "europe/czech-republic/vysocina",
     "europe/denmark",
     "europe/finland",
     "europe/france/alsace",
@@ -221,6 +225,7 @@
     "north-america/canada/prince-edward-island",
     "north-america/canada/quebec",
     "north-america/mexico",
+    "north-america/us/arizona",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
     "north-america/us/colorado",
@@ -259,26 +264,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/zambia",
-      "pbf_url": "https://download.geofabrik.de/africa/zambia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/arizona",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/arizona-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/vysocina",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/vysocina-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/papua",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/papua-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/shanxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/shanxi-latest.osm.pbf"
-    },
     {
       "id": "asia/south-korea",
       "pbf_url": "https://download.geofabrik.de/asia/south-korea-latest.osm.pbf"
