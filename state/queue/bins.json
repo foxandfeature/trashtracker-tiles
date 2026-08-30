@@ -33,6 +33,7 @@
     "asia/japan/kanto",
     "asia/japan/kyushu",
     "asia/japan/tohoku",
+    "asia/kazakhstan",
     "asia/malaysia-singapore-brunei",
     "asia/myanmar",
     "asia/nepal",
@@ -77,6 +78,7 @@
     "europe/hungary",
     "europe/ireland-and-northern-ireland",
     "europe/italy/centro",
+    "europe/italy/isole",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
@@ -116,6 +118,8 @@
     "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/mexico",
+    "north-america/us/alabama",
+    "north-america/us/alaska",
     "north-america/us/arizona",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
@@ -129,6 +133,7 @@
     "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/minnesota",
+    "north-america/us/missouri",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/ohio",
@@ -159,26 +164,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/alabama",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/alabama-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/alaska",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/alaska-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/missouri",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/missouri-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/isole",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/isole-latest.osm.pbf"
-    },
-    {
-      "id": "asia/kazakhstan",
-      "pbf_url": "https://download.geofabrik.de/asia/kazakhstan-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/nordrhein-westfalen/muenster-regbez",
       "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/muenster-regbez-latest.osm.pbf"
