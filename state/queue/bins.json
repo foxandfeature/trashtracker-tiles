@@ -13,6 +13,7 @@
     "africa/guinea-bissau",
     "africa/ivory-coast",
     "africa/malawi",
+    "africa/morocco",
     "africa/niger",
     "africa/rwanda",
     "africa/somalia",
@@ -47,6 +48,7 @@
     "asia/kyrgyzstan",
     "asia/laos",
     "asia/myanmar",
+    "asia/pakistan",
     "asia/south-korea",
     "asia/tajikistan",
     "asia/turkmenistan",
@@ -63,6 +65,7 @@
     "europe/belarus",
     "europe/belgium",
     "europe/czech-republic/liberecky",
+    "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/zlinsky",
     "europe/finland",
@@ -81,6 +84,7 @@
     "europe/germany/berlin",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/iceland",
+    "europe/isle-of-man",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/moldova",
@@ -89,6 +93,7 @@
     "europe/netherlands/overijssel",
     "europe/norway/trondelag",
     "europe/poland/dolnoslaskie",
+    "europe/poland/kujawsko-pomorskie",
     "europe/poland/lubelskie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
@@ -159,26 +164,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/morocco",
-      "pbf_url": "https://download.geofabrik.de/africa/morocco-latest.osm.pbf"
-    },
-    {
-      "id": "europe/isle-of-man",
-      "pbf_url": "https://download.geofabrik.de/europe/isle-of-man-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/kujawsko-pomorskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/kujawsko-pomorskie-latest.osm.pbf"
-    },
-    {
-      "id": "asia/pakistan",
-      "pbf_url": "https://download.geofabrik.de/asia/pakistan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/stredocesky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/stredocesky-latest.osm.pbf"
-    },
     {
       "id": "asia/north-korea",
       "pbf_url": "https://download.geofabrik.de/asia/north-korea-latest.osm.pbf"
