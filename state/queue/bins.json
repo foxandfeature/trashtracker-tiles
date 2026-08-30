@@ -4,6 +4,7 @@
   "lock": [
     "africa/algeria",
     "africa/angola",
+    "africa/benin",
     "africa/botswana",
     "africa/burkina-faso",
     "africa/cameroon",
@@ -170,6 +171,7 @@
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/vysocina",
+    "europe/czech-republic/zlinsky",
     "europe/denmark",
     "europe/estonia",
     "europe/faroe-islands",
@@ -240,6 +242,8 @@
     "europe/latvia",
     "europe/liechtenstein",
     "europe/lithuania",
+    "europe/luxembourg",
+    "europe/malta",
     "europe/moldova",
     "europe/montenegro",
     "europe/netherlands/drenthe",
@@ -409,6 +413,7 @@
     "north-america/us/tennessee",
     "north-america/us/texas",
     "north-america/us/utah",
+    "north-america/us/vermont",
     "north-america/us/virginia",
     "north-america/us/washington",
     "north-america/us/west-virginia",
@@ -439,26 +444,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/vermont",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/vermont-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/zlinsky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/zlinsky-latest.osm.pbf"
-    },
-    {
-      "id": "africa/benin",
-      "pbf_url": "https://download.geofabrik.de/africa/benin-latest.osm.pbf"
-    },
-    {
-      "id": "europe/luxembourg",
-      "pbf_url": "https://download.geofabrik.de/europe/luxembourg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/malta",
-      "pbf_url": "https://download.geofabrik.de/europe/malta-latest.osm.pbf"
-    },
     {
       "id": "asia/china/guangxi",
       "pbf_url": "https://download.geofabrik.de/asia/china/guangxi-latest.osm.pbf"
