@@ -142,6 +142,7 @@
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
+    "europe/germany/brandenburg",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
@@ -202,6 +203,7 @@
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
     "europe/spain/extremadura",
+    "europe/spain/galicia",
     "europe/spain/islas-baleares",
     "europe/spain/la-rioja",
     "europe/spain/madrid",
@@ -271,7 +273,9 @@
     "north-america/us/illinois",
     "north-america/us/louisiana",
     "north-america/us/maine",
+    "north-america/us/massachusetts",
     "north-america/us/michigan",
+    "north-america/us/minnesota",
     "north-america/us/nebraska",
     "north-america/us/new-jersey",
     "north-america/us/new-york",
@@ -288,6 +292,7 @@
     "russia/north-caucasus-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
+    "russia/south-fed-district",
     "russia/ural-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
@@ -304,26 +309,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "russia/south-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/south-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/brandenburg",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/brandenburg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/galicia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/galicia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/massachusetts",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/massachusetts-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/minnesota",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/minnesota-latest.osm.pbf"
-    },
     {
       "id": "europe/netherlands/zuid-holland",
       "pbf_url": "https://download.geofabrik.de/europe/netherlands/zuid-holland-latest.osm.pbf"
