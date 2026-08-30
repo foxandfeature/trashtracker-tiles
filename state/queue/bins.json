@@ -44,6 +44,7 @@
     "europe/france/aquitaine",
     "europe/france/bretagne",
     "europe/france/ile-de-france",
+    "europe/france/languedoc-roussillon",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
@@ -53,6 +54,7 @@
     "europe/germany/brandenburg",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
+    "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/rheinland-pfalz",
     "europe/germany/sachsen",
@@ -74,6 +76,7 @@
     "europe/slovakia",
     "europe/slovenia",
     "europe/spain/andalucia",
+    "europe/spain/cataluna",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
@@ -82,6 +85,8 @@
     "north-america/canada/alberta",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/manitoba",
+    "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/northwest-territories",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
@@ -124,26 +129,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/duesseldorf-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/newfoundland-and-labrador",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/newfoundland-and-labrador-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/languedoc-roussillon",
-      "pbf_url": "https://download.geofabrik.de/europe/france/languedoc-roussillon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/cataluna",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/cataluna-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/manitoba",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/manitoba-latest.osm.pbf"
-    },
     {
       "id": "africa/sudan",
       "pbf_url": "https://download.geofabrik.de/africa/sudan-latest.osm.pbf"
