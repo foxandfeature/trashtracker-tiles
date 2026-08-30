@@ -57,6 +57,7 @@
     "asia/philippines",
     "asia/taiwan",
     "asia/thailand",
+    "asia/vietnam",
     "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/fiji",
@@ -88,6 +89,7 @@
     "europe/france/bourgogne",
     "europe/france/centre",
     "europe/france/champagne-ardenne",
+    "europe/france/corse",
     "europe/france/franche-comte",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
@@ -104,6 +106,7 @@
     "europe/germany/berlin",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
+    "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
     "europe/greece",
     "europe/iceland",
@@ -129,6 +132,7 @@
     "europe/norway/ostlandet",
     "europe/norway/sorlandet",
     "europe/norway/trondelag",
+    "europe/norway/vestlandet",
     "europe/poland/dolnoslaskie",
     "europe/poland/kujawsko-pomorskie",
     "europe/poland/lodzkie",
@@ -165,6 +169,7 @@
     "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/durham",
+    "europe/united-kingdom/england/greater-manchester",
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/kent",
@@ -229,26 +234,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/schleswig-holstein",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/schleswig-holstein-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/greater-manchester",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/greater-manchester-latest.osm.pbf"
-    },
-    {
-      "id": "asia/vietnam",
-      "pbf_url": "https://download.geofabrik.de/asia/vietnam-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/vestlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/vestlandet-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/corse",
-      "pbf_url": "https://download.geofabrik.de/europe/france/corse-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/alberta",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/alberta-latest.osm.pbf"
