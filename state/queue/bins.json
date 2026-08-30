@@ -3,6 +3,7 @@
   "failed": [],
   "lock": [
     "africa/algeria",
+    "africa/angola",
     "africa/botswana",
     "africa/burkina-faso",
     "africa/cameroon",
@@ -35,6 +36,7 @@
     "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
+    "africa/tunisia",
     "africa/uganda",
     "africa/zambia",
     "africa/zimbabwe",
@@ -48,6 +50,7 @@
     "asia/china/guangdong",
     "asia/china/guangxi",
     "asia/china/guizhou",
+    "asia/china/hebei",
     "asia/china/heilongjiang",
     "asia/china/hong-kong",
     "asia/china/hubei",
@@ -370,6 +373,7 @@
     "north-america/us/michigan",
     "north-america/us/minnesota",
     "north-america/us/missouri",
+    "north-america/us/montana",
     "north-america/us/nebraska",
     "north-america/us/nevada",
     "north-america/us/new-jersey",
@@ -387,6 +391,7 @@
     "north-america/us/utah",
     "north-america/us/virginia",
     "north-america/us/washington",
+    "north-america/us/west-virginia",
     "north-america/us/wisconsin",
     "russia/central-fed-district",
     "russia/far-eastern-fed-district",
@@ -414,26 +419,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/hebei",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hebei-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/montana",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/montana-latest.osm.pbf"
-    },
-    {
-      "id": "africa/tunisia",
-      "pbf_url": "https://download.geofabrik.de/africa/tunisia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/west-virginia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/west-virginia-latest.osm.pbf"
-    },
-    {
-      "id": "africa/angola",
-      "pbf_url": "https://download.geofabrik.de/africa/angola-latest.osm.pbf"
-    },
     {
       "id": "asia/china/hainan",
       "pbf_url": "https://download.geofabrik.de/asia/china/hainan-latest.osm.pbf"
