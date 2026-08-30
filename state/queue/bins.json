@@ -24,12 +24,14 @@
     "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
+    "africa/tunisia",
     "africa/uganda",
     "africa/zambia",
     "africa/zimbabwe",
     "asia/afghanistan",
     "asia/bangladesh",
     "asia/china/guangdong",
+    "asia/china/hebei",
     "asia/china/shaanxi",
     "asia/china/sichuan",
     "asia/gcc-states",
@@ -62,6 +64,7 @@
     "asia/sri-lanka",
     "asia/taiwan",
     "asia/thailand",
+    "asia/uzbekistan",
     "asia/vietnam",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
@@ -88,6 +91,7 @@
     "europe/france/bourgogne",
     "europe/france/bretagne",
     "europe/france/centre",
+    "europe/france/champagne-ardenne",
     "europe/france/franche-comte",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
@@ -106,6 +110,7 @@
     "europe/germany/baden-wuerttemberg/tuebingen-regbez",
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/schwaben",
+    "europe/germany/berlin",
     "europe/germany/brandenburg",
     "europe/germany/hessen",
     "europe/germany/mecklenburg-vorpommern",
@@ -244,26 +249,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/uzbekistan",
-      "pbf_url": "https://download.geofabrik.de/asia/uzbekistan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/berlin",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/berlin-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/champagne-ardenne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/champagne-ardenne-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hebei",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hebei-latest.osm.pbf"
-    },
-    {
-      "id": "africa/tunisia",
-      "pbf_url": "https://download.geofabrik.de/africa/tunisia-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/puerto-rico",
       "pbf_url": "https://download.geofabrik.de/north-america/us/puerto-rico-latest.osm.pbf"
