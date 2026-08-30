@@ -45,6 +45,7 @@
     "asia/china/shaanxi",
     "asia/china/shandong",
     "asia/china/sichuan",
+    "asia/china/tibet",
     "asia/china/yunnan",
     "asia/china/zhejiang",
     "asia/gcc-states",
@@ -104,6 +105,7 @@
     "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/moravskoslezky",
+    "europe/czech-republic/plzensky",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/vysocina",
@@ -211,6 +213,7 @@
     "europe/spain/cataluna",
     "europe/spain/galicia",
     "europe/spain/madrid",
+    "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
     "europe/switzerland",
@@ -218,6 +221,8 @@
     "europe/ukraine",
     "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/greater-london",
+    "europe/united-kingdom/england/kent",
+    "europe/united-kingdom/england/merseyside",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -309,26 +314,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/kent",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/kent-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/merseyside",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/merseyside-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/pais-vasco",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/pais-vasco-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/plzensky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/plzensky-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/tibet",
-      "pbf_url": "https://download.geofabrik.de/asia/china/tibet-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/vermont",
       "pbf_url": "https://download.geofabrik.de/north-america/us/vermont-latest.osm.pbf"
