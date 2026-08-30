@@ -24,6 +24,7 @@
     "africa/mali",
     "africa/morocco",
     "africa/mozambique",
+    "africa/niger",
     "africa/nigeria",
     "africa/rwanda",
     "africa/senegal-and-gambia",
@@ -69,7 +70,9 @@
     "asia/japan/shikoku",
     "asia/japan/tohoku",
     "asia/kazakhstan",
+    "asia/lebanon",
     "asia/malaysia-singapore-brunei",
+    "asia/mongolia",
     "asia/myanmar",
     "asia/nepal",
     "asia/north-korea",
@@ -166,6 +169,7 @@
     "europe/latvia",
     "europe/lithuania",
     "europe/moldova",
+    "europe/netherlands/drenthe",
     "europe/netherlands/friesland",
     "europe/netherlands/gelderland",
     "europe/netherlands/limburg",
@@ -210,6 +214,7 @@
     "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/england/greater-london",
+    "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
@@ -299,26 +304,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/netherlands/drenthe",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/drenthe-latest.osm.pbf"
-    },
-    {
-      "id": "asia/lebanon",
-      "pbf_url": "https://download.geofabrik.de/asia/lebanon-latest.osm.pbf"
-    },
-    {
-      "id": "asia/mongolia",
-      "pbf_url": "https://download.geofabrik.de/asia/mongolia-latest.osm.pbf"
-    },
-    {
-      "id": "africa/niger",
-      "pbf_url": "https://download.geofabrik.de/africa/niger-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/north-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/north-yorkshire-latest.osm.pbf"
-    },
     {
       "id": "asia/china/shandong",
       "pbf_url": "https://download.geofabrik.de/asia/china/shandong-latest.osm.pbf"
