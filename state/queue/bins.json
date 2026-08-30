@@ -3,6 +3,7 @@
   "failed": [],
   "lock": [
     "africa/algeria",
+    "africa/angola",
     "africa/botswana",
     "africa/burkina-faso",
     "africa/cameroon",
@@ -198,6 +199,7 @@
     "europe/germany/bayern/niederbayern",
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
+    "europe/germany/bayern/oberpfalz",
     "europe/germany/bayern/schwaben",
     "europe/germany/berlin",
     "europe/germany/brandenburg",
@@ -339,6 +341,7 @@
     "north-america/canada/new-brunswick",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/northwest-territories",
+    "north-america/canada/nova-scotia",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
@@ -372,6 +375,7 @@
     "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/minnesota",
+    "north-america/us/mississippi",
     "north-america/us/missouri",
     "north-america/us/montana",
     "north-america/us/nebraska",
@@ -385,6 +389,7 @@
     "north-america/us/oklahoma",
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
+    "north-america/us/puerto-rico",
     "north-america/us/south-carolina",
     "north-america/us/tennessee",
     "north-america/us/texas",
@@ -419,26 +424,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/angola",
-      "pbf_url": "https://download.geofabrik.de/africa/angola-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/puerto-rico",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/puerto-rico-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/nova-scotia",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/nova-scotia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/mississippi",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/mississippi-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/oberpfalz",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberpfalz-latest.osm.pbf"
-    },
     {
       "id": "asia/syria",
       "pbf_url": "https://download.geofabrik.de/asia/syria-latest.osm.pbf"
