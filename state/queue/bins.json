@@ -22,6 +22,7 @@
     "africa/ivory-coast",
     "africa/kenya",
     "africa/lesotho",
+    "africa/liberia",
     "africa/libya",
     "africa/madagascar",
     "africa/malawi",
@@ -35,6 +36,7 @@
     "africa/saint-helena-ascension-and-tristan-da-cunha",
     "africa/sao-tome-and-principe",
     "africa/senegal-and-gambia",
+    "africa/sierra-leone",
     "africa/somalia",
     "africa/south-africa",
     "africa/south-sudan",
@@ -122,6 +124,7 @@
     "asia/sri-lanka",
     "asia/syria",
     "asia/taiwan",
+    "asia/tajikistan",
     "asia/thailand",
     "asia/uzbekistan",
     "asia/vietnam",
@@ -312,6 +315,7 @@
     "europe/united-kingdom/england/bristol",
     "europe/united-kingdom/england/buckinghamshire",
     "europe/united-kingdom/england/cambridgeshire",
+    "europe/united-kingdom/england/cheshire",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/derbyshire",
@@ -325,6 +329,7 @@
     "europe/united-kingdom/england/greater-manchester",
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/herefordshire",
+    "europe/united-kingdom/england/hertfordshire",
     "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/lancashire",
@@ -449,26 +454,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/sierra-leone",
-      "pbf_url": "https://download.geofabrik.de/africa/sierra-leone-latest.osm.pbf"
-    },
-    {
-      "id": "asia/tajikistan",
-      "pbf_url": "https://download.geofabrik.de/asia/tajikistan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/cheshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cheshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/hertfordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/hertfordshire-latest.osm.pbf"
-    },
-    {
-      "id": "africa/liberia",
-      "pbf_url": "https://download.geofabrik.de/africa/liberia-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/navarra",
       "pbf_url": "https://download.geofabrik.de/europe/spain/navarra-latest.osm.pbf"
