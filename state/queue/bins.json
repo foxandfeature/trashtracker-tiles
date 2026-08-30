@@ -80,6 +80,7 @@
     "asia/china/jiangxi",
     "asia/china/jilin",
     "asia/china/liaoning",
+    "asia/china/macau",
     "asia/china/qinghai",
     "asia/china/shaanxi",
     "asia/china/shandong",
@@ -123,6 +124,7 @@
     "asia/laos",
     "asia/lebanon",
     "asia/malaysia-singapore-brunei",
+    "asia/maldives",
     "asia/mongolia",
     "asia/myanmar",
     "asia/nepal",
@@ -149,6 +151,7 @@
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
     "australia-oceania/fiji",
+    "australia-oceania/kiribati",
     "australia-oceania/new-caledonia",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
@@ -262,6 +265,7 @@
     "europe/italy/sud",
     "europe/kosovo",
     "europe/latvia",
+    "europe/liechtenstein",
     "europe/lithuania",
     "europe/luxembourg",
     "europe/macedonia",
@@ -346,6 +350,7 @@
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/herefordshire",
     "europe/united-kingdom/england/hertfordshire",
+    "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/lancashire",
     "europe/united-kingdom/england/leicestershire",
@@ -474,26 +479,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/isle-of-wight",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/isle-of-wight-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/kiribati",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/kiribati-latest.osm.pbf"
-    },
-    {
-      "id": "europe/liechtenstein",
-      "pbf_url": "https://download.geofabrik.de/europe/liechtenstein-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/macau",
-      "pbf_url": "https://download.geofabrik.de/asia/china/macau-latest.osm.pbf"
-    },
-    {
-      "id": "asia/maldives",
-      "pbf_url": "https://download.geofabrik.de/asia/maldives-latest.osm.pbf"
-    },
     {
       "id": "europe/malta",
       "pbf_url": "https://download.geofabrik.de/europe/malta-latest.osm.pbf"
