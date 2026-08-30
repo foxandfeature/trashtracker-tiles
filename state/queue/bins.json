@@ -121,6 +121,7 @@
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
+    "central-america/jamaica",
     "central-america/nicaragua",
     "europe/albania",
     "europe/austria",
@@ -132,6 +133,7 @@
     "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/kralovehradecky",
+    "europe/czech-republic/liberecky",
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/olomoucky",
     "europe/czech-republic/pardubicky",
@@ -255,6 +257,7 @@
     "europe/spain/islas-baleares",
     "europe/spain/madrid",
     "europe/spain/murcia",
+    "europe/spain/navarra",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
@@ -277,9 +280,11 @@
     "europe/united-kingdom/england/lincolnshire",
     "europe/united-kingdom/england/merseyside",
     "europe/united-kingdom/england/north-yorkshire",
+    "europe/united-kingdom/england/northumberland",
     "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/surrey",
+    "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
     "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/scotland",
@@ -379,26 +384,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "central-america/jamaica",
-      "pbf_url": "https://download.geofabrik.de/central-america/jamaica-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/liberecky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/liberecky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/navarra",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/navarra-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/northumberland",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/northumberland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/west-midlands",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-midlands-latest.osm.pbf"
-    },
     {
       "id": "asia/china/xinjiang",
       "pbf_url": "https://download.geofabrik.de/asia/china/xinjiang-latest.osm.pbf"
