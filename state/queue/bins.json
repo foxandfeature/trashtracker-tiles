@@ -21,6 +21,7 @@
     "asia/china/jiangxi",
     "asia/china/qinghai",
     "asia/china/sichuan",
+    "asia/china/tianjin",
     "asia/china/tibet",
     "asia/china/xinjiang",
     "asia/india/central-zone",
@@ -104,6 +105,7 @@
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/quebec",
+    "north-america/us/alaska",
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/colorado",
@@ -112,33 +114,16 @@
     "north-america/us/washington",
     "north-america/us/wisconsin",
     "russia/central-fed-district",
+    "russia/north-caucasus-fed-district",
     "russia/south-fed-district",
     "south-america/bolivia",
+    "south-america/brazil/norte",
     "south-america/brazil/sudeste",
     "south-america/colombia",
+    "south-america/guyana",
     "south-america/paraguay"
   ],
   "remaining": [
-    {
-      "id": "south-america/brazil/norte",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/norte-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/alaska",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/alaska-latest.osm.pbf"
-    },
-    {
-      "id": "russia/north-caucasus-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/north-caucasus-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/tianjin",
-      "pbf_url": "https://download.geofabrik.de/asia/china/tianjin-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/guyana",
-      "pbf_url": "https://download.geofabrik.de/south-america/guyana-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/north-dakota",
       "pbf_url": "https://download.geofabrik.de/north-america/us/north-dakota-latest.osm.pbf"
