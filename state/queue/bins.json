@@ -14,6 +14,7 @@
     "africa/tanzania",
     "asia/afghanistan",
     "asia/china/gansu",
+    "asia/china/jiangsu",
     "asia/china/shaanxi",
     "asia/china/tianjin",
     "asia/china/tibet",
@@ -68,14 +69,18 @@
     "europe/norway/trondelag",
     "europe/poland/dolnoslaskie",
     "europe/poland/kujawsko-pomorskie",
+    "europe/poland/lodzkie",
+    "europe/poland/lubuskie",
     "europe/poland/malopolskie",
     "europe/poland/opolskie",
     "europe/poland/podkarpackie",
     "europe/poland/podlaskie",
     "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
+    "europe/poland/zachodniopomorskie",
     "europe/slovenia",
     "europe/spain/castilla-la-mancha",
+    "europe/spain/islas-baleares",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
@@ -124,26 +129,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/jiangsu",
-      "pbf_url": "https://download.geofabrik.de/asia/china/jiangsu-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/lubuskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lubuskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/zachodniopomorskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/zachodniopomorskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/islas-baleares",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/islas-baleares-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/lodzkie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lodzkie-latest.osm.pbf"
-    },
     {
       "id": "asia/india/southern-zone",
       "pbf_url": "https://download.geofabrik.de/asia/india/southern-zone-latest.osm.pbf"
