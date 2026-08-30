@@ -49,6 +49,7 @@
     "asia/japan/chugoku",
     "asia/japan/kansai",
     "asia/japan/kanto",
+    "asia/japan/tohoku",
     "asia/jordan",
     "asia/kazakhstan",
     "asia/laos",
@@ -79,6 +80,7 @@
     "europe/belarus",
     "europe/belgium",
     "europe/czech-republic/jihomoravsky",
+    "europe/czech-republic/karlovarsky",
     "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/olomoucky",
@@ -90,6 +92,7 @@
     "europe/finland",
     "europe/france/alsace",
     "europe/france/aquitaine",
+    "europe/france/auvergne",
     "europe/france/basse-normandie",
     "europe/france/bourgogne",
     "europe/france/bretagne",
@@ -111,6 +114,7 @@
     "europe/germany/baden-wuerttemberg/tuebingen-regbez",
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
+    "europe/germany/brandenburg",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/schleswig-holstein",
@@ -147,6 +151,7 @@
     "europe/poland/lubelskie",
     "europe/poland/lubuskie",
     "europe/poland/malopolskie",
+    "europe/poland/mazowieckie",
     "europe/poland/opolskie",
     "europe/poland/podkarpackie",
     "europe/poland/podlaskie",
@@ -249,26 +254,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/france/auvergne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/auvergne-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/karlovarsky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/karlovarsky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/mazowieckie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/mazowieckie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/brandenburg",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/brandenburg-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/tohoku",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/tohoku-latest.osm.pbf"
-    },
     {
       "id": "europe/netherlands/zuid-holland",
       "pbf_url": "https://download.geofabrik.de/europe/netherlands/zuid-holland-latest.osm.pbf"
