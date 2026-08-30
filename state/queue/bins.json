@@ -21,6 +21,7 @@
     "asia/indonesia/sumatra",
     "asia/japan/chugoku",
     "asia/japan/kansai",
+    "asia/jordan",
     "asia/laos",
     "australia-oceania/australia/new-south-wales",
     "central-america/costa-rica",
@@ -30,6 +31,8 @@
     "europe/austria",
     "europe/czech-republic/ustecky",
     "europe/france/champagne-ardenne",
+    "europe/france/franche-comte",
+    "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
@@ -44,6 +47,7 @@
     "europe/poland/dolnoslaskie",
     "europe/poland/malopolskie",
     "europe/poland/opolskie",
+    "europe/poland/podkarpackie",
     "europe/poland/podlaskie",
     "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
@@ -54,6 +58,7 @@
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/devon",
+    "europe/united-kingdom/england/durham",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/suffolk",
@@ -79,26 +84,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/poland/podkarpackie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/podkarpackie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/nord-pas-de-calais",
-      "pbf_url": "https://download.geofabrik.de/europe/france/nord-pas-de-calais-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/durham",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/durham-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/franche-comte",
-      "pbf_url": "https://download.geofabrik.de/europe/france/franche-comte-latest.osm.pbf"
-    },
-    {
-      "id": "asia/jordan",
-      "pbf_url": "https://download.geofabrik.de/asia/jordan-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/derbyshire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/derbyshire-latest.osm.pbf"
