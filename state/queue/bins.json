@@ -13,6 +13,7 @@
     "asia/china/jiangxi",
     "asia/china/sichuan",
     "asia/china/tibet",
+    "asia/china/xinjiang",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
     "asia/india/western-zone",
@@ -30,6 +31,7 @@
     "central-america/honduras",
     "europe/albania",
     "europe/belarus",
+    "europe/czech-republic/ustecky",
     "europe/france/alsace",
     "europe/france/bretagne",
     "europe/france/haute-normandie",
@@ -62,6 +64,7 @@
     "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
+    "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/nunavut/kitikmeot",
@@ -70,8 +73,10 @@
     "north-america/us/california/norcal",
     "north-america/us/colorado",
     "north-america/us/maine",
+    "north-america/us/nebraska",
     "north-america/us/washington",
     "north-america/us/wisconsin",
+    "russia/central-fed-district",
     "russia/south-fed-district",
     "south-america/bolivia",
     "south-america/brazil/nordeste",
@@ -79,26 +84,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "asia/china/xinjiang",
-      "pbf_url": "https://download.geofabrik.de/asia/china/xinjiang-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/island-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/island-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "russia/central-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/central-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/nebraska",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/nebraska-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/ustecky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/ustecky-latest.osm.pbf"
-    },
     {
       "id": "africa/botswana",
       "pbf_url": "https://download.geofabrik.de/africa/botswana-latest.osm.pbf"
