@@ -153,8 +153,10 @@
     "europe/germany/brandenburg",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
+    "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/rheinland-pfalz",
+    "europe/germany/saarland",
     "europe/germany/sachsen",
     "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
@@ -263,6 +265,7 @@
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/manitoba",
     "north-america/canada/new-brunswick",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/northwest-territories",
@@ -287,6 +290,7 @@
     "north-america/us/illinois",
     "north-america/us/louisiana",
     "north-america/us/maine",
+    "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/minnesota",
@@ -296,6 +300,7 @@
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
     "north-america/us/ohio",
+    "north-america/us/oregon",
     "north-america/us/pennsylvania",
     "north-america/us/texas",
     "north-america/us/virginia",
@@ -324,26 +329,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/oregon",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/oregon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/saarland",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/saarland-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/maryland",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/maryland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/duesseldorf-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/manitoba",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/manitoba-latest.osm.pbf"
-    },
     {
       "id": "south-america/peru",
       "pbf_url": "https://download.geofabrik.de/south-america/peru-latest.osm.pbf"
