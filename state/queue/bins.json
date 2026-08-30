@@ -17,6 +17,7 @@
     "africa/tanzania",
     "asia/afghanistan",
     "asia/china/gansu",
+    "asia/china/heilongjiang",
     "asia/china/jiangsu",
     "asia/china/shaanxi",
     "asia/china/tianjin",
@@ -46,6 +47,7 @@
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/fiji",
     "australia-oceania/micronesia",
+    "australia-oceania/nauru",
     "australia-oceania/new-zealand",
     "central-america/costa-rica",
     "central-america/haiti-and-domrep",
@@ -89,6 +91,7 @@
     "europe/netherlands/gelderland",
     "europe/netherlands/limburg",
     "europe/netherlands/overijssel",
+    "europe/netherlands/zeeland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/sorlandet",
@@ -130,6 +133,7 @@
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/lancashire",
     "europe/united-kingdom/england/leicestershire",
+    "europe/united-kingdom/england/lincolnshire",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/nottinghamshire",
@@ -165,6 +169,7 @@
     "north-america/us/washington",
     "north-america/us/wisconsin",
     "russia/central-fed-district",
+    "russia/far-eastern-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
@@ -174,26 +179,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/netherlands/zeeland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/zeeland-latest.osm.pbf"
-    },
-    {
-      "id": "russia/far-eastern-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/far-eastern-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/lincolnshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/lincolnshire-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/nauru",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/nauru-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/heilongjiang",
-      "pbf_url": "https://download.geofabrik.de/asia/china/heilongjiang-latest.osm.pbf"
-    },
     {
       "id": "russia/ural-fed-district",
       "pbf_url": "https://download.geofabrik.de/russia/ural-fed-district-latest.osm.pbf"
