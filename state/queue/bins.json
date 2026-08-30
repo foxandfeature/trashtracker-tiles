@@ -26,6 +26,7 @@
     "asia/japan/kyushu",
     "asia/japan/tohoku",
     "asia/malaysia-singapore-brunei",
+    "asia/myanmar",
     "asia/nepal",
     "asia/philippines",
     "asia/south-korea",
@@ -33,6 +34,7 @@
     "asia/thailand",
     "asia/vietnam",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/australia/victoria",
     "australia-oceania/new-zealand",
     "europe/austria",
     "europe/belarus",
@@ -43,6 +45,7 @@
     "europe/france/bretagne",
     "europe/france/ile-de-france",
     "europe/france/midi-pyrenees",
+    "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
@@ -60,8 +63,10 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
+    "europe/norway/trondelag",
     "europe/poland/lodzkie",
     "europe/poland/mazowieckie",
     "europe/portugal",
@@ -119,26 +124,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/australia/victoria",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/victoria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/zuid-holland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/zuid-holland-latest.osm.pbf"
-    },
-    {
-      "id": "asia/myanmar",
-      "pbf_url": "https://download.geofabrik.de/asia/myanmar-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/nord-pas-de-calais",
-      "pbf_url": "https://download.geofabrik.de/europe/france/nord-pas-de-calais-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/trondelag",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/trondelag-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
       "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/duesseldorf-regbez-latest.osm.pbf"
