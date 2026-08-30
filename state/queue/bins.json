@@ -7,6 +7,7 @@
     "africa/botswana",
     "africa/burkina-faso",
     "africa/cameroon",
+    "africa/canary-islands",
     "africa/central-african-republic",
     "africa/chad",
     "africa/congo-democratic-republic",
@@ -24,6 +25,7 @@
     "africa/morocco",
     "africa/mozambique",
     "africa/nigeria",
+    "africa/rwanda",
     "africa/senegal-and-gambia",
     "africa/somalia",
     "africa/south-africa",
@@ -41,6 +43,7 @@
     "asia/china/jiangsu",
     "asia/china/shaanxi",
     "asia/china/sichuan",
+    "asia/china/yunnan",
     "asia/china/zhejiang",
     "asia/gcc-states",
     "asia/india/central-zone",
@@ -129,6 +132,7 @@
     "europe/germany/bayern/mittelfranken",
     "europe/germany/bayern/niederbayern",
     "europe/germany/bayern/oberbayern",
+    "europe/germany/bayern/oberfranken",
     "europe/germany/bayern/oberpfalz",
     "europe/germany/bayern/schwaben",
     "europe/germany/bayern/unterfranken",
@@ -208,6 +212,7 @@
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/british-columbia/southcoast-admreg",
     "north-america/canada/manitoba",
+    "north-america/canada/new-brunswick",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/northwest-territories",
     "north-america/canada/nova-scotia",
@@ -284,26 +289,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/new-brunswick",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/new-brunswick-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/oberfranken",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberfranken-latest.osm.pbf"
-    },
-    {
-      "id": "africa/rwanda",
-      "pbf_url": "https://download.geofabrik.de/africa/rwanda-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/yunnan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/yunnan-latest.osm.pbf"
-    },
-    {
-      "id": "africa/canary-islands",
-      "pbf_url": "https://download.geofabrik.de/africa/canary-islands-latest.osm.pbf"
-    },
     {
       "id": "europe/netherlands/friesland",
       "pbf_url": "https://download.geofabrik.de/europe/netherlands/friesland-latest.osm.pbf"
