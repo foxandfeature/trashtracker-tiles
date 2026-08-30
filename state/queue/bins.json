@@ -4,6 +4,7 @@
   "lock": [
     "africa/algeria",
     "africa/botswana",
+    "africa/burkina-faso",
     "africa/cameroon",
     "africa/central-african-republic",
     "africa/chad",
@@ -50,6 +51,7 @@
     "asia/japan/kyushu",
     "asia/japan/shikoku",
     "asia/jordan",
+    "asia/kazakhstan",
     "asia/kyrgyzstan",
     "asia/laos",
     "asia/myanmar",
@@ -130,12 +132,15 @@
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/spain/cantabria",
+    "europe/spain/la-rioja",
+    "europe/spain/madrid",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/bristol",
     "europe/united-kingdom/england/cheshire",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/cumbria",
@@ -199,26 +204,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/burkina-faso",
-      "pbf_url": "https://download.geofabrik.de/africa/burkina-faso-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/la-rioja",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/la-rioja-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/madrid",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/madrid-latest.osm.pbf"
-    },
-    {
-      "id": "asia/kazakhstan",
-      "pbf_url": "https://download.geofabrik.de/asia/kazakhstan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/bristol",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/bristol-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/islas-baleares",
       "pbf_url": "https://download.geofabrik.de/europe/spain/islas-baleares-latest.osm.pbf"
