@@ -4,36 +4,21 @@
   "lock": [
     "africa/tanzania",
     "asia/india/central-zone",
+    "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/japan/chubu",
+    "asia/japan/kanto",
+    "australia-oceania/australia/new-south-wales",
+    "europe/france/provence-alpes-cote-d-azur",
     "europe/poland/mazowieckie",
     "europe/spain/aragon",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
-    "north-america/canada/nunavut/qikiqtaaluk"
+    "north-america/canada/nunavut/qikiqtaaluk",
+    "north-america/us/california/norcal"
   ],
   "remaining": [
-    {
-      "id": "asia/japan/kanto",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kanto-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/western-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/western-zone-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/new-south-wales",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/new-south-wales-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/provence-alpes-cote-d-azur",
-      "pbf_url": "https://download.geofabrik.de/europe/france/provence-alpes-cote-d-azur-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/california/norcal",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/california/norcal-latest.osm.pbf"
-    },
     {
       "id": "africa/congo-democratic-republic",
       "pbf_url": "https://download.geofabrik.de/africa/congo-democratic-republic-latest.osm.pbf"
