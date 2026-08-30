@@ -2,6 +2,7 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/algeria",
     "africa/botswana",
     "africa/cameroon",
     "africa/chad",
@@ -10,6 +11,7 @@
     "africa/niger",
     "africa/somalia",
     "africa/tanzania",
+    "asia/china/jiangxi",
     "asia/china/sichuan",
     "asia/china/tibet",
     "asia/india/central-zone",
@@ -40,11 +42,13 @@
     "europe/moldova",
     "europe/netherlands/groningen",
     "europe/netherlands/overijssel",
+    "europe/poland/dolnoslaskie",
     "europe/poland/lubelskie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/poland/opolskie",
     "europe/poland/warminsko-mazurskie",
+    "europe/portugal",
     "europe/slovenia",
     "europe/spain/aragon",
     "europe/spain/asturias",
@@ -57,6 +61,7 @@
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/us/california/norcal",
+    "north-america/us/colorado",
     "north-america/us/washington",
     "north-america/us/wisconsin",
     "russia/south-fed-district",
@@ -64,26 +69,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/portugal",
-      "pbf_url": "https://download.geofabrik.de/europe/portugal-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/colorado",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/colorado-latest.osm.pbf"
-    },
-    {
-      "id": "africa/algeria",
-      "pbf_url": "https://download.geofabrik.de/africa/algeria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/dolnoslaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/dolnoslaskie-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/jiangxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/jiangxi-latest.osm.pbf"
-    },
     {
       "id": "africa/rwanda",
       "pbf_url": "https://download.geofabrik.de/africa/rwanda-latest.osm.pbf"
