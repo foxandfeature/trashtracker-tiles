@@ -3,42 +3,27 @@
   "failed": [],
   "lock": [
     "africa/nigeria",
+    "africa/tanzania",
     "asia/india/central-zone",
     "asia/indonesia/java",
     "europe/austria",
     "europe/belgium",
     "europe/finland",
+    "europe/ireland-and-northern-ireland",
     "europe/sweden",
     "europe/ukraine",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/ontario",
     "north-america/canada/quebec",
+    "north-america/mexico",
     "north-america/us/california/norcal",
+    "north-america/us/texas",
     "russia/central-fed-district",
+    "russia/siberian-fed-district",
     "russia/volga-fed-district",
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/texas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/texas-latest.osm.pbf"
-    },
-    {
-      "id": "africa/tanzania",
-      "pbf_url": "https://download.geofabrik.de/africa/tanzania-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/mexico",
-      "pbf_url": "https://download.geofabrik.de/north-america/mexico-latest.osm.pbf"
-    },
-    {
-      "id": "russia/siberian-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/siberian-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/ireland-and-northern-ireland",
-      "pbf_url": "https://download.geofabrik.de/europe/ireland-and-northern-ireland-latest.osm.pbf"
-    },
     {
       "id": "europe/italy/nord-est",
       "pbf_url": "https://download.geofabrik.de/europe/italy/nord-est-latest.osm.pbf"
