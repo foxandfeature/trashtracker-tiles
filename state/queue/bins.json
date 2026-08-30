@@ -46,6 +46,7 @@
     "asia/china/gansu",
     "asia/china/guangdong",
     "asia/china/guizhou",
+    "asia/china/hainan",
     "asia/china/hebei",
     "asia/china/heilongjiang",
     "asia/china/hong-kong",
@@ -179,6 +180,7 @@
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/georgia",
     "europe/germany/baden-wuerttemberg/freiburg-regbez",
     "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
@@ -356,10 +358,12 @@
     "north-america/us/kansas",
     "north-america/us/kentucky",
     "north-america/us/louisiana",
+    "north-america/us/maine",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/minnesota",
+    "north-america/us/mississippi",
     "north-america/us/missouri",
     "north-america/us/nebraska",
     "north-america/us/nevada",
@@ -378,6 +382,7 @@
     "north-america/us/utah",
     "north-america/us/virginia",
     "north-america/us/washington",
+    "north-america/us/west-virginia",
     "north-america/us/wisconsin",
     "russia/central-fed-district",
     "russia/far-eastern-fed-district",
@@ -404,26 +409,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/georgia",
-      "pbf_url": "https://download.geofabrik.de/europe/georgia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/mississippi",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/mississippi-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hainan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hainan-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/maine",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/maine-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/west-virginia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/west-virginia-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/nova-scotia",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/nova-scotia-latest.osm.pbf"
