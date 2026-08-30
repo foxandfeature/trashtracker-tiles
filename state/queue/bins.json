@@ -2,6 +2,7 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/cameroon",
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/malawi",
@@ -23,12 +24,14 @@
     "asia/myanmar",
     "asia/south-korea",
     "australia-oceania/australia/new-south-wales",
+    "europe/albania",
     "europe/belarus",
     "europe/france/alsace",
     "europe/france/bretagne",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/midi-pyrenees",
+    "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
     "europe/france/picardie",
     "europe/france/provence-alpes-cote-d-azur",
@@ -39,10 +42,12 @@
     "europe/netherlands/overijssel",
     "europe/poland/lubelskie",
     "europe/poland/mazowieckie",
+    "europe/poland/opolskie",
     "europe/poland/podkarpackie",
     "europe/poland/warminsko-mazurskie",
     "europe/spain/aragon",
     "europe/spain/asturias",
+    "europe/ukraine",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -59,26 +64,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "africa/cameroon",
-      "pbf_url": "https://download.geofabrik.de/africa/cameroon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/opolskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/opolskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/ukraine",
-      "pbf_url": "https://download.geofabrik.de/europe/ukraine-latest.osm.pbf"
-    },
-    {
-      "id": "europe/albania",
-      "pbf_url": "https://download.geofabrik.de/europe/albania-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/nord-pas-de-calais",
-      "pbf_url": "https://download.geofabrik.de/europe/france/nord-pas-de-calais-latest.osm.pbf"
-    },
     {
       "id": "europe/portugal",
       "pbf_url": "https://download.geofabrik.de/europe/portugal-latest.osm.pbf"
