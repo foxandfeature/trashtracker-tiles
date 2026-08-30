@@ -36,6 +36,7 @@
     "asia/laos",
     "asia/myanmar",
     "asia/south-korea",
+    "asia/yemen",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/papua-new-guinea",
     "central-america/honduras",
@@ -68,6 +69,7 @@
     "europe/poland/swietokrzyskie",
     "europe/poland/warminsko-mazurskie",
     "europe/portugal",
+    "europe/serbia",
     "europe/slovenia",
     "europe/spain/aragon",
     "europe/spain/asturias",
@@ -77,6 +79,7 @@
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/dorset",
     "europe/united-kingdom/england/gloucestershire",
+    "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -87,6 +90,7 @@
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/quebec",
+    "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/colorado",
     "north-america/us/maine",
@@ -96,29 +100,10 @@
     "south-america/bolivia",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
-    "south-america/colombia"
+    "south-america/colombia",
+    "south-america/paraguay"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/arkansas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/arkansas-latest.osm.pbf"
-    },
-    {
-      "id": "asia/yemen",
-      "pbf_url": "https://download.geofabrik.de/asia/yemen-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/leicestershire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/leicestershire-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/paraguay",
-      "pbf_url": "https://download.geofabrik.de/south-america/paraguay-latest.osm.pbf"
-    },
-    {
-      "id": "europe/serbia",
-      "pbf_url": "https://download.geofabrik.de/europe/serbia-latest.osm.pbf"
-    },
     {
       "id": "asia/indonesia/kalimantan",
       "pbf_url": "https://download.geofabrik.de/asia/indonesia/kalimantan-latest.osm.pbf"
