@@ -5,30 +5,15 @@
     "africa/tanzania",
     "asia/india/central-zone",
     "asia/indonesia/java",
+    "asia/japan/chubu",
+    "asia/japan/kanto",
+    "europe/poland/mazowieckie",
+    "europe/spain/aragon",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/nunavut/kivalliq",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/nunavut/kivalliq-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/chubu",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/chubu-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/mazowieckie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/mazowieckie-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/kanto",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kanto-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/aragon",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/aragon-latest.osm.pbf"
-    },
     {
       "id": "asia/indonesia/sumatra",
       "pbf_url": "https://download.geofabrik.de/asia/indonesia/sumatra-latest.osm.pbf"
