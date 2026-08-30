@@ -18,6 +18,7 @@
     "africa/niger",
     "africa/nigeria",
     "africa/rwanda",
+    "africa/saint-helena-ascension-and-tristan-da-cunha",
     "africa/senegal-and-gambia",
     "africa/somalia",
     "africa/south-africa",
@@ -47,6 +48,7 @@
     "asia/indonesia/kalimantan",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
+    "asia/iran",
     "asia/iraq",
     "asia/japan/chubu",
     "asia/japan/chugoku",
@@ -131,6 +133,7 @@
     "europe/netherlands/noord-brabant",
     "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
+    "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/sorlandet",
     "europe/norway/trondelag",
@@ -156,6 +159,7 @@
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/spain/cantabria",
+    "europe/spain/castilla-y-leon",
     "europe/spain/extremadura",
     "europe/spain/islas-baleares",
     "europe/spain/la-rioja",
@@ -207,6 +211,7 @@
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
     "north-america/us/colorado",
+    "north-america/us/connecticut",
     "north-america/us/delaware",
     "north-america/us/district-of-columbia",
     "north-america/us/florida",
@@ -239,26 +244,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/saint-helena-ascension-and-tristan-da-cunha",
-      "pbf_url": "https://download.geofabrik.de/africa/saint-helena-ascension-and-tristan-da-cunha-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/nord-norge",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/nord-norge-latest.osm.pbf"
-    },
-    {
-      "id": "asia/iran",
-      "pbf_url": "https://download.geofabrik.de/asia/iran-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/connecticut",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/connecticut-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/castilla-y-leon",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/castilla-y-leon-latest.osm.pbf"
-    },
     {
       "id": "south-america/argentina",
       "pbf_url": "https://download.geofabrik.de/south-america/argentina-latest.osm.pbf"
