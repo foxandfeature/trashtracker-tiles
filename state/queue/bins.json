@@ -37,11 +37,13 @@
     "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
+    "africa/togo",
     "africa/tunisia",
     "africa/uganda",
     "africa/zambia",
     "africa/zimbabwe",
     "asia/afghanistan",
+    "asia/armenia",
     "asia/azerbaijan",
     "asia/bangladesh",
     "asia/china/beijing",
@@ -121,6 +123,7 @@
     "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
+    "australia-oceania/australia/south-australia",
     "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
@@ -166,6 +169,7 @@
     "europe/czech-republic/vysocina",
     "europe/denmark",
     "europe/estonia",
+    "europe/faroe-islands",
     "europe/finland",
     "europe/france/alsace",
     "europe/france/aquitaine",
@@ -353,6 +357,7 @@
     "north-america/canada/prince-edward-island",
     "north-america/canada/quebec",
     "north-america/canada/saskatchewan",
+    "north-america/canada/yukon",
     "north-america/greenland",
     "north-america/mexico",
     "north-america/us/alabama",
@@ -429,26 +434,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/yukon",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/yukon-latest.osm.pbf"
-    },
-    {
-      "id": "africa/togo",
-      "pbf_url": "https://download.geofabrik.de/africa/togo-latest.osm.pbf"
-    },
-    {
-      "id": "europe/faroe-islands",
-      "pbf_url": "https://download.geofabrik.de/europe/faroe-islands-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/south-australia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/south-australia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/armenia",
-      "pbf_url": "https://download.geofabrik.de/asia/armenia-latest.osm.pbf"
-    },
     {
       "id": "africa/canary-islands",
       "pbf_url": "https://download.geofabrik.de/africa/canary-islands-latest.osm.pbf"
