@@ -15,6 +15,7 @@
     "africa/sudan",
     "africa/tanzania",
     "asia/china/guangdong",
+    "asia/china/guangxi",
     "asia/china/jiangxi",
     "asia/china/sichuan",
     "asia/china/tibet",
@@ -35,12 +36,14 @@
     "asia/laos",
     "asia/myanmar",
     "asia/south-korea",
+    "asia/yemen",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/papua-new-guinea",
     "central-america/costa-rica",
     "central-america/honduras",
     "europe/albania",
     "europe/belarus",
+    "europe/czech-republic/zlinsky",
     "europe/france/alsace",
     "europe/france/bretagne",
     "europe/france/champagne-ardenne",
@@ -66,6 +69,7 @@
     "europe/poland/swietokrzyskie",
     "europe/poland/warminsko-mazurskie",
     "europe/portugal",
+    "europe/serbia",
     "europe/slovenia",
     "europe/spain/aragon",
     "europe/spain/asturias",
@@ -86,6 +90,7 @@
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/quebec",
+    "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/colorado",
     "north-america/us/maine",
@@ -99,26 +104,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/czech-republic/zlinsky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/zlinsky-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/arkansas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/arkansas-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/guangxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/guangxi-latest.osm.pbf"
-    },
-    {
-      "id": "europe/serbia",
-      "pbf_url": "https://download.geofabrik.de/europe/serbia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/yemen",
-      "pbf_url": "https://download.geofabrik.de/asia/yemen-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/cornwall",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cornwall-latest.osm.pbf"
