@@ -18,9 +18,11 @@
     "asia/china/shaanxi",
     "asia/china/tianjin",
     "asia/china/tibet",
+    "asia/china/yunnan",
     "asia/china/zhejiang",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
+    "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/indonesia/sulawesi",
@@ -84,6 +86,7 @@
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
+    "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/england/cornwall",
@@ -99,6 +102,7 @@
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
+    "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/england/wiltshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -116,6 +120,7 @@
     "north-america/us/california/socal",
     "north-america/us/florida",
     "north-america/us/louisiana",
+    "north-america/us/north-carolina",
     "north-america/us/north-dakota",
     "north-america/us/texas",
     "north-america/us/washington",
@@ -129,26 +134,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/india/southern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/southern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/yunnan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/yunnan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/switzerland",
-      "pbf_url": "https://download.geofabrik.de/europe/switzerland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/west-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-yorkshire-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/north-carolina",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/north-carolina-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/micronesia",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/micronesia-latest.osm.pbf"
