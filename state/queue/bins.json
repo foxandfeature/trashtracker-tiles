@@ -7,6 +7,7 @@
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/malawi",
+    "africa/rwanda",
     "africa/somalia",
     "africa/tanzania",
     "asia/china/jiangxi",
@@ -49,9 +50,11 @@
     "europe/poland/podkarpackie",
     "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
+    "europe/portugal",
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/ukraine",
+    "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -60,6 +63,8 @@
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/us/california/norcal",
+    "north-america/us/colorado",
+    "north-america/us/maine",
     "north-america/us/washington",
     "north-america/us/wisconsin",
     "russia/south-fed-district",
@@ -69,26 +74,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/essex",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/essex-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/colorado",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/colorado-latest.osm.pbf"
-    },
-    {
-      "id": "europe/portugal",
-      "pbf_url": "https://download.geofabrik.de/europe/portugal-latest.osm.pbf"
-    },
-    {
-      "id": "africa/rwanda",
-      "pbf_url": "https://download.geofabrik.de/africa/rwanda-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/maine",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/maine-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/tyne-and-wear",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/tyne-and-wear-latest.osm.pbf"
