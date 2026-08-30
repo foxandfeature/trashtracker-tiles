@@ -96,6 +96,7 @@
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/victoria",
     "australia-oceania/fiji",
+    "australia-oceania/ile-de-clipperton",
     "australia-oceania/micronesia",
     "australia-oceania/nauru",
     "australia-oceania/new-zealand",
@@ -111,6 +112,7 @@
     "europe/albania",
     "europe/andorra",
     "europe/austria",
+    "europe/azores",
     "europe/belarus",
     "europe/belgium",
     "europe/bosnia-herzegovina",
@@ -145,6 +147,7 @@
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
     "europe/france/limousin",
+    "europe/france/lorraine",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
@@ -160,6 +163,7 @@
     "europe/germany/bayern/niederbayern",
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
+    "europe/germany/bayern/schwaben",
     "europe/germany/berlin",
     "europe/germany/brandenburg",
     "europe/germany/hessen",
@@ -246,6 +250,7 @@
     "europe/united-kingdom/england/bedfordshire",
     "europe/united-kingdom/england/berkshire",
     "europe/united-kingdom/england/bristol",
+    "europe/united-kingdom/england/buckinghamshire",
     "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/cumbria",
@@ -354,26 +359,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/buckinghamshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/buckinghamshire-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/ile-de-clipperton",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/ile-de-clipperton-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/lorraine",
-      "pbf_url": "https://download.geofabrik.de/europe/france/lorraine-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/schwaben",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/schwaben-latest.osm.pbf"
-    },
-    {
-      "id": "europe/azores",
-      "pbf_url": "https://download.geofabrik.de/europe/azores-latest.osm.pbf"
-    },
     {
       "id": "africa/malawi",
       "pbf_url": "https://download.geofabrik.de/africa/malawi-latest.osm.pbf"
