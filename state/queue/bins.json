@@ -7,6 +7,7 @@
     "africa/cameroon",
     "africa/chad",
     "africa/congo-democratic-republic",
+    "africa/ethiopia",
     "africa/ivory-coast",
     "africa/malawi",
     "africa/niger",
@@ -24,6 +25,7 @@
     "asia/india/north-eastern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
+    "asia/indonesia/kalimantan",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/japan/chubu",
@@ -45,6 +47,7 @@
     "europe/czech-republic/ustecky",
     "europe/czech-republic/zlinsky",
     "europe/france/alsace",
+    "europe/france/champagne-ardenne",
     "europe/france/ile-de-france",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
@@ -68,6 +71,7 @@
     "europe/poland/pomorskie",
     "europe/poland/swietokrzyskie",
     "europe/poland/warminsko-mazurskie",
+    "europe/poland/wielkopolskie",
     "europe/portugal",
     "europe/serbia",
     "europe/slovenia",
@@ -83,6 +87,7 @@
     "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
+    "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/newfoundland-and-labrador",
@@ -104,26 +109,6 @@
     "south-america/paraguay"
   ],
   "remaining": [
-    {
-      "id": "asia/indonesia/kalimantan",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/kalimantan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/wielkopolskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/wielkopolskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/champagne-ardenne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/champagne-ardenne-latest.osm.pbf"
-    },
-    {
-      "id": "africa/ethiopia",
-      "pbf_url": "https://download.geofabrik.de/africa/ethiopia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/interior-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/interior-admreg-latest.osm.pbf"
-    },
     {
       "id": "central-america/costa-rica",
       "pbf_url": "https://download.geofabrik.de/central-america/costa-rica-latest.osm.pbf"
