@@ -38,6 +38,7 @@
     "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
+    "africa/togo",
     "africa/tunisia",
     "africa/uganda",
     "africa/zambia",
@@ -241,6 +242,8 @@
     "europe/latvia",
     "europe/liechtenstein",
     "europe/lithuania",
+    "europe/luxembourg",
+    "europe/malta",
     "europe/moldova",
     "europe/montenegro",
     "europe/netherlands/drenthe",
@@ -346,7 +349,9 @@
     "north-america/canada/alberta",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/island-admreg",
+    "north-america/canada/british-columbia/kootenay-admreg",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/british-columbia/okanagan-admreg",
     "north-america/canada/british-columbia/southcoast-admreg",
     "north-america/canada/manitoba",
     "north-america/canada/new-brunswick",
@@ -439,26 +444,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/togo",
-      "pbf_url": "https://download.geofabrik.de/africa/togo-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/okanagan-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/okanagan-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/kootenay-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/kootenay-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/luxembourg",
-      "pbf_url": "https://download.geofabrik.de/europe/luxembourg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/malta",
-      "pbf_url": "https://download.geofabrik.de/europe/malta-latest.osm.pbf"
-    },
     {
       "id": "africa/congo-brazzaville",
       "pbf_url": "https://download.geofabrik.de/africa/congo-brazzaville-latest.osm.pbf"
