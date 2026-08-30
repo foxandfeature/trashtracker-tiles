@@ -30,6 +30,7 @@
     "asia/china/gansu",
     "asia/china/guangdong",
     "asia/china/guangxi",
+    "asia/china/hubei",
     "asia/china/jiangsu",
     "asia/china/jiangxi",
     "asia/china/qinghai",
@@ -40,6 +41,7 @@
     "asia/china/xinjiang",
     "asia/china/yunnan",
     "asia/china/zhejiang",
+    "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
     "asia/india/southern-zone",
@@ -62,6 +64,7 @@
     "asia/kyrgyzstan",
     "asia/laos",
     "asia/lebanon",
+    "asia/maldives",
     "asia/myanmar",
     "asia/nepal",
     "asia/north-korea",
@@ -102,10 +105,12 @@
     "europe/finland",
     "europe/france/alsace",
     "europe/france/bretagne",
+    "europe/france/centre",
     "europe/france/champagne-ardenne",
     "europe/france/franche-comte",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
+    "europe/france/limousin",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
@@ -259,26 +264,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/hubei",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hubei-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/centre",
-      "pbf_url": "https://download.geofabrik.de/europe/france/centre-latest.osm.pbf"
-    },
-    {
-      "id": "asia/gcc-states",
-      "pbf_url": "https://download.geofabrik.de/asia/gcc-states-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/limousin",
-      "pbf_url": "https://download.geofabrik.de/europe/france/limousin-latest.osm.pbf"
-    },
-    {
-      "id": "asia/maldives",
-      "pbf_url": "https://download.geofabrik.de/asia/maldives-latest.osm.pbf"
-    },
     {
       "id": "africa/madagascar",
       "pbf_url": "https://download.geofabrik.de/africa/madagascar-latest.osm.pbf"
