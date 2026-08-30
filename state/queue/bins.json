@@ -9,6 +9,8 @@
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/ethiopia",
+    "africa/ghana",
+    "africa/guinea-bissau",
     "africa/ivory-coast",
     "africa/malawi",
     "africa/niger",
@@ -55,6 +57,7 @@
     "europe/albania",
     "europe/belarus",
     "europe/czech-republic/liberecky",
+    "europe/czech-republic/ustecky",
     "europe/czech-republic/zlinsky",
     "europe/france/alsace",
     "europe/france/bretagne",
@@ -67,6 +70,7 @@
     "europe/france/picardie",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/germany/bayern/oberfranken",
+    "europe/germany/berlin",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/iceland",
     "europe/italy/nord-ovest",
@@ -126,29 +130,10 @@
     "south-america/brazil/sudeste",
     "south-america/colombia",
     "south-america/guyana",
-    "south-america/paraguay"
+    "south-america/paraguay",
+    "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/ghana",
-      "pbf_url": "https://download.geofabrik.de/africa/ghana-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/venezuela",
-      "pbf_url": "https://download.geofabrik.de/south-america/venezuela-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/ustecky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/ustecky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/berlin",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/berlin-latest.osm.pbf"
-    },
-    {
-      "id": "africa/guinea-bissau",
-      "pbf_url": "https://download.geofabrik.de/africa/guinea-bissau-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/greater-london",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/greater-london-latest.osm.pbf"
