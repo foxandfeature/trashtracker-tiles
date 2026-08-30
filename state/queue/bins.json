@@ -6,6 +6,7 @@
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/guinea-bissau",
+    "africa/morocco",
     "africa/niger",
     "africa/sudan",
     "africa/tanzania",
@@ -23,6 +24,7 @@
     "asia/japan/kansai",
     "asia/jordan",
     "asia/laos",
+    "asia/pakistan",
     "australia-oceania/australia/new-south-wales",
     "central-america/costa-rica",
     "central-america/haiti-and-domrep",
@@ -52,13 +54,16 @@
     "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
     "europe/slovenia",
+    "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
     "europe/ukraine",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/cumbria",
+    "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/durham",
+    "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/suffolk",
@@ -84,26 +89,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/derbyshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/derbyshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/hampshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/hampshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/pakistan",
-      "pbf_url": "https://download.geofabrik.de/asia/pakistan-latest.osm.pbf"
-    },
-    {
-      "id": "africa/morocco",
-      "pbf_url": "https://download.geofabrik.de/africa/morocco-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/pais-vasco",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/pais-vasco-latest.osm.pbf"
-    },
     {
       "id": "europe/isle-of-man",
       "pbf_url": "https://download.geofabrik.de/europe/isle-of-man-latest.osm.pbf"
