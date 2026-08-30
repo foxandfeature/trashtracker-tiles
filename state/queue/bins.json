@@ -8,6 +8,7 @@
     "africa/guinea-bissau",
     "africa/morocco",
     "africa/niger",
+    "africa/nigeria",
     "africa/senegal-and-gambia",
     "africa/sudan",
     "africa/tanzania",
@@ -34,6 +35,7 @@
     "central-america/costa-rica",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
+    "central-america/nicaragua",
     "europe/albania",
     "europe/austria",
     "europe/belgium",
@@ -83,6 +85,7 @@
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/suffolk",
+    "europe/united-kingdom/england/wiltshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/british-columbia/island-admreg",
@@ -94,8 +97,10 @@
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
     "north-america/canada/quebec",
+    "north-america/mexico",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
+    "north-america/us/florida",
     "north-america/us/louisiana",
     "north-america/us/north-dakota",
     "north-america/us/texas",
@@ -109,26 +114,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "central-america/nicaragua",
-      "pbf_url": "https://download.geofabrik.de/central-america/nicaragua-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/florida",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/florida-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/mexico",
-      "pbf_url": "https://download.geofabrik.de/north-america/mexico-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/wiltshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/wiltshire-latest.osm.pbf"
-    },
-    {
-      "id": "africa/nigeria",
-      "pbf_url": "https://download.geofabrik.de/africa/nigeria-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/baden-wuerttemberg/tuebingen-regbez",
       "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/tuebingen-regbez-latest.osm.pbf"
