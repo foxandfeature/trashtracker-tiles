@@ -15,6 +15,7 @@
     "africa/malawi",
     "africa/morocco",
     "africa/niger",
+    "africa/nigeria",
     "africa/rwanda",
     "africa/senegal-and-gambia",
     "africa/somalia",
@@ -65,6 +66,7 @@
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
+    "central-america/nicaragua",
     "europe/albania",
     "europe/austria",
     "europe/belarus",
@@ -89,6 +91,7 @@
     "europe/germany/berlin",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/iceland",
+    "europe/ireland-and-northern-ireland",
     "europe/isle-of-man",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
@@ -130,10 +133,12 @@
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/england/isle-of-wight",
+    "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/tyne-and-wear",
+    "europe/united-kingdom/england/wiltshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/british-columbia/interior-admreg",
@@ -174,26 +179,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/kent",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/kent-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/nicaragua",
-      "pbf_url": "https://download.geofabrik.de/central-america/nicaragua-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/wiltshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/wiltshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/ireland-and-northern-ireland",
-      "pbf_url": "https://download.geofabrik.de/europe/ireland-and-northern-ireland-latest.osm.pbf"
-    },
-    {
-      "id": "africa/nigeria",
-      "pbf_url": "https://download.geofabrik.de/africa/nigeria-latest.osm.pbf"
-    },
     {
       "id": "asia/philippines",
       "pbf_url": "https://download.geofabrik.de/asia/philippines-latest.osm.pbf"
