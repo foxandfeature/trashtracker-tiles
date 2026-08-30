@@ -18,6 +18,7 @@
     "africa/congo-democratic-republic",
     "africa/djibouti",
     "africa/egypt",
+    "africa/equatorial-guinea",
     "africa/eritrea",
     "africa/ethiopia",
     "africa/gabon",
@@ -157,6 +158,7 @@
     "australia-oceania/cook-islands",
     "australia-oceania/fiji",
     "australia-oceania/ile-de-clipperton",
+    "australia-oceania/kiribati",
     "australia-oceania/micronesia",
     "australia-oceania/nauru",
     "australia-oceania/new-caledonia",
@@ -166,6 +168,7 @@
     "australia-oceania/polynesie-francaise",
     "australia-oceania/solomon-islands",
     "australia-oceania/tuvalu",
+    "australia-oceania/vanuatu",
     "australia-oceania/wallis-et-futuna",
     "central-america/bahamas",
     "central-america/belize",
@@ -264,6 +267,7 @@
     "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
     "europe/greece",
+    "europe/guernsey-jersey",
     "europe/hungary",
     "europe/iceland",
     "europe/ireland-and-northern-ireland",
@@ -342,6 +346,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/bermuda",
     "europe/united-kingdom/england/bedfordshire",
     "europe/united-kingdom/england/berkshire",
     "europe/united-kingdom/england/bristol",
@@ -494,26 +499,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/equatorial-guinea",
-      "pbf_url": "https://download.geofabrik.de/africa/equatorial-guinea-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/kiribati",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/kiribati-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/vanuatu",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/vanuatu-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/bermuda",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/bermuda-latest.osm.pbf"
-    },
-    {
-      "id": "europe/guernsey-jersey",
-      "pbf_url": "https://download.geofabrik.de/europe/guernsey-jersey-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/marshall-islands",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/marshall-islands-latest.osm.pbf"
