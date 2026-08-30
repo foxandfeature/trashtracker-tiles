@@ -4,12 +4,15 @@
   "lock": [
     "africa/congo-democratic-republic",
     "africa/tanzania",
+    "asia/china/tibet",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
     "asia/india/western-zone",
     "asia/indonesia/sumatra",
+    "asia/japan/chugoku",
     "australia-oceania/australia/new-south-wales",
     "europe/albania",
+    "europe/czech-republic/ustecky",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
@@ -19,6 +22,7 @@
     "europe/poland/warminsko-mazurskie",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
+    "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/nunavut/kitikmeot",
@@ -26,29 +30,10 @@
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/quebec",
     "north-america/us/california/norcal",
-    "russia/siberian-fed-district"
+    "russia/siberian-fed-district",
+    "south-america/brazil/nordeste"
   ],
   "remaining": [
-    {
-      "id": "asia/china/tibet",
-      "pbf_url": "https://download.geofabrik.de/asia/china/tibet-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/nordeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/nordeste-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/chugoku",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/chugoku-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/ustecky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/ustecky-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/island-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/island-admreg-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/valencia",
       "pbf_url": "https://download.geofabrik.de/europe/spain/valencia-latest.osm.pbf"
