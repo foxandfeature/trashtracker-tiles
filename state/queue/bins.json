@@ -128,12 +128,14 @@
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
     "europe/france/picardie",
+    "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/tuebingen-regbez",
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
+    "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/schleswig-holstein",
@@ -182,18 +184,21 @@
     "europe/poland/wielkopolskie",
     "europe/poland/zachodniopomorskie",
     "europe/portugal",
+    "europe/romania",
     "europe/serbia",
     "europe/slovakia",
     "europe/slovenia",
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/spain/cantabria",
+    "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
     "europe/spain/extremadura",
     "europe/spain/islas-baleares",
     "europe/spain/la-rioja",
     "europe/spain/madrid",
+    "europe/spain/murcia",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
@@ -289,26 +294,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/romania",
-      "pbf_url": "https://download.geofabrik.de/europe/romania-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/castilla-la-mancha",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/castilla-la-mancha-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/poitou-charentes",
-      "pbf_url": "https://download.geofabrik.de/europe/france/poitou-charentes-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/hessen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/hessen-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/murcia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/murcia-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/ohio",
       "pbf_url": "https://download.geofabrik.de/north-america/us/ohio-latest.osm.pbf"
