@@ -117,6 +117,7 @@
     "europe/france/alsace",
     "europe/france/aquitaine",
     "europe/france/basse-normandie",
+    "europe/france/bourgogne",
     "europe/france/bretagne",
     "europe/france/centre",
     "europe/france/champagne-ardenne",
@@ -124,6 +125,7 @@
     "europe/france/franche-comte",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
+    "europe/france/languedoc-roussillon",
     "europe/france/limousin",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
@@ -139,6 +141,7 @@
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
+    "europe/greece",
     "europe/hungary",
     "europe/iceland",
     "europe/ireland-and-northern-ireland",
@@ -163,6 +166,7 @@
     "europe/norway/ostlandet",
     "europe/norway/sorlandet",
     "europe/norway/trondelag",
+    "europe/norway/vestlandet",
     "europe/poland/dolnoslaskie",
     "europe/poland/kujawsko-pomorskie",
     "europe/poland/lodzkie",
@@ -253,6 +257,7 @@
     "north-america/us/louisiana",
     "north-america/us/maine",
     "north-america/us/massachusetts",
+    "north-america/us/michigan",
     "north-america/us/nebraska",
     "north-america/us/new-jersey",
     "north-america/us/new-york",
@@ -284,26 +289,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/greece",
-      "pbf_url": "https://download.geofabrik.de/europe/greece-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/michigan",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/michigan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/bourgogne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/bourgogne-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/languedoc-roussillon",
-      "pbf_url": "https://download.geofabrik.de/europe/france/languedoc-roussillon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/vestlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/vestlandet-latest.osm.pbf"
-    },
     {
       "id": "asia/malaysia-singapore-brunei",
       "pbf_url": "https://download.geofabrik.de/asia/malaysia-singapore-brunei-latest.osm.pbf"
