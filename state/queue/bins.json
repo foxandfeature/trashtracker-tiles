@@ -5,6 +5,7 @@
     "africa/algeria",
     "africa/angola",
     "africa/botswana",
+    "africa/burkina-faso",
     "africa/cameroon",
     "africa/central-african-republic",
     "africa/chad",
@@ -13,6 +14,7 @@
     "africa/ethiopia",
     "africa/ghana",
     "africa/guinea",
+    "africa/ivory-coast",
     "africa/kenya",
     "africa/lesotho",
     "africa/madagascar",
@@ -77,6 +79,7 @@
     "australia-oceania/new-zealand",
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
+    "central-america/honduras",
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
@@ -162,6 +165,7 @@
     "europe/poland/slaskie",
     "europe/poland/swietokrzyskie",
     "europe/poland/wielkopolskie",
+    "europe/poland/zachodniopomorskie",
     "europe/portugal",
     "europe/romania",
     "europe/serbia",
@@ -217,6 +221,7 @@
     "north-america/us/michigan",
     "north-america/us/minnesota",
     "north-america/us/missouri",
+    "north-america/us/montana",
     "north-america/us/nebraska",
     "north-america/us/nevada",
     "north-america/us/new-jersey",
@@ -259,26 +264,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/montana",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/montana-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/zachodniopomorskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/zachodniopomorskie-latest.osm.pbf"
-    },
-    {
-      "id": "africa/burkina-faso",
-      "pbf_url": "https://download.geofabrik.de/africa/burkina-faso-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/honduras",
-      "pbf_url": "https://download.geofabrik.de/central-america/honduras-latest.osm.pbf"
-    },
-    {
-      "id": "africa/ivory-coast",
-      "pbf_url": "https://download.geofabrik.de/africa/ivory-coast-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/madrid",
       "pbf_url": "https://download.geofabrik.de/europe/spain/madrid-latest.osm.pbf"
