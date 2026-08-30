@@ -77,6 +77,7 @@
     "asia/yemen",
     "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/australia/victoria",
     "australia-oceania/fiji",
     "australia-oceania/micronesia",
     "australia-oceania/nauru",
@@ -134,6 +135,7 @@
     "europe/germany/brandenburg",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
+    "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/rheinland-pfalz",
     "europe/germany/saarland",
@@ -162,6 +164,7 @@
     "europe/netherlands/noord-brabant",
     "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
+    "europe/netherlands/utrecht",
     "europe/netherlands/zeeland",
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
@@ -264,6 +267,7 @@
     "north-america/us/minnesota",
     "north-america/us/nebraska",
     "north-america/us/new-jersey",
+    "north-america/us/new-mexico",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
@@ -284,6 +288,7 @@
     "russia/volga-fed-district",
     "south-america/argentina",
     "south-america/bolivia",
+    "south-america/brazil/centro-oeste",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
@@ -294,26 +299,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "south-america/brazil/centro-oeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/centro-oeste-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-mexico",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-mexico-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/utrecht",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/utrecht-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/victoria",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/victoria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/duesseldorf-regbez-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/essex",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/essex-latest.osm.pbf"
