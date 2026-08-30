@@ -8,6 +8,7 @@
     "africa/niger",
     "africa/sudan",
     "africa/tanzania",
+    "asia/china/shaanxi",
     "asia/china/tibet",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
@@ -18,7 +19,9 @@
     "asia/japan/kansai",
     "asia/laos",
     "australia-oceania/australia/new-south-wales",
+    "central-america/costa-rica",
     "europe/albania",
+    "europe/austria",
     "europe/czech-republic/ustecky",
     "europe/france/champagne-ardenne",
     "europe/france/pays-de-la-loire",
@@ -27,6 +30,7 @@
     "europe/germany/bayern/oberfranken",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/italy/sud",
+    "europe/netherlands/limburg",
     "europe/norway/nord-norge",
     "europe/norway/trondelag",
     "europe/poland/dolnoslaskie",
@@ -38,6 +42,7 @@
     "europe/spain/valencia",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/leicestershire",
+    "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/british-columbia/island-admreg",
@@ -54,26 +59,6 @@
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "central-america/costa-rica",
-      "pbf_url": "https://download.geofabrik.de/central-america/costa-rica-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/oxfordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/oxfordshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/austria",
-      "pbf_url": "https://download.geofabrik.de/europe/austria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/limburg",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/limburg-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/shaanxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/shaanxi-latest.osm.pbf"
-    },
     {
       "id": "asia/china/tianjin",
       "pbf_url": "https://download.geofabrik.de/asia/china/tianjin-latest.osm.pbf"
