@@ -2,6 +2,7 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/algeria",
     "africa/cameroon",
     "africa/chad",
     "africa/congo-democratic-republic",
@@ -22,11 +23,13 @@
     "asia/myanmar",
     "asia/south-korea",
     "australia-oceania/australia/new-south-wales",
+    "europe/albania",
     "europe/belarus",
     "europe/czech-republic/ustecky",
     "europe/france/alsace",
     "europe/france/ile-de-france",
     "europe/france/midi-pyrenees",
+    "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/germany/bayern/oberfranken",
@@ -40,6 +43,7 @@
     "europe/poland/opolskie",
     "europe/poland/podkarpackie",
     "europe/poland/warminsko-mazurskie",
+    "europe/portugal",
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/spain/valencia",
@@ -51,6 +55,7 @@
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/us/california/norcal",
+    "north-america/us/colorado",
     "north-america/us/washington",
     "north-america/us/wisconsin",
     "south-america/bolivia",
@@ -59,26 +64,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/albania",
-      "pbf_url": "https://download.geofabrik.de/europe/albania-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/colorado",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/colorado-latest.osm.pbf"
-    },
-    {
-      "id": "africa/algeria",
-      "pbf_url": "https://download.geofabrik.de/africa/algeria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/nord-pas-de-calais",
-      "pbf_url": "https://download.geofabrik.de/europe/france/nord-pas-de-calais-latest.osm.pbf"
-    },
-    {
-      "id": "europe/portugal",
-      "pbf_url": "https://download.geofabrik.de/europe/portugal-latest.osm.pbf"
-    },
     {
       "id": "africa/rwanda",
       "pbf_url": "https://download.geofabrik.de/africa/rwanda-latest.osm.pbf"
