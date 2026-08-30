@@ -66,6 +66,7 @@
     "asia/indonesia/java",
     "asia/indonesia/kalimantan",
     "asia/indonesia/maluku",
+    "asia/indonesia/nusa-tenggara",
     "asia/indonesia/papua",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
@@ -73,6 +74,7 @@
     "asia/iraq",
     "asia/japan/chubu",
     "asia/japan/chugoku",
+    "asia/japan/hokkaido",
     "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/japan/kyushu",
@@ -120,6 +122,7 @@
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
+    "europe/croatia",
     "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/karlovarsky",
@@ -271,6 +274,7 @@
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/rutland",
     "europe/united-kingdom/england/somerset",
+    "europe/united-kingdom/england/south-yorkshire",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/england/west-midlands",
@@ -327,6 +331,7 @@
     "north-america/us/south-carolina",
     "north-america/us/tennessee",
     "north-america/us/texas",
+    "north-america/us/utah",
     "north-america/us/virginia",
     "north-america/us/washington",
     "north-america/us/wisconsin",
@@ -354,26 +359,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/croatia",
-      "pbf_url": "https://download.geofabrik.de/europe/croatia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/utah",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/utah-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/hokkaido",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/hokkaido-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/nusa-tenggara",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/nusa-tenggara-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/south-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/south-yorkshire-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/sachsen-anhalt",
       "pbf_url": "https://download.geofabrik.de/europe/germany/sachsen-anhalt-latest.osm.pbf"
