@@ -8,6 +8,7 @@
     "africa/cameroon",
     "africa/chad",
     "africa/congo-democratic-republic",
+    "africa/egypt",
     "africa/guinea-bissau",
     "africa/kenya",
     "africa/lesotho",
@@ -57,6 +58,7 @@
     "asia/indonesia/java",
     "asia/indonesia/kalimantan",
     "asia/indonesia/maluku",
+    "asia/indonesia/nusa-tenggara",
     "asia/indonesia/papua",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
@@ -107,6 +109,7 @@
     "europe/belarus",
     "europe/belgium",
     "europe/bosnia-herzegovina",
+    "europe/bulgaria",
     "europe/croatia",
     "europe/cyprus",
     "europe/czech-republic/jihocesky",
@@ -267,6 +270,7 @@
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
+    "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/kootenay-admreg",
     "north-america/canada/british-columbia/north-admreg",
@@ -306,6 +310,7 @@
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
     "north-america/us/ohio",
+    "north-america/us/oklahoma",
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
     "north-america/us/tennessee",
@@ -334,26 +339,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/oklahoma",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/oklahoma-latest.osm.pbf"
-    },
-    {
-      "id": "europe/bulgaria",
-      "pbf_url": "https://download.geofabrik.de/europe/bulgaria-latest.osm.pbf"
-    },
-    {
-      "id": "africa/egypt",
-      "pbf_url": "https://download.geofabrik.de/africa/egypt-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/interior-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/interior-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/nusa-tenggara",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/nusa-tenggara-latest.osm.pbf"
-    },
     {
       "id": "asia/china/guangdong",
       "pbf_url": "https://download.geofabrik.de/asia/china/guangdong-latest.osm.pbf"
