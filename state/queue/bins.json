@@ -9,6 +9,7 @@
     "africa/central-african-republic",
     "africa/chad",
     "africa/congo-democratic-republic",
+    "africa/egypt",
     "africa/ethiopia",
     "africa/ghana",
     "africa/guinea-bissau",
@@ -17,6 +18,7 @@
     "africa/lesotho",
     "africa/madagascar",
     "africa/malawi",
+    "africa/mali",
     "africa/morocco",
     "africa/mozambique",
     "africa/niger",
@@ -106,6 +108,7 @@
     "australia-oceania/papua-new-guinea",
     "australia-oceania/pitcairn-islands",
     "australia-oceania/tuvalu",
+    "central-america/belize",
     "central-america/costa-rica",
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
@@ -146,6 +149,7 @@
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
     "europe/france/limousin",
+    "europe/france/lorraine",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
@@ -320,6 +324,7 @@
     "north-america/us/ohio",
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
+    "north-america/us/south-carolina",
     "north-america/us/tennessee",
     "north-america/us/texas",
     "north-america/us/virginia",
@@ -349,26 +354,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/egypt",
-      "pbf_url": "https://download.geofabrik.de/africa/egypt-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/lorraine",
-      "pbf_url": "https://download.geofabrik.de/europe/france/lorraine-latest.osm.pbf"
-    },
-    {
-      "id": "africa/mali",
-      "pbf_url": "https://download.geofabrik.de/africa/mali-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/south-carolina",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/south-carolina-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/belize",
-      "pbf_url": "https://download.geofabrik.de/central-america/belize-latest.osm.pbf"
-    },
     {
       "id": "europe/croatia",
       "pbf_url": "https://download.geofabrik.de/europe/croatia-latest.osm.pbf"
