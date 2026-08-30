@@ -33,8 +33,10 @@
     "asia/china/tianjin",
     "asia/china/tibet",
     "asia/china/xinjiang",
+    "asia/china/zhejiang",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
+    "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/indonesia/kalimantan",
@@ -117,6 +119,7 @@
     "europe/poland/swietokrzyskie",
     "europe/poland/warminsko-mazurskie",
     "europe/poland/wielkopolskie",
+    "europe/poland/zachodniopomorskie",
     "europe/portugal",
     "europe/serbia",
     "europe/slovenia",
@@ -126,6 +129,7 @@
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
+    "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/england/cheshire",
     "europe/united-kingdom/england/cornwall",
@@ -136,6 +140,7 @@
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
+    "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/oxfordshire",
@@ -184,26 +189,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/india/southern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/southern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "europe/turkey",
-      "pbf_url": "https://download.geofabrik.de/europe/turkey-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/zhejiang",
-      "pbf_url": "https://download.geofabrik.de/asia/china/zhejiang-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/hampshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/hampshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/zachodniopomorskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/zachodniopomorskie-latest.osm.pbf"
-    },
     {
       "id": "asia/china/jiangsu",
       "pbf_url": "https://download.geofabrik.de/asia/china/jiangsu-latest.osm.pbf"
