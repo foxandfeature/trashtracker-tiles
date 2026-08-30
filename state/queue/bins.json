@@ -41,6 +41,7 @@
     "asia/china/xinjiang",
     "asia/china/yunnan",
     "asia/china/zhejiang",
+    "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
     "asia/india/southern-zone",
@@ -96,6 +97,7 @@
     "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/liberecky",
     "europe/czech-republic/olomoucky",
+    "europe/czech-republic/pardubicky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/zlinsky",
     "europe/denmark",
@@ -103,6 +105,7 @@
     "europe/france/alsace",
     "europe/france/bretagne",
     "europe/france/champagne-ardenne",
+    "europe/france/corse",
     "europe/france/franche-comte",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
@@ -123,6 +126,7 @@
     "europe/iceland",
     "europe/ireland-and-northern-ireland",
     "europe/isle-of-man",
+    "europe/italy/centro",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
@@ -182,6 +186,7 @@
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
+    "europe/united-kingdom/england/greater-manchester",
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/kent",
@@ -249,26 +254,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/czech-republic/pardubicky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/pardubicky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/centro",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/centro-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/corse",
-      "pbf_url": "https://download.geofabrik.de/europe/france/corse-latest.osm.pbf"
-    },
-    {
-      "id": "asia/gcc-states",
-      "pbf_url": "https://download.geofabrik.de/asia/gcc-states-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/greater-manchester",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/greater-manchester-latest.osm.pbf"
-    },
     {
       "id": "africa/uganda",
       "pbf_url": "https://download.geofabrik.de/africa/uganda-latest.osm.pbf"
