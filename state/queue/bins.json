@@ -8,6 +8,7 @@
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/ethiopia",
+    "africa/guinea-bissau",
     "africa/ivory-coast",
     "africa/malawi",
     "africa/niger",
@@ -40,6 +41,7 @@
     "asia/south-korea",
     "asia/yemen",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/australia/victoria",
     "australia-oceania/papua-new-guinea",
     "central-america/costa-rica",
     "central-america/honduras",
@@ -55,6 +57,7 @@
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
+    "europe/france/picardie",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
@@ -81,12 +84,14 @@
     "europe/spain/cantabria",
     "europe/ukraine",
     "europe/united-kingdom/england/cornwall",
+    "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/dorset",
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/oxfordshire",
+    "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -114,26 +119,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/guinea-bissau",
-      "pbf_url": "https://download.geofabrik.de/africa/guinea-bissau-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/picardie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/picardie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/suffolk",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/suffolk-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/victoria",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/victoria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/cumbria",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cumbria-latest.osm.pbf"
-    },
     {
       "id": "asia/turkmenistan",
       "pbf_url": "https://download.geofabrik.de/asia/turkmenistan-latest.osm.pbf"
