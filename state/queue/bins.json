@@ -10,6 +10,7 @@
     "africa/ethiopia",
     "africa/kenya",
     "africa/madagascar",
+    "africa/malawi",
     "africa/mali",
     "africa/morocco",
     "africa/mozambique",
@@ -19,6 +20,7 @@
     "africa/tanzania",
     "africa/uganda",
     "africa/zambia",
+    "africa/zimbabwe",
     "asia/bangladesh",
     "asia/gcc-states",
     "asia/india/central-zone",
@@ -58,6 +60,7 @@
     "europe/czech-republic/stredocesky",
     "europe/denmark",
     "europe/finland",
+    "europe/france/alsace",
     "europe/france/aquitaine",
     "europe/france/basse-normandie",
     "europe/france/bourgogne",
@@ -72,6 +75,7 @@
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/germany/baden-wuerttemberg/freiburg-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/bayern/oberbayern",
     "europe/germany/brandenburg",
@@ -107,6 +111,7 @@
     "europe/poland/lodzkie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
+    "europe/poland/slaskie",
     "europe/poland/wielkopolskie",
     "europe/portugal",
     "europe/romania",
@@ -184,26 +189,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "africa/zimbabwe",
-      "pbf_url": "https://download.geofabrik.de/africa/zimbabwe-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/slaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/slaskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/baden-wuerttemberg/freiburg-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/freiburg-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "africa/malawi",
-      "pbf_url": "https://download.geofabrik.de/africa/malawi-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/alsace",
-      "pbf_url": "https://download.geofabrik.de/europe/france/alsace-latest.osm.pbf"
-    },
     {
       "id": "asia/china/guangdong",
       "pbf_url": "https://download.geofabrik.de/asia/china/guangdong-latest.osm.pbf"
