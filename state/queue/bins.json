@@ -112,6 +112,7 @@
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
+    "australia-oceania/australia/western-australia",
     "australia-oceania/fiji",
     "australia-oceania/ile-de-clipperton",
     "australia-oceania/micronesia",
@@ -175,6 +176,7 @@
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/georgia",
     "europe/germany/baden-wuerttemberg/freiburg-regbez",
     "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
@@ -186,6 +188,7 @@
     "europe/germany/bayern/schwaben",
     "europe/germany/berlin",
     "europe/germany/brandenburg",
+    "europe/germany/bremen",
     "europe/germany/hessen",
     "europe/germany/mecklenburg-vorpommern",
     "europe/germany/niedersachsen",
@@ -297,6 +300,7 @@
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/northamptonshire",
+    "europe/united-kingdom/england/northumberland",
     "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/rutland",
@@ -390,30 +394,11 @@
     "south-america/guyana",
     "south-america/paraguay",
     "south-america/peru",
+    "south-america/suriname",
     "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "south-america/suriname",
-      "pbf_url": "https://download.geofabrik.de/south-america/suriname-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bremen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bremen-latest.osm.pbf"
-    },
-    {
-      "id": "europe/georgia",
-      "pbf_url": "https://download.geofabrik.de/europe/georgia-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/western-australia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/western-australia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/northumberland",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/northumberland-latest.osm.pbf"
-    },
     {
       "id": "asia/china/fujian",
       "pbf_url": "https://download.geofabrik.de/asia/china/fujian-latest.osm.pbf"
