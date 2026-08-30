@@ -3,7 +3,9 @@
   "failed": [],
   "lock": [
     "africa/congo-democratic-republic",
+    "africa/malawi",
     "africa/tanzania",
+    "asia/china/jiangxi",
     "asia/china/tibet",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
@@ -16,6 +18,7 @@
     "asia/japan/kyushu",
     "asia/japan/shikoku",
     "asia/myanmar",
+    "asia/south-korea",
     "australia-oceania/australia/new-south-wales",
     "europe/czech-republic/ustecky",
     "europe/france/alsace",
@@ -23,6 +26,7 @@
     "europe/france/midi-pyrenees",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
+    "europe/germany/bayern/oberfranken",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/italy/sud",
     "europe/moldova",
@@ -31,6 +35,7 @@
     "europe/poland/lubelskie",
     "europe/poland/mazowieckie",
     "europe/spain/aragon",
+    "europe/spain/asturias",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/scotland",
     "north-america/canada/british-columbia/north-admreg",
@@ -44,26 +49,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/bayern/oberfranken",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberfranken-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/asturias",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/asturias-latest.osm.pbf"
-    },
-    {
-      "id": "africa/malawi",
-      "pbf_url": "https://download.geofabrik.de/africa/malawi-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/jiangxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/jiangxi-latest.osm.pbf"
-    },
-    {
-      "id": "asia/south-korea",
-      "pbf_url": "https://download.geofabrik.de/asia/south-korea-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/warminsko-mazurskie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/warminsko-mazurskie-latest.osm.pbf"
