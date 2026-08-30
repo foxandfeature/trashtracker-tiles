@@ -44,6 +44,7 @@
     "africa/zambia",
     "africa/zimbabwe",
     "asia/afghanistan",
+    "asia/armenia",
     "asia/azerbaijan",
     "asia/bangladesh",
     "asia/china/beijing",
@@ -242,6 +243,7 @@
     "europe/latvia",
     "europe/liechtenstein",
     "europe/lithuania",
+    "europe/luxembourg",
     "europe/moldova",
     "europe/montenegro",
     "europe/netherlands/drenthe",
@@ -304,6 +306,7 @@
     "europe/united-kingdom/england/bedfordshire",
     "europe/united-kingdom/england/berkshire",
     "europe/united-kingdom/england/bristol",
+    "europe/united-kingdom/england/buckinghamshire",
     "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cheshire",
     "europe/united-kingdom/england/cornwall",
@@ -347,7 +350,9 @@
     "north-america/canada/alberta",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/island-admreg",
+    "north-america/canada/british-columbia/kootenay-admreg",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/british-columbia/okanagan-admreg",
     "north-america/canada/british-columbia/southcoast-admreg",
     "north-america/canada/manitoba",
     "north-america/canada/new-brunswick",
@@ -439,26 +444,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/british-columbia/kootenay-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/kootenay-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "asia/armenia",
-      "pbf_url": "https://download.geofabrik.de/asia/armenia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/buckinghamshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/buckinghamshire-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/okanagan-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/okanagan-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/luxembourg",
-      "pbf_url": "https://download.geofabrik.de/europe/luxembourg-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/vermont",
       "pbf_url": "https://download.geofabrik.de/north-america/us/vermont-latest.osm.pbf"
