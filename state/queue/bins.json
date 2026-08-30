@@ -16,6 +16,7 @@
     "africa/somalia",
     "africa/sudan",
     "africa/tanzania",
+    "asia/afghanistan",
     "asia/china/beijing",
     "asia/china/guangdong",
     "asia/china/guangxi",
@@ -54,6 +55,7 @@
     "central-america/guatemala",
     "central-america/honduras",
     "europe/albania",
+    "europe/austria",
     "europe/belarus",
     "europe/czech-republic/liberecky",
     "europe/czech-republic/ustecky",
@@ -115,12 +117,14 @@
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
+    "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/colorado",
     "north-america/us/maine",
     "north-america/us/nebraska",
+    "north-america/us/north-dakota",
     "north-america/us/washington",
     "north-america/us/wisconsin",
     "russia/central-fed-district",
@@ -131,29 +135,10 @@
     "south-america/brazil/norte",
     "south-america/brazil/sudeste",
     "south-america/colombia",
+    "south-america/guyana",
     "south-america/paraguay"
   ],
   "remaining": [
-    {
-      "id": "south-america/guyana",
-      "pbf_url": "https://download.geofabrik.de/south-america/guyana-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/ontario",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/ontario-latest.osm.pbf"
-    },
-    {
-      "id": "asia/afghanistan",
-      "pbf_url": "https://download.geofabrik.de/asia/afghanistan-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/north-dakota",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/north-dakota-latest.osm.pbf"
-    },
-    {
-      "id": "europe/austria",
-      "pbf_url": "https://download.geofabrik.de/europe/austria-latest.osm.pbf"
-    },
     {
       "id": "africa/ghana",
       "pbf_url": "https://download.geofabrik.de/africa/ghana-latest.osm.pbf"
