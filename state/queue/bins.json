@@ -20,6 +20,7 @@
     "africa/rwanda",
     "africa/senegal-and-gambia",
     "africa/somalia",
+    "africa/south-africa",
     "africa/sudan",
     "africa/tanzania",
     "asia/afghanistan",
@@ -106,6 +107,7 @@
     "europe/germany/baden-wuerttemberg/tuebingen-regbez",
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
+    "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/thueringen",
     "europe/iceland",
@@ -120,6 +122,7 @@
     "europe/netherlands/groningen",
     "europe/netherlands/limburg",
     "europe/netherlands/overijssel",
+    "europe/norway/ostlandet",
     "europe/norway/trondelag",
     "europe/poland/dolnoslaskie",
     "europe/poland/kujawsko-pomorskie",
@@ -142,6 +145,7 @@
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/spain/cantabria",
+    "europe/spain/extremadura",
     "europe/spain/islas-baleares",
     "europe/spain/la-rioja",
     "europe/spain/pais-vasco",
@@ -192,6 +196,7 @@
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
     "north-america/us/colorado",
+    "north-america/us/delaware",
     "north-america/us/florida",
     "north-america/us/louisiana",
     "north-america/us/maine",
@@ -219,26 +224,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/niedersachsen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/niedersachsen-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/ostlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/ostlandet-latest.osm.pbf"
-    },
-    {
-      "id": "africa/south-africa",
-      "pbf_url": "https://download.geofabrik.de/africa/south-africa-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/delaware",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/delaware-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/extremadura",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/extremadura-latest.osm.pbf"
-    },
     {
       "id": "europe/netherlands/drenthe",
       "pbf_url": "https://download.geofabrik.de/europe/netherlands/drenthe-latest.osm.pbf"
