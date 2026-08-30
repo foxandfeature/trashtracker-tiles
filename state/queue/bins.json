@@ -20,6 +20,7 @@
     "asia/afghanistan",
     "asia/china/gansu",
     "asia/china/heilongjiang",
+    "asia/china/hubei",
     "asia/china/jiangsu",
     "asia/china/jilin",
     "asia/china/shaanxi",
@@ -45,6 +46,7 @@
     "asia/kazakhstan",
     "asia/laos",
     "asia/lebanon",
+    "asia/maldives",
     "asia/nepal",
     "asia/pakistan",
     "asia/philippines",
@@ -77,6 +79,7 @@
     "europe/france/champagne-ardenne",
     "europe/france/franche-comte",
     "europe/france/haute-normandie",
+    "europe/france/limousin",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
     "europe/france/picardie",
@@ -126,6 +129,7 @@
     "europe/slovenia",
     "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
+    "europe/spain/castilla-y-leon",
     "europe/spain/extremadura",
     "europe/spain/islas-baleares",
     "europe/spain/la-rioja",
@@ -200,30 +204,11 @@
     "south-america/bolivia",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
+    "south-america/brazil/sul",
     "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/hubei",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hubei-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/limousin",
-      "pbf_url": "https://download.geofabrik.de/europe/france/limousin-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/sul",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/sul-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/castilla-y-leon",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/castilla-y-leon-latest.osm.pbf"
-    },
-    {
-      "id": "asia/maldives",
-      "pbf_url": "https://download.geofabrik.de/asia/maldives-latest.osm.pbf"
-    },
     {
       "id": "asia/bangladesh",
       "pbf_url": "https://download.geofabrik.de/asia/bangladesh-latest.osm.pbf"
