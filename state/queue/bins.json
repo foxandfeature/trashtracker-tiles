@@ -42,6 +42,7 @@
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/fiji",
     "australia-oceania/micronesia",
+    "australia-oceania/new-zealand",
     "central-america/costa-rica",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
@@ -51,6 +52,7 @@
     "europe/austria",
     "europe/belgium",
     "europe/czech-republic/jihomoravsky",
+    "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
     "europe/denmark",
@@ -66,6 +68,7 @@
     "europe/germany/baden-wuerttemberg/tuebingen-regbez",
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
+    "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/iceland",
     "europe/isle-of-man",
@@ -129,6 +132,7 @@
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/new-brunswick",
     "north-america/canada/newfoundland-and-labrador",
+    "north-america/canada/northwest-territories",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
@@ -140,6 +144,7 @@
     "north-america/us/california/socal",
     "north-america/us/florida",
     "north-america/us/louisiana",
+    "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
     "north-america/us/texas",
@@ -154,26 +159,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/czech-republic/kralovehradecky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/kralovehradecky-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/new-zealand",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/new-zealand-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/niedersachsen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/niedersachsen-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/northwest-territories",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/northwest-territories-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-york",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-york-latest.osm.pbf"
-    },
     {
       "id": "europe/czech-republic/praha",
       "pbf_url": "https://download.geofabrik.de/europe/czech-republic/praha-latest.osm.pbf"
