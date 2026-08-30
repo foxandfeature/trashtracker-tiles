@@ -6,11 +6,13 @@
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/niger",
+    "africa/sudan",
     "africa/tanzania",
     "asia/china/tibet",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
     "asia/india/western-zone",
+    "asia/indonesia/java",
     "asia/indonesia/sumatra",
     "asia/japan/chugoku",
     "asia/japan/kansai",
@@ -18,6 +20,7 @@
     "australia-oceania/australia/new-south-wales",
     "europe/albania",
     "europe/czech-republic/ustecky",
+    "europe/france/champagne-ardenne",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
@@ -26,8 +29,10 @@
     "europe/italy/sud",
     "europe/norway/nord-norge",
     "europe/norway/trondelag",
+    "europe/poland/dolnoslaskie",
     "europe/poland/malopolskie",
     "europe/poland/opolskie",
+    "europe/poland/podlaskie",
     "europe/poland/warminsko-mazurskie",
     "europe/slovenia",
     "europe/spain/valencia",
@@ -49,26 +54,6 @@
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "europe/poland/podlaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/podlaskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/dolnoslaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/dolnoslaskie-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/java",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/java-latest.osm.pbf"
-    },
-    {
-      "id": "africa/sudan",
-      "pbf_url": "https://download.geofabrik.de/africa/sudan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/champagne-ardenne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/champagne-ardenne-latest.osm.pbf"
-    },
     {
       "id": "central-america/costa-rica",
       "pbf_url": "https://download.geofabrik.de/central-america/costa-rica-latest.osm.pbf"
