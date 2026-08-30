@@ -11,10 +11,12 @@
     "africa/niger",
     "africa/rwanda",
     "africa/somalia",
+    "africa/sudan",
     "africa/tanzania",
     "asia/china/jiangxi",
     "asia/china/sichuan",
     "asia/china/tibet",
+    "asia/china/xinjiang",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
     "asia/india/western-zone",
@@ -41,6 +43,7 @@
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/germany/bayern/oberfranken",
+    "europe/italy/nord-ovest",
     "europe/moldova",
     "europe/netherlands/groningen",
     "europe/netherlands/overijssel",
@@ -61,6 +64,7 @@
     "europe/united-kingdom/scotland",
     "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
@@ -69,31 +73,12 @@
     "north-america/us/maine",
     "north-america/us/washington",
     "north-america/us/wisconsin",
+    "russia/central-fed-district",
     "russia/south-fed-district",
     "south-america/brazil/sudeste",
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/newfoundland-and-labrador",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/newfoundland-and-labrador-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/nord-ovest",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/nord-ovest-latest.osm.pbf"
-    },
-    {
-      "id": "russia/central-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/central-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/xinjiang",
-      "pbf_url": "https://download.geofabrik.de/asia/china/xinjiang-latest.osm.pbf"
-    },
-    {
-      "id": "africa/sudan",
-      "pbf_url": "https://download.geofabrik.de/africa/sudan-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/nebraska",
       "pbf_url": "https://download.geofabrik.de/north-america/us/nebraska-latest.osm.pbf"
