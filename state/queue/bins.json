@@ -55,6 +55,7 @@
     "asia/kazakhstan",
     "asia/kyrgyzstan",
     "asia/laos",
+    "asia/lebanon",
     "asia/myanmar",
     "asia/north-korea",
     "asia/pakistan",
@@ -67,6 +68,7 @@
     "australia-oceania/australia/victoria",
     "australia-oceania/fiji",
     "australia-oceania/micronesia",
+    "australia-oceania/nauru",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
     "central-america/costa-rica",
@@ -117,6 +119,7 @@
     "europe/netherlands/limburg",
     "europe/netherlands/overijssel",
     "europe/norway/ostlandet",
+    "europe/norway/sorlandet",
     "europe/norway/trondelag",
     "europe/poland/dolnoslaskie",
     "europe/poland/kujawsko-pomorskie",
@@ -164,6 +167,7 @@
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/lancashire",
     "europe/united-kingdom/england/leicestershire",
+    "europe/united-kingdom/england/lincolnshire",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/oxfordshire",
@@ -213,32 +217,13 @@
     "south-america/brazil/nordeste",
     "south-america/brazil/norte",
     "south-america/brazil/sudeste",
+    "south-america/brazil/sul",
     "south-america/colombia",
     "south-america/guyana",
     "south-america/paraguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/lebanon",
-      "pbf_url": "https://download.geofabrik.de/asia/lebanon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/sorlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/sorlandet-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/lincolnshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/lincolnshire-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/nauru",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/nauru-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/sul",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/sul-latest.osm.pbf"
-    },
     {
       "id": "asia/iran",
       "pbf_url": "https://download.geofabrik.de/asia/iran-latest.osm.pbf"
