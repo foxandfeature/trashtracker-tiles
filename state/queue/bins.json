@@ -12,6 +12,7 @@
     "africa/canary-islands",
     "africa/central-african-republic",
     "africa/chad",
+    "africa/comores",
     "africa/congo-brazzaville",
     "africa/congo-democratic-republic",
     "africa/egypt",
@@ -156,6 +157,7 @@
     "australia-oceania/pitcairn-islands",
     "australia-oceania/tuvalu",
     "australia-oceania/wallis-et-futuna",
+    "central-america/bahamas",
     "central-america/belize",
     "central-america/costa-rica",
     "central-america/cuba",
@@ -209,6 +211,7 @@
     "europe/france/languedoc-roussillon",
     "europe/france/limousin",
     "europe/france/lorraine",
+    "europe/france/martinique",
     "europe/france/mayotte",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
@@ -318,6 +321,7 @@
     "europe/spain/islas-baleares",
     "europe/spain/la-rioja",
     "europe/spain/madrid",
+    "europe/spain/melilla",
     "europe/spain/murcia",
     "europe/spain/navarra",
     "europe/spain/pais-vasco",
@@ -408,6 +412,7 @@
     "north-america/us/district-of-columbia",
     "north-america/us/florida",
     "north-america/us/georgia",
+    "north-america/us/hawaii",
     "north-america/us/idaho",
     "north-america/us/illinois",
     "north-america/us/indiana",
@@ -474,26 +479,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "central-america/bahamas",
-      "pbf_url": "https://download.geofabrik.de/central-america/bahamas-latest.osm.pbf"
-    },
-    {
-      "id": "africa/comores",
-      "pbf_url": "https://download.geofabrik.de/africa/comores-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/martinique",
-      "pbf_url": "https://download.geofabrik.de/europe/france/martinique-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/melilla",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/melilla-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/hawaii",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/hawaii-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/east-sussex",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/east-sussex-latest.osm.pbf"
