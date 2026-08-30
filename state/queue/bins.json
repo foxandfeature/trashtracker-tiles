@@ -74,6 +74,7 @@
     "asia/philippines",
     "asia/south-korea",
     "asia/tajikistan",
+    "asia/thailand",
     "asia/turkmenistan",
     "asia/yemen",
     "australia-oceania/australia/christmas-island",
@@ -84,6 +85,7 @@
     "australia-oceania/nauru",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
+    "australia-oceania/pitcairn-islands",
     "australia-oceania/tuvalu",
     "central-america/costa-rica",
     "central-america/guatemala",
@@ -125,6 +127,7 @@
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
+    "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/schleswig-holstein",
@@ -170,6 +173,7 @@
     "europe/poland/zachodniopomorskie",
     "europe/portugal",
     "europe/serbia",
+    "europe/slovakia",
     "europe/slovenia",
     "europe/spain/aragon",
     "europe/spain/asturias",
@@ -241,6 +245,7 @@
     "north-america/us/maine",
     "north-america/us/massachusetts",
     "north-america/us/nebraska",
+    "north-america/us/new-jersey",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
@@ -269,26 +274,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/slovakia",
-      "pbf_url": "https://download.geofabrik.de/europe/slovakia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-jersey",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-jersey-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/hessen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/hessen-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/pitcairn-islands",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/pitcairn-islands-latest.osm.pbf"
-    },
-    {
-      "id": "asia/thailand",
-      "pbf_url": "https://download.geofabrik.de/asia/thailand-latest.osm.pbf"
-    },
     {
       "id": "europe/france/aquitaine",
       "pbf_url": "https://download.geofabrik.de/europe/france/aquitaine-latest.osm.pbf"
