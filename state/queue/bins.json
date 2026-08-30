@@ -62,6 +62,7 @@
     "asia/indonesia/java",
     "asia/indonesia/kalimantan",
     "asia/indonesia/maluku",
+    "asia/indonesia/nusa-tenggara",
     "asia/indonesia/papua",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
@@ -107,6 +108,7 @@
     "australia-oceania/tuvalu",
     "central-america/belize",
     "central-america/costa-rica",
+    "central-america/cuba",
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
@@ -241,6 +243,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/bedfordshire",
     "europe/united-kingdom/england/berkshire",
     "europe/united-kingdom/england/bristol",
     "europe/united-kingdom/england/cambridgeshire",
@@ -268,6 +271,7 @@
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/rutland",
     "europe/united-kingdom/england/somerset",
+    "europe/united-kingdom/england/south-yorkshire",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/england/west-midlands",
@@ -310,6 +314,7 @@
     "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/minnesota",
+    "north-america/us/missouri",
     "north-america/us/nebraska",
     "north-america/us/new-jersey",
     "north-america/us/new-mexico",
@@ -349,26 +354,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/missouri",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/missouri-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/bedfordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/bedfordshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/nusa-tenggara",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/nusa-tenggara-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/south-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/south-yorkshire-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/cuba",
-      "pbf_url": "https://download.geofabrik.de/central-america/cuba-latest.osm.pbf"
-    },
     {
       "id": "europe/cyprus",
       "pbf_url": "https://download.geofabrik.de/europe/cyprus-latest.osm.pbf"
