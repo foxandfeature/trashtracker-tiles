@@ -52,6 +52,7 @@
     "asia/armenia",
     "asia/azerbaijan",
     "asia/bangladesh",
+    "asia/bhutan",
     "asia/cambodia",
     "asia/china/anhui",
     "asia/china/beijing",
@@ -132,8 +133,10 @@
     "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
+    "australia-oceania/new-caledonia",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
+    "central-america/bahamas",
     "central-america/belize",
     "central-america/costa-rica",
     "central-america/cuba",
@@ -207,6 +210,7 @@
     "europe/germany/bayern/unterfranken",
     "europe/germany/berlin",
     "europe/germany/brandenburg",
+    "europe/germany/bremen",
     "europe/germany/hamburg",
     "europe/germany/hessen",
     "europe/germany/mecklenburg-vorpommern",
@@ -295,6 +299,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/berkshire",
     "europe/united-kingdom/england/buckinghamshire",
     "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cheshire",
@@ -429,26 +434,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "central-america/bahamas",
-      "pbf_url": "https://download.geofabrik.de/central-america/bahamas-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/berkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/berkshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/bhutan",
-      "pbf_url": "https://download.geofabrik.de/asia/bhutan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bremen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bremen-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/new-caledonia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/new-caledonia-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/australia/northern-territory",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/northern-territory-latest.osm.pbf"
