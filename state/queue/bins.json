@@ -48,6 +48,7 @@
     "africa/uganda",
     "africa/zambia",
     "africa/zimbabwe",
+    "antarctica",
     "asia/afghanistan",
     "asia/armenia",
     "asia/azerbaijan",
@@ -149,6 +150,7 @@
     "australia-oceania/papua-new-guinea",
     "australia-oceania/pitcairn-islands",
     "australia-oceania/tuvalu",
+    "australia-oceania/wallis-et-futuna",
     "central-america/belize",
     "central-america/costa-rica",
     "central-america/cuba",
@@ -209,6 +211,7 @@
     "europe/france/picardie",
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
+    "europe/france/reunion",
     "europe/france/rhone-alpes",
     "europe/georgia",
     "europe/germany/baden-wuerttemberg/freiburg-regbez",
@@ -350,8 +353,10 @@
     "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/rutland",
+    "europe/united-kingdom/england/shropshire",
     "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/south-yorkshire",
+    "europe/united-kingdom/england/staffordshire",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/surrey",
     "europe/united-kingdom/england/tyne-and-wear",
@@ -464,26 +469,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/staffordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/staffordshire-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/wallis-et-futuna",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/wallis-et-futuna-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/reunion",
-      "pbf_url": "https://download.geofabrik.de/europe/france/reunion-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/shropshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/shropshire-latest.osm.pbf"
-    },
-    {
-      "id": "antarctica",
-      "pbf_url": "https://download.geofabrik.de/antarctica-latest.osm.pbf"
-    },
     {
       "id": "asia/china/liaoning",
       "pbf_url": "https://download.geofabrik.de/asia/china/liaoning-latest.osm.pbf"
