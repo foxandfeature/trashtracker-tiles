@@ -14,6 +14,7 @@
     "africa/somalia",
     "africa/sudan",
     "africa/tanzania",
+    "asia/china/guangdong",
     "asia/china/jiangxi",
     "asia/china/sichuan",
     "asia/china/tibet",
@@ -32,6 +33,7 @@
     "asia/japan/shikoku",
     "asia/japan/tohoku",
     "asia/kyrgyzstan",
+    "asia/laos",
     "asia/myanmar",
     "asia/south-korea",
     "australia-oceania/australia/new-south-wales",
@@ -57,11 +59,13 @@
     "europe/netherlands/groningen",
     "europe/netherlands/overijssel",
     "europe/norway/trondelag",
+    "europe/poland/dolnoslaskie",
     "europe/poland/lubelskie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/poland/opolskie",
     "europe/poland/podkarpackie",
+    "europe/poland/slaskie",
     "europe/poland/swietokrzyskie",
     "europe/poland/warminsko-mazurskie",
     "europe/portugal",
@@ -69,6 +73,7 @@
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/ukraine",
+    "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/tyne-and-wear",
@@ -94,26 +99,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "asia/china/guangdong",
-      "pbf_url": "https://download.geofabrik.de/asia/china/guangdong-latest.osm.pbf"
-    },
-    {
-      "id": "asia/laos",
-      "pbf_url": "https://download.geofabrik.de/asia/laos-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/slaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/slaskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/devon",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/devon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/dolnoslaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/dolnoslaskie-latest.osm.pbf"
-    },
     {
       "id": "asia/china/beijing",
       "pbf_url": "https://download.geofabrik.de/asia/china/beijing-latest.osm.pbf"
