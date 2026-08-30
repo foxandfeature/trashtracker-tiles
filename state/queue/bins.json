@@ -65,6 +65,7 @@
     "asia/tajikistan",
     "asia/turkmenistan",
     "asia/yemen",
+    "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/victoria",
     "australia-oceania/fiji",
@@ -72,6 +73,7 @@
     "australia-oceania/nauru",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
+    "australia-oceania/tuvalu",
     "central-america/costa-rica",
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
@@ -161,8 +163,10 @@
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/oxfordshire",
+    "europe/united-kingdom/england/rutland",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/tyne-and-wear",
+    "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
     "europe/united-kingdom/england/wiltshire",
     "europe/united-kingdom/scotland",
@@ -185,6 +189,7 @@
     "north-america/us/california/socal",
     "north-america/us/colorado",
     "north-america/us/delaware",
+    "north-america/us/district-of-columbia",
     "north-america/us/florida",
     "north-america/us/louisiana",
     "north-america/us/maine",
@@ -209,26 +214,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/australia/christmas-island",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/christmas-island-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/rutland",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/rutland-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/tuvalu",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/tuvalu-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/district-of-columbia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/district-of-columbia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/west-midlands",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-midlands-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/north-carolina",
       "pbf_url": "https://download.geofabrik.de/north-america/us/north-carolina-latest.osm.pbf"
