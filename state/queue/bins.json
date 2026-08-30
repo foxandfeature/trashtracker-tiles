@@ -14,6 +14,7 @@
     "africa/kenya",
     "africa/lesotho",
     "africa/madagascar",
+    "africa/malawi",
     "africa/mali",
     "africa/morocco",
     "africa/mozambique",
@@ -24,6 +25,7 @@
     "africa/sao-tome-and-principe",
     "africa/senegal-and-gambia",
     "africa/south-africa",
+    "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
     "africa/uganda",
@@ -105,6 +107,7 @@
     "central-america/belize",
     "central-america/costa-rica",
     "central-america/cuba",
+    "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
     "central-america/nicaragua",
@@ -303,6 +306,7 @@
     "north-america/canada/quebec",
     "north-america/greenland",
     "north-america/mexico",
+    "north-america/us/alabama",
     "north-america/us/arizona",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
@@ -349,6 +353,7 @@
     "south-america/bolivia",
     "south-america/brazil/centro-oeste",
     "south-america/brazil/nordeste",
+    "south-america/brazil/norte",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
     "south-america/chile",
@@ -359,26 +364,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/malawi",
-      "pbf_url": "https://download.geofabrik.de/africa/malawi-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/alabama",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/alabama-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/guatemala",
-      "pbf_url": "https://download.geofabrik.de/central-america/guatemala-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/norte",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/norte-latest.osm.pbf"
-    },
-    {
-      "id": "africa/south-sudan",
-      "pbf_url": "https://download.geofabrik.de/africa/south-sudan-latest.osm.pbf"
-    },
     {
       "id": "asia/sri-lanka",
       "pbf_url": "https://download.geofabrik.de/asia/sri-lanka-latest.osm.pbf"
