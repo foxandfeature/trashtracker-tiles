@@ -21,6 +21,7 @@
     "africa/mali",
     "africa/morocco",
     "africa/mozambique",
+    "africa/namibia",
     "africa/niger",
     "africa/nigeria",
     "africa/rwanda",
@@ -36,6 +37,7 @@
     "africa/zambia",
     "africa/zimbabwe",
     "asia/afghanistan",
+    "asia/azerbaijan",
     "asia/bangladesh",
     "asia/china/beijing",
     "asia/china/chongqing",
@@ -106,6 +108,7 @@
     "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
+    "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
     "australia-oceania/fiji",
     "australia-oceania/ile-de-clipperton",
@@ -168,6 +171,8 @@
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/germany/baden-wuerttemberg/freiburg-regbez",
+    "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/bayern/mittelfranken",
     "europe/germany/bayern/niederbayern",
@@ -379,26 +384,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/australia/tasmania",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/tasmania-latest.osm.pbf"
-    },
-    {
-      "id": "asia/azerbaijan",
-      "pbf_url": "https://download.geofabrik.de/asia/azerbaijan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/karlsruhe-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/baden-wuerttemberg/freiburg-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/freiburg-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "africa/namibia",
-      "pbf_url": "https://download.geofabrik.de/africa/namibia-latest.osm.pbf"
-    },
     {
       "id": "europe/bosnia-herzegovina",
       "pbf_url": "https://download.geofabrik.de/europe/bosnia-herzegovina-latest.osm.pbf"
