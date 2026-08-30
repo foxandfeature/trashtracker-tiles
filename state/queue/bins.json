@@ -140,6 +140,7 @@
     "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
+    "australia-oceania/fiji",
     "australia-oceania/new-caledonia",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
@@ -156,6 +157,7 @@
     "central-america/panama",
     "europe/albania",
     "europe/austria",
+    "europe/azores",
     "europe/belarus",
     "europe/belgium",
     "europe/bosnia-herzegovina",
@@ -307,6 +309,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/bedfordshire",
     "europe/united-kingdom/england/berkshire",
     "europe/united-kingdom/england/buckinghamshire",
     "europe/united-kingdom/england/cambridgeshire",
@@ -348,6 +351,7 @@
     "europe/united-kingdom/england/west-sussex",
     "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/england/wiltshire",
+    "europe/united-kingdom/england/worcestershire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
@@ -383,6 +387,7 @@
     "north-america/us/district-of-columbia",
     "north-america/us/florida",
     "north-america/us/georgia",
+    "north-america/us/hawaii",
     "north-america/us/idaho",
     "north-america/us/illinois",
     "north-america/us/indiana",
@@ -449,26 +454,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/hawaii",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/hawaii-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/worcestershire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/worcestershire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/azores",
-      "pbf_url": "https://download.geofabrik.de/europe/azores-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/bedfordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/bedfordshire-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/fiji",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/fiji-latest.osm.pbf"
-    },
     {
       "id": "south-america/guyana",
       "pbf_url": "https://download.geofabrik.de/south-america/guyana-latest.osm.pbf"
