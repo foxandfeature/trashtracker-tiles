@@ -2,11 +2,14 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/algeria",
+    "africa/cameroon",
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/malawi",
     "africa/somalia",
     "africa/tanzania",
+    "asia/china/jiangxi",
     "asia/china/sichuan",
     "asia/china/tibet",
     "asia/india/central-zone",
@@ -24,11 +27,13 @@
     "asia/south-korea",
     "australia-oceania/australia/new-south-wales",
     "europe/albania",
+    "europe/belarus",
     "europe/france/alsace",
     "europe/france/bretagne",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/midi-pyrenees",
+    "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/moldova",
@@ -54,26 +59,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/belarus",
-      "pbf_url": "https://download.geofabrik.de/europe/belarus-latest.osm.pbf"
-    },
-    {
-      "id": "africa/cameroon",
-      "pbf_url": "https://download.geofabrik.de/africa/cameroon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/nord-pas-de-calais",
-      "pbf_url": "https://download.geofabrik.de/europe/france/nord-pas-de-calais-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/jiangxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/jiangxi-latest.osm.pbf"
-    },
-    {
-      "id": "africa/algeria",
-      "pbf_url": "https://download.geofabrik.de/africa/algeria-latest.osm.pbf"
-    },
     {
       "id": "africa/rwanda",
       "pbf_url": "https://download.geofabrik.de/africa/rwanda-latest.osm.pbf"
