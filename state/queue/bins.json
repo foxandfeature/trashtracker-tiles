@@ -35,6 +35,7 @@
     "asia/indonesia/kalimantan",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
+    "asia/iraq",
     "asia/japan/chubu",
     "asia/japan/chugoku",
     "asia/japan/kansai",
@@ -45,12 +46,15 @@
     "asia/kyrgyzstan",
     "asia/laos",
     "asia/myanmar",
+    "asia/north-korea",
+    "asia/pakistan",
     "asia/south-korea",
     "asia/tajikistan",
     "asia/turkmenistan",
     "asia/yemen",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/victoria",
+    "australia-oceania/fiji",
     "australia-oceania/papua-new-guinea",
     "central-america/costa-rica",
     "central-america/guatemala",
@@ -61,6 +65,7 @@
     "europe/belarus",
     "europe/belgium",
     "europe/czech-republic/liberecky",
+    "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/zlinsky",
     "europe/finland",
@@ -154,26 +159,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/pakistan",
-      "pbf_url": "https://download.geofabrik.de/asia/pakistan-latest.osm.pbf"
-    },
-    {
-      "id": "asia/north-korea",
-      "pbf_url": "https://download.geofabrik.de/asia/north-korea-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/stredocesky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/stredocesky-latest.osm.pbf"
-    },
-    {
-      "id": "asia/iraq",
-      "pbf_url": "https://download.geofabrik.de/asia/iraq-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/fiji",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/fiji-latest.osm.pbf"
-    },
     {
       "id": "asia/china/gansu",
       "pbf_url": "https://download.geofabrik.de/asia/china/gansu-latest.osm.pbf"
