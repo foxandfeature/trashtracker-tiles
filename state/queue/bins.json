@@ -17,7 +17,9 @@
     "africa/sudan",
     "africa/tanzania",
     "africa/uganda",
+    "africa/zimbabwe",
     "asia/afghanistan",
+    "asia/bangladesh",
     "asia/china/gansu",
     "asia/china/heilongjiang",
     "asia/china/hubei",
@@ -50,6 +52,7 @@
     "asia/nepal",
     "asia/pakistan",
     "asia/philippines",
+    "asia/thailand",
     "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/fiji",
@@ -126,10 +129,12 @@
     "europe/poland/warminsko-mazurskie",
     "europe/poland/zachodniopomorskie",
     "europe/portugal",
+    "europe/slovakia",
     "europe/slovenia",
     "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
+    "europe/spain/cataluna",
     "europe/spain/extremadura",
     "europe/spain/islas-baleares",
     "europe/spain/la-rioja",
@@ -209,26 +214,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/bangladesh",
-      "pbf_url": "https://download.geofabrik.de/asia/bangladesh-latest.osm.pbf"
-    },
-    {
-      "id": "asia/thailand",
-      "pbf_url": "https://download.geofabrik.de/asia/thailand-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/cataluna",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/cataluna-latest.osm.pbf"
-    },
-    {
-      "id": "europe/slovakia",
-      "pbf_url": "https://download.geofabrik.de/europe/slovakia-latest.osm.pbf"
-    },
-    {
-      "id": "africa/zimbabwe",
-      "pbf_url": "https://download.geofabrik.de/africa/zimbabwe-latest.osm.pbf"
-    },
     {
       "id": "central-america/panama",
       "pbf_url": "https://download.geofabrik.de/central-america/panama-latest.osm.pbf"
