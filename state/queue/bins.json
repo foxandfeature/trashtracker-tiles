@@ -13,6 +13,7 @@
     "africa/rwanda",
     "africa/sudan",
     "africa/tanzania",
+    "asia/china/guangdong",
     "asia/china/jiangxi",
     "asia/china/tibet",
     "asia/china/xinjiang",
@@ -29,6 +30,7 @@
     "asia/japan/kyushu",
     "asia/japan/shikoku",
     "asia/kyrgyzstan",
+    "asia/laos",
     "asia/myanmar",
     "asia/south-korea",
     "australia-oceania/australia/new-south-wales",
@@ -50,6 +52,7 @@
     "europe/moldova",
     "europe/netherlands/groningen",
     "europe/netherlands/overijssel",
+    "europe/norway/trondelag",
     "europe/poland/lubelskie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
@@ -62,6 +65,7 @@
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/spain/valencia",
+    "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/scotland",
@@ -72,6 +76,7 @@
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
+    "north-america/canada/quebec",
     "north-america/us/california/norcal",
     "north-america/us/colorado",
     "north-america/us/maine",
@@ -84,26 +89,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/quebec",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/quebec-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/guangdong",
-      "pbf_url": "https://download.geofabrik.de/asia/china/guangdong-latest.osm.pbf"
-    },
-    {
-      "id": "asia/laos",
-      "pbf_url": "https://download.geofabrik.de/asia/laos-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/devon",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/devon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/trondelag",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/trondelag-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/cornwall",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cornwall-latest.osm.pbf"
