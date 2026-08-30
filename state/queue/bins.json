@@ -5,6 +5,7 @@
     "africa/algeria",
     "africa/botswana",
     "africa/cameroon",
+    "africa/central-african-republic",
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/ethiopia",
@@ -16,6 +17,7 @@
     "africa/somalia",
     "africa/sudan",
     "africa/tanzania",
+    "asia/afghanistan",
     "asia/china/beijing",
     "asia/china/guangdong",
     "asia/china/guangxi",
@@ -49,6 +51,7 @@
     "australia-oceania/australia/victoria",
     "australia-oceania/papua-new-guinea",
     "central-america/costa-rica",
+    "central-america/guatemala",
     "central-america/honduras",
     "europe/albania",
     "europe/belarus",
@@ -78,6 +81,7 @@
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/poland/opolskie",
+    "europe/poland/podkarpackie",
     "europe/poland/slaskie",
     "europe/poland/swietokrzyskie",
     "europe/poland/warminsko-mazurskie",
@@ -116,6 +120,7 @@
     "north-america/us/colorado",
     "north-america/us/maine",
     "north-america/us/nebraska",
+    "north-america/us/north-dakota",
     "north-america/us/washington",
     "north-america/us/wisconsin",
     "russia/central-fed-district",
@@ -129,26 +134,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/north-dakota",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/north-dakota-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/podkarpackie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/podkarpackie-latest.osm.pbf"
-    },
-    {
-      "id": "africa/central-african-republic",
-      "pbf_url": "https://download.geofabrik.de/africa/central-african-republic-latest.osm.pbf"
-    },
-    {
-      "id": "asia/afghanistan",
-      "pbf_url": "https://download.geofabrik.de/asia/afghanistan-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/guatemala",
-      "pbf_url": "https://download.geofabrik.de/central-america/guatemala-latest.osm.pbf"
-    },
     {
       "id": "south-america/guyana",
       "pbf_url": "https://download.geofabrik.de/south-america/guyana-latest.osm.pbf"
