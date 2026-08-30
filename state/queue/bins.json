@@ -122,6 +122,7 @@
     "europe/france/alsace",
     "europe/france/aquitaine",
     "europe/france/basse-normandie",
+    "europe/france/bourgogne",
     "europe/france/bretagne",
     "europe/france/centre",
     "europe/france/champagne-ardenne",
@@ -202,10 +203,12 @@
     "europe/spain/cantabria",
     "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
+    "europe/spain/cataluna",
     "europe/spain/extremadura",
     "europe/spain/islas-baleares",
     "europe/spain/la-rioja",
     "europe/spain/madrid",
+    "europe/spain/murcia",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
@@ -235,6 +238,7 @@
     "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/rutland",
+    "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/england/west-midlands",
@@ -267,6 +271,7 @@
     "north-america/us/district-of-columbia",
     "north-america/us/florida",
     "north-america/us/georgia",
+    "north-america/us/illinois",
     "north-america/us/louisiana",
     "north-america/us/maine",
     "north-america/us/massachusetts",
@@ -304,26 +309,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/somerset",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/somerset-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/bourgogne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/bourgogne-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/illinois",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/illinois-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/cataluna",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/cataluna-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/murcia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/murcia-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/arizona",
       "pbf_url": "https://download.geofabrik.de/north-america/us/arizona-latest.osm.pbf"
