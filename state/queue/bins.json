@@ -31,7 +31,10 @@
     "central-america/honduras",
     "europe/albania",
     "europe/austria",
+    "europe/belgium",
+    "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
+    "europe/finland",
     "europe/france/champagne-ardenne",
     "europe/france/franche-comte",
     "europe/france/nord-pas-de-calais",
@@ -41,12 +44,14 @@
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
+    "europe/isle-of-man",
     "europe/italy/sud",
     "europe/netherlands/drenthe",
     "europe/netherlands/limburg",
     "europe/norway/nord-norge",
     "europe/norway/trondelag",
     "europe/poland/dolnoslaskie",
+    "europe/poland/kujawsko-pomorskie",
     "europe/poland/malopolskie",
     "europe/poland/opolskie",
     "europe/poland/podkarpackie",
@@ -89,26 +94,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/isle-of-man",
-      "pbf_url": "https://download.geofabrik.de/europe/isle-of-man-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/stredocesky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/stredocesky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/kujawsko-pomorskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/kujawsko-pomorskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/belgium",
-      "pbf_url": "https://download.geofabrik.de/europe/belgium-latest.osm.pbf"
-    },
-    {
-      "id": "europe/finland",
-      "pbf_url": "https://download.geofabrik.de/europe/finland-latest.osm.pbf"
-    },
     {
       "id": "asia/iraq",
       "pbf_url": "https://download.geofabrik.de/asia/iraq-latest.osm.pbf"
