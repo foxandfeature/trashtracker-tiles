@@ -16,6 +16,7 @@
     "africa/morocco",
     "africa/niger",
     "africa/rwanda",
+    "africa/senegal-and-gambia",
     "africa/sudan",
     "africa/tanzania",
     "asia/afghanistan",
@@ -61,6 +62,7 @@
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
+    "central-america/nicaragua",
     "europe/albania",
     "europe/austria",
     "europe/belarus",
@@ -123,6 +125,7 @@
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/england/isle-of-wight",
+    "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/suffolk",
@@ -139,6 +142,7 @@
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
     "north-america/canada/quebec",
+    "north-america/mexico",
     "north-america/us/alaska",
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
@@ -153,6 +157,7 @@
     "north-america/us/wisconsin",
     "russia/central-fed-district",
     "russia/north-caucasus-fed-district",
+    "russia/northwestern-fed-district",
     "russia/volga-fed-district",
     "south-america/bolivia",
     "south-america/brazil/nordeste",
@@ -164,26 +169,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/mexico",
-      "pbf_url": "https://download.geofabrik.de/north-america/mexico-latest.osm.pbf"
-    },
-    {
-      "id": "russia/northwestern-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/northwestern-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "africa/senegal-and-gambia",
-      "pbf_url": "https://download.geofabrik.de/africa/senegal-and-gambia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/kent",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/kent-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/nicaragua",
-      "pbf_url": "https://download.geofabrik.de/central-america/nicaragua-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/wiltshire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/wiltshire-latest.osm.pbf"
