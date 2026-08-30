@@ -13,6 +13,7 @@
     "africa/guinea-bissau",
     "africa/ivory-coast",
     "africa/malawi",
+    "africa/morocco",
     "africa/niger",
     "africa/rwanda",
     "africa/somalia",
@@ -46,12 +47,14 @@
     "asia/kyrgyzstan",
     "asia/laos",
     "asia/myanmar",
+    "asia/pakistan",
     "asia/south-korea",
     "asia/tajikistan",
     "asia/turkmenistan",
     "asia/yemen",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/victoria",
+    "australia-oceania/fiji",
     "australia-oceania/papua-new-guinea",
     "central-america/costa-rica",
     "central-america/guatemala",
@@ -78,6 +81,7 @@
     "europe/germany/berlin",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/iceland",
+    "europe/isle-of-man",
     "europe/italy/nord-ovest",
     "europe/moldova",
     "europe/netherlands/groningen",
@@ -122,6 +126,7 @@
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
+    "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/us/alaska",
     "north-america/us/arkansas",
@@ -144,26 +149,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/fiji",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/fiji-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/ontario",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/ontario-latest.osm.pbf"
-    },
-    {
-      "id": "europe/isle-of-man",
-      "pbf_url": "https://download.geofabrik.de/europe/isle-of-man-latest.osm.pbf"
-    },
-    {
-      "id": "asia/pakistan",
-      "pbf_url": "https://download.geofabrik.de/asia/pakistan-latest.osm.pbf"
-    },
-    {
-      "id": "africa/morocco",
-      "pbf_url": "https://download.geofabrik.de/africa/morocco-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/new-brunswick",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/new-brunswick-latest.osm.pbf"
