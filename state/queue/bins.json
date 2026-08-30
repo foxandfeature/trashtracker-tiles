@@ -105,6 +105,7 @@
     "australia-oceania/papua-new-guinea",
     "australia-oceania/pitcairn-islands",
     "australia-oceania/tuvalu",
+    "central-america/belize",
     "central-america/costa-rica",
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
@@ -152,6 +153,8 @@
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
+    "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/baden-wuerttemberg/tuebingen-regbez",
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
@@ -164,6 +167,7 @@
     "europe/germany/rheinland-pfalz",
     "europe/germany/saarland",
     "europe/germany/sachsen",
+    "europe/germany/sachsen-anhalt",
     "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
     "europe/greece",
@@ -315,6 +319,7 @@
     "north-america/us/ohio",
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
+    "north-america/us/south-carolina",
     "north-america/us/tennessee",
     "north-america/us/texas",
     "north-america/us/virginia",
@@ -344,26 +349,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/baden-wuerttemberg/stuttgart-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/stuttgart-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/south-carolina",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/south-carolina-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/belize",
-      "pbf_url": "https://download.geofabrik.de/central-america/belize-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/karlsruhe-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/sachsen-anhalt",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/sachsen-anhalt-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/missouri",
       "pbf_url": "https://download.geofabrik.de/north-america/us/missouri-latest.osm.pbf"
