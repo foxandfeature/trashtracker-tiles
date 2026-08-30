@@ -10,6 +10,7 @@
     "asia/indonesia/sumatra",
     "asia/japan/chubu",
     "asia/japan/kanto",
+    "asia/japan/kyushu",
     "australia-oceania/australia/new-south-wales",
     "europe/france/ile-de-france",
     "europe/france/midi-pyrenees",
@@ -19,6 +20,7 @@
     "europe/moldova",
     "europe/netherlands/groningen",
     "europe/netherlands/overijssel",
+    "europe/poland/lubelskie",
     "europe/poland/mazowieckie",
     "europe/spain/aragon",
     "europe/united-kingdom/scotland",
@@ -26,29 +28,12 @@
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
-    "north-america/us/california/norcal"
+    "north-america/us/california/norcal",
+    "north-america/us/wisconsin",
+    "south-america/brazil/sudeste",
+    "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/poland/lubelskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lubelskie-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/colombia",
-      "pbf_url": "https://download.geofabrik.de/south-america/colombia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/wisconsin",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/wisconsin-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/kyushu",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kyushu-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/sudeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/sudeste-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/nordrhein-westfalen/koeln-regbez",
       "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/koeln-regbez-latest.osm.pbf"
