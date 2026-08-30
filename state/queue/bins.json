@@ -15,6 +15,7 @@
     "africa/ivory-coast",
     "africa/malawi",
     "africa/morocco",
+    "africa/mozambique",
     "africa/niger",
     "africa/nigeria",
     "africa/rwanda",
@@ -112,6 +113,7 @@
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/tuebingen-regbez",
+    "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
     "europe/germany/niedersachsen",
@@ -122,6 +124,7 @@
     "europe/ireland-and-northern-ireland",
     "europe/isle-of-man",
     "europe/italy/centro",
+    "europe/italy/isole",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
@@ -197,6 +200,7 @@
     "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
+    "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/england/wiltshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -251,29 +255,10 @@
     "south-america/colombia",
     "south-america/guyana",
     "south-america/paraguay",
+    "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/italy/isole",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/isole-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/oberbayern",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberbayern-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/uruguay",
-      "pbf_url": "https://download.geofabrik.de/south-america/uruguay-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/west-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-yorkshire-latest.osm.pbf"
-    },
-    {
-      "id": "africa/mozambique",
-      "pbf_url": "https://download.geofabrik.de/africa/mozambique-latest.osm.pbf"
-    },
     {
       "id": "asia/china/hubei",
       "pbf_url": "https://download.geofabrik.de/asia/china/hubei-latest.osm.pbf"
