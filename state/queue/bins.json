@@ -10,6 +10,7 @@
     "africa/congo-democratic-republic",
     "africa/ethiopia",
     "africa/ghana",
+    "africa/guinea-bissau",
     "africa/ivory-coast",
     "africa/malawi",
     "africa/niger",
@@ -53,10 +54,12 @@
     "australia-oceania/papua-new-guinea",
     "central-america/costa-rica",
     "central-america/guatemala",
+    "central-america/haiti-and-domrep",
     "central-america/honduras",
     "europe/albania",
     "europe/austria",
     "europe/belarus",
+    "europe/belgium",
     "europe/czech-republic/liberecky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/zlinsky",
@@ -116,6 +119,7 @@
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/new-brunswick",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
@@ -134,6 +138,7 @@
     "russia/central-fed-district",
     "russia/north-caucasus-fed-district",
     "russia/south-fed-district",
+    "russia/volga-fed-district",
     "south-america/bolivia",
     "south-america/brazil/nordeste",
     "south-america/brazil/norte",
@@ -144,26 +149,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/guinea-bissau",
-      "pbf_url": "https://download.geofabrik.de/africa/guinea-bissau-latest.osm.pbf"
-    },
-    {
-      "id": "russia/volga-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/volga-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/haiti-and-domrep",
-      "pbf_url": "https://download.geofabrik.de/central-america/haiti-and-domrep-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/new-brunswick",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/new-brunswick-latest.osm.pbf"
-    },
-    {
-      "id": "europe/belgium",
-      "pbf_url": "https://download.geofabrik.de/europe/belgium-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/cumbria",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cumbria-latest.osm.pbf"
