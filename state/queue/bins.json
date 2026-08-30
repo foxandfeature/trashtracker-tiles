@@ -44,6 +44,7 @@
     "asia/indonesia/kalimantan",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
+    "asia/iran",
     "asia/iraq",
     "asia/japan/chubu",
     "asia/japan/chugoku",
@@ -111,12 +112,14 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/liechtenstein",
     "europe/moldova",
     "europe/netherlands/drenthe",
     "europe/netherlands/friesland",
     "europe/netherlands/gelderland",
     "europe/netherlands/groningen",
     "europe/netherlands/limburg",
+    "europe/netherlands/noord-brabant",
     "europe/netherlands/overijssel",
     "europe/norway/ostlandet",
     "europe/norway/sorlandet",
@@ -142,6 +145,7 @@
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/spain/cantabria",
+    "europe/spain/castilla-y-leon",
     "europe/spain/extremadura",
     "europe/spain/islas-baleares",
     "europe/spain/la-rioja",
@@ -197,6 +201,7 @@
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
     "north-america/us/colorado",
+    "north-america/us/connecticut",
     "north-america/us/delaware",
     "north-america/us/florida",
     "north-america/us/louisiana",
@@ -224,26 +229,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/iran",
-      "pbf_url": "https://download.geofabrik.de/asia/iran-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/connecticut",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/connecticut-latest.osm.pbf"
-    },
-    {
-      "id": "europe/liechtenstein",
-      "pbf_url": "https://download.geofabrik.de/europe/liechtenstein-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/castilla-y-leon",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/castilla-y-leon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/noord-brabant",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/noord-brabant-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/nottinghamshire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/nottinghamshire-latest.osm.pbf"
