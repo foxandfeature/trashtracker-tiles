@@ -17,6 +17,7 @@
     "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
+    "asia/india/northern-zone",
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
@@ -49,6 +50,7 @@
     "europe/france/centre",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
+    "europe/france/lorraine",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
@@ -73,10 +75,12 @@
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/trondelag",
+    "europe/norway/vestlandet",
     "europe/poland/lodzkie",
     "europe/poland/mazowieckie",
     "europe/portugal",
     "europe/romania",
+    "europe/serbia",
     "europe/slovakia",
     "europe/slovenia",
     "europe/spain/andalucia",
@@ -131,29 +135,10 @@
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
     "south-america/chile",
-    "south-america/colombia"
+    "south-america/colombia",
+    "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/serbia",
-      "pbf_url": "https://download.geofabrik.de/europe/serbia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/lorraine",
-      "pbf_url": "https://download.geofabrik.de/europe/france/lorraine-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/northern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/northern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/peru",
-      "pbf_url": "https://download.geofabrik.de/south-america/peru-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/vestlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/vestlandet-latest.osm.pbf"
-    },
     {
       "id": "south-america/bolivia",
       "pbf_url": "https://download.geofabrik.de/south-america/bolivia-latest.osm.pbf"
