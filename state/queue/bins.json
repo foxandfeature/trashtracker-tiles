@@ -28,6 +28,7 @@
     "africa/sudan",
     "africa/tanzania",
     "africa/uganda",
+    "africa/zambia",
     "africa/zimbabwe",
     "asia/afghanistan",
     "asia/bangladesh",
@@ -121,6 +122,7 @@
     "europe/finland",
     "europe/france/alsace",
     "europe/france/aquitaine",
+    "europe/france/auvergne",
     "europe/france/basse-normandie",
     "europe/france/bourgogne",
     "europe/france/bretagne",
@@ -233,6 +235,7 @@
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/lancashire",
     "europe/united-kingdom/england/leicestershire",
+    "europe/united-kingdom/england/lincolnshire",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/nottinghamshire",
@@ -262,6 +265,7 @@
     "north-america/canada/quebec",
     "north-america/mexico",
     "north-america/us/alaska",
+    "north-america/us/arizona",
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
@@ -297,6 +301,7 @@
     "russia/volga-fed-district",
     "south-america/argentina",
     "south-america/bolivia",
+    "south-america/brazil/centro-oeste",
     "south-america/brazil/nordeste",
     "south-america/brazil/norte",
     "south-america/brazil/sudeste",
@@ -309,26 +314,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/lincolnshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/lincolnshire-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/arizona",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/arizona-latest.osm.pbf"
-    },
-    {
-      "id": "africa/zambia",
-      "pbf_url": "https://download.geofabrik.de/africa/zambia-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/centro-oeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/centro-oeste-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/auvergne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/auvergne-latest.osm.pbf"
-    },
     {
       "id": "europe/netherlands/flevoland",
       "pbf_url": "https://download.geofabrik.de/europe/netherlands/flevoland-latest.osm.pbf"
