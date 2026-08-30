@@ -18,6 +18,7 @@
     "africa/egypt",
     "africa/eritrea",
     "africa/ethiopia",
+    "africa/gabon",
     "africa/ghana",
     "africa/guinea",
     "africa/guinea-bissau",
@@ -142,6 +143,7 @@
     "australia-oceania/australia/act",
     "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/australia/northern-territory",
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/south-australia",
     "australia-oceania/australia/tasmania",
@@ -206,6 +208,8 @@
     "europe/france/champagne-ardenne",
     "europe/france/corse",
     "europe/france/franche-comte",
+    "europe/france/guadeloupe",
+    "europe/france/guyane",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
@@ -412,6 +416,7 @@
     "north-america/us/district-of-columbia",
     "north-america/us/florida",
     "north-america/us/georgia",
+    "north-america/us/hawaii",
     "north-america/us/idaho",
     "north-america/us/illinois",
     "north-america/us/indiana",
@@ -479,26 +484,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/gabon",
-      "pbf_url": "https://download.geofabrik.de/africa/gabon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/guadeloupe",
-      "pbf_url": "https://download.geofabrik.de/europe/france/guadeloupe-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/northern-territory",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/northern-territory-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/hawaii",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/hawaii-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/guyane",
-      "pbf_url": "https://download.geofabrik.de/europe/france/guyane-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/melilla",
       "pbf_url": "https://download.geofabrik.de/europe/spain/melilla-latest.osm.pbf"
