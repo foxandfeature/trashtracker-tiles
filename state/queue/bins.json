@@ -64,6 +64,7 @@
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/moravskoslezky",
+    "europe/czech-republic/olomoucky",
     "europe/czech-republic/pardubicky",
     "europe/czech-republic/praha",
     "europe/czech-republic/stredocesky",
@@ -145,6 +146,7 @@
     "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/rutland",
+    "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
@@ -170,11 +172,13 @@
     "north-america/us/delaware",
     "north-america/us/district-of-columbia",
     "north-america/us/florida",
+    "north-america/us/georgia",
     "north-america/us/louisiana",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
     "north-america/us/texas",
+    "north-america/us/virginia",
     "north-america/us/washington",
     "north-america/us/wisconsin",
     "russia/central-fed-district",
@@ -183,32 +187,13 @@
     "russia/siberian-fed-district",
     "russia/ural-fed-district",
     "russia/volga-fed-district",
+    "south-america/argentina",
     "south-america/bolivia",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/somerset",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/somerset-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/virginia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/virginia-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/argentina",
-      "pbf_url": "https://download.geofabrik.de/south-america/argentina-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/olomoucky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/olomoucky-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/georgia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/georgia-latest.osm.pbf"
-    },
     {
       "id": "europe/portugal",
       "pbf_url": "https://download.geofabrik.de/europe/portugal-latest.osm.pbf"
