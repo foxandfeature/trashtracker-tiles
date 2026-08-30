@@ -25,6 +25,7 @@
     "africa/south-africa",
     "africa/sudan",
     "africa/tanzania",
+    "africa/uganda",
     "asia/afghanistan",
     "asia/china/beijing",
     "asia/china/gansu",
@@ -65,6 +66,7 @@
     "asia/lebanon",
     "asia/maldives",
     "asia/myanmar",
+    "asia/nepal",
     "asia/north-korea",
     "asia/pakistan",
     "asia/philippines",
@@ -96,6 +98,7 @@
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/liberecky",
+    "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/olomoucky",
     "europe/czech-republic/pardubicky",
     "europe/czech-republic/ustecky",
@@ -104,6 +107,7 @@
     "europe/finland",
     "europe/france/alsace",
     "europe/france/bretagne",
+    "europe/france/centre",
     "europe/france/champagne-ardenne",
     "europe/france/corse",
     "europe/france/franche-comte",
@@ -240,6 +244,7 @@
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/south-fed-district",
+    "russia/ural-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
     "south-america/bolivia",
@@ -254,26 +259,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/uganda",
-      "pbf_url": "https://download.geofabrik.de/africa/uganda-latest.osm.pbf"
-    },
-    {
-      "id": "russia/ural-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/ural-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/centre",
-      "pbf_url": "https://download.geofabrik.de/europe/france/centre-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/moravskoslezky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/moravskoslezky-latest.osm.pbf"
-    },
-    {
-      "id": "asia/nepal",
-      "pbf_url": "https://download.geofabrik.de/asia/nepal-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/new-jersey",
       "pbf_url": "https://download.geofabrik.de/north-america/us/new-jersey-latest.osm.pbf"
