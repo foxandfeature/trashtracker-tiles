@@ -35,6 +35,7 @@
     "asia/indonesia/kalimantan",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
+    "asia/iraq",
     "asia/japan/chubu",
     "asia/japan/chugoku",
     "asia/japan/kanto",
@@ -58,12 +59,14 @@
     "central-america/honduras",
     "europe/albania",
     "europe/belarus",
+    "europe/belgium",
     "europe/czech-republic/liberecky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/zlinsky",
     "europe/france/alsace",
     "europe/france/bretagne",
     "europe/france/champagne-ardenne",
+    "europe/france/franche-comte",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/midi-pyrenees",
@@ -80,11 +83,13 @@
     "europe/netherlands/groningen",
     "europe/netherlands/overijssel",
     "europe/poland/dolnoslaskie",
+    "europe/poland/kujawsko-pomorskie",
     "europe/poland/lubelskie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/poland/opolskie",
     "europe/poland/podkarpackie",
+    "europe/poland/pomorskie",
     "europe/poland/slaskie",
     "europe/poland/swietokrzyskie",
     "europe/poland/warminsko-mazurskie",
@@ -139,26 +144,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/france/franche-comte",
-      "pbf_url": "https://download.geofabrik.de/europe/france/franche-comte-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/kujawsko-pomorskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/kujawsko-pomorskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/pomorskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/pomorskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/belgium",
-      "pbf_url": "https://download.geofabrik.de/europe/belgium-latest.osm.pbf"
-    },
-    {
-      "id": "asia/iraq",
-      "pbf_url": "https://download.geofabrik.de/asia/iraq-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/fiji",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/fiji-latest.osm.pbf"
