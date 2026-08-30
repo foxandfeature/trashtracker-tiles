@@ -28,6 +28,7 @@
     "africa/madagascar",
     "africa/malawi",
     "africa/mali",
+    "africa/mauritania",
     "africa/morocco",
     "africa/mozambique",
     "africa/namibia",
@@ -53,6 +54,7 @@
     "asia/armenia",
     "asia/azerbaijan",
     "asia/bangladesh",
+    "asia/cambodia",
     "asia/china/anhui",
     "asia/china/beijing",
     "asia/china/chongqing",
@@ -72,6 +74,7 @@
     "asia/china/jiangsu",
     "asia/china/jiangxi",
     "asia/china/jilin",
+    "asia/china/liaoning",
     "asia/china/ningxia",
     "asia/china/qinghai",
     "asia/china/shaanxi",
@@ -204,6 +207,7 @@
     "europe/france/languedoc-roussillon",
     "europe/france/limousin",
     "europe/france/lorraine",
+    "europe/france/martinique",
     "europe/france/mayotte",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
@@ -253,6 +257,7 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/kosovo",
     "europe/latvia",
     "europe/liechtenstein",
     "europe/lithuania",
@@ -469,26 +474,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/liaoning",
-      "pbf_url": "https://download.geofabrik.de/asia/china/liaoning-latest.osm.pbf"
-    },
-    {
-      "id": "asia/cambodia",
-      "pbf_url": "https://download.geofabrik.de/asia/cambodia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/kosovo",
-      "pbf_url": "https://download.geofabrik.de/europe/kosovo-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/martinique",
-      "pbf_url": "https://download.geofabrik.de/europe/france/martinique-latest.osm.pbf"
-    },
-    {
-      "id": "africa/mauritania",
-      "pbf_url": "https://download.geofabrik.de/africa/mauritania-latest.osm.pbf"
-    },
     {
       "id": "africa/swaziland",
       "pbf_url": "https://download.geofabrik.de/africa/swaziland-latest.osm.pbf"
