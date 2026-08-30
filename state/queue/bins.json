@@ -8,7 +8,9 @@
     "africa/niger",
     "africa/sudan",
     "africa/tanzania",
+    "asia/afghanistan",
     "asia/china/shaanxi",
+    "asia/china/tianjin",
     "asia/china/tibet",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
@@ -43,6 +45,7 @@
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/oxfordshire",
+    "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/british-columbia/island-admreg",
@@ -51,34 +54,16 @@
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
+    "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/us/california/norcal",
+    "north-america/us/north-dakota",
     "north-america/us/washington",
     "russia/siberian-fed-district",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "asia/china/tianjin",
-      "pbf_url": "https://download.geofabrik.de/asia/china/tianjin-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/ontario",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/ontario-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/north-dakota",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/north-dakota-latest.osm.pbf"
-    },
-    {
-      "id": "asia/afghanistan",
-      "pbf_url": "https://download.geofabrik.de/asia/afghanistan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/suffolk",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/suffolk-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/berlin",
       "pbf_url": "https://download.geofabrik.de/europe/germany/berlin-latest.osm.pbf"
