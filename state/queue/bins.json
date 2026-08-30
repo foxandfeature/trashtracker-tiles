@@ -32,6 +32,7 @@
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/iraq",
+    "asia/japan/chubu",
     "asia/japan/chugoku",
     "asia/japan/kansai",
     "asia/japan/kanto",
@@ -55,6 +56,7 @@
     "europe/belgium",
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/kralovehradecky",
+    "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/praha",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
@@ -81,9 +83,11 @@
     "europe/moldova",
     "europe/netherlands/drenthe",
     "europe/netherlands/friesland",
+    "europe/netherlands/gelderland",
     "europe/netherlands/limburg",
     "europe/netherlands/overijssel",
     "europe/norway/nord-norge",
+    "europe/norway/ostlandet",
     "europe/norway/sorlandet",
     "europe/norway/trondelag",
     "europe/poland/dolnoslaskie",
@@ -123,6 +127,7 @@
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/lancashire",
     "europe/united-kingdom/england/leicestershire",
+    "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/oxfordshire",
@@ -164,26 +169,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/norway/ostlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/ostlandet-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/gelderland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/gelderland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/moravskoslezky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/moravskoslezky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/norfolk",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/norfolk-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/chubu",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/chubu-latest.osm.pbf"
-    },
     {
       "id": "europe/czech-republic/pardubicky",
       "pbf_url": "https://download.geofabrik.de/europe/czech-republic/pardubicky-latest.osm.pbf"
