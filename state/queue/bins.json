@@ -54,6 +54,7 @@
     "asia/myanmar",
     "asia/north-korea",
     "asia/pakistan",
+    "asia/philippines",
     "asia/south-korea",
     "asia/tajikistan",
     "asia/turkmenistan",
@@ -87,6 +88,7 @@
     "europe/france/pays-de-la-loire",
     "europe/france/picardie",
     "europe/france/provence-alpes-cote-d-azur",
+    "europe/germany/baden-wuerttemberg/tuebingen-regbez",
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
@@ -122,6 +124,7 @@
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
+    "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/england/cheshire",
     "europe/united-kingdom/england/cornwall",
@@ -157,6 +160,7 @@
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
     "north-america/us/colorado",
+    "north-america/us/florida",
     "north-america/us/louisiana",
     "north-america/us/maine",
     "north-america/us/nebraska",
@@ -167,6 +171,7 @@
     "russia/central-fed-district",
     "russia/north-caucasus-fed-district",
     "russia/northwestern-fed-district",
+    "russia/siberian-fed-district",
     "russia/south-fed-district",
     "russia/volga-fed-district",
     "south-america/bolivia",
@@ -179,26 +184,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/philippines",
-      "pbf_url": "https://download.geofabrik.de/asia/philippines-latest.osm.pbf"
-    },
-    {
-      "id": "russia/siberian-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/siberian-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/turkey",
-      "pbf_url": "https://download.geofabrik.de/europe/turkey-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/florida",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/florida-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/baden-wuerttemberg/tuebingen-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/tuebingen-regbez-latest.osm.pbf"
-    },
     {
       "id": "asia/china/zhejiang",
       "pbf_url": "https://download.geofabrik.de/asia/china/zhejiang-latest.osm.pbf"
