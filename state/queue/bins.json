@@ -7,6 +7,7 @@
     "africa/cameroon",
     "africa/chad",
     "africa/congo-democratic-republic",
+    "africa/ethiopia",
     "africa/ivory-coast",
     "africa/malawi",
     "africa/niger",
@@ -76,9 +77,11 @@
     "europe/poland/swietokrzyskie",
     "europe/poland/warminsko-mazurskie",
     "europe/portugal",
+    "europe/serbia",
     "europe/slovenia",
     "europe/spain/aragon",
     "europe/spain/asturias",
+    "europe/spain/cantabria",
     "europe/ukraine",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/devon",
@@ -104,31 +107,13 @@
     "north-america/us/wisconsin",
     "russia/central-fed-district",
     "russia/south-fed-district",
+    "south-america/bolivia",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
-    "south-america/colombia"
+    "south-america/colombia",
+    "south-america/paraguay"
   ],
   "remaining": [
-    {
-      "id": "europe/serbia",
-      "pbf_url": "https://download.geofabrik.de/europe/serbia-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/bolivia",
-      "pbf_url": "https://download.geofabrik.de/south-america/bolivia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/cantabria",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/cantabria-latest.osm.pbf"
-    },
-    {
-      "id": "africa/ethiopia",
-      "pbf_url": "https://download.geofabrik.de/africa/ethiopia-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/paraguay",
-      "pbf_url": "https://download.geofabrik.de/south-america/paraguay-latest.osm.pbf"
-    },
     {
       "id": "europe/france/champagne-ardenne",
       "pbf_url": "https://download.geofabrik.de/europe/france/champagne-ardenne-latest.osm.pbf"
