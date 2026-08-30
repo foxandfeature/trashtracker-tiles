@@ -12,6 +12,8 @@
     "asia/japan/chubu",
     "asia/japan/kanto",
     "australia-oceania/australia/new-south-wales",
+    "europe/france/bretagne",
+    "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/midi-pyrenees",
     "europe/france/pays-de-la-loire",
@@ -19,6 +21,7 @@
     "europe/italy/sud",
     "europe/moldova",
     "europe/netherlands/groningen",
+    "europe/poland/lubelskie",
     "europe/poland/mazowieckie",
     "europe/spain/aragon",
     "europe/united-kingdom/scotland",
@@ -26,29 +29,11 @@
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
-    "north-america/us/california/norcal"
+    "north-america/us/california/norcal",
+    "north-america/us/wisconsin",
+    "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/france/haute-normandie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/haute-normandie-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/colombia",
-      "pbf_url": "https://download.geofabrik.de/south-america/colombia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/lubelskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lubelskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/bretagne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/bretagne-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/wisconsin",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/wisconsin-latest.osm.pbf"
-    },
     {
       "id": "africa/somalia",
       "pbf_url": "https://download.geofabrik.de/africa/somalia-latest.osm.pbf"
