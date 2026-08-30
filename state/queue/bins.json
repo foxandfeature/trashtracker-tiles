@@ -44,6 +44,7 @@
     "africa/saint-helena-ascension-and-tristan-da-cunha",
     "africa/sao-tome-and-principe",
     "africa/senegal-and-gambia",
+    "africa/seychelles",
     "africa/sierra-leone",
     "africa/somalia",
     "africa/south-africa",
@@ -159,6 +160,7 @@
     "australia-oceania/fiji",
     "australia-oceania/ile-de-clipperton",
     "australia-oceania/kiribati",
+    "australia-oceania/marshall-islands",
     "australia-oceania/micronesia",
     "australia-oceania/nauru",
     "australia-oceania/new-caledonia",
@@ -166,7 +168,9 @@
     "australia-oceania/papua-new-guinea",
     "australia-oceania/pitcairn-islands",
     "australia-oceania/polynesie-francaise",
+    "australia-oceania/samoa",
     "australia-oceania/solomon-islands",
+    "australia-oceania/tonga",
     "australia-oceania/tuvalu",
     "australia-oceania/vanuatu",
     "australia-oceania/wallis-et-futuna",
@@ -465,6 +469,7 @@
     "north-america/us/south-dakota",
     "north-america/us/tennessee",
     "north-america/us/texas",
+    "north-america/us/us-virgin-islands",
     "north-america/us/utah",
     "north-america/us/vermont",
     "north-america/us/virginia",
@@ -499,26 +504,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/marshall-islands",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/marshall-islands-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/samoa",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/samoa-latest.osm.pbf"
-    },
-    {
-      "id": "africa/seychelles",
-      "pbf_url": "https://download.geofabrik.de/africa/seychelles-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/tonga",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/tonga-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/us-virgin-islands",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/us-virgin-islands-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/ceuta",
       "pbf_url": "https://download.geofabrik.de/europe/spain/ceuta-latest.osm.pbf"
