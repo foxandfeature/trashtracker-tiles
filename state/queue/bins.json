@@ -20,6 +20,7 @@
     "asia/china/guangxi",
     "asia/china/jiangxi",
     "asia/china/qinghai",
+    "asia/china/shaanxi",
     "asia/china/sichuan",
     "asia/china/tibet",
     "asia/china/xinjiang",
@@ -45,6 +46,7 @@
     "asia/turkmenistan",
     "asia/yemen",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/australia/victoria",
     "australia-oceania/papua-new-guinea",
     "central-america/costa-rica",
     "central-america/honduras",
@@ -70,6 +72,7 @@
     "europe/italy/sud",
     "europe/moldova",
     "europe/netherlands/groningen",
+    "europe/netherlands/limburg",
     "europe/netherlands/overijssel",
     "europe/norway/trondelag",
     "europe/poland/dolnoslaskie",
@@ -97,6 +100,7 @@
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/leicestershire",
+    "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -119,31 +123,12 @@
     "russia/south-fed-district",
     "south-america/bolivia",
     "south-america/brazil/nordeste",
+    "south-america/brazil/norte",
     "south-america/brazil/sudeste",
     "south-america/colombia",
     "south-america/paraguay"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/australia/victoria",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/victoria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/oxfordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/oxfordshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/limburg",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/limburg-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/norte",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/norte-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/shaanxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/shaanxi-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/podlaskie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/podlaskie-latest.osm.pbf"
