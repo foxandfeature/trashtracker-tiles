@@ -47,6 +47,7 @@
     "asia/kyrgyzstan",
     "asia/laos",
     "asia/myanmar",
+    "asia/north-korea",
     "asia/pakistan",
     "asia/south-korea",
     "asia/tajikistan",
@@ -104,12 +105,14 @@
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/spain/cantabria",
+    "europe/sweden",
     "europe/ukraine",
     "europe/united-kingdom/england/cheshire",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/dorset",
+    "europe/united-kingdom/england/durham",
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
@@ -122,6 +125,7 @@
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/new-brunswick",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
@@ -132,6 +136,7 @@
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/colorado",
+    "north-america/us/louisiana",
     "north-america/us/maine",
     "north-america/us/nebraska",
     "north-america/us/north-dakota",
@@ -149,26 +154,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/new-brunswick",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/new-brunswick-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/durham",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/durham-latest.osm.pbf"
-    },
-    {
-      "id": "asia/north-korea",
-      "pbf_url": "https://download.geofabrik.de/asia/north-korea-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/louisiana",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/louisiana-latest.osm.pbf"
-    },
-    {
-      "id": "europe/sweden",
-      "pbf_url": "https://download.geofabrik.de/europe/sweden-latest.osm.pbf"
-    },
     {
       "id": "europe/finland",
       "pbf_url": "https://download.geofabrik.de/europe/finland-latest.osm.pbf"
