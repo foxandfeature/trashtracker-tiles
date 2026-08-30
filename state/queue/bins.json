@@ -138,6 +138,7 @@
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
+    "europe/germany/brandenburg",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
@@ -169,6 +170,7 @@
     "europe/norway/ostlandet",
     "europe/norway/sorlandet",
     "europe/norway/trondelag",
+    "europe/norway/vestlandet",
     "europe/poland/dolnoslaskie",
     "europe/poland/kujawsko-pomorskie",
     "europe/poland/lodzkie",
@@ -193,10 +195,12 @@
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/spain/cantabria",
+    "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
     "europe/spain/extremadura",
     "europe/spain/islas-baleares",
     "europe/spain/la-rioja",
+    "europe/spain/madrid",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
@@ -267,6 +271,7 @@
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
+    "north-america/us/ohio",
     "north-america/us/pennsylvania",
     "north-america/us/texas",
     "north-america/us/virginia",
@@ -294,26 +299,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/ohio",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/ohio-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/brandenburg",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/brandenburg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/castilla-la-mancha",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/castilla-la-mancha-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/madrid",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/madrid-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/vestlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/vestlandet-latest.osm.pbf"
-    },
     {
       "id": "asia/vietnam",
       "pbf_url": "https://download.geofabrik.de/asia/vietnam-latest.osm.pbf"
