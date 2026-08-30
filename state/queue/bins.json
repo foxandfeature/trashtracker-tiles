@@ -36,6 +36,7 @@
     "asia/china/gansu",
     "asia/china/guangdong",
     "asia/china/guangxi",
+    "asia/china/guizhou",
     "asia/china/heilongjiang",
     "asia/china/hubei",
     "asia/china/inner-mongolia",
@@ -43,6 +44,7 @@
     "asia/china/jiangxi",
     "asia/china/qinghai",
     "asia/china/shaanxi",
+    "asia/china/shanghai",
     "asia/china/sichuan",
     "asia/china/tianjin",
     "asia/china/tibet",
@@ -165,6 +167,7 @@
     "europe/liechtenstein",
     "europe/moldova",
     "europe/netherlands/drenthe",
+    "europe/netherlands/flevoland",
     "europe/netherlands/friesland",
     "europe/netherlands/gelderland",
     "europe/netherlands/groningen",
@@ -219,6 +222,7 @@
     "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/england/bristol",
+    "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cheshire",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/cumbria",
@@ -280,6 +284,7 @@
     "north-america/us/maine",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
+    "north-america/us/minnesota",
     "north-america/us/nebraska",
     "north-america/us/new-jersey",
     "north-america/us/new-york",
@@ -314,26 +319,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/netherlands/flevoland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/flevoland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/cambridgeshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cambridgeshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/guizhou",
-      "pbf_url": "https://download.geofabrik.de/asia/china/guizhou-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/minnesota",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/minnesota-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/shanghai",
-      "pbf_url": "https://download.geofabrik.de/asia/china/shanghai-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/sachsen",
       "pbf_url": "https://download.geofabrik.de/europe/germany/sachsen-latest.osm.pbf"
