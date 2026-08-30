@@ -18,6 +18,7 @@
     "africa/lesotho",
     "africa/madagascar",
     "africa/malawi",
+    "africa/mali",
     "africa/morocco",
     "africa/mozambique",
     "africa/niger",
@@ -146,6 +147,7 @@
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
     "europe/france/limousin",
+    "europe/france/lorraine",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
@@ -153,6 +155,7 @@
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
@@ -301,6 +304,7 @@
     "north-america/us/florida",
     "north-america/us/georgia",
     "north-america/us/illinois",
+    "north-america/us/indiana",
     "north-america/us/louisiana",
     "north-america/us/maine",
     "north-america/us/maryland",
@@ -316,6 +320,7 @@
     "north-america/us/ohio",
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
+    "north-america/us/south-carolina",
     "north-america/us/texas",
     "north-america/us/virginia",
     "north-america/us/washington",
@@ -344,26 +349,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/france/lorraine",
-      "pbf_url": "https://download.geofabrik.de/europe/france/lorraine-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/baden-wuerttemberg/stuttgart-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/stuttgart-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/indiana",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/indiana-latest.osm.pbf"
-    },
-    {
-      "id": "africa/mali",
-      "pbf_url": "https://download.geofabrik.de/africa/mali-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/south-carolina",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/south-carolina-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/tennessee",
       "pbf_url": "https://download.geofabrik.de/north-america/us/tennessee-latest.osm.pbf"
