@@ -34,6 +34,7 @@
     "africa/malawi",
     "africa/mali",
     "africa/mauritania",
+    "africa/mauritius",
     "africa/morocco",
     "africa/mozambique",
     "africa/namibia",
@@ -81,6 +82,7 @@
     "asia/china/jilin",
     "asia/china/liaoning",
     "asia/china/macau",
+    "asia/china/ningxia",
     "asia/china/qinghai",
     "asia/china/shaanxi",
     "asia/china/shandong",
@@ -214,6 +216,7 @@
     "europe/france/limousin",
     "europe/france/lorraine",
     "europe/france/martinique",
+    "europe/france/mayotte",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
@@ -269,6 +272,7 @@
     "europe/lithuania",
     "europe/luxembourg",
     "europe/macedonia",
+    "europe/malta",
     "europe/moldova",
     "europe/montenegro",
     "europe/netherlands/drenthe",
@@ -394,6 +398,7 @@
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
+    "north-america/canada/prince-edward-island",
     "north-america/canada/quebec",
     "north-america/canada/saskatchewan",
     "north-america/canada/yukon",
@@ -479,26 +484,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/malta",
-      "pbf_url": "https://download.geofabrik.de/europe/malta-latest.osm.pbf"
-    },
-    {
-      "id": "africa/mauritius",
-      "pbf_url": "https://download.geofabrik.de/africa/mauritius-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/mayotte",
-      "pbf_url": "https://download.geofabrik.de/europe/france/mayotte-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/ningxia",
-      "pbf_url": "https://download.geofabrik.de/asia/china/ningxia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/prince-edward-island",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/prince-edward-island-latest.osm.pbf"
-    },
     {
       "id": "europe/norway/svalbard-janmayen",
       "pbf_url": "https://download.geofabrik.de/europe/norway/svalbard-janmayen-latest.osm.pbf"
