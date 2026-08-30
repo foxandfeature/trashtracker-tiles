@@ -15,7 +15,9 @@
     "asia/japan/chubu",
     "asia/japan/kanto",
     "asia/japan/kyushu",
+    "asia/japan/shikoku",
     "australia-oceania/australia/new-south-wales",
+    "europe/albania",
     "europe/france/alsace",
     "europe/france/bretagne",
     "europe/france/ile-de-france",
@@ -26,6 +28,7 @@
     "europe/netherlands/groningen",
     "europe/poland/lubelskie",
     "europe/poland/mazowieckie",
+    "europe/poland/opolskie",
     "europe/poland/warminsko-mazurskie",
     "europe/spain/aragon",
     "europe/united-kingdom/scotland",
@@ -34,31 +37,13 @@
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/us/california/norcal",
+    "north-america/us/washington",
     "north-america/us/wisconsin",
+    "russia/south-fed-district",
     "south-america/brazil/sudeste",
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "russia/south-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/south-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/opolskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/opolskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/albania",
-      "pbf_url": "https://download.geofabrik.de/europe/albania-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/shikoku",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/shikoku-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/washington",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/washington-latest.osm.pbf"
-    },
     {
       "id": "europe/netherlands/overijssel",
       "pbf_url": "https://download.geofabrik.de/europe/netherlands/overijssel-latest.osm.pbf"
