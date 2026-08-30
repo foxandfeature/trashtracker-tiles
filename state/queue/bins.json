@@ -23,6 +23,7 @@
     "asia/myanmar",
     "asia/south-korea",
     "australia-oceania/australia/new-south-wales",
+    "europe/albania",
     "europe/france/alsace",
     "europe/france/bretagne",
     "europe/france/haute-normandie",
@@ -35,8 +36,10 @@
     "europe/netherlands/overijssel",
     "europe/poland/lubelskie",
     "europe/poland/mazowieckie",
+    "europe/poland/opolskie",
     "europe/poland/warminsko-mazurskie",
     "europe/spain/aragon",
+    "europe/spain/asturias",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/scotland",
     "north-america/canada/british-columbia/north-admreg",
@@ -44,31 +47,13 @@
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/us/california/norcal",
+    "north-america/us/washington",
     "north-america/us/wisconsin",
     "russia/south-fed-district",
+    "south-america/brazil/sudeste",
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "south-america/brazil/sudeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/sudeste-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/asturias",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/asturias-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/opolskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/opolskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/albania",
-      "pbf_url": "https://download.geofabrik.de/europe/albania-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/washington",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/washington-latest.osm.pbf"
-    },
     {
       "id": "europe/belarus",
       "pbf_url": "https://download.geofabrik.de/europe/belarus-latest.osm.pbf"
