@@ -90,11 +90,13 @@
     "europe/france/pays-de-la-loire",
     "europe/france/picardie",
     "europe/france/provence-alpes-cote-d-azur",
+    "europe/france/rhone-alpes",
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/iceland",
     "europe/isle-of-man",
+    "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/moldova",
     "europe/netherlands/groningen",
@@ -120,12 +122,14 @@
     "europe/spain/asturias",
     "europe/spain/cantabria",
     "europe/sweden",
+    "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/england/cheshire",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/dorset",
+    "europe/united-kingdom/england/durham",
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
@@ -146,6 +150,7 @@
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
+    "north-america/canada/prince-edward-island",
     "north-america/canada/quebec",
     "north-america/mexico",
     "north-america/us/alaska",
@@ -174,26 +179,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/durham",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/durham-latest.osm.pbf"
-    },
-    {
-      "id": "europe/turkey",
-      "pbf_url": "https://download.geofabrik.de/europe/turkey-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/nord-est",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/nord-est-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/prince-edward-island",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/prince-edward-island-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/rhone-alpes",
-      "pbf_url": "https://download.geofabrik.de/europe/france/rhone-alpes-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/california/socal",
       "pbf_url": "https://download.geofabrik.de/north-america/us/california/socal-latest.osm.pbf"
