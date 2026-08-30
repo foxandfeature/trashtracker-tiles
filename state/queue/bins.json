@@ -8,6 +8,7 @@
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/guinea-bissau",
+    "africa/kenya",
     "africa/morocco",
     "africa/niger",
     "africa/nigeria",
@@ -34,6 +35,7 @@
     "asia/indonesia/kalimantan",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
+    "asia/iran",
     "asia/iraq",
     "asia/japan/chubu",
     "asia/japan/chugoku",
@@ -89,6 +91,7 @@
     "europe/iceland",
     "europe/ireland-and-northern-ireland",
     "europe/isle-of-man",
+    "europe/italy/centro",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
@@ -98,6 +101,8 @@
     "europe/netherlands/friesland",
     "europe/netherlands/gelderland",
     "europe/netherlands/limburg",
+    "europe/netherlands/noord-brabant",
+    "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
     "europe/netherlands/zeeland",
     "europe/norway/nord-norge",
@@ -199,26 +204,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/iran",
-      "pbf_url": "https://download.geofabrik.de/asia/iran-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/noord-brabant",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/noord-brabant-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/noord-holland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/noord-holland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/centro",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/centro-latest.osm.pbf"
-    },
-    {
-      "id": "africa/kenya",
-      "pbf_url": "https://download.geofabrik.de/africa/kenya-latest.osm.pbf"
-    },
     {
       "id": "asia/china/hubei",
       "pbf_url": "https://download.geofabrik.de/asia/china/hubei-latest.osm.pbf"
