@@ -11,6 +11,7 @@
     "africa/egypt",
     "africa/eritrea",
     "africa/ethiopia",
+    "africa/guinea",
     "africa/guinea-bissau",
     "africa/kenya",
     "africa/lesotho",
@@ -100,6 +101,7 @@
     "asia/sri-lanka",
     "asia/taiwan",
     "asia/thailand",
+    "asia/uzbekistan",
     "asia/vietnam",
     "asia/yemen",
     "australia-oceania/australia/act",
@@ -108,6 +110,7 @@
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
+    "australia-oceania/australia/western-australia",
     "australia-oceania/fiji",
     "australia-oceania/ile-de-clipperton",
     "australia-oceania/micronesia",
@@ -147,6 +150,7 @@
     "europe/czech-republic/ustecky",
     "europe/czech-republic/vysocina",
     "europe/denmark",
+    "europe/estonia",
     "europe/finland",
     "europe/france/alsace",
     "europe/france/aquitaine",
@@ -353,6 +357,7 @@
     "north-america/us/minnesota",
     "north-america/us/missouri",
     "north-america/us/nebraska",
+    "north-america/us/nevada",
     "north-america/us/new-jersey",
     "north-america/us/new-mexico",
     "north-america/us/new-york",
@@ -394,26 +399,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/estonia",
-      "pbf_url": "https://download.geofabrik.de/europe/estonia-latest.osm.pbf"
-    },
-    {
-      "id": "africa/guinea",
-      "pbf_url": "https://download.geofabrik.de/africa/guinea-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/nevada",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/nevada-latest.osm.pbf"
-    },
-    {
-      "id": "asia/uzbekistan",
-      "pbf_url": "https://download.geofabrik.de/asia/uzbekistan-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/western-australia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/western-australia-latest.osm.pbf"
-    },
     {
       "id": "africa/ghana",
       "pbf_url": "https://download.geofabrik.de/africa/ghana-latest.osm.pbf"
