@@ -3,32 +3,17 @@
   "failed": [],
   "lock": [
     "africa/tanzania",
+    "asia/india/central-zone",
     "asia/indonesia/sumatra",
+    "europe/france/provence-alpes-cote-d-azur",
+    "europe/poland/warminsko-mazurskie",
     "europe/united-kingdom/scotland",
     "north-america/canada/british-columbia/north-admreg",
-    "north-america/canada/nunavut/qikiqtaaluk"
+    "north-america/canada/nunavut/kivalliq",
+    "north-america/canada/nunavut/qikiqtaaluk",
+    "north-america/us/california/norcal"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/nunavut/kivalliq",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/nunavut/kivalliq-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/central-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/central-zone-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/california/norcal",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/california/norcal-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/provence-alpes-cote-d-azur",
-      "pbf_url": "https://download.geofabrik.de/europe/france/provence-alpes-cote-d-azur-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/warminsko-mazurskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/warminsko-mazurskie-latest.osm.pbf"
-    },
     {
       "id": "africa/congo-democratic-republic",
       "pbf_url": "https://download.geofabrik.de/africa/congo-democratic-republic-latest.osm.pbf"
