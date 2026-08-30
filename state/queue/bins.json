@@ -39,12 +39,14 @@
     "asia/china/guizhou",
     "asia/china/heilongjiang",
     "asia/china/hubei",
+    "asia/china/hunan",
     "asia/china/inner-mongolia",
     "asia/china/jiangsu",
     "asia/china/jiangxi",
     "asia/china/jilin",
     "asia/china/qinghai",
     "asia/china/shaanxi",
+    "asia/china/shanghai",
     "asia/china/sichuan",
     "asia/china/tianjin",
     "asia/china/tibet",
@@ -55,6 +57,7 @@
     "asia/india/central-zone",
     "asia/india/eastern-zone",
     "asia/india/north-eastern-zone",
+    "asia/india/northern-zone",
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
@@ -184,6 +187,7 @@
     "europe/netherlands/noord-brabant",
     "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
+    "europe/netherlands/utrecht",
     "europe/netherlands/zeeland",
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
@@ -299,6 +303,7 @@
     "north-america/us/minnesota",
     "north-america/us/nebraska",
     "north-america/us/new-jersey",
+    "north-america/us/new-mexico",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
@@ -334,26 +339,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/new-mexico",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-mexico-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/shanghai",
-      "pbf_url": "https://download.geofabrik.de/asia/china/shanghai-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/utrecht",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/utrecht-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/northern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/northern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hunan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hunan-latest.osm.pbf"
-    },
     {
       "id": "africa/lesotho",
       "pbf_url": "https://download.geofabrik.de/africa/lesotho-latest.osm.pbf"
