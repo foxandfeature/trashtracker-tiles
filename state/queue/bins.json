@@ -189,7 +189,9 @@
     "europe/germany/bayern/niederbayern",
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
+    "europe/germany/bayern/oberpfalz",
     "europe/germany/bayern/schwaben",
+    "europe/germany/bayern/unterfranken",
     "europe/germany/berlin",
     "europe/germany/brandenburg",
     "europe/germany/bremen",
@@ -331,6 +333,7 @@
     "north-america/canada/new-brunswick",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/northwest-territories",
+    "north-america/canada/nova-scotia",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
@@ -365,6 +368,7 @@
     "north-america/us/minnesota",
     "north-america/us/mississippi",
     "north-america/us/missouri",
+    "north-america/us/montana",
     "north-america/us/nebraska",
     "north-america/us/nevada",
     "north-america/us/new-jersey",
@@ -376,6 +380,7 @@
     "north-america/us/oklahoma",
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
+    "north-america/us/puerto-rico",
     "north-america/us/south-carolina",
     "north-america/us/tennessee",
     "north-america/us/texas",
@@ -409,26 +414,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/nova-scotia",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/nova-scotia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/unterfranken",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/unterfranken-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/oberpfalz",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberpfalz-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/montana",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/montana-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/puerto-rico",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/puerto-rico-latest.osm.pbf"
-    },
     {
       "id": "africa/angola",
       "pbf_url": "https://download.geofabrik.de/africa/angola-latest.osm.pbf"
