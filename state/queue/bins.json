@@ -32,6 +32,7 @@
     "africa/nigeria",
     "africa/rwanda",
     "africa/senegal-and-gambia",
+    "africa/sierra-leone",
     "africa/somalia",
     "africa/south-africa",
     "africa/south-sudan",
@@ -88,6 +89,7 @@
     "asia/japan/tohoku",
     "asia/kazakhstan",
     "asia/kyrgyzstan",
+    "asia/laos",
     "asia/lebanon",
     "asia/malaysia-singapore-brunei",
     "asia/mongolia",
@@ -131,6 +133,7 @@
     "europe/czech-republic/olomoucky",
     "europe/czech-republic/pardubicky",
     "europe/czech-republic/plzensky",
+    "europe/czech-republic/praha",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/vysocina",
@@ -244,6 +247,7 @@
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
     "europe/spain/galicia",
+    "europe/spain/islas-baleares",
     "europe/spain/madrid",
     "europe/spain/murcia",
     "europe/spain/pais-vasco",
@@ -263,6 +267,7 @@
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/hertfordshire",
     "europe/united-kingdom/england/kent",
+    "europe/united-kingdom/england/lincolnshire",
     "europe/united-kingdom/england/merseyside",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/nottinghamshire",
@@ -364,26 +369,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/islas-baleares",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/islas-baleares-latest.osm.pbf"
-    },
-    {
-      "id": "asia/laos",
-      "pbf_url": "https://download.geofabrik.de/asia/laos-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/lincolnshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/lincolnshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/praha",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/praha-latest.osm.pbf"
-    },
-    {
-      "id": "africa/sierra-leone",
-      "pbf_url": "https://download.geofabrik.de/africa/sierra-leone-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/surrey",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/surrey-latest.osm.pbf"
