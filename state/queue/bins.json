@@ -9,6 +9,7 @@
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/ethiopia",
+    "africa/ghana",
     "africa/ivory-coast",
     "africa/malawi",
     "africa/niger",
@@ -16,6 +17,7 @@
     "africa/somalia",
     "africa/sudan",
     "africa/tanzania",
+    "asia/afghanistan",
     "asia/china/beijing",
     "asia/china/guangdong",
     "asia/china/guangxi",
@@ -69,6 +71,7 @@
     "europe/france/picardie",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/germany/bayern/oberfranken",
+    "europe/germany/berlin",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/iceland",
     "europe/italy/nord-ovest",
@@ -114,12 +117,14 @@
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
+    "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/colorado",
     "north-america/us/maine",
     "north-america/us/nebraska",
+    "north-america/us/north-dakota",
     "north-america/us/washington",
     "north-america/us/wisconsin",
     "russia/central-fed-district",
@@ -134,26 +139,6 @@
     "south-america/paraguay"
   ],
   "remaining": [
-    {
-      "id": "asia/afghanistan",
-      "pbf_url": "https://download.geofabrik.de/asia/afghanistan-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/ontario",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/ontario-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/berlin",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/berlin-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/north-dakota",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/north-dakota-latest.osm.pbf"
-    },
-    {
-      "id": "africa/ghana",
-      "pbf_url": "https://download.geofabrik.de/africa/ghana-latest.osm.pbf"
-    },
     {
       "id": "south-america/venezuela",
       "pbf_url": "https://download.geofabrik.de/south-america/venezuela-latest.osm.pbf"
