@@ -36,10 +36,12 @@
     "asia/china/gansu",
     "asia/china/guangdong",
     "asia/china/guangxi",
+    "asia/china/heilongjiang",
     "asia/china/hubei",
     "asia/china/inner-mongolia",
     "asia/china/jiangsu",
     "asia/china/jiangxi",
+    "asia/china/jilin",
     "asia/china/qinghai",
     "asia/china/shaanxi",
     "asia/china/sichuan",
@@ -56,6 +58,7 @@
     "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/indonesia/kalimantan",
+    "asia/indonesia/maluku",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/iran",
@@ -201,6 +204,7 @@
     "europe/serbia",
     "europe/slovakia",
     "europe/slovenia",
+    "europe/spain/andalucia",
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/spain/cantabria",
@@ -208,6 +212,7 @@
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
     "europe/spain/extremadura",
+    "europe/spain/galicia",
     "europe/spain/islas-baleares",
     "europe/spain/la-rioja",
     "europe/spain/madrid",
@@ -314,26 +319,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/andalucia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/andalucia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/jilin",
-      "pbf_url": "https://download.geofabrik.de/asia/china/jilin-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/heilongjiang",
-      "pbf_url": "https://download.geofabrik.de/asia/china/heilongjiang-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/maluku",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/maluku-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/galicia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/galicia-latest.osm.pbf"
-    },
     {
       "id": "south-america/brazil/centro-oeste",
       "pbf_url": "https://download.geofabrik.de/south-america/brazil/centro-oeste-latest.osm.pbf"
