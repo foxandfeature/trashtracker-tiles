@@ -14,6 +14,7 @@
     "africa/guinea-bissau",
     "africa/ivory-coast",
     "africa/kenya",
+    "africa/lesotho",
     "africa/madagascar",
     "africa/malawi",
     "africa/morocco",
@@ -55,6 +56,7 @@
     "asia/india/central-zone",
     "asia/india/eastern-zone",
     "asia/india/north-eastern-zone",
+    "asia/india/northern-zone",
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
@@ -115,6 +117,7 @@
     "europe/belgium",
     "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
+    "europe/czech-republic/karlovarsky",
     "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/liberecky",
     "europe/czech-republic/moravskoslezky",
@@ -175,6 +178,7 @@
     "europe/liechtenstein",
     "europe/lithuania",
     "europe/moldova",
+    "europe/montenegro",
     "europe/netherlands/drenthe",
     "europe/netherlands/flevoland",
     "europe/netherlands/friesland",
@@ -321,6 +325,7 @@
     "russia/volga-fed-district",
     "south-america/argentina",
     "south-america/bolivia",
+    "south-america/brazil/centro-oeste",
     "south-america/brazil/nordeste",
     "south-america/brazil/norte",
     "south-america/brazil/sudeste",
@@ -334,26 +339,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/lesotho",
-      "pbf_url": "https://download.geofabrik.de/africa/lesotho-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/northern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/northern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/centro-oeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/centro-oeste-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/karlovarsky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/karlovarsky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/montenegro",
-      "pbf_url": "https://download.geofabrik.de/europe/montenegro-latest.osm.pbf"
-    },
     {
       "id": "asia/japan/hokkaido",
       "pbf_url": "https://download.geofabrik.de/asia/japan/hokkaido-latest.osm.pbf"
