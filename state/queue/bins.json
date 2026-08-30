@@ -20,12 +20,14 @@
     "africa/niger",
     "africa/nigeria",
     "africa/rwanda",
+    "africa/saint-helena-ascension-and-tristan-da-cunha",
     "africa/senegal-and-gambia",
     "africa/somalia",
     "africa/south-africa",
     "africa/sudan",
     "africa/tanzania",
     "africa/uganda",
+    "africa/zambia",
     "asia/afghanistan",
     "asia/bangladesh",
     "asia/china/beijing",
@@ -111,6 +113,7 @@
     "europe/finland",
     "europe/france/alsace",
     "europe/france/aquitaine",
+    "europe/france/basse-normandie",
     "europe/france/bretagne",
     "europe/france/centre",
     "europe/france/champagne-ardenne",
@@ -176,6 +179,7 @@
     "europe/poland/wielkopolskie",
     "europe/poland/zachodniopomorskie",
     "europe/portugal",
+    "europe/romania",
     "europe/serbia",
     "europe/slovakia",
     "europe/slovenia",
@@ -249,6 +253,7 @@
     "north-america/us/louisiana",
     "north-america/us/maine",
     "north-america/us/massachusetts",
+    "north-america/us/michigan",
     "north-america/us/nebraska",
     "north-america/us/new-jersey",
     "north-america/us/new-york",
@@ -279,26 +284,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/france/basse-normandie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/basse-normandie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/romania",
-      "pbf_url": "https://download.geofabrik.de/europe/romania-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/michigan",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/michigan-latest.osm.pbf"
-    },
-    {
-      "id": "africa/zambia",
-      "pbf_url": "https://download.geofabrik.de/africa/zambia-latest.osm.pbf"
-    },
-    {
-      "id": "africa/saint-helena-ascension-and-tristan-da-cunha",
-      "pbf_url": "https://download.geofabrik.de/africa/saint-helena-ascension-and-tristan-da-cunha-latest.osm.pbf"
-    },
     {
       "id": "south-america/chile",
       "pbf_url": "https://download.geofabrik.de/south-america/chile-latest.osm.pbf"
