@@ -15,6 +15,7 @@
     "africa/morocco",
     "africa/mozambique",
     "africa/nigeria",
+    "africa/somalia",
     "africa/south-africa",
     "africa/south-sudan",
     "africa/sudan",
@@ -32,6 +33,7 @@
     "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/indonesia/nusa-tenggara",
+    "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/iran",
     "asia/japan/chubu",
@@ -57,8 +59,10 @@
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
+    "europe/bosnia-herzegovina",
     "europe/bulgaria",
     "europe/croatia",
+    "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/stredocesky",
     "europe/denmark",
     "europe/finland",
@@ -155,6 +159,7 @@
     "north-america/us/indiana",
     "north-america/us/iowa",
     "north-america/us/kansas",
+    "north-america/us/kentucky",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
@@ -194,26 +199,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "asia/indonesia/sulawesi",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/sulawesi-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/moravskoslezky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/moravskoslezky-latest.osm.pbf"
-    },
-    {
-      "id": "africa/somalia",
-      "pbf_url": "https://download.geofabrik.de/africa/somalia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/kentucky",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/kentucky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/bosnia-herzegovina",
-      "pbf_url": "https://download.geofabrik.de/europe/bosnia-herzegovina-latest.osm.pbf"
-    },
     {
       "id": "south-america/paraguay",
       "pbf_url": "https://download.geofabrik.de/south-america/paraguay-latest.osm.pbf"
