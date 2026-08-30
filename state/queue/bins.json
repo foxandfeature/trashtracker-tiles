@@ -33,6 +33,7 @@
     "asia/china/tianjin",
     "asia/china/tibet",
     "asia/china/xinjiang",
+    "asia/china/zhejiang",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
     "asia/india/western-zone",
@@ -95,9 +96,11 @@
     "europe/iceland",
     "europe/ireland-and-northern-ireland",
     "europe/isle-of-man",
+    "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/moldova",
+    "europe/netherlands/drenthe",
     "europe/netherlands/groningen",
     "europe/netherlands/limburg",
     "europe/netherlands/overijssel",
@@ -135,12 +138,14 @@
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
+    "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/tyne-and-wear",
+    "europe/united-kingdom/england/west-sussex",
     "europe/united-kingdom/england/wiltshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -184,26 +189,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/zhejiang",
-      "pbf_url": "https://download.geofabrik.de/asia/china/zhejiang-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/hampshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/hampshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/west-sussex",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-sussex-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/drenthe",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/drenthe-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/nord-est",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/nord-est-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/zachodniopomorskie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/zachodniopomorskie-latest.osm.pbf"
