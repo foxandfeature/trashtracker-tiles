@@ -29,6 +29,7 @@
     "africa/senegal-and-gambia",
     "africa/somalia",
     "africa/south-africa",
+    "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
     "africa/uganda",
@@ -37,6 +38,7 @@
     "asia/afghanistan",
     "asia/bangladesh",
     "asia/china/beijing",
+    "asia/china/chongqing",
     "asia/china/gansu",
     "asia/china/guangdong",
     "asia/china/guangxi",
@@ -173,6 +175,7 @@
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
     "europe/germany/brandenburg",
+    "europe/germany/bremen",
     "europe/germany/hessen",
     "europe/germany/mecklenburg-vorpommern",
     "europe/germany/niedersachsen",
@@ -326,6 +329,7 @@
     "north-america/us/illinois",
     "north-america/us/indiana",
     "north-america/us/iowa",
+    "north-america/us/kansas",
     "north-america/us/louisiana",
     "north-america/us/maine",
     "north-america/us/maryland",
@@ -370,30 +374,11 @@
     "south-america/guyana",
     "south-america/paraguay",
     "south-america/peru",
+    "south-america/suriname",
     "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/kansas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/kansas-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/chongqing",
-      "pbf_url": "https://download.geofabrik.de/asia/china/chongqing-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bremen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bremen-latest.osm.pbf"
-    },
-    {
-      "id": "africa/south-sudan",
-      "pbf_url": "https://download.geofabrik.de/africa/south-sudan-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/suriname",
-      "pbf_url": "https://download.geofabrik.de/south-america/suriname-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/australia/tasmania",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/tasmania-latest.osm.pbf"
