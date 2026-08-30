@@ -86,6 +86,7 @@
     "europe/poland/podkarpackie",
     "europe/poland/podlaskie",
     "europe/poland/pomorskie",
+    "europe/poland/slaskie",
     "europe/poland/swietokrzyskie",
     "europe/poland/warminsko-mazurskie",
     "europe/poland/wielkopolskie",
@@ -96,8 +97,11 @@
     "europe/spain/asturias",
     "europe/spain/cantabria",
     "europe/spain/valencia",
+    "europe/sweden",
+    "europe/ukraine",
     "europe/united-kingdom/england/cheshire",
     "europe/united-kingdom/england/cornwall",
+    "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/dorset",
     "europe/united-kingdom/england/gloucestershire",
@@ -129,6 +133,7 @@
     "north-america/us/wisconsin",
     "russia/central-fed-district",
     "russia/north-caucasus-fed-district",
+    "russia/volga-fed-district",
     "south-america/bolivia",
     "south-america/brazil/nordeste",
     "south-america/brazil/norte",
@@ -139,26 +144,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/ukraine",
-      "pbf_url": "https://download.geofabrik.de/europe/ukraine-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/slaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/slaskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/cumbria",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cumbria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/sweden",
-      "pbf_url": "https://download.geofabrik.de/europe/sweden-latest.osm.pbf"
-    },
-    {
-      "id": "russia/volga-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/volga-fed-district-latest.osm.pbf"
-    },
     {
       "id": "europe/france/franche-comte",
       "pbf_url": "https://download.geofabrik.de/europe/france/franche-comte-latest.osm.pbf"
