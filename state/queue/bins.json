@@ -49,9 +49,11 @@
     "europe/france/picardie",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/germany/baden-wuerttemberg/tuebingen-regbez",
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
+    "europe/iceland",
     "europe/isle-of-man",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
@@ -59,6 +61,7 @@
     "europe/netherlands/drenthe",
     "europe/netherlands/limburg",
     "europe/norway/nord-norge",
+    "europe/norway/sorlandet",
     "europe/norway/trondelag",
     "europe/poland/dolnoslaskie",
     "europe/poland/kujawsko-pomorskie",
@@ -73,6 +76,7 @@
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
+    "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/cumbria",
@@ -109,31 +113,12 @@
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
+    "south-america/bolivia",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/baden-wuerttemberg/tuebingen-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/tuebingen-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/sorlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/sorlandet-latest.osm.pbf"
-    },
-    {
-      "id": "europe/turkey",
-      "pbf_url": "https://download.geofabrik.de/europe/turkey-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/bolivia",
-      "pbf_url": "https://download.geofabrik.de/south-america/bolivia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/iceland",
-      "pbf_url": "https://download.geofabrik.de/europe/iceland-latest.osm.pbf"
-    },
     {
       "id": "europe/netherlands/overijssel",
       "pbf_url": "https://download.geofabrik.de/europe/netherlands/overijssel-latest.osm.pbf"
