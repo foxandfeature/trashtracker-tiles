@@ -52,6 +52,7 @@
     "asia/nepal",
     "asia/pakistan",
     "asia/philippines",
+    "asia/taiwan",
     "asia/thailand",
     "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/new-south-wales",
@@ -81,11 +82,14 @@
     "europe/denmark",
     "europe/finland",
     "europe/france/alsace",
+    "europe/france/bourgogne",
     "europe/france/centre",
     "europe/france/champagne-ardenne",
     "europe/france/franche-comte",
     "europe/france/haute-normandie",
+    "europe/france/ile-de-france",
     "europe/france/limousin",
+    "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
     "europe/france/picardie",
@@ -101,6 +105,7 @@
     "europe/ireland-and-northern-ireland",
     "europe/isle-of-man",
     "europe/italy/centro",
+    "europe/italy/isole",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
@@ -219,26 +224,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/france/ile-de-france",
-      "pbf_url": "https://download.geofabrik.de/europe/france/ile-de-france-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/isole",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/isole-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/midi-pyrenees",
-      "pbf_url": "https://download.geofabrik.de/europe/france/midi-pyrenees-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/bourgogne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/bourgogne-latest.osm.pbf"
-    },
-    {
-      "id": "asia/taiwan",
-      "pbf_url": "https://download.geofabrik.de/asia/taiwan-latest.osm.pbf"
-    },
     {
       "id": "asia/gcc-states",
       "pbf_url": "https://download.geofabrik.de/asia/gcc-states-latest.osm.pbf"
