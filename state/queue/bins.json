@@ -24,6 +24,7 @@
     "asia/myanmar",
     "asia/south-korea",
     "australia-oceania/australia/new-south-wales",
+    "europe/belarus",
     "europe/france/alsace",
     "europe/france/bretagne",
     "europe/france/haute-normandie",
@@ -40,10 +41,12 @@
     "europe/netherlands/overijssel",
     "europe/poland/lubelskie",
     "europe/poland/mazowieckie",
+    "europe/poland/podkarpackie",
     "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
     "europe/spain/aragon",
     "europe/spain/asturias",
+    "europe/ukraine",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -52,33 +55,15 @@
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/us/california/norcal",
+    "north-america/us/washington",
     "north-america/us/wisconsin",
     "russia/south-fed-district",
+    "south-america/bolivia",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/washington",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/washington-latest.osm.pbf"
-    },
-    {
-      "id": "europe/belarus",
-      "pbf_url": "https://download.geofabrik.de/europe/belarus-latest.osm.pbf"
-    },
-    {
-      "id": "europe/ukraine",
-      "pbf_url": "https://download.geofabrik.de/europe/ukraine-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/bolivia",
-      "pbf_url": "https://download.geofabrik.de/south-america/bolivia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/podkarpackie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/podkarpackie-latest.osm.pbf"
-    },
     {
       "id": "africa/cameroon",
       "pbf_url": "https://download.geofabrik.de/africa/cameroon-latest.osm.pbf"
