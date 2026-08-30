@@ -43,6 +43,7 @@
     "asia/japan/kyushu",
     "asia/japan/shikoku",
     "asia/japan/tohoku",
+    "asia/jordan",
     "asia/kyrgyzstan",
     "asia/laos",
     "asia/myanmar",
@@ -60,9 +61,11 @@
     "europe/albania",
     "europe/austria",
     "europe/belarus",
+    "europe/belgium",
     "europe/czech-republic/liberecky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/zlinsky",
+    "europe/finland",
     "europe/france/alsace",
     "europe/france/bretagne",
     "europe/france/champagne-ardenne",
@@ -103,6 +106,7 @@
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/spain/cantabria",
+    "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
     "europe/ukraine",
@@ -134,6 +138,7 @@
     "north-america/us/alaska",
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
+    "north-america/us/california/socal",
     "north-america/us/colorado",
     "north-america/us/maine",
     "north-america/us/nebraska",
@@ -154,26 +159,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/jordan",
-      "pbf_url": "https://download.geofabrik.de/asia/jordan-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/california/socal",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/california/socal-latest.osm.pbf"
-    },
-    {
-      "id": "europe/finland",
-      "pbf_url": "https://download.geofabrik.de/europe/finland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/belgium",
-      "pbf_url": "https://download.geofabrik.de/europe/belgium-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/pais-vasco",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/pais-vasco-latest.osm.pbf"
-    },
     {
       "id": "africa/morocco",
       "pbf_url": "https://download.geofabrik.de/africa/morocco-latest.osm.pbf"
