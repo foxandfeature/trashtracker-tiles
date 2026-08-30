@@ -1,28 +1,14 @@
 {
   "done": [],
   "failed": [],
-  "lock": [],
+  "lock": [
+    "africa/tanzania",
+    "asia/india/central-zone",
+    "asia/indonesia/java",
+    "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/nunavut/kivalliq"
+  ],
   "remaining": [
-    {
-      "id": "asia/indonesia/java",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/java-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/north-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/north-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "africa/tanzania",
-      "pbf_url": "https://download.geofabrik.de/africa/tanzania-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/central-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/central-zone-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/nunavut/kivalliq",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/nunavut/kivalliq-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/mazowieckie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/mazowieckie-latest.osm.pbf"
