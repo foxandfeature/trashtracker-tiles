@@ -13,6 +13,7 @@
     "africa/ghana",
     "africa/guinea-bissau",
     "africa/ivory-coast",
+    "africa/madagascar",
     "africa/malawi",
     "africa/morocco",
     "africa/mozambique",
@@ -26,6 +27,7 @@
     "africa/tanzania",
     "africa/uganda",
     "asia/afghanistan",
+    "asia/bangladesh",
     "asia/china/beijing",
     "asia/china/gansu",
     "asia/china/guangdong",
@@ -88,6 +90,7 @@
     "central-america/haiti-and-domrep",
     "central-america/honduras",
     "central-america/nicaragua",
+    "central-america/panama",
     "europe/albania",
     "europe/andorra",
     "europe/austria",
@@ -100,6 +103,7 @@
     "europe/czech-republic/praha",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
+    "europe/czech-republic/vysocina",
     "europe/czech-republic/zlinsky",
     "europe/denmark",
     "europe/finland",
@@ -123,6 +127,7 @@
     "europe/germany/berlin",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
+    "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
     "europe/hungary",
     "europe/iceland",
@@ -264,26 +269,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/madagascar",
-      "pbf_url": "https://download.geofabrik.de/africa/madagascar-latest.osm.pbf"
-    },
-    {
-      "id": "asia/bangladesh",
-      "pbf_url": "https://download.geofabrik.de/asia/bangladesh-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/schleswig-holstein",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/schleswig-holstein-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/vysocina",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/vysocina-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/panama",
-      "pbf_url": "https://download.geofabrik.de/central-america/panama-latest.osm.pbf"
-    },
     {
       "id": "europe/slovakia",
       "pbf_url": "https://download.geofabrik.de/europe/slovakia-latest.osm.pbf"
