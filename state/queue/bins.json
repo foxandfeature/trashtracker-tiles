@@ -19,6 +19,7 @@
     "africa/morocco",
     "africa/mozambique",
     "africa/nigeria",
+    "africa/senegal-and-gambia",
     "africa/somalia",
     "africa/south-africa",
     "africa/south-sudan",
@@ -153,6 +154,7 @@
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/poland/podkarpackie",
+    "europe/poland/pomorskie",
     "europe/poland/slaskie",
     "europe/poland/wielkopolskie",
     "europe/portugal",
@@ -191,6 +193,7 @@
     "north-america/us/alabama",
     "north-america/us/alaska",
     "north-america/us/arizona",
+    "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
     "north-america/us/colorado",
@@ -209,6 +212,7 @@
     "north-america/us/michigan",
     "north-america/us/minnesota",
     "north-america/us/missouri",
+    "north-america/us/nebraska",
     "north-america/us/nevada",
     "north-america/us/new-jersey",
     "north-america/us/new-mexico",
@@ -219,6 +223,7 @@
     "north-america/us/oklahoma",
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
+    "north-america/us/puerto-rico",
     "north-america/us/south-carolina",
     "north-america/us/tennessee",
     "north-america/us/texas",
@@ -249,26 +254,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/puerto-rico",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/puerto-rico-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/pomorskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/pomorskie-latest.osm.pbf"
-    },
-    {
-      "id": "africa/senegal-and-gambia",
-      "pbf_url": "https://download.geofabrik.de/africa/senegal-and-gambia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/arkansas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/arkansas-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/nebraska",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/nebraska-latest.osm.pbf"
-    },
     {
       "id": "europe/netherlands/utrecht",
       "pbf_url": "https://download.geofabrik.de/europe/netherlands/utrecht-latest.osm.pbf"
