@@ -6,6 +6,7 @@
     "africa/somalia",
     "africa/tanzania",
     "asia/china/sichuan",
+    "asia/china/tibet",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
     "asia/india/western-zone",
@@ -16,10 +17,13 @@
     "asia/japan/kyushu",
     "asia/japan/shikoku",
     "asia/japan/tohoku",
+    "asia/myanmar",
     "australia-oceania/australia/new-south-wales",
     "europe/france/alsace",
+    "europe/france/bretagne",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
+    "europe/france/midi-pyrenees",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/moldova",
@@ -28,6 +32,7 @@
     "europe/poland/lubelskie",
     "europe/poland/mazowieckie",
     "europe/spain/aragon",
+    "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/scotland",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/nunavut/kitikmeot",
@@ -39,26 +44,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "asia/china/tibet",
-      "pbf_url": "https://download.geofabrik.de/asia/china/tibet-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/midi-pyrenees",
-      "pbf_url": "https://download.geofabrik.de/europe/france/midi-pyrenees-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/bretagne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/bretagne-latest.osm.pbf"
-    },
-    {
-      "id": "asia/myanmar",
-      "pbf_url": "https://download.geofabrik.de/asia/myanmar-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/gloucestershire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/gloucestershire-latest.osm.pbf"
-    },
     {
       "id": "asia/japan/chugoku",
       "pbf_url": "https://download.geofabrik.de/asia/japan/chugoku-latest.osm.pbf"
