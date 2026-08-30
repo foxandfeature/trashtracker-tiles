@@ -32,6 +32,7 @@
     "asia/china/gansu",
     "asia/china/guizhou",
     "asia/china/heilongjiang",
+    "asia/china/hong-kong",
     "asia/china/hubei",
     "asia/china/hunan",
     "asia/china/inner-mongolia",
@@ -105,6 +106,8 @@
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
+    "europe/bosnia-herzegovina",
+    "europe/croatia",
     "europe/cyprus",
     "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
@@ -143,6 +146,7 @@
     "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/baden-wuerttemberg/tuebingen-regbez",
+    "europe/germany/bayern/niederbayern",
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
@@ -209,6 +213,7 @@
     "europe/serbia",
     "europe/slovakia",
     "europe/slovenia",
+    "europe/spain/andalucia",
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/spain/castilla-la-mancha",
@@ -329,26 +334,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/hong-kong",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hong-kong-latest.osm.pbf"
-    },
-    {
-      "id": "europe/croatia",
-      "pbf_url": "https://download.geofabrik.de/europe/croatia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/niederbayern",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/niederbayern-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/andalucia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/andalucia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/bosnia-herzegovina",
-      "pbf_url": "https://download.geofabrik.de/europe/bosnia-herzegovina-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/oklahoma",
       "pbf_url": "https://download.geofabrik.de/north-america/us/oklahoma-latest.osm.pbf"
