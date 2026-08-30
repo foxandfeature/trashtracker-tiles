@@ -27,6 +27,7 @@
     "asia/jordan",
     "asia/laos",
     "asia/pakistan",
+    "asia/philippines",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/fiji",
     "central-america/costa-rica",
@@ -42,6 +43,7 @@
     "europe/france/franche-comte",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
+    "europe/france/picardie",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/bayern/oberfranken",
@@ -88,7 +90,10 @@
     "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/us/california/norcal",
+    "north-america/us/california/socal",
+    "north-america/us/louisiana",
     "north-america/us/north-dakota",
+    "north-america/us/texas",
     "north-america/us/washington",
     "russia/central-fed-district",
     "russia/northwestern-fed-district",
@@ -99,26 +104,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/france/picardie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/picardie-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/california/socal",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/california/socal-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/texas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/texas-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/louisiana",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/louisiana-latest.osm.pbf"
-    },
-    {
-      "id": "asia/philippines",
-      "pbf_url": "https://download.geofabrik.de/asia/philippines-latest.osm.pbf"
-    },
     {
       "id": "africa/senegal-and-gambia",
       "pbf_url": "https://download.geofabrik.de/africa/senegal-and-gambia-latest.osm.pbf"
