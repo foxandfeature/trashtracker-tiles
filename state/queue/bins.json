@@ -2,38 +2,23 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/congo-democratic-republic",
     "africa/tanzania",
     "asia/india/central-zone",
+    "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/indonesia/sumatra",
     "asia/japan/chubu",
     "asia/japan/kanto",
+    "europe/moldova",
     "europe/poland/mazowieckie",
+    "europe/spain/aragon",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/aragon",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/aragon-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/nunavut/kitikmeot",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/nunavut/kitikmeot-latest.osm.pbf"
-    },
-    {
-      "id": "africa/congo-democratic-republic",
-      "pbf_url": "https://download.geofabrik.de/africa/congo-democratic-republic-latest.osm.pbf"
-    },
-    {
-      "id": "europe/moldova",
-      "pbf_url": "https://download.geofabrik.de/europe/moldova-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/western-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/western-zone-latest.osm.pbf"
-    },
     {
       "id": "europe/france/provence-alpes-cote-d-azur",
       "pbf_url": "https://download.geofabrik.de/europe/france/provence-alpes-cote-d-azur-latest.osm.pbf"
