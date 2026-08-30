@@ -4,6 +4,7 @@
   "lock": [
     "africa/congo-democratic-republic",
     "africa/tanzania",
+    "asia/china/sichuan",
     "asia/india/central-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
@@ -11,8 +12,12 @@
     "asia/japan/chubu",
     "asia/japan/kanto",
     "australia-oceania/australia/new-south-wales",
+    "europe/france/ile-de-france",
+    "europe/france/midi-pyrenees",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
+    "europe/germany/nordrhein-westfalen/koeln-regbez",
+    "europe/italy/sud",
     "europe/moldova",
     "europe/poland/mazowieckie",
     "europe/spain/aragon",
@@ -24,26 +29,6 @@
     "north-america/us/california/norcal"
   ],
   "remaining": [
-    {
-      "id": "asia/china/sichuan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/sichuan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/sud",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/sud-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/ile-de-france",
-      "pbf_url": "https://download.geofabrik.de/europe/france/ile-de-france-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/midi-pyrenees",
-      "pbf_url": "https://download.geofabrik.de/europe/france/midi-pyrenees-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/koeln-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/koeln-regbez-latest.osm.pbf"
-    },
     {
       "id": "europe/netherlands/groningen",
       "pbf_url": "https://download.geofabrik.de/europe/netherlands/groningen-latest.osm.pbf"
