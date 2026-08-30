@@ -3,6 +3,7 @@
   "failed": [],
   "lock": [
     "africa/botswana",
+    "africa/burkina-faso",
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/guinea-bissau",
@@ -30,6 +31,7 @@
     "asia/iraq",
     "asia/japan/chugoku",
     "asia/japan/kansai",
+    "asia/japan/kanto",
     "asia/jordan",
     "asia/kazakhstan",
     "asia/laos",
@@ -67,6 +69,7 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/moldova",
     "europe/netherlands/drenthe",
     "europe/netherlands/friesland",
     "europe/netherlands/limburg",
@@ -82,6 +85,7 @@
     "europe/poland/opolskie",
     "europe/poland/podkarpackie",
     "europe/poland/podlaskie",
+    "europe/poland/pomorskie",
     "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
     "europe/poland/zachodniopomorskie",
@@ -107,6 +111,7 @@
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/north-yorkshire",
+    "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/west-midlands",
@@ -144,26 +149,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/poland/pomorskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/pomorskie-latest.osm.pbf"
-    },
-    {
-      "id": "africa/burkina-faso",
-      "pbf_url": "https://download.geofabrik.de/africa/burkina-faso-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/nottinghamshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/nottinghamshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/kanto",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kanto-latest.osm.pbf"
-    },
-    {
-      "id": "europe/moldova",
-      "pbf_url": "https://download.geofabrik.de/europe/moldova-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/bristol",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/bristol-latest.osm.pbf"
