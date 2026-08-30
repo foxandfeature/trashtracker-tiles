@@ -42,6 +42,7 @@
     "africa/nigeria",
     "africa/rwanda",
     "africa/saint-helena-ascension-and-tristan-da-cunha",
+    "africa/sao-tome-and-principe",
     "africa/senegal-and-gambia",
     "africa/seychelles",
     "africa/sierra-leone",
@@ -147,6 +148,9 @@
     "asia/yemen",
     "australia-oceania/american-oceania",
     "australia-oceania/australia/act",
+    "australia-oceania/australia/christmas-island",
+    "australia-oceania/australia/cocos-islands",
+    "australia-oceania/australia/coral-sea-islands",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/northern-territory",
     "australia-oceania/australia/queensland",
@@ -168,6 +172,7 @@
     "australia-oceania/solomon-islands",
     "australia-oceania/tonga",
     "australia-oceania/vanuatu",
+    "australia-oceania/wallis-et-futuna",
     "central-america/bahamas",
     "central-america/belize",
     "central-america/costa-rica",
@@ -499,26 +504,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/sao-tome-and-principe",
-      "pbf_url": "https://download.geofabrik.de/africa/sao-tome-and-principe-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/wallis-et-futuna",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/wallis-et-futuna-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/christmas-island",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/christmas-island-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/cocos-islands",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/cocos-islands-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/coral-sea-islands",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/coral-sea-islands-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/ile-de-clipperton",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/ile-de-clipperton-latest.osm.pbf"
