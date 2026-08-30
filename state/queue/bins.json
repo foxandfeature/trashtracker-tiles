@@ -54,6 +54,7 @@
     "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/indonesia/kalimantan",
+    "asia/indonesia/papua",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/iran",
@@ -70,6 +71,7 @@
     "asia/kyrgyzstan",
     "asia/laos",
     "asia/lebanon",
+    "asia/malaysia-singapore-brunei",
     "asia/maldives",
     "asia/myanmar",
     "asia/nepal",
@@ -131,6 +133,7 @@
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
     "europe/france/picardie",
+    "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/bayern/oberbayern",
@@ -184,6 +187,7 @@
     "europe/poland/wielkopolskie",
     "europe/poland/zachodniopomorskie",
     "europe/portugal",
+    "europe/romania",
     "europe/serbia",
     "europe/slovakia",
     "europe/slovenia",
@@ -218,6 +222,7 @@
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/lancashire",
     "europe/united-kingdom/england/leicestershire",
+    "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/rutland",
@@ -289,26 +294,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/malaysia-singapore-brunei",
-      "pbf_url": "https://download.geofabrik.de/asia/malaysia-singapore-brunei-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/norfolk",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/norfolk-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/papua",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/papua-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/poitou-charentes",
-      "pbf_url": "https://download.geofabrik.de/europe/france/poitou-charentes-latest.osm.pbf"
-    },
-    {
-      "id": "europe/romania",
-      "pbf_url": "https://download.geofabrik.de/europe/romania-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/brandenburg",
       "pbf_url": "https://download.geofabrik.de/europe/germany/brandenburg-latest.osm.pbf"
