@@ -2,6 +2,7 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/algeria",
     "africa/botswana",
     "africa/burkina-faso",
     "africa/chad",
@@ -11,6 +12,7 @@
     "africa/niger",
     "africa/nigeria",
     "africa/senegal-and-gambia",
+    "africa/south-africa",
     "africa/sudan",
     "africa/tanzania",
     "asia/afghanistan",
@@ -53,6 +55,7 @@
     "europe/belgium",
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/kralovehradecky",
+    "europe/czech-republic/praha",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
     "europe/denmark",
@@ -99,6 +102,7 @@
     "europe/slovenia",
     "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
+    "europe/spain/extremadura",
     "europe/spain/islas-baleares",
     "europe/spain/la-rioja",
     "europe/spain/madrid",
@@ -117,6 +121,7 @@
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/kent",
+    "europe/united-kingdom/england/lancashire",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/nottinghamshire",
@@ -159,26 +164,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/czech-republic/praha",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/praha-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/lancashire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/lancashire-latest.osm.pbf"
-    },
-    {
-      "id": "africa/algeria",
-      "pbf_url": "https://download.geofabrik.de/africa/algeria-latest.osm.pbf"
-    },
-    {
-      "id": "africa/south-africa",
-      "pbf_url": "https://download.geofabrik.de/africa/south-africa-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/extremadura",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/extremadura-latest.osm.pbf"
-    },
     {
       "id": "europe/norway/ostlandet",
       "pbf_url": "https://download.geofabrik.de/europe/norway/ostlandet-latest.osm.pbf"
