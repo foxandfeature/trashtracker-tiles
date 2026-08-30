@@ -40,6 +40,7 @@
     "asia/japan/kanto",
     "asia/japan/kyushu",
     "asia/japan/shikoku",
+    "asia/jordan",
     "asia/kyrgyzstan",
     "asia/laos",
     "asia/myanmar",
@@ -60,8 +61,10 @@
     "europe/czech-republic/liberecky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/zlinsky",
+    "europe/finland",
     "europe/france/alsace",
     "europe/france/champagne-ardenne",
+    "europe/france/franche-comte",
     "europe/france/ile-de-france",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
@@ -104,6 +107,7 @@
     "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/dorset",
+    "europe/united-kingdom/england/durham",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/england/leicestershire",
@@ -125,6 +129,7 @@
     "north-america/us/alaska",
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
+    "north-america/us/california/socal",
     "north-america/us/colorado",
     "north-america/us/maine",
     "north-america/us/nebraska",
@@ -144,26 +149,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/france/franche-comte",
-      "pbf_url": "https://download.geofabrik.de/europe/france/franche-comte-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/durham",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/durham-latest.osm.pbf"
-    },
-    {
-      "id": "asia/jordan",
-      "pbf_url": "https://download.geofabrik.de/asia/jordan-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/california/socal",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/california/socal-latest.osm.pbf"
-    },
-    {
-      "id": "europe/finland",
-      "pbf_url": "https://download.geofabrik.de/europe/finland-latest.osm.pbf"
-    },
     {
       "id": "africa/morocco",
       "pbf_url": "https://download.geofabrik.de/africa/morocco-latest.osm.pbf"
