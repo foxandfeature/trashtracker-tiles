@@ -50,6 +50,7 @@
     "asia/armenia",
     "asia/azerbaijan",
     "asia/bangladesh",
+    "asia/cambodia",
     "asia/china/anhui",
     "asia/china/beijing",
     "asia/china/chongqing",
@@ -69,6 +70,7 @@
     "asia/china/jiangxi",
     "asia/china/jilin",
     "asia/china/liaoning",
+    "asia/china/qinghai",
     "asia/china/shaanxi",
     "asia/china/shandong",
     "asia/china/shanxi",
@@ -129,6 +131,7 @@
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
+    "central-america/belize",
     "central-america/costa-rica",
     "central-america/cuba",
     "central-america/el-salvador",
@@ -185,6 +188,7 @@
     "europe/france/picardie",
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
+    "europe/france/reunion",
     "europe/france/rhone-alpes",
     "europe/georgia",
     "europe/germany/baden-wuerttemberg/freiburg-regbez",
@@ -294,6 +298,7 @@
     "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/devon",
+    "europe/united-kingdom/england/durham",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
@@ -419,26 +424,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/qinghai",
-      "pbf_url": "https://download.geofabrik.de/asia/china/qinghai-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/reunion",
-      "pbf_url": "https://download.geofabrik.de/europe/france/reunion-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/belize",
-      "pbf_url": "https://download.geofabrik.de/central-america/belize-latest.osm.pbf"
-    },
-    {
-      "id": "asia/cambodia",
-      "pbf_url": "https://download.geofabrik.de/asia/cambodia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/durham",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/durham-latest.osm.pbf"
-    },
     {
       "id": "asia/jordan",
       "pbf_url": "https://download.geofabrik.de/asia/jordan-latest.osm.pbf"
