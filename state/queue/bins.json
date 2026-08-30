@@ -55,6 +55,7 @@
     "asia/kazakhstan",
     "asia/kyrgyzstan",
     "asia/laos",
+    "asia/lebanon",
     "asia/myanmar",
     "asia/north-korea",
     "asia/pakistan",
@@ -67,6 +68,7 @@
     "australia-oceania/australia/victoria",
     "australia-oceania/fiji",
     "australia-oceania/micronesia",
+    "australia-oceania/nauru",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
     "central-america/costa-rica",
@@ -105,12 +107,14 @@
     "europe/isle-of-man",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
+    "europe/italy/sud",
     "europe/moldova",
     "europe/netherlands/groningen",
     "europe/netherlands/limburg",
     "europe/netherlands/overijssel",
     "europe/poland/dolnoslaskie",
     "europe/poland/kujawsko-pomorskie",
+    "europe/poland/lodzkie",
     "europe/poland/lubelskie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
@@ -171,6 +175,7 @@
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
     "north-america/us/colorado",
+    "north-america/us/delaware",
     "north-america/us/florida",
     "north-america/us/louisiana",
     "north-america/us/maine",
@@ -194,26 +199,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/italy/sud",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/sud-latest.osm.pbf"
-    },
-    {
-      "id": "asia/lebanon",
-      "pbf_url": "https://download.geofabrik.de/asia/lebanon-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/delaware",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/delaware-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/lodzkie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lodzkie-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/nauru",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/nauru-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/west-sussex",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-sussex-latest.osm.pbf"
