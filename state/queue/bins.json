@@ -22,6 +22,7 @@
     "africa/south-africa",
     "africa/sudan",
     "africa/tanzania",
+    "africa/uganda",
     "asia/afghanistan",
     "asia/china/beijing",
     "asia/china/gansu",
@@ -106,6 +107,7 @@
     "europe/germany/berlin",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
+    "europe/germany/thueringen",
     "europe/iceland",
     "europe/ireland-and-northern-ireland",
     "europe/isle-of-man",
@@ -174,6 +176,7 @@
     "europe/united-kingdom/england/lincolnshire",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
+    "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/tyne-and-wear",
@@ -203,6 +206,7 @@
     "north-america/us/colorado",
     "north-america/us/connecticut",
     "north-america/us/delaware",
+    "north-america/us/district-of-columbia",
     "north-america/us/florida",
     "north-america/us/louisiana",
     "north-america/us/maine",
@@ -214,6 +218,7 @@
     "north-america/us/washington",
     "north-america/us/wisconsin",
     "russia/central-fed-district",
+    "russia/far-eastern-fed-district",
     "russia/north-caucasus-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
@@ -229,26 +234,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/nottinghamshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/nottinghamshire-latest.osm.pbf"
-    },
-    {
-      "id": "africa/uganda",
-      "pbf_url": "https://download.geofabrik.de/africa/uganda-latest.osm.pbf"
-    },
-    {
-      "id": "russia/far-eastern-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/far-eastern-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/district-of-columbia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/district-of-columbia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/thueringen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/thueringen-latest.osm.pbf"
-    },
     {
       "id": "europe/norway/nord-norge",
       "pbf_url": "https://download.geofabrik.de/europe/norway/nord-norge-latest.osm.pbf"
