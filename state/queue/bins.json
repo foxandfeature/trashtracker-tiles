@@ -25,6 +25,7 @@
     "asia/india/north-eastern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
+    "asia/indonesia/kalimantan",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/japan/chubu",
@@ -68,10 +69,13 @@
     "europe/poland/swietokrzyskie",
     "europe/poland/warminsko-mazurskie",
     "europe/portugal",
+    "europe/serbia",
     "europe/slovenia",
     "europe/spain/aragon",
     "europe/spain/asturias",
+    "europe/spain/cantabria",
     "europe/ukraine",
+    "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/dorset",
     "europe/united-kingdom/england/essex",
@@ -96,29 +100,10 @@
     "russia/south-fed-district",
     "south-america/bolivia",
     "south-america/brazil/sudeste",
-    "south-america/colombia"
+    "south-america/colombia",
+    "south-america/paraguay"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/cornwall",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cornwall-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/kalimantan",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/kalimantan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/serbia",
-      "pbf_url": "https://download.geofabrik.de/europe/serbia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/cantabria",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/cantabria-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/paraguay",
-      "pbf_url": "https://download.geofabrik.de/south-america/paraguay-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/wales",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/wales-latest.osm.pbf"
