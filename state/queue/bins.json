@@ -6,6 +6,7 @@
     "africa/congo-democratic-republic",
     "africa/kenya",
     "africa/madagascar",
+    "africa/mali",
     "africa/mozambique",
     "africa/nigeria",
     "africa/south-africa",
@@ -24,6 +25,7 @@
     "asia/indonesia/sumatra",
     "asia/iran",
     "asia/japan/chubu",
+    "asia/japan/chugoku",
     "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/japan/kyushu",
@@ -71,6 +73,8 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/lithuania",
+    "europe/netherlands/noord-brabant",
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
@@ -130,6 +134,7 @@
     "russia/ural-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
+    "south-america/bolivia",
     "south-america/brazil/centro-oeste",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
@@ -139,26 +144,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "south-america/bolivia",
-      "pbf_url": "https://download.geofabrik.de/south-america/bolivia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/chugoku",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/chugoku-latest.osm.pbf"
-    },
-    {
-      "id": "europe/lithuania",
-      "pbf_url": "https://download.geofabrik.de/europe/lithuania-latest.osm.pbf"
-    },
-    {
-      "id": "africa/mali",
-      "pbf_url": "https://download.geofabrik.de/africa/mali-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/noord-brabant",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/noord-brabant-latest.osm.pbf"
-    },
     {
       "id": "europe/france/poitou-charentes",
       "pbf_url": "https://download.geofabrik.de/europe/france/poitou-charentes-latest.osm.pbf"
