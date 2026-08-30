@@ -51,6 +51,8 @@
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/germany/bayern/oberfranken",
+    "europe/germany/nordrhein-westfalen/koeln-regbez",
+    "europe/iceland",
     "europe/italy/nord-ovest",
     "europe/moldova",
     "europe/netherlands/groningen",
@@ -69,9 +71,11 @@
     "europe/spain/asturias",
     "europe/ukraine",
     "europe/united-kingdom/england/devon",
+    "europe/united-kingdom/england/dorset",
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/leicestershire",
+    "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/scotland",
     "north-america/canada/british-columbia/interior-admreg",
@@ -90,30 +94,11 @@
     "north-america/us/wisconsin",
     "russia/central-fed-district",
     "russia/south-fed-district",
+    "south-america/bolivia",
     "south-america/brazil/sudeste",
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/oxfordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/oxfordshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/koeln-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/koeln-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "europe/iceland",
-      "pbf_url": "https://download.geofabrik.de/europe/iceland-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/bolivia",
-      "pbf_url": "https://download.geofabrik.de/south-america/bolivia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/dorset",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/dorset-latest.osm.pbf"
-    },
     {
       "id": "europe/czech-republic/zlinsky",
       "pbf_url": "https://download.geofabrik.de/europe/czech-republic/zlinsky-latest.osm.pbf"
