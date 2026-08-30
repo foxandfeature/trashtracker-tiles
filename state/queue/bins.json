@@ -41,6 +41,7 @@
     "asia/bangladesh",
     "asia/china/beijing",
     "asia/china/chongqing",
+    "asia/china/fujian",
     "asia/china/gansu",
     "asia/china/guangdong",
     "asia/china/guangxi",
@@ -62,6 +63,7 @@
     "asia/china/xinjiang",
     "asia/china/yunnan",
     "asia/china/zhejiang",
+    "asia/east-timor",
     "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
@@ -99,6 +101,7 @@
     "asia/pakistan",
     "asia/philippines",
     "asia/south-korea",
+    "asia/sri-lanka",
     "asia/taiwan",
     "asia/tajikistan",
     "asia/thailand",
@@ -132,6 +135,7 @@
     "europe/azores",
     "europe/belarus",
     "europe/belgium",
+    "europe/bosnia-herzegovina",
     "europe/bulgaria",
     "europe/croatia",
     "europe/cyprus",
@@ -335,6 +339,7 @@
     "north-america/us/indiana",
     "north-america/us/iowa",
     "north-america/us/kansas",
+    "north-america/us/kentucky",
     "north-america/us/louisiana",
     "north-america/us/maine",
     "north-america/us/maryland",
@@ -384,26 +389,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/bosnia-herzegovina",
-      "pbf_url": "https://download.geofabrik.de/europe/bosnia-herzegovina-latest.osm.pbf"
-    },
-    {
-      "id": "asia/east-timor",
-      "pbf_url": "https://download.geofabrik.de/asia/east-timor-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/fujian",
-      "pbf_url": "https://download.geofabrik.de/asia/china/fujian-latest.osm.pbf"
-    },
-    {
-      "id": "asia/sri-lanka",
-      "pbf_url": "https://download.geofabrik.de/asia/sri-lanka-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/kentucky",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/kentucky-latest.osm.pbf"
-    },
     {
       "id": "africa/eritrea",
       "pbf_url": "https://download.geofabrik.de/africa/eritrea-latest.osm.pbf"
