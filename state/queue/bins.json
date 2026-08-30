@@ -59,6 +59,7 @@
     "asia/laos",
     "asia/lebanon",
     "asia/myanmar",
+    "asia/nepal",
     "asia/north-korea",
     "asia/pakistan",
     "asia/philippines",
@@ -98,6 +99,7 @@
     "europe/france/alsace",
     "europe/france/champagne-ardenne",
     "europe/france/franche-comte",
+    "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
@@ -127,6 +129,7 @@
     "europe/netherlands/groningen",
     "europe/netherlands/limburg",
     "europe/netherlands/noord-brabant",
+    "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
@@ -215,6 +218,7 @@
     "north-america/us/delaware",
     "north-america/us/district-of-columbia",
     "north-america/us/florida",
+    "north-america/us/georgia",
     "north-america/us/louisiana",
     "north-america/us/maine",
     "north-america/us/nebraska",
@@ -241,29 +245,10 @@
     "south-america/colombia",
     "south-america/guyana",
     "south-america/paraguay",
+    "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/georgia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/georgia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/nepal",
-      "pbf_url": "https://download.geofabrik.de/asia/nepal-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/noord-holland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/noord-holland-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/uruguay",
-      "pbf_url": "https://download.geofabrik.de/south-america/uruguay-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/haute-normandie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/haute-normandie-latest.osm.pbf"
-    },
     {
       "id": "asia/china/hubei",
       "pbf_url": "https://download.geofabrik.de/asia/china/hubei-latest.osm.pbf"
