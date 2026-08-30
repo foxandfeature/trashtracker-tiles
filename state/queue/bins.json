@@ -15,7 +15,9 @@
     "africa/tanzania",
     "asia/china/beijing",
     "asia/china/guangdong",
+    "asia/china/guangxi",
     "asia/china/jiangxi",
+    "asia/china/qinghai",
     "asia/china/tibet",
     "asia/china/xinjiang",
     "asia/india/central-zone",
@@ -40,6 +42,7 @@
     "europe/albania",
     "europe/belarus",
     "europe/czech-republic/ustecky",
+    "europe/czech-republic/zlinsky",
     "europe/france/alsace",
     "europe/france/ile-de-france",
     "europe/france/midi-pyrenees",
@@ -48,6 +51,7 @@
     "europe/france/provence-alpes-cote-d-azur",
     "europe/germany/bayern/oberfranken",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
+    "europe/iceland",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/moldova",
@@ -71,6 +75,7 @@
     "europe/spain/valencia",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/devon",
+    "europe/united-kingdom/england/dorset",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/scotland",
@@ -94,26 +99,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/dorset",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/dorset-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/qinghai",
-      "pbf_url": "https://download.geofabrik.de/asia/china/qinghai-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/zlinsky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/zlinsky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/iceland",
-      "pbf_url": "https://download.geofabrik.de/europe/iceland-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/guangxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/guangxi-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/arkansas",
       "pbf_url": "https://download.geofabrik.de/north-america/us/arkansas-latest.osm.pbf"
