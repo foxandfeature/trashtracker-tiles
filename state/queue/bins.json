@@ -14,6 +14,7 @@
     "africa/somalia",
     "africa/sudan",
     "africa/tanzania",
+    "asia/china/guangdong",
     "asia/china/jiangxi",
     "asia/china/sichuan",
     "asia/china/tibet",
@@ -51,10 +52,12 @@
     "europe/moldova",
     "europe/netherlands/groningen",
     "europe/netherlands/overijssel",
+    "europe/poland/dolnoslaskie",
     "europe/poland/lubelskie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/poland/opolskie",
+    "europe/poland/slaskie",
     "europe/poland/swietokrzyskie",
     "europe/poland/warminsko-mazurskie",
     "europe/portugal",
@@ -75,35 +78,17 @@
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/us/california/norcal",
+    "north-america/us/colorado",
     "north-america/us/maine",
     "north-america/us/nebraska",
     "north-america/us/washington",
     "north-america/us/wisconsin",
+    "russia/central-fed-district",
     "russia/south-fed-district",
     "south-america/brazil/sudeste",
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "asia/china/guangdong",
-      "pbf_url": "https://download.geofabrik.de/asia/china/guangdong-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/colorado",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/colorado-latest.osm.pbf"
-    },
-    {
-      "id": "russia/central-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/central-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/slaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/slaskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/dolnoslaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/dolnoslaskie-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/nordrhein-westfalen/koeln-regbez",
       "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/koeln-regbez-latest.osm.pbf"
