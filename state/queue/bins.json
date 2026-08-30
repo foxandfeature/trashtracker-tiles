@@ -37,6 +37,7 @@
     "asia/china/zhejiang",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
+    "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/indonesia/kalimantan",
@@ -75,6 +76,7 @@
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
+    "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/liberecky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/zlinsky",
@@ -95,6 +97,7 @@
     "europe/germany/berlin",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/iceland",
+    "europe/ireland-and-northern-ireland",
     "europe/isle-of-man",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
@@ -156,7 +159,9 @@
     "north-america/us/alaska",
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
+    "north-america/us/california/socal",
     "north-america/us/colorado",
+    "north-america/us/florida",
     "north-america/us/louisiana",
     "north-america/us/maine",
     "north-america/us/nebraska",
@@ -179,26 +184,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/california/socal",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/california/socal-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/florida",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/florida-latest.osm.pbf"
-    },
-    {
-      "id": "europe/ireland-and-northern-ireland",
-      "pbf_url": "https://download.geofabrik.de/europe/ireland-and-northern-ireland-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/southern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/southern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/jihomoravsky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/jihomoravsky-latest.osm.pbf"
-    },
     {
       "id": "europe/netherlands/limburg",
       "pbf_url": "https://download.geofabrik.de/europe/netherlands/limburg-latest.osm.pbf"
