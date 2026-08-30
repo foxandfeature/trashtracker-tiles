@@ -21,6 +21,7 @@
     "africa/tanzania",
     "asia/afghanistan",
     "asia/china/beijing",
+    "asia/china/gansu",
     "asia/china/guangdong",
     "asia/china/guangxi",
     "asia/china/jiangxi",
@@ -37,6 +38,7 @@
     "asia/indonesia/kalimantan",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
+    "asia/iraq",
     "asia/japan/chubu",
     "asia/japan/chugoku",
     "asia/japan/kansai",
@@ -48,6 +50,7 @@
     "asia/kyrgyzstan",
     "asia/laos",
     "asia/myanmar",
+    "asia/north-korea",
     "asia/pakistan",
     "asia/south-korea",
     "asia/tajikistan",
@@ -55,6 +58,7 @@
     "asia/yemen",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/victoria",
+    "australia-oceania/fiji",
     "australia-oceania/papua-new-guinea",
     "central-america/costa-rica",
     "central-america/guatemala",
@@ -124,6 +128,7 @@
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
+    "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/suffolk",
@@ -164,26 +169,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/north-korea",
-      "pbf_url": "https://download.geofabrik.de/asia/north-korea-latest.osm.pbf"
-    },
-    {
-      "id": "asia/iraq",
-      "pbf_url": "https://download.geofabrik.de/asia/iraq-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/fiji",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/fiji-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/gansu",
-      "pbf_url": "https://download.geofabrik.de/asia/china/gansu-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/isle-of-wight",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/isle-of-wight-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/texas",
       "pbf_url": "https://download.geofabrik.de/north-america/us/texas-latest.osm.pbf"
