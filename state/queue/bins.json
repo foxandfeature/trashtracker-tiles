@@ -13,6 +13,7 @@
     "africa/ghana",
     "africa/guinea-bissau",
     "africa/ivory-coast",
+    "africa/madagascar",
     "africa/malawi",
     "africa/morocco",
     "africa/mozambique",
@@ -28,6 +29,7 @@
     "africa/uganda",
     "africa/zimbabwe",
     "asia/afghanistan",
+    "asia/bangladesh",
     "asia/china/beijing",
     "asia/china/gansu",
     "asia/china/guangdong",
@@ -75,6 +77,7 @@
     "asia/philippines",
     "asia/south-korea",
     "asia/tajikistan",
+    "asia/thailand",
     "asia/turkmenistan",
     "asia/yemen",
     "australia-oceania/australia/christmas-island",
@@ -111,6 +114,7 @@
     "europe/finland",
     "europe/france/alsace",
     "europe/france/aquitaine",
+    "europe/france/basse-normandie",
     "europe/france/bretagne",
     "europe/france/centre",
     "europe/france/champagne-ardenne",
@@ -205,6 +209,7 @@
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/kent",
+    "europe/united-kingdom/england/lancashire",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/oxfordshire",
@@ -274,26 +279,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/lancashire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/lancashire-latest.osm.pbf"
-    },
-    {
-      "id": "africa/madagascar",
-      "pbf_url": "https://download.geofabrik.de/africa/madagascar-latest.osm.pbf"
-    },
-    {
-      "id": "asia/thailand",
-      "pbf_url": "https://download.geofabrik.de/asia/thailand-latest.osm.pbf"
-    },
-    {
-      "id": "asia/bangladesh",
-      "pbf_url": "https://download.geofabrik.de/asia/bangladesh-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/basse-normandie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/basse-normandie-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/alberta",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/alberta-latest.osm.pbf"
