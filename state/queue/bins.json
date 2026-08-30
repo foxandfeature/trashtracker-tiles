@@ -11,11 +11,13 @@
     "africa/uganda",
     "asia/india/central-zone",
     "asia/india/southern-zone",
+    "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/indonesia/sumatra",
     "asia/japan/chubu",
     "asia/japan/kansai",
     "asia/japan/kanto",
+    "asia/japan/kyushu",
     "asia/malaysia-singapore-brunei",
     "asia/nepal",
     "asia/philippines",
@@ -33,6 +35,7 @@
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/bayern/oberbayern",
+    "europe/germany/brandenburg",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
@@ -48,6 +51,7 @@
     "europe/poland/lodzkie",
     "europe/poland/mazowieckie",
     "europe/portugal",
+    "europe/romania",
     "europe/slovakia",
     "europe/slovenia",
     "europe/sweden",
@@ -86,29 +90,10 @@
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
+    "south-america/chile",
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/brandenburg",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/brandenburg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/romania",
-      "pbf_url": "https://download.geofabrik.de/europe/romania-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/chile",
-      "pbf_url": "https://download.geofabrik.de/south-america/chile-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/kyushu",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kyushu-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/western-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/western-zone-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/michigan",
       "pbf_url": "https://download.geofabrik.de/north-america/us/michigan-latest.osm.pbf"
