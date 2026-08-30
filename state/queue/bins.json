@@ -21,6 +21,7 @@
     "asia/india/north-eastern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
+    "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/japan/chubu",
     "asia/japan/chugoku",
@@ -29,9 +30,11 @@
     "asia/japan/shikoku",
     "asia/japan/tohoku",
     "asia/kyrgyzstan",
+    "asia/laos",
     "asia/myanmar",
     "asia/south-korea",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/papua-new-guinea",
     "central-america/honduras",
     "europe/albania",
     "europe/belarus",
@@ -59,10 +62,12 @@
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/ukraine",
+    "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/scotland",
+    "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/newfoundland-and-labrador",
@@ -79,26 +84,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/british-columbia/interior-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/interior-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/papua-new-guinea",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/papua-new-guinea-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/sulawesi",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/sulawesi-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/devon",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/devon-latest.osm.pbf"
-    },
-    {
-      "id": "asia/laos",
-      "pbf_url": "https://download.geofabrik.de/asia/laos-latest.osm.pbf"
-    },
     {
       "id": "asia/china/guangdong",
       "pbf_url": "https://download.geofabrik.de/asia/china/guangdong-latest.osm.pbf"
