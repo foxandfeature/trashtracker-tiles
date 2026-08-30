@@ -24,10 +24,12 @@
     "africa/tanzania",
     "africa/uganda",
     "asia/afghanistan",
+    "asia/bangladesh",
     "asia/china/beijing",
     "asia/china/gansu",
     "asia/china/guangdong",
     "asia/china/guangxi",
+    "asia/china/hubei",
     "asia/china/jiangsu",
     "asia/china/jiangxi",
     "asia/china/qinghai",
@@ -58,6 +60,7 @@
     "asia/kyrgyzstan",
     "asia/laos",
     "asia/lebanon",
+    "asia/maldives",
     "asia/myanmar",
     "asia/nepal",
     "asia/north-korea",
@@ -101,6 +104,7 @@
     "europe/france/franche-comte",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
+    "europe/france/limousin",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
@@ -137,6 +141,7 @@
     "europe/norway/trondelag",
     "europe/poland/dolnoslaskie",
     "europe/poland/kujawsko-pomorskie",
+    "europe/poland/lodzkie",
     "europe/poland/lubelskie",
     "europe/poland/lubuskie",
     "europe/poland/malopolskie",
@@ -249,26 +254,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/hubei",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hubei-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/lodzkie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lodzkie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/limousin",
-      "pbf_url": "https://download.geofabrik.de/europe/france/limousin-latest.osm.pbf"
-    },
-    {
-      "id": "asia/bangladesh",
-      "pbf_url": "https://download.geofabrik.de/asia/bangladesh-latest.osm.pbf"
-    },
-    {
-      "id": "asia/maldives",
-      "pbf_url": "https://download.geofabrik.de/asia/maldives-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/bayern/oberbayern",
       "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberbayern-latest.osm.pbf"
