@@ -20,12 +20,14 @@
     "africa/niger",
     "africa/nigeria",
     "africa/rwanda",
+    "africa/saint-helena-ascension-and-tristan-da-cunha",
     "africa/senegal-and-gambia",
     "africa/south-africa",
     "africa/sudan",
     "africa/tanzania",
     "africa/uganda",
     "africa/zambia",
+    "africa/zimbabwe",
     "asia/afghanistan",
     "asia/bangladesh",
     "asia/china/beijing",
@@ -75,6 +77,7 @@
     "asia/tajikistan",
     "asia/thailand",
     "asia/turkmenistan",
+    "asia/vietnam",
     "asia/yemen",
     "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/new-south-wales",
@@ -171,6 +174,7 @@
     "europe/poland/zachodniopomorskie",
     "europe/portugal",
     "europe/serbia",
+    "europe/slovakia",
     "europe/slovenia",
     "europe/spain/aragon",
     "europe/spain/asturias",
@@ -239,6 +243,7 @@
     "north-america/us/district-of-columbia",
     "north-america/us/florida",
     "north-america/us/georgia",
+    "north-america/us/illinois",
     "north-america/us/louisiana",
     "north-america/us/maine",
     "north-america/us/nebraska",
@@ -269,26 +274,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/zimbabwe",
-      "pbf_url": "https://download.geofabrik.de/africa/zimbabwe-latest.osm.pbf"
-    },
-    {
-      "id": "africa/saint-helena-ascension-and-tristan-da-cunha",
-      "pbf_url": "https://download.geofabrik.de/africa/saint-helena-ascension-and-tristan-da-cunha-latest.osm.pbf"
-    },
-    {
-      "id": "europe/slovakia",
-      "pbf_url": "https://download.geofabrik.de/europe/slovakia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/vietnam",
-      "pbf_url": "https://download.geofabrik.de/asia/vietnam-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/illinois",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/illinois-latest.osm.pbf"
-    },
     {
       "id": "europe/france/bourgogne",
       "pbf_url": "https://download.geofabrik.de/europe/france/bourgogne-latest.osm.pbf"
