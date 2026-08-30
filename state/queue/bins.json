@@ -3,6 +3,7 @@
   "failed": [],
   "lock": [
     "africa/congo-democratic-republic",
+    "africa/kenya",
     "africa/madagascar",
     "africa/mozambique",
     "africa/nigeria",
@@ -28,12 +29,14 @@
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/new-zealand",
     "europe/austria",
+    "europe/belarus",
     "europe/belgium",
     "europe/denmark",
     "europe/finland",
     "europe/france/aquitaine",
     "europe/france/bretagne",
     "europe/france/ile-de-france",
+    "europe/france/midi-pyrenees",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
@@ -42,6 +45,7 @@
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
+    "europe/germany/rheinland-pfalz",
     "europe/greece",
     "europe/hungary",
     "europe/ireland-and-northern-ireland",
@@ -62,6 +66,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/scotland",
     "north-america/canada/alberta",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/north-admreg",
@@ -99,26 +104,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/rheinland-pfalz",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/rheinland-pfalz-latest.osm.pbf"
-    },
-    {
-      "id": "europe/belarus",
-      "pbf_url": "https://download.geofabrik.de/europe/belarus-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/midi-pyrenees",
-      "pbf_url": "https://download.geofabrik.de/europe/france/midi-pyrenees-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/scotland",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/scotland-latest.osm.pbf"
-    },
-    {
-      "id": "africa/kenya",
-      "pbf_url": "https://download.geofabrik.de/africa/kenya-latest.osm.pbf"
-    },
     {
       "id": "asia/vietnam",
       "pbf_url": "https://download.geofabrik.de/asia/vietnam-latest.osm.pbf"
