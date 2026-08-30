@@ -15,6 +15,7 @@
     "africa/ivory-coast",
     "africa/malawi",
     "africa/morocco",
+    "africa/mozambique",
     "africa/niger",
     "africa/nigeria",
     "africa/rwanda",
@@ -116,6 +117,7 @@
     "europe/germany/berlin",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
+    "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
     "europe/hungary",
     "europe/iceland",
@@ -133,6 +135,7 @@
     "europe/netherlands/noord-brabant",
     "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
+    "europe/netherlands/zeeland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/sorlandet",
@@ -223,6 +226,7 @@
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
     "north-america/us/texas",
+    "north-america/us/virginia",
     "north-america/us/washington",
     "north-america/us/wisconsin",
     "russia/central-fed-district",
@@ -232,6 +236,7 @@
     "russia/siberian-fed-district",
     "russia/south-fed-district",
     "russia/volga-fed-district",
+    "south-america/argentina",
     "south-america/bolivia",
     "south-america/brazil/nordeste",
     "south-america/brazil/norte",
@@ -244,26 +249,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "south-america/argentina",
-      "pbf_url": "https://download.geofabrik.de/south-america/argentina-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/schleswig-holstein",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/schleswig-holstein-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/virginia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/virginia-latest.osm.pbf"
-    },
-    {
-      "id": "africa/mozambique",
-      "pbf_url": "https://download.geofabrik.de/africa/mozambique-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/zeeland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/zeeland-latest.osm.pbf"
-    },
     {
       "id": "europe/czech-republic/pardubicky",
       "pbf_url": "https://download.geofabrik.de/europe/czech-republic/pardubicky-latest.osm.pbf"
