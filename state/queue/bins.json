@@ -7,6 +7,7 @@
     "africa/benin",
     "africa/botswana",
     "africa/burkina-faso",
+    "africa/burundi",
     "africa/cameroon",
     "africa/canary-islands",
     "africa/central-african-republic",
@@ -36,6 +37,7 @@
     "africa/saint-helena-ascension-and-tristan-da-cunha",
     "africa/sao-tome-and-principe",
     "africa/senegal-and-gambia",
+    "africa/sierra-leone",
     "africa/somalia",
     "africa/south-africa",
     "africa/south-sudan",
@@ -69,6 +71,7 @@
     "asia/china/jiangsu",
     "asia/china/jiangxi",
     "asia/china/jilin",
+    "asia/china/ningxia",
     "asia/china/qinghai",
     "asia/china/shaanxi",
     "asia/china/shandong",
@@ -346,6 +349,7 @@
     "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/south-yorkshire",
     "europe/united-kingdom/england/suffolk",
+    "europe/united-kingdom/england/surrey",
     "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
@@ -419,6 +423,7 @@
     "north-america/us/puerto-rico",
     "north-america/us/rhode-island",
     "north-america/us/south-carolina",
+    "north-america/us/south-dakota",
     "north-america/us/tennessee",
     "north-america/us/texas",
     "north-america/us/utah",
@@ -454,26 +459,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/burundi",
-      "pbf_url": "https://download.geofabrik.de/africa/burundi-latest.osm.pbf"
-    },
-    {
-      "id": "africa/sierra-leone",
-      "pbf_url": "https://download.geofabrik.de/africa/sierra-leone-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/ningxia",
-      "pbf_url": "https://download.geofabrik.de/asia/china/ningxia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/surrey",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/surrey-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/south-dakota",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/south-dakota-latest.osm.pbf"
-    },
     {
       "id": "russia/crimean-fed-district",
       "pbf_url": "https://download.geofabrik.de/russia/crimean-fed-district-latest.osm.pbf"
