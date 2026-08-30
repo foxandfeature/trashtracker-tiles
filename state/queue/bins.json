@@ -2,38 +2,23 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/congo-democratic-republic",
     "africa/tanzania",
     "asia/india/central-zone",
+    "asia/india/north-eastern-zone",
+    "asia/india/western-zone",
     "asia/indonesia/sumatra",
     "europe/france/provence-alpes-cote-d-azur",
+    "europe/france/rhone-alpes",
     "europe/poland/warminsko-mazurskie",
     "europe/united-kingdom/scotland",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/us/california/norcal"
   ],
   "remaining": [
-    {
-      "id": "africa/congo-democratic-republic",
-      "pbf_url": "https://download.geofabrik.de/africa/congo-democratic-republic-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/nunavut/kitikmeot",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/nunavut/kitikmeot-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/north-eastern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/north-eastern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/rhone-alpes",
-      "pbf_url": "https://download.geofabrik.de/europe/france/rhone-alpes-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/western-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/western-zone-latest.osm.pbf"
-    },
     {
       "id": "europe/france/pays-de-la-loire",
       "pbf_url": "https://download.geofabrik.de/europe/france/pays-de-la-loire-latest.osm.pbf"
