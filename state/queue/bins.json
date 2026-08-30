@@ -32,6 +32,7 @@
     "asia/china/guangdong",
     "asia/china/guangxi",
     "asia/china/hubei",
+    "asia/china/inner-mongolia",
     "asia/china/jiangsu",
     "asia/china/jiangxi",
     "asia/china/qinghai",
@@ -55,6 +56,7 @@
     "asia/iraq",
     "asia/japan/chubu",
     "asia/japan/chugoku",
+    "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/japan/kyushu",
     "asia/japan/shikoku",
@@ -120,6 +122,7 @@
     "europe/france/picardie",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
     "europe/germany/niedersachsen",
@@ -131,6 +134,7 @@
     "europe/ireland-and-northern-ireland",
     "europe/isle-of-man",
     "europe/italy/centro",
+    "europe/italy/isole",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
@@ -231,6 +235,7 @@
     "north-america/us/maine",
     "north-america/us/massachusetts",
     "north-america/us/nebraska",
+    "north-america/us/new-jersey",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
@@ -259,26 +264,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/new-jersey",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-jersey-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/kansai",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kansai-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/inner-mongolia",
-      "pbf_url": "https://download.geofabrik.de/asia/china/inner-mongolia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/isole",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/isole-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/oberbayern",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberbayern-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/somerset",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/somerset-latest.osm.pbf"
