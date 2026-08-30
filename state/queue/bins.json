@@ -7,9 +7,11 @@
     "africa/cameroon",
     "africa/chad",
     "africa/congo-democratic-republic",
+    "africa/ivory-coast",
     "africa/malawi",
     "africa/rwanda",
     "africa/somalia",
+    "africa/sudan",
     "africa/tanzania",
     "asia/china/jiangxi",
     "asia/china/sichuan",
@@ -25,6 +27,7 @@
     "asia/japan/kyushu",
     "asia/japan/shikoku",
     "asia/japan/tohoku",
+    "asia/kyrgyzstan",
     "asia/myanmar",
     "asia/south-korea",
     "australia-oceania/australia/new-south-wales",
@@ -39,6 +42,7 @@
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
+    "europe/italy/nord-ovest",
     "europe/moldova",
     "europe/netherlands/groningen",
     "europe/netherlands/overijssel",
@@ -62,6 +66,7 @@
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/us/california/norcal",
     "north-america/us/maine",
+    "north-america/us/nebraska",
     "north-america/us/washington",
     "north-america/us/wisconsin",
     "russia/south-fed-district",
@@ -69,26 +74,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "africa/sudan",
-      "pbf_url": "https://download.geofabrik.de/africa/sudan-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/nebraska",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/nebraska-latest.osm.pbf"
-    },
-    {
-      "id": "africa/ivory-coast",
-      "pbf_url": "https://download.geofabrik.de/africa/ivory-coast-latest.osm.pbf"
-    },
-    {
-      "id": "asia/kyrgyzstan",
-      "pbf_url": "https://download.geofabrik.de/asia/kyrgyzstan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/nord-ovest",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/nord-ovest-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/essex",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/essex-latest.osm.pbf"
