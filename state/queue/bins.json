@@ -25,6 +25,7 @@
     "africa/nigeria",
     "africa/rwanda",
     "africa/saint-helena-ascension-and-tristan-da-cunha",
+    "africa/sao-tome-and-principe",
     "africa/senegal-and-gambia",
     "africa/somalia",
     "africa/south-africa",
@@ -50,6 +51,7 @@
     "asia/china/qinghai",
     "asia/china/shaanxi",
     "asia/china/shanghai",
+    "asia/china/shanxi",
     "asia/china/sichuan",
     "asia/china/tianjin",
     "asia/china/tibet",
@@ -73,6 +75,7 @@
     "asia/iraq",
     "asia/japan/chubu",
     "asia/japan/chugoku",
+    "asia/japan/hokkaido",
     "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/japan/kyushu",
@@ -102,6 +105,7 @@
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/victoria",
     "australia-oceania/fiji",
+    "australia-oceania/ile-de-clipperton",
     "australia-oceania/micronesia",
     "australia-oceania/nauru",
     "australia-oceania/new-zealand",
@@ -120,6 +124,7 @@
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
+    "europe/croatia",
     "europe/cyprus",
     "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
@@ -354,26 +359,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/shanxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/shanxi-latest.osm.pbf"
-    },
-    {
-      "id": "europe/croatia",
-      "pbf_url": "https://download.geofabrik.de/europe/croatia-latest.osm.pbf"
-    },
-    {
-      "id": "africa/sao-tome-and-principe",
-      "pbf_url": "https://download.geofabrik.de/africa/sao-tome-and-principe-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/hokkaido",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/hokkaido-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/ile-de-clipperton",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/ile-de-clipperton-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/bayern/mittelfranken",
       "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/mittelfranken-latest.osm.pbf"
