@@ -5,6 +5,7 @@
     "africa/botswana",
     "africa/chad",
     "africa/congo-democratic-republic",
+    "africa/guinea-bissau",
     "africa/niger",
     "africa/sudan",
     "africa/tanzania",
@@ -41,11 +42,13 @@
     "europe/poland/malopolskie",
     "europe/poland/opolskie",
     "europe/poland/podlaskie",
+    "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
     "europe/slovenia",
     "europe/spain/valencia",
     "europe/sweden",
     "europe/ukraine",
+    "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/oxfordshire",
@@ -54,6 +57,7 @@
     "europe/united-kingdom/wales",
     "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/new-brunswick",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
@@ -63,32 +67,13 @@
     "north-america/us/california/norcal",
     "north-america/us/north-dakota",
     "north-america/us/washington",
+    "russia/central-fed-district",
     "russia/siberian-fed-district",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "russia/central-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/central-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "africa/guinea-bissau",
-      "pbf_url": "https://download.geofabrik.de/africa/guinea-bissau-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/cornwall",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cornwall-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/new-brunswick",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/new-brunswick-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/slaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/slaskie-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/cumbria",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cumbria-latest.osm.pbf"
