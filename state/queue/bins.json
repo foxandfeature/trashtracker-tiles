@@ -3,6 +3,7 @@
   "failed": [],
   "lock": [
     "africa/algeria",
+    "africa/angola",
     "africa/botswana",
     "africa/burkina-faso",
     "africa/cameroon",
@@ -15,6 +16,7 @@
     "africa/ghana",
     "africa/guinea",
     "africa/guinea-bissau",
+    "africa/ivory-coast",
     "africa/kenya",
     "africa/lesotho",
     "africa/madagascar",
@@ -90,6 +92,7 @@
     "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/japan/kyushu",
+    "asia/japan/shikoku",
     "asia/japan/tohoku",
     "asia/jordan",
     "asia/kazakhstan",
@@ -104,6 +107,7 @@
     "asia/philippines",
     "asia/south-korea",
     "asia/sri-lanka",
+    "asia/syria",
     "asia/taiwan",
     "asia/thailand",
     "asia/uzbekistan",
@@ -389,6 +393,7 @@
     "north-america/us/washington",
     "north-america/us/west-virginia",
     "north-america/us/wisconsin",
+    "north-america/us/wyoming",
     "russia/central-fed-district",
     "russia/far-eastern-fed-district",
     "russia/north-caucasus-fed-district",
@@ -414,26 +419,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/angola",
-      "pbf_url": "https://download.geofabrik.de/africa/angola-latest.osm.pbf"
-    },
-    {
-      "id": "africa/ivory-coast",
-      "pbf_url": "https://download.geofabrik.de/africa/ivory-coast-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/wyoming",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/wyoming-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/shikoku",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/shikoku-latest.osm.pbf"
-    },
-    {
-      "id": "asia/syria",
-      "pbf_url": "https://download.geofabrik.de/asia/syria-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/arkansas",
       "pbf_url": "https://download.geofabrik.de/north-america/us/arkansas-latest.osm.pbf"
