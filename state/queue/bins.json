@@ -3,6 +3,7 @@
   "failed": [],
   "lock": [
     "africa/congo-democratic-republic",
+    "africa/somalia",
     "africa/tanzania",
     "asia/china/sichuan",
     "asia/india/central-zone",
@@ -11,13 +12,16 @@
     "asia/indonesia/sumatra",
     "asia/japan/chubu",
     "asia/japan/kanto",
+    "asia/japan/kyushu",
     "australia-oceania/australia/new-south-wales",
+    "europe/france/alsace",
     "europe/france/bretagne",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/midi-pyrenees",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
+    "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/italy/sud",
     "europe/moldova",
     "europe/netherlands/groningen",
@@ -31,29 +35,10 @@
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/us/california/norcal",
     "north-america/us/wisconsin",
+    "south-america/brazil/sudeste",
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "africa/somalia",
-      "pbf_url": "https://download.geofabrik.de/africa/somalia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/kyushu",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kyushu-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/sudeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/sudeste-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/koeln-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/koeln-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/alsace",
-      "pbf_url": "https://download.geofabrik.de/europe/france/alsace-latest.osm.pbf"
-    },
     {
       "id": "russia/south-fed-district",
       "pbf_url": "https://download.geofabrik.de/russia/south-fed-district-latest.osm.pbf"
