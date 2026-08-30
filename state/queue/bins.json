@@ -56,6 +56,7 @@
     "asia/indonesia/java",
     "asia/indonesia/kalimantan",
     "asia/indonesia/maluku",
+    "asia/indonesia/papua",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/iran",
@@ -66,6 +67,7 @@
     "asia/japan/kanto",
     "asia/japan/kyushu",
     "asia/japan/shikoku",
+    "asia/japan/tohoku",
     "asia/jordan",
     "asia/kazakhstan",
     "asia/kyrgyzstan",
@@ -146,6 +148,7 @@
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
+    "europe/germany/rheinland-pfalz",
     "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
     "europe/greece",
@@ -170,6 +173,7 @@
     "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
     "europe/netherlands/zeeland",
+    "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/sorlandet",
@@ -282,6 +286,7 @@
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
     "north-america/us/ohio",
+    "north-america/us/oregon",
     "north-america/us/pennsylvania",
     "north-america/us/texas",
     "north-america/us/virginia",
@@ -309,26 +314,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/netherlands/zuid-holland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/zuid-holland-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/papua",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/papua-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/tohoku",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/tohoku-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/oregon",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/oregon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/rheinland-pfalz",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/rheinland-pfalz-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/andalucia",
       "pbf_url": "https://download.geofabrik.de/europe/spain/andalucia-latest.osm.pbf"
