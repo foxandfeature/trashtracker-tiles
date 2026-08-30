@@ -83,6 +83,7 @@
     "asia/tajikistan",
     "asia/thailand",
     "asia/turkmenistan",
+    "asia/vietnam",
     "asia/yemen",
     "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/new-south-wales",
@@ -139,6 +140,7 @@
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
+    "europe/germany/brandenburg",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
@@ -224,6 +226,7 @@
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
+    "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/rutland",
     "europe/united-kingdom/england/somerset",
@@ -268,6 +271,7 @@
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
+    "north-america/us/ohio",
     "north-america/us/pennsylvania",
     "north-america/us/texas",
     "north-america/us/virginia",
@@ -287,6 +291,7 @@
     "south-america/brazil/norte",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
+    "south-america/chile",
     "south-america/colombia",
     "south-america/guyana",
     "south-america/paraguay",
@@ -294,26 +299,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/brandenburg",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/brandenburg-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/chile",
-      "pbf_url": "https://download.geofabrik.de/south-america/chile-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/nottinghamshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/nottinghamshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/vietnam",
-      "pbf_url": "https://download.geofabrik.de/asia/vietnam-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/ohio",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/ohio-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/galicia",
       "pbf_url": "https://download.geofabrik.de/europe/spain/galicia-latest.osm.pbf"
