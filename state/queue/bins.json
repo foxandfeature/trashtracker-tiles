@@ -80,11 +80,13 @@
     "europe/italy/sud",
     "europe/lithuania",
     "europe/netherlands/noord-brabant",
+    "europe/netherlands/noord-holland",
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
+    "europe/poland/dolnoslaskie",
     "europe/poland/lodzkie",
     "europe/poland/mazowieckie",
     "europe/portugal",
@@ -118,6 +120,7 @@
     "north-america/us/florida",
     "north-america/us/georgia",
     "north-america/us/illinois",
+    "north-america/us/indiana",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
@@ -127,7 +130,9 @@
     "north-america/us/ohio",
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
+    "north-america/us/south-carolina",
     "north-america/us/texas",
+    "north-america/us/utah",
     "north-america/us/virginia",
     "north-america/us/washington",
     "north-america/us/wisconsin",
@@ -149,26 +154,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/south-carolina",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/south-carolina-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/dolnoslaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/dolnoslaskie-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/indiana",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/indiana-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/utah",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/utah-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/noord-holland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/noord-holland-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/connecticut",
       "pbf_url": "https://download.geofabrik.de/north-america/us/connecticut-latest.osm.pbf"
