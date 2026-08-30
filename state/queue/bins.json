@@ -13,6 +13,7 @@
     "africa/ghana",
     "africa/guinea-bissau",
     "africa/ivory-coast",
+    "africa/kenya",
     "africa/malawi",
     "africa/morocco",
     "africa/niger",
@@ -39,6 +40,7 @@
     "asia/china/xinjiang",
     "asia/china/yunnan",
     "asia/china/zhejiang",
+    "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
     "asia/india/southern-zone",
@@ -68,6 +70,7 @@
     "asia/philippines",
     "asia/south-korea",
     "asia/tajikistan",
+    "asia/thailand",
     "asia/turkmenistan",
     "asia/yemen",
     "australia-oceania/australia/christmas-island",
@@ -107,6 +110,7 @@
     "europe/france/franche-comte",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
+    "europe/france/languedoc-roussillon",
     "europe/france/limousin",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
@@ -133,6 +137,7 @@
     "europe/liechtenstein",
     "europe/moldova",
     "europe/netherlands/drenthe",
+    "europe/netherlands/flevoland",
     "europe/netherlands/friesland",
     "europe/netherlands/gelderland",
     "europe/netherlands/groningen",
@@ -259,26 +264,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/gcc-states",
-      "pbf_url": "https://download.geofabrik.de/asia/gcc-states-latest.osm.pbf"
-    },
-    {
-      "id": "asia/thailand",
-      "pbf_url": "https://download.geofabrik.de/asia/thailand-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/flevoland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/flevoland-latest.osm.pbf"
-    },
-    {
-      "id": "africa/kenya",
-      "pbf_url": "https://download.geofabrik.de/africa/kenya-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/languedoc-roussillon",
-      "pbf_url": "https://download.geofabrik.de/europe/france/languedoc-roussillon-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/alberta",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/alberta-latest.osm.pbf"
