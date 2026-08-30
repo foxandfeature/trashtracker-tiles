@@ -2,33 +2,18 @@
   "done": [],
   "failed": [],
   "lock": [
+    "asia/indonesia/java",
+    "europe/austria",
     "europe/belgium",
+    "europe/sweden",
     "europe/ukraine",
+    "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/us/california/norcal",
-    "russia/central-fed-district"
+    "russia/central-fed-district",
+    "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/ontario",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/ontario-latest.osm.pbf"
-    },
-    {
-      "id": "europe/austria",
-      "pbf_url": "https://download.geofabrik.de/europe/austria-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/java",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/java-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/sudeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/sudeste-latest.osm.pbf"
-    },
-    {
-      "id": "europe/sweden",
-      "pbf_url": "https://download.geofabrik.de/europe/sweden-latest.osm.pbf"
-    },
     {
       "id": "europe/finland",
       "pbf_url": "https://download.geofabrik.de/europe/finland-latest.osm.pbf"
