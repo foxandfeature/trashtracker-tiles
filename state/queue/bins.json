@@ -71,6 +71,7 @@
     "australia-oceania/australia/victoria",
     "australia-oceania/fiji",
     "australia-oceania/micronesia",
+    "australia-oceania/nauru",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
     "central-america/costa-rica",
@@ -116,6 +117,7 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/liechtenstein",
     "europe/moldova",
     "europe/netherlands/drenthe",
     "europe/netherlands/friesland",
@@ -123,7 +125,9 @@
     "europe/netherlands/groningen",
     "europe/netherlands/limburg",
     "europe/netherlands/overijssel",
+    "europe/norway/nord-norge",
     "europe/norway/ostlandet",
+    "europe/norway/sorlandet",
     "europe/norway/trondelag",
     "europe/poland/dolnoslaskie",
     "europe/poland/kujawsko-pomorskie",
@@ -175,6 +179,7 @@
     "europe/united-kingdom/england/lincolnshire",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
+    "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/tyne-and-wear",
@@ -229,26 +234,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/nottinghamshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/nottinghamshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/sorlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/sorlandet-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/nauru",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/nauru-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/nord-norge",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/nord-norge-latest.osm.pbf"
-    },
-    {
-      "id": "europe/liechtenstein",
-      "pbf_url": "https://download.geofabrik.de/europe/liechtenstein-latest.osm.pbf"
-    },
     {
       "id": "south-america/brazil/sul",
       "pbf_url": "https://download.geofabrik.de/south-america/brazil/sul-latest.osm.pbf"
