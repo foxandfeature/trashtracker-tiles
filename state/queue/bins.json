@@ -14,13 +14,17 @@
     "asia/japan/chubu",
     "asia/japan/kanto",
     "asia/japan/kyushu",
+    "asia/japan/shikoku",
+    "asia/japan/tohoku",
     "australia-oceania/australia/new-south-wales",
     "europe/france/alsace",
+    "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/moldova",
     "europe/netherlands/groningen",
+    "europe/netherlands/overijssel",
     "europe/poland/lubelskie",
     "europe/poland/mazowieckie",
     "europe/spain/aragon",
@@ -31,29 +35,10 @@
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/us/california/norcal",
     "north-america/us/wisconsin",
+    "russia/south-fed-district",
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "asia/japan/shikoku",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/shikoku-latest.osm.pbf"
-    },
-    {
-      "id": "russia/south-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/south-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/haute-normandie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/haute-normandie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/overijssel",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/overijssel-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/tohoku",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/tohoku-latest.osm.pbf"
-    },
     {
       "id": "asia/china/tibet",
       "pbf_url": "https://download.geofabrik.de/asia/china/tibet-latest.osm.pbf"
