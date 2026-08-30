@@ -3,8 +3,10 @@
   "failed": [],
   "lock": [
     "africa/algeria",
+    "africa/angola",
     "africa/botswana",
     "africa/cameroon",
+    "africa/central-african-republic",
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/egypt",
@@ -47,6 +49,7 @@
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/iran",
+    "asia/iraq",
     "asia/israel-and-palestine",
     "asia/japan/chubu",
     "asia/japan/chugoku",
@@ -142,6 +145,7 @@
     "europe/netherlands/noord-brabant",
     "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
+    "europe/netherlands/utrecht",
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
@@ -156,6 +160,7 @@
     "europe/poland/podkarpackie",
     "europe/poland/pomorskie",
     "europe/poland/slaskie",
+    "europe/poland/swietokrzyskie",
     "europe/poland/wielkopolskie",
     "europe/portugal",
     "europe/romania",
@@ -254,26 +259,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/netherlands/utrecht",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/utrecht-latest.osm.pbf"
-    },
-    {
-      "id": "africa/angola",
-      "pbf_url": "https://download.geofabrik.de/africa/angola-latest.osm.pbf"
-    },
-    {
-      "id": "africa/central-african-republic",
-      "pbf_url": "https://download.geofabrik.de/africa/central-african-republic-latest.osm.pbf"
-    },
-    {
-      "id": "asia/iraq",
-      "pbf_url": "https://download.geofabrik.de/asia/iraq-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/swietokrzyskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/swietokrzyskie-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/montana",
       "pbf_url": "https://download.geofabrik.de/north-america/us/montana-latest.osm.pbf"
