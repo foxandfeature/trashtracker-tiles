@@ -13,6 +13,7 @@
     "africa/eritrea",
     "africa/ethiopia",
     "africa/ghana",
+    "africa/guinea",
     "africa/guinea-bissau",
     "africa/ivory-coast",
     "africa/kenya",
@@ -109,6 +110,7 @@
     "asia/tajikistan",
     "asia/thailand",
     "asia/turkmenistan",
+    "asia/uzbekistan",
     "asia/vietnam",
     "asia/yemen",
     "australia-oceania/australia/act",
@@ -159,6 +161,7 @@
     "europe/czech-republic/vysocina",
     "europe/czech-republic/zlinsky",
     "europe/denmark",
+    "europe/estonia",
     "europe/finland",
     "europe/france/alsace",
     "europe/france/aquitaine",
@@ -175,6 +178,7 @@
     "europe/france/languedoc-roussillon",
     "europe/france/limousin",
     "europe/france/lorraine",
+    "europe/france/mayotte",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
@@ -367,6 +371,7 @@
     "north-america/us/minnesota",
     "north-america/us/missouri",
     "north-america/us/nebraska",
+    "north-america/us/nevada",
     "north-america/us/new-jersey",
     "north-america/us/new-mexico",
     "north-america/us/new-york",
@@ -409,26 +414,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/estonia",
-      "pbf_url": "https://download.geofabrik.de/europe/estonia-latest.osm.pbf"
-    },
-    {
-      "id": "africa/guinea",
-      "pbf_url": "https://download.geofabrik.de/africa/guinea-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/mayotte",
-      "pbf_url": "https://download.geofabrik.de/europe/france/mayotte-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/nevada",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/nevada-latest.osm.pbf"
-    },
-    {
-      "id": "asia/uzbekistan",
-      "pbf_url": "https://download.geofabrik.de/asia/uzbekistan-latest.osm.pbf"
-    },
     {
       "id": "asia/china/hebei",
       "pbf_url": "https://download.geofabrik.de/asia/china/hebei-latest.osm.pbf"
