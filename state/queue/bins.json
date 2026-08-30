@@ -74,6 +74,7 @@
     "europe/albania",
     "europe/andorra",
     "europe/austria",
+    "europe/belarus",
     "europe/belgium",
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/kralovehradecky",
@@ -86,6 +87,7 @@
     "europe/denmark",
     "europe/finland",
     "europe/france/alsace",
+    "europe/france/basse-normandie",
     "europe/france/bourgogne",
     "europe/france/centre",
     "europe/france/champagne-ardenne",
@@ -189,6 +191,7 @@
     "europe/united-kingdom/england/wiltshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
+    "north-america/canada/alberta",
     "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/new-brunswick",
@@ -211,6 +214,7 @@
     "north-america/us/georgia",
     "north-america/us/illinois",
     "north-america/us/louisiana",
+    "north-america/us/new-jersey",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
@@ -230,30 +234,11 @@
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
+    "south-america/colombia",
     "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/alberta",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/alberta-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/basse-normandie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/basse-normandie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/belarus",
-      "pbf_url": "https://download.geofabrik.de/europe/belarus-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/colombia",
-      "pbf_url": "https://download.geofabrik.de/south-america/colombia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-jersey",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-jersey-latest.osm.pbf"
-    },
     {
       "id": "asia/china/inner-mongolia",
       "pbf_url": "https://download.geofabrik.de/asia/china/inner-mongolia-latest.osm.pbf"
