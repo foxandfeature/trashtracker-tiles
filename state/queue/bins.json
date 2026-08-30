@@ -18,6 +18,7 @@
     "africa/mali",
     "africa/morocco",
     "africa/mozambique",
+    "africa/namibia",
     "africa/niger",
     "africa/nigeria",
     "africa/rwanda",
@@ -173,7 +174,9 @@
     "europe/germany/bayern/schwaben",
     "europe/germany/berlin",
     "europe/germany/brandenburg",
+    "europe/germany/bremen",
     "europe/germany/hessen",
+    "europe/germany/mecklenburg-vorpommern",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
@@ -284,6 +287,7 @@
     "europe/united-kingdom/england/rutland",
     "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/south-yorkshire",
+    "europe/united-kingdom/england/staffordshire",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/england/warwickshire",
@@ -365,30 +369,11 @@
     "south-america/colombia",
     "south-america/paraguay",
     "south-america/peru",
+    "south-america/suriname",
     "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "south-america/suriname",
-      "pbf_url": "https://download.geofabrik.de/south-america/suriname-latest.osm.pbf"
-    },
-    {
-      "id": "africa/namibia",
-      "pbf_url": "https://download.geofabrik.de/africa/namibia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/staffordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/staffordshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bremen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bremen-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/mecklenburg-vorpommern",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/mecklenburg-vorpommern-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/saskatchewan",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/saskatchewan-latest.osm.pbf"
