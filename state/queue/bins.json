@@ -7,6 +7,7 @@
     "asia/india/central-zone",
     "asia/india/southern-zone",
     "asia/indonesia/java",
+    "asia/japan/chubu",
     "asia/philippines",
     "australia-oceania/new-zealand",
     "europe/austria",
@@ -15,6 +16,7 @@
     "europe/finland",
     "europe/france/rhone-alpes",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
+    "europe/hungary",
     "europe/ireland-and-northern-ireland",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
@@ -26,6 +28,7 @@
     "europe/ukraine",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
@@ -35,35 +38,17 @@
     "north-america/us/california/socal",
     "north-america/us/florida",
     "north-america/us/massachusetts",
+    "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/texas",
     "russia/central-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
+    "south-america/brazil/nordeste",
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/nunavut/kitikmeot",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/nunavut/kitikmeot-latest.osm.pbf"
-    },
-    {
-      "id": "europe/hungary",
-      "pbf_url": "https://download.geofabrik.de/europe/hungary-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/chubu",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/chubu-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-york",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-york-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/nordeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/nordeste-latest.osm.pbf"
-    },
     {
       "id": "russia/far-eastern-fed-district",
       "pbf_url": "https://download.geofabrik.de/russia/far-eastern-fed-district-latest.osm.pbf"
