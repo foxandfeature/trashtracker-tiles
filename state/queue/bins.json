@@ -4,6 +4,7 @@
   "lock": [
     "africa/congo-democratic-republic",
     "africa/madagascar",
+    "africa/mozambique",
     "africa/nigeria",
     "africa/south-africa",
     "africa/tanzania",
@@ -19,6 +20,7 @@
     "asia/nepal",
     "asia/philippines",
     "asia/taiwan",
+    "asia/thailand",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/new-zealand",
     "europe/austria",
@@ -26,6 +28,7 @@
     "europe/denmark",
     "europe/finland",
     "europe/france/bretagne",
+    "europe/france/ile-de-france",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
@@ -45,6 +48,7 @@
     "europe/poland/lodzkie",
     "europe/poland/mazowieckie",
     "europe/portugal",
+    "europe/slovakia",
     "europe/slovenia",
     "europe/sweden",
     "europe/switzerland",
@@ -64,6 +68,7 @@
     "north-america/us/california/socal",
     "north-america/us/colorado",
     "north-america/us/florida",
+    "north-america/us/georgia",
     "north-america/us/massachusetts",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
@@ -84,26 +89,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/georgia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/georgia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/ile-de-france",
-      "pbf_url": "https://download.geofabrik.de/europe/france/ile-de-france-latest.osm.pbf"
-    },
-    {
-      "id": "africa/mozambique",
-      "pbf_url": "https://download.geofabrik.de/africa/mozambique-latest.osm.pbf"
-    },
-    {
-      "id": "europe/slovakia",
-      "pbf_url": "https://download.geofabrik.de/europe/slovakia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/thailand",
-      "pbf_url": "https://download.geofabrik.de/asia/thailand-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/brandenburg",
       "pbf_url": "https://download.geofabrik.de/europe/germany/brandenburg-latest.osm.pbf"
