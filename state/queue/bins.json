@@ -22,6 +22,7 @@
     "asia/laos",
     "australia-oceania/australia/new-south-wales",
     "central-america/costa-rica",
+    "central-america/honduras",
     "europe/albania",
     "europe/austria",
     "europe/czech-republic/ustecky",
@@ -30,6 +31,7 @@
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/bayern/oberfranken",
+    "europe/germany/berlin",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/italy/sud",
     "europe/netherlands/limburg",
@@ -42,6 +44,8 @@
     "europe/poland/warminsko-mazurskie",
     "europe/slovenia",
     "europe/spain/valencia",
+    "europe/sweden",
+    "europe/ukraine",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/oxfordshire",
@@ -61,29 +65,10 @@
     "north-america/us/washington",
     "russia/siberian-fed-district",
     "south-america/brazil/nordeste",
-    "south-america/brazil/sudeste"
+    "south-america/brazil/sudeste",
+    "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/berlin",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/berlin-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/honduras",
-      "pbf_url": "https://download.geofabrik.de/central-america/honduras-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/venezuela",
-      "pbf_url": "https://download.geofabrik.de/south-america/venezuela-latest.osm.pbf"
-    },
-    {
-      "id": "europe/ukraine",
-      "pbf_url": "https://download.geofabrik.de/europe/ukraine-latest.osm.pbf"
-    },
-    {
-      "id": "europe/sweden",
-      "pbf_url": "https://download.geofabrik.de/europe/sweden-latest.osm.pbf"
-    },
     {
       "id": "russia/central-fed-district",
       "pbf_url": "https://download.geofabrik.de/russia/central-fed-district-latest.osm.pbf"
