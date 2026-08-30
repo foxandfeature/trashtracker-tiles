@@ -7,6 +7,7 @@
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/malawi",
+    "africa/rwanda",
     "africa/somalia",
     "africa/tanzania",
     "asia/china/jiangxi",
@@ -26,6 +27,7 @@
     "asia/myanmar",
     "asia/south-korea",
     "australia-oceania/australia/new-south-wales",
+    "central-america/honduras",
     "europe/albania",
     "europe/belarus",
     "europe/france/alsace",
@@ -42,9 +44,11 @@
     "europe/poland/lubelskie",
     "europe/poland/mazowieckie",
     "europe/poland/opolskie",
+    "europe/poland/swietokrzyskie",
     "europe/poland/warminsko-mazurskie",
     "europe/spain/aragon",
     "europe/spain/asturias",
+    "europe/ukraine",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/scotland",
     "north-america/canada/british-columbia/north-admreg",
@@ -52,6 +56,7 @@
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/us/california/norcal",
+    "north-america/us/maine",
     "north-america/us/washington",
     "north-america/us/wisconsin",
     "russia/south-fed-district",
@@ -59,26 +64,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "africa/rwanda",
-      "pbf_url": "https://download.geofabrik.de/africa/rwanda-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/honduras",
-      "pbf_url": "https://download.geofabrik.de/central-america/honduras-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/maine",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/maine-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/swietokrzyskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/swietokrzyskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/ukraine",
-      "pbf_url": "https://download.geofabrik.de/europe/ukraine-latest.osm.pbf"
-    },
     {
       "id": "europe/portugal",
       "pbf_url": "https://download.geofabrik.de/europe/portugal-latest.osm.pbf"
