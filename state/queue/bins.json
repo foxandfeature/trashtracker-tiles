@@ -14,6 +14,7 @@
     "africa/guinea-bissau",
     "africa/ivory-coast",
     "africa/kenya",
+    "africa/madagascar",
     "africa/malawi",
     "africa/morocco",
     "africa/niger",
@@ -24,6 +25,7 @@
     "africa/sudan",
     "africa/tanzania",
     "africa/uganda",
+    "africa/zambia",
     "asia/afghanistan",
     "asia/bangladesh",
     "asia/china/beijing",
@@ -69,6 +71,7 @@
     "asia/pakistan",
     "asia/philippines",
     "asia/south-korea",
+    "asia/taiwan",
     "asia/tajikistan",
     "asia/thailand",
     "asia/turkmenistan",
@@ -124,6 +127,7 @@
     "europe/germany/berlin",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
+    "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
     "europe/hungary",
     "europe/iceland",
@@ -211,6 +215,7 @@
     "europe/united-kingdom/england/wiltshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
+    "north-america/canada/alberta",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/north-admreg",
@@ -264,26 +269,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/alberta",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/alberta-latest.osm.pbf"
-    },
-    {
-      "id": "africa/madagascar",
-      "pbf_url": "https://download.geofabrik.de/africa/madagascar-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/schleswig-holstein",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/schleswig-holstein-latest.osm.pbf"
-    },
-    {
-      "id": "asia/taiwan",
-      "pbf_url": "https://download.geofabrik.de/asia/taiwan-latest.osm.pbf"
-    },
-    {
-      "id": "africa/zambia",
-      "pbf_url": "https://download.geofabrik.de/africa/zambia-latest.osm.pbf"
-    },
     {
       "id": "africa/zimbabwe",
       "pbf_url": "https://download.geofabrik.de/africa/zimbabwe-latest.osm.pbf"
