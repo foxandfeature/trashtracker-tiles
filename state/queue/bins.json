@@ -33,6 +33,7 @@
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
+    "asia/indonesia/kalimantan",
     "asia/indonesia/nusa-tenggara",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
@@ -82,6 +83,7 @@
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/georgia",
     "europe/germany/baden-wuerttemberg/freiburg-regbez",
     "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
@@ -118,6 +120,7 @@
     "europe/norway/vestlandet",
     "europe/poland/dolnoslaskie",
     "europe/poland/lodzkie",
+    "europe/poland/lubelskie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/poland/podkarpackie",
@@ -131,6 +134,7 @@
     "europe/spain/andalucia",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
+    "europe/spain/galicia",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
@@ -139,6 +143,7 @@
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
     "north-america/canada/british-columbia/interior-admreg",
+    "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/manitoba",
     "north-america/canada/newfoundland-and-labrador",
@@ -204,26 +209,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/galicia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/galicia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/georgia",
-      "pbf_url": "https://download.geofabrik.de/europe/georgia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/island-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/island-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/kalimantan",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/kalimantan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/lubelskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lubelskie-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/bayern/schwaben",
       "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/schwaben-latest.osm.pbf"
