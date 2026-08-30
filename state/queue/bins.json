@@ -53,6 +53,7 @@
     "asia/china/zhejiang",
     "asia/gcc-states",
     "asia/india/central-zone",
+    "asia/india/eastern-zone",
     "asia/india/north-eastern-zone",
     "asia/india/southern-zone",
     "asia/india/western-zone",
@@ -152,6 +153,7 @@
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/rheinland-pfalz",
     "europe/germany/saarland",
+    "europe/germany/sachsen",
     "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
     "europe/greece",
@@ -166,6 +168,7 @@
     "europe/italy/sud",
     "europe/liechtenstein",
     "europe/moldova",
+    "europe/montenegro",
     "europe/netherlands/drenthe",
     "europe/netherlands/flevoland",
     "europe/netherlands/friesland",
@@ -175,6 +178,7 @@
     "europe/netherlands/noord-brabant",
     "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
+    "europe/netherlands/utrecht",
     "europe/netherlands/zeeland",
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
@@ -291,6 +295,7 @@
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
     "north-america/us/ohio",
+    "north-america/us/oregon",
     "north-america/us/pennsylvania",
     "north-america/us/texas",
     "north-america/us/virginia",
@@ -319,26 +324,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/sachsen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/sachsen-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/eastern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/eastern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/utrecht",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/utrecht-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/oregon",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/oregon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/montenegro",
-      "pbf_url": "https://download.geofabrik.de/europe/montenegro-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/maryland",
       "pbf_url": "https://download.geofabrik.de/north-america/us/maryland-latest.osm.pbf"
