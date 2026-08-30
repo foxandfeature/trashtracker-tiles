@@ -32,6 +32,7 @@
     "asia/iran",
     "asia/japan/chubu",
     "asia/japan/chugoku",
+    "asia/japan/hokkaido",
     "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/japan/kyushu",
@@ -52,6 +53,7 @@
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
+    "europe/bulgaria",
     "europe/croatia",
     "europe/czech-republic/stredocesky",
     "europe/denmark",
@@ -143,11 +145,14 @@
     "north-america/us/georgia",
     "north-america/us/illinois",
     "north-america/us/indiana",
+    "north-america/us/iowa",
+    "north-america/us/kansas",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/minnesota",
     "north-america/us/missouri",
+    "north-america/us/new-jersey",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/ohio",
@@ -179,26 +184,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/bulgaria",
-      "pbf_url": "https://download.geofabrik.de/europe/bulgaria-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/hokkaido",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/hokkaido-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/iowa",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/iowa-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/kansas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/kansas-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-jersey",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-jersey-latest.osm.pbf"
-    },
     {
       "id": "africa/zimbabwe",
       "pbf_url": "https://download.geofabrik.de/africa/zimbabwe-latest.osm.pbf"
