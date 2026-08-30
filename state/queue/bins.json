@@ -11,6 +11,7 @@
     "africa/sudan",
     "africa/tanzania",
     "asia/afghanistan",
+    "asia/china/gansu",
     "asia/china/shaanxi",
     "asia/china/tianjin",
     "asia/china/tibet",
@@ -20,12 +21,14 @@
     "asia/indonesia/java",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
+    "asia/iraq",
     "asia/japan/chugoku",
     "asia/japan/kansai",
     "asia/jordan",
     "asia/laos",
     "asia/pakistan",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/fiji",
     "central-america/costa-rica",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
@@ -69,6 +72,7 @@
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/durham",
     "europe/united-kingdom/england/hampshire",
+    "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/suffolk",
@@ -87,6 +91,7 @@
     "north-america/us/north-dakota",
     "north-america/us/washington",
     "russia/central-fed-district",
+    "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
     "south-america/brazil/nordeste",
@@ -94,26 +99,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/iraq",
-      "pbf_url": "https://download.geofabrik.de/asia/iraq-latest.osm.pbf"
-    },
-    {
-      "id": "russia/northwestern-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/northwestern-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/fiji",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/fiji-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/gansu",
-      "pbf_url": "https://download.geofabrik.de/asia/china/gansu-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/isle-of-wight",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/isle-of-wight-latest.osm.pbf"
-    },
     {
       "id": "europe/france/picardie",
       "pbf_url": "https://download.geofabrik.de/europe/france/picardie-latest.osm.pbf"
