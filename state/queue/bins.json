@@ -12,6 +12,7 @@
     "asia/japan/chubu",
     "asia/japan/kansai",
     "asia/japan/kanto",
+    "asia/malaysia-singapore-brunei",
     "asia/nepal",
     "asia/philippines",
     "australia-oceania/australia/new-south-wales",
@@ -20,8 +21,11 @@
     "europe/belgium",
     "europe/denmark",
     "europe/finland",
+    "europe/france/pays-de-la-loire",
+    "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/bayern/oberbayern",
+    "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/hungary",
@@ -57,6 +61,7 @@
     "north-america/us/north-carolina",
     "north-america/us/texas",
     "north-america/us/virginia",
+    "north-america/us/washington",
     "russia/central-fed-district",
     "russia/far-eastern-fed-district",
     "russia/northwestern-fed-district",
@@ -69,26 +74,6 @@
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "europe/france/provence-alpes-cote-d-azur",
-      "pbf_url": "https://download.geofabrik.de/europe/france/provence-alpes-cote-d-azur-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/washington",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/washington-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/hessen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/hessen-latest.osm.pbf"
-    },
-    {
-      "id": "asia/malaysia-singapore-brunei",
-      "pbf_url": "https://download.geofabrik.de/asia/malaysia-singapore-brunei-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/pays-de-la-loire",
-      "pbf_url": "https://download.geofabrik.de/europe/france/pays-de-la-loire-latest.osm.pbf"
-    },
     {
       "id": "africa/congo-democratic-republic",
       "pbf_url": "https://download.geofabrik.de/africa/congo-democratic-republic-latest.osm.pbf"
