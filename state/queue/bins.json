@@ -104,6 +104,7 @@
     "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/liberecky",
     "europe/czech-republic/olomoucky",
+    "europe/czech-republic/pardubicky",
     "europe/czech-republic/praha",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
@@ -111,6 +112,7 @@
     "europe/denmark",
     "europe/finland",
     "europe/france/alsace",
+    "europe/france/bourgogne",
     "europe/france/centre",
     "europe/france/champagne-ardenne",
     "europe/france/franche-comte",
@@ -180,6 +182,7 @@
     "europe/spain/asturias",
     "europe/spain/cantabria",
     "europe/spain/castilla-y-leon",
+    "europe/spain/cataluna",
     "europe/spain/extremadura",
     "europe/spain/islas-baleares",
     "europe/spain/la-rioja",
@@ -200,6 +203,7 @@
     "europe/united-kingdom/england/durham",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
+    "europe/united-kingdom/england/greater-manchester",
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/kent",
@@ -247,6 +251,7 @@
     "north-america/us/louisiana",
     "north-america/us/maine",
     "north-america/us/nebraska",
+    "north-america/us/new-jersey",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
@@ -274,26 +279,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/france/bourgogne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/bourgogne-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/cataluna",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/cataluna-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/greater-manchester",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/greater-manchester-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/pardubicky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/pardubicky-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-jersey",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-jersey-latest.osm.pbf"
-    },
     {
       "id": "south-america/chile",
       "pbf_url": "https://download.geofabrik.de/south-america/chile-latest.osm.pbf"
