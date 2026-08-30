@@ -13,6 +13,8 @@
     "asia/india/western-zone",
     "asia/indonesia/sumatra",
     "asia/japan/chugoku",
+    "asia/japan/kansai",
+    "asia/laos",
     "australia-oceania/australia/new-south-wales",
     "europe/albania",
     "europe/czech-republic/ustecky",
@@ -23,10 +25,13 @@
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/italy/sud",
     "europe/norway/nord-norge",
+    "europe/norway/trondelag",
     "europe/poland/malopolskie",
     "europe/poland/opolskie",
     "europe/poland/warminsko-mazurskie",
+    "europe/slovenia",
     "europe/spain/valencia",
+    "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -44,26 +49,6 @@
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "europe/slovenia",
-      "pbf_url": "https://download.geofabrik.de/europe/slovenia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/trondelag",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/trondelag-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/kansai",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kansai-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/devon",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/devon-latest.osm.pbf"
-    },
-    {
-      "id": "asia/laos",
-      "pbf_url": "https://download.geofabrik.de/asia/laos-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/podlaskie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/podlaskie-latest.osm.pbf"
