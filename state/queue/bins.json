@@ -40,6 +40,7 @@
     "asia/china/zhejiang",
     "asia/gcc-states",
     "asia/india/central-zone",
+    "asia/india/eastern-zone",
     "asia/india/north-eastern-zone",
     "asia/india/southern-zone",
     "asia/india/western-zone",
@@ -61,6 +62,7 @@
     "asia/kazakhstan",
     "asia/laos",
     "asia/lebanon",
+    "asia/malaysia-singapore-brunei",
     "asia/maldives",
     "asia/myanmar",
     "asia/nepal",
@@ -132,6 +134,7 @@
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/rheinland-pfalz",
+    "europe/germany/saarland",
     "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
     "europe/greece",
@@ -150,6 +153,7 @@
     "europe/netherlands/flevoland",
     "europe/netherlands/friesland",
     "europe/netherlands/gelderland",
+    "europe/netherlands/groningen",
     "europe/netherlands/limburg",
     "europe/netherlands/noord-brabant",
     "europe/netherlands/noord-holland",
@@ -224,6 +228,7 @@
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
     "north-america/canada/british-columbia/island-admreg",
+    "north-america/canada/british-columbia/kootenay-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/new-brunswick",
     "north-america/canada/newfoundland-and-labrador",
@@ -279,26 +284,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/saarland",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/saarland-latest.osm.pbf"
-    },
-    {
-      "id": "asia/malaysia-singapore-brunei",
-      "pbf_url": "https://download.geofabrik.de/asia/malaysia-singapore-brunei-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/eastern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/eastern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/groningen",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/groningen-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/kootenay-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/kootenay-admreg-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/galicia",
       "pbf_url": "https://download.geofabrik.de/europe/spain/galicia-latest.osm.pbf"
