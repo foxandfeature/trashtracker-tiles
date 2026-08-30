@@ -109,6 +109,7 @@
     "asia/tajikistan",
     "asia/thailand",
     "asia/turkmenistan",
+    "asia/uzbekistan",
     "asia/vietnam",
     "asia/yemen",
     "australia-oceania/australia/christmas-island",
@@ -198,6 +199,7 @@
     "europe/germany/mecklenburg-vorpommern",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
+    "europe/germany/nordrhein-westfalen/detmold-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
@@ -290,6 +292,7 @@
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/dorset",
     "europe/united-kingdom/england/durham",
+    "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
@@ -363,6 +366,7 @@
     "north-america/us/minnesota",
     "north-america/us/missouri",
     "north-america/us/nebraska",
+    "north-america/us/nevada",
     "north-america/us/new-jersey",
     "north-america/us/new-mexico",
     "north-america/us/new-york",
@@ -396,6 +400,7 @@
     "south-america/brazil/sul",
     "south-america/chile",
     "south-america/colombia",
+    "south-america/ecuador",
     "south-america/guyana",
     "south-america/paraguay",
     "south-america/peru",
@@ -404,26 +409,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/east-yorkshire-with-hull",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/east-yorkshire-with-hull-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/nevada",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/nevada-latest.osm.pbf"
-    },
-    {
-      "id": "asia/uzbekistan",
-      "pbf_url": "https://download.geofabrik.de/asia/uzbekistan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/detmold-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/detmold-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/ecuador",
-      "pbf_url": "https://download.geofabrik.de/south-america/ecuador-latest.osm.pbf"
-    },
     {
       "id": "europe/estonia",
       "pbf_url": "https://download.geofabrik.de/europe/estonia-latest.osm.pbf"
