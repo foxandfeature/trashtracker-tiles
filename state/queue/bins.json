@@ -120,6 +120,7 @@
     "europe/netherlands/gelderland",
     "europe/netherlands/groningen",
     "europe/netherlands/limburg",
+    "europe/netherlands/noord-brabant",
     "europe/netherlands/overijssel",
     "europe/norway/sorlandet",
     "europe/norway/trondelag",
@@ -127,6 +128,7 @@
     "europe/poland/kujawsko-pomorskie",
     "europe/poland/lodzkie",
     "europe/poland/lubelskie",
+    "europe/poland/lubuskie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/poland/opolskie",
@@ -171,6 +173,7 @@
     "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
+    "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/england/wiltshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -211,34 +214,16 @@
     "russia/south-fed-district",
     "russia/volga-fed-district",
     "south-america/bolivia",
+    "south-america/brazil/nordeste",
     "south-america/brazil/norte",
     "south-america/brazil/sudeste",
     "south-america/colombia",
     "south-america/guyana",
     "south-america/paraguay",
+    "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/netherlands/noord-brabant",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/noord-brabant-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/nordeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/nordeste-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/uruguay",
-      "pbf_url": "https://download.geofabrik.de/south-america/uruguay-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/west-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-yorkshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/lubuskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lubuskie-latest.osm.pbf"
-    },
     {
       "id": "asia/maldives",
       "pbf_url": "https://download.geofabrik.de/asia/maldives-latest.osm.pbf"
