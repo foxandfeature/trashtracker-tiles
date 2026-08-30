@@ -38,12 +38,16 @@
     "asia/laos",
     "asia/myanmar",
     "asia/south-korea",
+    "asia/tajikistan",
+    "asia/turkmenistan",
     "asia/yemen",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/papua-new-guinea",
+    "central-america/costa-rica",
     "central-america/honduras",
     "europe/albania",
     "europe/belarus",
+    "europe/czech-republic/liberecky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/zlinsky",
     "europe/france/alsace",
@@ -79,6 +83,7 @@
     "europe/spain/asturias",
     "europe/spain/cantabria",
     "europe/spain/valencia",
+    "europe/united-kingdom/england/cheshire",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/dorset",
@@ -109,26 +114,6 @@
     "south-america/paraguay"
   ],
   "remaining": [
-    {
-      "id": "central-america/costa-rica",
-      "pbf_url": "https://download.geofabrik.de/central-america/costa-rica-latest.osm.pbf"
-    },
-    {
-      "id": "asia/turkmenistan",
-      "pbf_url": "https://download.geofabrik.de/asia/turkmenistan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/liberecky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/liberecky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/cheshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cheshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/tajikistan",
-      "pbf_url": "https://download.geofabrik.de/asia/tajikistan-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/australia/victoria",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/victoria-latest.osm.pbf"
