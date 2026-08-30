@@ -57,13 +57,16 @@
     "australia-oceania/papua-new-guinea",
     "central-america/costa-rica",
     "central-america/guatemala",
+    "central-america/haiti-and-domrep",
     "central-america/honduras",
     "europe/albania",
+    "europe/austria",
     "europe/belarus",
     "europe/belgium",
     "europe/czech-republic/liberecky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/zlinsky",
+    "europe/finland",
     "europe/france/alsace",
     "europe/france/bretagne",
     "europe/france/champagne-ardenne",
@@ -89,6 +92,7 @@
     "europe/poland/mazowieckie",
     "europe/poland/opolskie",
     "europe/poland/podkarpackie",
+    "europe/poland/podlaskie",
     "europe/poland/slaskie",
     "europe/poland/swietokrzyskie",
     "europe/poland/warminsko-mazurskie",
@@ -99,6 +103,7 @@
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/spain/cantabria",
+    "europe/sweden",
     "europe/ukraine",
     "europe/united-kingdom/england/cheshire",
     "europe/united-kingdom/england/cornwall",
@@ -144,26 +149,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "central-america/haiti-and-domrep",
-      "pbf_url": "https://download.geofabrik.de/central-america/haiti-and-domrep-latest.osm.pbf"
-    },
-    {
-      "id": "europe/sweden",
-      "pbf_url": "https://download.geofabrik.de/europe/sweden-latest.osm.pbf"
-    },
-    {
-      "id": "europe/finland",
-      "pbf_url": "https://download.geofabrik.de/europe/finland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/austria",
-      "pbf_url": "https://download.geofabrik.de/europe/austria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/podlaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/podlaskie-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/wiltshire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/wiltshire-latest.osm.pbf"
