@@ -6,6 +6,7 @@
     "africa/somalia",
     "africa/tanzania",
     "asia/china/sichuan",
+    "asia/china/tibet",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
     "asia/india/western-zone",
@@ -15,6 +16,8 @@
     "asia/japan/kanto",
     "asia/japan/kyushu",
     "asia/japan/shikoku",
+    "asia/japan/tohoku",
+    "asia/myanmar",
     "australia-oceania/australia/new-south-wales",
     "europe/france/alsace",
     "europe/france/bretagne",
@@ -27,6 +30,7 @@
     "europe/italy/sud",
     "europe/moldova",
     "europe/netherlands/groningen",
+    "europe/netherlands/overijssel",
     "europe/poland/lubelskie",
     "europe/poland/mazowieckie",
     "europe/poland/slaskie",
@@ -40,30 +44,11 @@
     "north-america/us/california/norcal",
     "north-america/us/wisconsin",
     "russia/south-fed-district",
+    "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "asia/japan/tohoku",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/tohoku-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/overijssel",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/overijssel-latest.osm.pbf"
-    },
-    {
-      "id": "asia/myanmar",
-      "pbf_url": "https://download.geofabrik.de/asia/myanmar-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/nordeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/nordeste-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/tibet",
-      "pbf_url": "https://download.geofabrik.de/asia/china/tibet-latest.osm.pbf"
-    },
     {
       "id": "asia/japan/chugoku",
       "pbf_url": "https://download.geofabrik.de/asia/japan/chugoku-latest.osm.pbf"
