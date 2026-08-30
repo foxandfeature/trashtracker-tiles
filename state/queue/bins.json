@@ -33,6 +33,7 @@
     "asia/china/tianjin",
     "asia/china/tibet",
     "asia/china/xinjiang",
+    "asia/china/yunnan",
     "asia/china/zhejiang",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
@@ -59,6 +60,8 @@
     "asia/yemen",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/victoria",
+    "australia-oceania/fiji",
+    "australia-oceania/micronesia",
     "australia-oceania/papua-new-guinea",
     "central-america/costa-rica",
     "central-america/guatemala",
@@ -145,6 +148,7 @@
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/colorado",
+    "north-america/us/louisiana",
     "north-america/us/maine",
     "north-america/us/nebraska",
     "north-america/us/north-dakota",
@@ -153,6 +157,7 @@
     "north-america/us/wisconsin",
     "russia/central-fed-district",
     "russia/north-caucasus-fed-district",
+    "russia/siberian-fed-district",
     "russia/south-fed-district",
     "russia/volga-fed-district",
     "south-america/bolivia",
@@ -164,26 +169,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "russia/siberian-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/siberian-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/yunnan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/yunnan-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/fiji",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/fiji-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/micronesia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/micronesia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/louisiana",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/louisiana-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/new-brunswick",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/new-brunswick-latest.osm.pbf"
