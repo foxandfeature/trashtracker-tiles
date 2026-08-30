@@ -47,9 +47,12 @@
     "asia/azerbaijan",
     "asia/bangladesh",
     "asia/china/anhui",
+    "asia/china/fujian",
+    "asia/china/gansu",
     "asia/china/guangdong",
     "asia/china/guangxi",
     "asia/china/hebei",
+    "asia/china/henan",
     "asia/china/hubei",
     "asia/china/hunan",
     "asia/china/jiangsu",
@@ -170,6 +173,7 @@
     "europe/germany/bayern/unterfranken",
     "europe/germany/berlin",
     "europe/germany/brandenburg",
+    "europe/germany/hamburg",
     "europe/germany/hessen",
     "europe/germany/mecklenburg-vorpommern",
     "europe/germany/niedersachsen",
@@ -255,6 +259,7 @@
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
+    "europe/united-kingdom/england/greater-manchester",
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/hertfordshire",
     "europe/united-kingdom/england/kent",
@@ -359,26 +364,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/fujian",
-      "pbf_url": "https://download.geofabrik.de/asia/china/fujian-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/gansu",
-      "pbf_url": "https://download.geofabrik.de/asia/china/gansu-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/greater-manchester",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/greater-manchester-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/hamburg",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/hamburg-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/henan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/henan-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/islas-baleares",
       "pbf_url": "https://download.geofabrik.de/europe/spain/islas-baleares-latest.osm.pbf"
