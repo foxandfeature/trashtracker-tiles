@@ -9,6 +9,7 @@
     "africa/central-african-republic",
     "africa/chad",
     "africa/congo-democratic-republic",
+    "africa/egypt",
     "africa/ethiopia",
     "africa/ghana",
     "africa/guinea-bissau",
@@ -17,12 +18,14 @@
     "africa/lesotho",
     "africa/madagascar",
     "africa/malawi",
+    "africa/mali",
     "africa/morocco",
     "africa/mozambique",
     "africa/niger",
     "africa/nigeria",
     "africa/rwanda",
     "africa/saint-helena-ascension-and-tristan-da-cunha",
+    "africa/sao-tome-and-principe",
     "africa/senegal-and-gambia",
     "africa/south-africa",
     "africa/sudan",
@@ -121,6 +124,7 @@
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
+    "europe/bosnia-herzegovina",
     "europe/bulgaria",
     "europe/croatia",
     "europe/cyprus",
@@ -285,6 +289,7 @@
     "europe/united-kingdom/england/south-yorkshire",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/tyne-and-wear",
+    "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
     "europe/united-kingdom/england/west-yorkshire",
@@ -369,26 +374,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/bosnia-herzegovina",
-      "pbf_url": "https://download.geofabrik.de/europe/bosnia-herzegovina-latest.osm.pbf"
-    },
-    {
-      "id": "africa/mali",
-      "pbf_url": "https://download.geofabrik.de/africa/mali-latest.osm.pbf"
-    },
-    {
-      "id": "africa/egypt",
-      "pbf_url": "https://download.geofabrik.de/africa/egypt-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/warwickshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/warwickshire-latest.osm.pbf"
-    },
-    {
-      "id": "africa/sao-tome-and-principe",
-      "pbf_url": "https://download.geofabrik.de/africa/sao-tome-and-principe-latest.osm.pbf"
-    },
     {
       "id": "africa/south-sudan",
       "pbf_url": "https://download.geofabrik.de/africa/south-sudan-latest.osm.pbf"
