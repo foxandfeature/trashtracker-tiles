@@ -27,6 +27,7 @@
     "asia/china/gansu",
     "asia/china/guangdong",
     "asia/china/guangxi",
+    "asia/china/hubei",
     "asia/china/jiangsu",
     "asia/china/jiangxi",
     "asia/china/qinghai",
@@ -57,6 +58,7 @@
     "asia/kyrgyzstan",
     "asia/laos",
     "asia/lebanon",
+    "asia/maldives",
     "asia/myanmar",
     "asia/north-korea",
     "asia/pakistan",
@@ -106,6 +108,7 @@
     "europe/france/rhone-alpes",
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
+    "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/thueringen",
     "europe/iceland",
@@ -121,6 +124,7 @@
     "europe/netherlands/groningen",
     "europe/netherlands/limburg",
     "europe/netherlands/noord-brabant",
+    "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
     "europe/norway/sorlandet",
     "europe/norway/trondelag",
@@ -182,6 +186,7 @@
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/new-brunswick",
     "north-america/canada/newfoundland-and-labrador",
+    "north-america/canada/northwest-territories",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
@@ -224,26 +229,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/maldives",
-      "pbf_url": "https://download.geofabrik.de/asia/maldives-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/northwest-territories",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/northwest-territories-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hubei",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hubei-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/niedersachsen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/niedersachsen-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/noord-holland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/noord-holland-latest.osm.pbf"
-    },
     {
       "id": "europe/hungary",
       "pbf_url": "https://download.geofabrik.de/europe/hungary-latest.osm.pbf"
