@@ -1,28 +1,14 @@
 {
   "done": [],
   "failed": [],
-  "lock": [],
+  "lock": [
+    "africa/tanzania",
+    "asia/indonesia/sumatra",
+    "europe/united-kingdom/scotland",
+    "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/nunavut/qikiqtaaluk"
+  ],
   "remaining": [
-    {
-      "id": "north-america/canada/british-columbia/north-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/north-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/scotland",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/scotland-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/sumatra",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/sumatra-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/nunavut/qikiqtaaluk",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/nunavut/qikiqtaaluk-latest.osm.pbf"
-    },
-    {
-      "id": "africa/tanzania",
-      "pbf_url": "https://download.geofabrik.de/africa/tanzania-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/nunavut/kivalliq",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/nunavut/kivalliq-latest.osm.pbf"
