@@ -21,6 +21,7 @@
     "africa/mali",
     "africa/morocco",
     "africa/mozambique",
+    "africa/namibia",
     "africa/niger",
     "africa/nigeria",
     "africa/rwanda",
@@ -36,6 +37,7 @@
     "africa/zambia",
     "africa/zimbabwe",
     "asia/afghanistan",
+    "asia/azerbaijan",
     "asia/bangladesh",
     "asia/china/beijing",
     "asia/china/chongqing",
@@ -98,6 +100,7 @@
     "asia/pakistan",
     "asia/philippines",
     "asia/south-korea",
+    "asia/sri-lanka",
     "asia/taiwan",
     "asia/tajikistan",
     "asia/thailand",
@@ -107,6 +110,7 @@
     "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
+    "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
     "australia-oceania/fiji",
     "australia-oceania/ile-de-clipperton",
@@ -179,6 +183,7 @@
     "europe/germany/bayern/niederbayern",
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
+    "europe/germany/bayern/schwaben",
     "europe/germany/berlin",
     "europe/germany/brandenburg",
     "europe/germany/hessen",
@@ -389,26 +394,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/bayern/schwaben",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/schwaben-latest.osm.pbf"
-    },
-    {
-      "id": "asia/sri-lanka",
-      "pbf_url": "https://download.geofabrik.de/asia/sri-lanka-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/tasmania",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/tasmania-latest.osm.pbf"
-    },
-    {
-      "id": "asia/azerbaijan",
-      "pbf_url": "https://download.geofabrik.de/asia/azerbaijan-latest.osm.pbf"
-    },
-    {
-      "id": "africa/namibia",
-      "pbf_url": "https://download.geofabrik.de/africa/namibia-latest.osm.pbf"
-    },
     {
       "id": "south-america/suriname",
       "pbf_url": "https://download.geofabrik.de/south-america/suriname-latest.osm.pbf"
