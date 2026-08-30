@@ -39,6 +39,7 @@
     "asia/jordan",
     "asia/kazakhstan",
     "asia/laos",
+    "asia/lebanon",
     "asia/nepal",
     "asia/pakistan",
     "asia/philippines",
@@ -57,6 +58,7 @@
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/moravskoslezky",
+    "europe/czech-republic/pardubicky",
     "europe/czech-republic/praha",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
@@ -76,6 +78,7 @@
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/iceland",
+    "europe/ireland-and-northern-ireland",
     "europe/isle-of-man",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
@@ -152,6 +155,7 @@
     "north-america/mexico",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
+    "north-america/us/delaware",
     "north-america/us/florida",
     "north-america/us/louisiana",
     "north-america/us/new-york",
@@ -159,6 +163,7 @@
     "north-america/us/north-dakota",
     "north-america/us/texas",
     "north-america/us/washington",
+    "north-america/us/wisconsin",
     "russia/central-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
@@ -169,26 +174,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/czech-republic/pardubicky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/pardubicky-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/delaware",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/delaware-latest.osm.pbf"
-    },
-    {
-      "id": "europe/ireland-and-northern-ireland",
-      "pbf_url": "https://download.geofabrik.de/europe/ireland-and-northern-ireland-latest.osm.pbf"
-    },
-    {
-      "id": "asia/lebanon",
-      "pbf_url": "https://download.geofabrik.de/asia/lebanon-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/wisconsin",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/wisconsin-latest.osm.pbf"
-    },
     {
       "id": "europe/netherlands/zeeland",
       "pbf_url": "https://download.geofabrik.de/europe/netherlands/zeeland-latest.osm.pbf"
