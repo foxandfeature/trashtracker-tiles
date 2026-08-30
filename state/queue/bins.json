@@ -3,6 +3,7 @@
   "failed": [],
   "lock": [
     "africa/nigeria",
+    "africa/south-africa",
     "africa/tanzania",
     "asia/india/central-zone",
     "asia/india/southern-zone",
@@ -23,7 +24,11 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/norway/nord-norge",
+    "europe/norway/ostlandet",
     "europe/poland/lodzkie",
+    "europe/poland/mazowieckie",
+    "europe/portugal",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
@@ -54,26 +59,6 @@
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "africa/south-africa",
-      "pbf_url": "https://download.geofabrik.de/africa/south-africa-latest.osm.pbf"
-    },
-    {
-      "id": "europe/portugal",
-      "pbf_url": "https://download.geofabrik.de/europe/portugal-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/ostlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/ostlandet-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/nord-norge",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/nord-norge-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/mazowieckie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/mazowieckie-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/bayern/oberbayern",
       "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberbayern-latest.osm.pbf"
