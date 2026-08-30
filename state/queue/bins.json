@@ -16,6 +16,7 @@
     "africa/morocco",
     "africa/niger",
     "africa/rwanda",
+    "africa/senegal-and-gambia",
     "africa/somalia",
     "africa/sudan",
     "africa/tanzania",
@@ -25,6 +26,7 @@
     "asia/china/guangxi",
     "asia/china/jiangxi",
     "asia/china/qinghai",
+    "asia/china/shaanxi",
     "asia/china/sichuan",
     "asia/china/tianjin",
     "asia/china/tibet",
@@ -59,6 +61,7 @@
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
+    "central-america/nicaragua",
     "europe/albania",
     "europe/austria",
     "europe/belarus",
@@ -117,6 +120,7 @@
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/tyne-and-wear",
+    "europe/united-kingdom/england/wiltshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/british-columbia/interior-admreg",
@@ -140,6 +144,7 @@
     "russia/central-fed-district",
     "russia/north-caucasus-fed-district",
     "russia/south-fed-district",
+    "russia/volga-fed-district",
     "south-america/bolivia",
     "south-america/brazil/norte",
     "south-america/brazil/sudeste",
@@ -149,26 +154,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/wiltshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/wiltshire-latest.osm.pbf"
-    },
-    {
-      "id": "africa/senegal-and-gambia",
-      "pbf_url": "https://download.geofabrik.de/africa/senegal-and-gambia-latest.osm.pbf"
-    },
-    {
-      "id": "russia/volga-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/volga-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/nicaragua",
-      "pbf_url": "https://download.geofabrik.de/central-america/nicaragua-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/shaanxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/shaanxi-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/isle-of-wight",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/isle-of-wight-latest.osm.pbf"
