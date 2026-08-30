@@ -7,6 +7,7 @@
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/egypt",
+    "africa/ethiopia",
     "africa/kenya",
     "africa/madagascar",
     "africa/mali",
@@ -51,10 +52,13 @@
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
+    "europe/croatia",
     "europe/czech-republic/stredocesky",
     "europe/denmark",
     "europe/finland",
     "europe/france/aquitaine",
+    "europe/france/basse-normandie",
+    "europe/france/bourgogne",
     "europe/france/bretagne",
     "europe/france/centre",
     "europe/france/ile-de-france",
@@ -78,6 +82,7 @@
     "europe/germany/nordrhein-westfalen/muenster-regbez",
     "europe/germany/rheinland-pfalz",
     "europe/germany/sachsen",
+    "europe/germany/sachsen-anhalt",
     "europe/germany/thueringen",
     "europe/greece",
     "europe/hungary",
@@ -174,26 +179,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/france/basse-normandie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/basse-normandie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/bourgogne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/bourgogne-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/sachsen-anhalt",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/sachsen-anhalt-latest.osm.pbf"
-    },
-    {
-      "id": "europe/croatia",
-      "pbf_url": "https://download.geofabrik.de/europe/croatia-latest.osm.pbf"
-    },
-    {
-      "id": "africa/ethiopia",
-      "pbf_url": "https://download.geofabrik.de/africa/ethiopia-latest.osm.pbf"
-    },
     {
       "id": "europe/bulgaria",
       "pbf_url": "https://download.geofabrik.de/europe/bulgaria-latest.osm.pbf"
