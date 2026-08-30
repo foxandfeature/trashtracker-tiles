@@ -40,9 +40,11 @@
     "asia/laos",
     "asia/myanmar",
     "asia/south-korea",
+    "asia/tajikistan",
     "asia/turkmenistan",
     "asia/yemen",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/australia/victoria",
     "australia-oceania/papua-new-guinea",
     "central-america/costa-rica",
     "central-america/honduras",
@@ -83,12 +85,14 @@
     "europe/spain/asturias",
     "europe/spain/cantabria",
     "europe/ukraine",
+    "europe/united-kingdom/england/cheshire",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/dorset",
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/leicestershire",
+    "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -99,6 +103,7 @@
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
+    "north-america/canada/quebec",
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/colorado",
@@ -114,26 +119,6 @@
     "south-america/paraguay"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/cheshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cheshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/tajikistan",
-      "pbf_url": "https://download.geofabrik.de/asia/tajikistan-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/victoria",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/victoria-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/quebec",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/quebec-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/oxfordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/oxfordshire-latest.osm.pbf"
-    },
     {
       "id": "south-america/brazil/norte",
       "pbf_url": "https://download.geofabrik.de/south-america/brazil/norte-latest.osm.pbf"
