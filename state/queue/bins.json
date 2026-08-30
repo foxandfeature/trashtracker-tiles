@@ -37,10 +37,12 @@
     "asia/japan/kyushu",
     "asia/japan/shikoku",
     "asia/japan/tohoku",
+    "asia/jordan",
     "asia/kyrgyzstan",
     "asia/laos",
     "asia/myanmar",
     "asia/south-korea",
+    "asia/tajikistan",
     "asia/turkmenistan",
     "asia/yemen",
     "australia-oceania/australia/new-south-wales",
@@ -108,6 +110,7 @@
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/quebec",
+    "north-america/us/alaska",
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/colorado",
@@ -116,34 +119,16 @@
     "north-america/us/washington",
     "north-america/us/wisconsin",
     "russia/central-fed-district",
+    "russia/north-caucasus-fed-district",
     "russia/south-fed-district",
     "south-america/bolivia",
+    "south-america/brazil/norte",
     "south-america/brazil/sudeste",
     "south-america/colombia",
     "south-america/paraguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/tajikistan",
-      "pbf_url": "https://download.geofabrik.de/asia/tajikistan-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/norte",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/norte-latest.osm.pbf"
-    },
-    {
-      "id": "asia/jordan",
-      "pbf_url": "https://download.geofabrik.de/asia/jordan-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/alaska",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/alaska-latest.osm.pbf"
-    },
-    {
-      "id": "russia/north-caucasus-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/north-caucasus-fed-district-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/north-dakota",
       "pbf_url": "https://download.geofabrik.de/north-america/us/north-dakota-latest.osm.pbf"
