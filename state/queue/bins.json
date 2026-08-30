@@ -35,6 +35,7 @@
     "asia/china/gansu",
     "asia/china/guangdong",
     "asia/china/guangxi",
+    "asia/china/guizhou",
     "asia/china/heilongjiang",
     "asia/china/hubei",
     "asia/china/inner-mongolia",
@@ -74,6 +75,7 @@
     "asia/kyrgyzstan",
     "asia/laos",
     "asia/lebanon",
+    "asia/malaysia-singapore-brunei",
     "asia/maldives",
     "asia/myanmar",
     "asia/nepal",
@@ -153,6 +155,7 @@
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/rheinland-pfalz",
     "europe/germany/saarland",
+    "europe/germany/sachsen",
     "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
     "europe/greece",
@@ -166,6 +169,7 @@
     "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/liechtenstein",
+    "europe/lithuania",
     "europe/moldova",
     "europe/netherlands/drenthe",
     "europe/netherlands/flevoland",
@@ -224,6 +228,7 @@
     "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/england/bristol",
+    "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cheshire",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/cumbria",
@@ -319,26 +324,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/cambridgeshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cambridgeshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/guizhou",
-      "pbf_url": "https://download.geofabrik.de/asia/china/guizhou-latest.osm.pbf"
-    },
-    {
-      "id": "asia/malaysia-singapore-brunei",
-      "pbf_url": "https://download.geofabrik.de/asia/malaysia-singapore-brunei-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/sachsen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/sachsen-latest.osm.pbf"
-    },
-    {
-      "id": "europe/lithuania",
-      "pbf_url": "https://download.geofabrik.de/europe/lithuania-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/australia/queensland",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/queensland-latest.osm.pbf"
