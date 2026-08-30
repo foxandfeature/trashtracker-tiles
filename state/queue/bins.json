@@ -51,6 +51,7 @@
     "asia/china/qinghai",
     "asia/china/shaanxi",
     "asia/china/shanghai",
+    "asia/china/shanxi",
     "asia/china/sichuan",
     "asia/china/tianjin",
     "asia/china/tibet",
@@ -123,6 +124,7 @@
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
+    "europe/bosnia-herzegovina",
     "europe/bulgaria",
     "europe/croatia",
     "europe/cyprus",
@@ -166,11 +168,14 @@
     "europe/germany/baden-wuerttemberg/freiburg-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/baden-wuerttemberg/tuebingen-regbez",
+    "europe/germany/bayern/mittelfranken",
+    "europe/germany/bayern/niederbayern",
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
     "europe/germany/brandenburg",
     "europe/germany/hessen",
+    "europe/germany/mecklenburg-vorpommern",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
@@ -369,26 +374,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/bosnia-herzegovina",
-      "pbf_url": "https://download.geofabrik.de/europe/bosnia-herzegovina-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/mittelfranken",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/mittelfranken-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/niederbayern",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/niederbayern-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/shanxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/shanxi-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/mecklenburg-vorpommern",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/mecklenburg-vorpommern-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/merseyside",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/merseyside-latest.osm.pbf"
