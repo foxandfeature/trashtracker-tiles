@@ -19,6 +19,7 @@
     "africa/ivory-coast",
     "africa/kenya",
     "africa/lesotho",
+    "africa/libya",
     "africa/madagascar",
     "africa/malawi",
     "africa/mali",
@@ -97,10 +98,12 @@
     "asia/japan/tohoku",
     "asia/jordan",
     "asia/kazakhstan",
+    "asia/kyrgyzstan",
     "asia/laos",
     "asia/lebanon",
     "asia/malaysia-singapore-brunei",
     "asia/maldives",
+    "asia/mongolia",
     "asia/myanmar",
     "asia/nepal",
     "asia/north-korea",
@@ -127,6 +130,7 @@
     "australia-oceania/micronesia",
     "australia-oceania/nauru",
     "australia-oceania/new-zealand",
+    "australia-oceania/papua-new-guinea",
     "australia-oceania/pitcairn-islands",
     "australia-oceania/tuvalu",
     "central-america/belize",
@@ -380,6 +384,7 @@
     "north-america/us/montana",
     "north-america/us/nebraska",
     "north-america/us/nevada",
+    "north-america/us/new-hampshire",
     "north-america/us/new-jersey",
     "north-america/us/new-mexico",
     "north-america/us/new-york",
@@ -424,26 +429,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/mongolia",
-      "pbf_url": "https://download.geofabrik.de/asia/mongolia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-hampshire",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-hampshire-latest.osm.pbf"
-    },
-    {
-      "id": "africa/libya",
-      "pbf_url": "https://download.geofabrik.de/africa/libya-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/papua-new-guinea",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/papua-new-guinea-latest.osm.pbf"
-    },
-    {
-      "id": "asia/kyrgyzstan",
-      "pbf_url": "https://download.geofabrik.de/asia/kyrgyzstan-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/yukon",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/yukon-latest.osm.pbf"
