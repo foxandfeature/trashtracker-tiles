@@ -41,6 +41,7 @@
     "asia/japan/kyushu",
     "asia/japan/shikoku",
     "asia/japan/tohoku",
+    "asia/jordan",
     "asia/kyrgyzstan",
     "asia/laos",
     "asia/myanmar",
@@ -53,6 +54,7 @@
     "australia-oceania/papua-new-guinea",
     "central-america/costa-rica",
     "central-america/guatemala",
+    "central-america/haiti-and-domrep",
     "central-america/honduras",
     "europe/albania",
     "europe/belarus",
@@ -96,12 +98,15 @@
     "europe/ukraine",
     "europe/united-kingdom/england/cheshire",
     "europe/united-kingdom/england/cornwall",
+    "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/dorset",
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
+    "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/oxfordshire",
+    "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -134,26 +139,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/greater-london",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/greater-london-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/haiti-and-domrep",
-      "pbf_url": "https://download.geofabrik.de/central-america/haiti-and-domrep-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/suffolk",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/suffolk-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/cumbria",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cumbria-latest.osm.pbf"
-    },
-    {
-      "id": "asia/jordan",
-      "pbf_url": "https://download.geofabrik.de/asia/jordan-latest.osm.pbf"
-    },
     {
       "id": "europe/france/franche-comte",
       "pbf_url": "https://download.geofabrik.de/europe/france/franche-comte-latest.osm.pbf"
