@@ -17,6 +17,7 @@
     "africa/madagascar",
     "africa/malawi",
     "africa/morocco",
+    "africa/mozambique",
     "africa/niger",
     "africa/nigeria",
     "africa/rwanda",
@@ -114,8 +115,10 @@
     "europe/finland",
     "europe/france/alsace",
     "europe/france/aquitaine",
+    "europe/france/auvergne",
     "europe/france/basse-normandie",
     "europe/france/bourgogne",
+    "europe/france/bretagne",
     "europe/france/centre",
     "europe/france/champagne-ardenne",
     "europe/france/corse",
@@ -263,11 +266,13 @@
     "north-america/us/illinois",
     "north-america/us/louisiana",
     "north-america/us/maine",
+    "north-america/us/michigan",
     "north-america/us/nebraska",
     "north-america/us/new-jersey",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
+    "north-america/us/ohio",
     "north-america/us/pennsylvania",
     "north-america/us/texas",
     "north-america/us/virginia",
@@ -294,26 +299,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/ohio",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/ohio-latest.osm.pbf"
-    },
-    {
-      "id": "africa/mozambique",
-      "pbf_url": "https://download.geofabrik.de/africa/mozambique-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/michigan",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/michigan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/auvergne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/auvergne-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/bretagne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/bretagne-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/arizona",
       "pbf_url": "https://download.geofabrik.de/north-america/us/arizona-latest.osm.pbf"
