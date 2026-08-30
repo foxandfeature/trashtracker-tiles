@@ -16,6 +16,7 @@
     "africa/morocco",
     "africa/niger",
     "africa/rwanda",
+    "africa/senegal-and-gambia",
     "africa/somalia",
     "africa/sudan",
     "africa/tanzania",
@@ -62,11 +63,13 @@
     "central-america/haiti-and-domrep",
     "central-america/honduras",
     "europe/albania",
+    "europe/austria",
     "europe/belarus",
     "europe/belgium",
     "europe/czech-republic/liberecky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/zlinsky",
+    "europe/finland",
     "europe/france/alsace",
     "europe/france/bretagne",
     "europe/france/champagne-ardenne",
@@ -94,6 +97,7 @@
     "europe/poland/mazowieckie",
     "europe/poland/opolskie",
     "europe/poland/podkarpackie",
+    "europe/poland/podlaskie",
     "europe/poland/pomorskie",
     "europe/poland/slaskie",
     "europe/poland/swietokrzyskie",
@@ -120,6 +124,7 @@
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/tyne-and-wear",
+    "europe/united-kingdom/england/wiltshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/british-columbia/interior-admreg",
@@ -154,26 +159,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/finland",
-      "pbf_url": "https://download.geofabrik.de/europe/finland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/austria",
-      "pbf_url": "https://download.geofabrik.de/europe/austria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/podlaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/podlaskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/wiltshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/wiltshire-latest.osm.pbf"
-    },
-    {
-      "id": "africa/senegal-and-gambia",
-      "pbf_url": "https://download.geofabrik.de/africa/senegal-and-gambia-latest.osm.pbf"
-    },
     {
       "id": "russia/volga-fed-district",
       "pbf_url": "https://download.geofabrik.de/russia/volga-fed-district-latest.osm.pbf"
