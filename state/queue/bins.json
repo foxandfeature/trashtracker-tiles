@@ -14,6 +14,7 @@
     "africa/somalia",
     "africa/sudan",
     "africa/tanzania",
+    "asia/china/beijing",
     "asia/china/guangdong",
     "asia/china/jiangxi",
     "asia/china/sichuan",
@@ -42,6 +43,7 @@
     "europe/albania",
     "europe/belarus",
     "europe/czech-republic/ustecky",
+    "europe/czech-republic/zlinsky",
     "europe/france/alsace",
     "europe/france/bretagne",
     "europe/france/haute-normandie",
@@ -53,6 +55,7 @@
     "europe/france/provence-alpes-cote-d-azur",
     "europe/germany/bayern/oberfranken",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
+    "europe/iceland",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/moldova",
@@ -65,6 +68,7 @@
     "europe/poland/mazowieckie",
     "europe/poland/opolskie",
     "europe/poland/podkarpackie",
+    "europe/poland/pomorskie",
     "europe/poland/slaskie",
     "europe/poland/swietokrzyskie",
     "europe/poland/warminsko-mazurskie",
@@ -74,6 +78,7 @@
     "europe/spain/asturias",
     "europe/ukraine",
     "europe/united-kingdom/england/devon",
+    "europe/united-kingdom/england/dorset",
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/tyne-and-wear",
@@ -99,26 +104,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "asia/china/beijing",
-      "pbf_url": "https://download.geofabrik.de/asia/china/beijing-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/pomorskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/pomorskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/dorset",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/dorset-latest.osm.pbf"
-    },
-    {
-      "id": "europe/iceland",
-      "pbf_url": "https://download.geofabrik.de/europe/iceland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/zlinsky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/zlinsky-latest.osm.pbf"
-    },
     {
       "id": "asia/china/guangxi",
       "pbf_url": "https://download.geofabrik.de/asia/china/guangxi-latest.osm.pbf"
