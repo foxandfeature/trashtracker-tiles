@@ -17,6 +17,7 @@
     "asia/china/shaanxi",
     "asia/china/tianjin",
     "asia/china/tibet",
+    "asia/china/zhejiang",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
     "asia/india/western-zone",
@@ -59,7 +60,9 @@
     "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/netherlands/drenthe",
+    "europe/netherlands/friesland",
     "europe/netherlands/limburg",
+    "europe/netherlands/overijssel",
     "europe/norway/nord-norge",
     "europe/norway/sorlandet",
     "europe/norway/trondelag",
@@ -89,6 +92,8 @@
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/suffolk",
+    "europe/united-kingdom/england/west-midlands",
+    "europe/united-kingdom/england/west-sussex",
     "europe/united-kingdom/england/wiltshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -119,26 +124,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/netherlands/overijssel",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/overijssel-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/zhejiang",
-      "pbf_url": "https://download.geofabrik.de/asia/china/zhejiang-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/west-midlands",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-midlands-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/west-sussex",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-sussex-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/friesland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/friesland-latest.osm.pbf"
-    },
     {
       "id": "asia/china/jiangsu",
       "pbf_url": "https://download.geofabrik.de/asia/china/jiangsu-latest.osm.pbf"
