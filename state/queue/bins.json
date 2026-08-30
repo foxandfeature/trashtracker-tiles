@@ -36,6 +36,7 @@
     "asia/china/gansu",
     "asia/china/guangdong",
     "asia/china/guangxi",
+    "asia/china/guizhou",
     "asia/china/heilongjiang",
     "asia/china/hubei",
     "asia/china/inner-mongolia",
@@ -92,6 +93,7 @@
     "asia/yemen",
     "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/australia/queensland",
     "australia-oceania/australia/victoria",
     "australia-oceania/fiji",
     "australia-oceania/micronesia",
@@ -230,6 +232,7 @@
     "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/england/bristol",
+    "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cheshire",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/cumbria",
@@ -302,6 +305,7 @@
     "north-america/us/ohio",
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
+    "north-america/us/tennessee",
     "north-america/us/texas",
     "north-america/us/virginia",
     "north-america/us/washington",
@@ -325,30 +329,11 @@
     "south-america/colombia",
     "south-america/guyana",
     "south-america/paraguay",
+    "south-america/peru",
     "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "south-america/peru",
-      "pbf_url": "https://download.geofabrik.de/south-america/peru-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/queensland",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/queensland-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/tennessee",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/tennessee-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/cambridgeshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cambridgeshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/guizhou",
-      "pbf_url": "https://download.geofabrik.de/asia/china/guizhou-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/new-mexico",
       "pbf_url": "https://download.geofabrik.de/north-america/us/new-mexico-latest.osm.pbf"
