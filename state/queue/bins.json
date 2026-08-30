@@ -75,12 +75,14 @@
     "australia-oceania/nauru",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
+    "australia-oceania/pitcairn-islands",
     "australia-oceania/tuvalu",
     "central-america/costa-rica",
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
     "central-america/nicaragua",
+    "central-america/panama",
     "europe/albania",
     "europe/andorra",
     "europe/austria",
@@ -111,6 +113,7 @@
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/thueringen",
+    "europe/hungary",
     "europe/iceland",
     "europe/ireland-and-northern-ireland",
     "europe/isle-of-man",
@@ -150,6 +153,7 @@
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/spain/cantabria",
+    "europe/spain/extremadura",
     "europe/spain/la-rioja",
     "europe/spain/pais-vasco",
     "europe/sweden",
@@ -222,6 +226,7 @@
     "south-america/brazil/nordeste",
     "south-america/brazil/norte",
     "south-america/brazil/sudeste",
+    "south-america/brazil/sul",
     "south-america/colombia",
     "south-america/guyana",
     "south-america/paraguay",
@@ -229,26 +234,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/hungary",
-      "pbf_url": "https://download.geofabrik.de/europe/hungary-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/pitcairn-islands",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/pitcairn-islands-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/sul",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/sul-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/extremadura",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/extremadura-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/panama",
-      "pbf_url": "https://download.geofabrik.de/central-america/panama-latest.osm.pbf"
-    },
     {
       "id": "africa/south-africa",
       "pbf_url": "https://download.geofabrik.de/africa/south-africa-latest.osm.pbf"
