@@ -78,12 +78,14 @@
     "australia-oceania/nauru",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
+    "australia-oceania/pitcairn-islands",
     "australia-oceania/tuvalu",
     "central-america/costa-rica",
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
     "central-america/nicaragua",
+    "central-america/panama",
     "europe/albania",
     "europe/andorra",
     "europe/austria",
@@ -100,6 +102,7 @@
     "europe/denmark",
     "europe/finland",
     "europe/france/alsace",
+    "europe/france/centre",
     "europe/france/champagne-ardenne",
     "europe/france/franche-comte",
     "europe/france/haute-normandie",
@@ -112,6 +115,7 @@
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/tuebingen-regbez",
+    "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
     "europe/germany/niedersachsen",
@@ -122,6 +126,7 @@
     "europe/ireland-and-northern-ireland",
     "europe/isle-of-man",
     "europe/italy/centro",
+    "europe/italy/isole",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
@@ -254,26 +259,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/bayern/oberbayern",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberbayern-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/isole",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/isole-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/panama",
-      "pbf_url": "https://download.geofabrik.de/central-america/panama-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/pitcairn-islands",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/pitcairn-islands-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/centre",
-      "pbf_url": "https://download.geofabrik.de/europe/france/centre-latest.osm.pbf"
-    },
     {
       "id": "asia/gcc-states",
       "pbf_url": "https://download.geofabrik.de/asia/gcc-states-latest.osm.pbf"
