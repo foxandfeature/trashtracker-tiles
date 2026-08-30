@@ -8,6 +8,7 @@
     "africa/congo-democratic-republic",
     "africa/egypt",
     "africa/ethiopia",
+    "africa/guinea",
     "africa/kenya",
     "africa/lesotho",
     "africa/madagascar",
@@ -41,6 +42,7 @@
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/iran",
+    "asia/israel-and-palestine",
     "asia/japan/chubu",
     "asia/japan/chugoku",
     "asia/japan/hokkaido",
@@ -76,6 +78,7 @@
     "europe/finland",
     "europe/france/alsace",
     "europe/france/aquitaine",
+    "europe/france/auvergne",
     "europe/france/basse-normandie",
     "europe/france/bourgogne",
     "europe/france/bretagne",
@@ -176,6 +179,7 @@
     "north-america/us/connecticut",
     "north-america/us/florida",
     "north-america/us/georgia",
+    "north-america/us/idaho",
     "north-america/us/illinois",
     "north-america/us/indiana",
     "north-america/us/iowa",
@@ -205,6 +209,7 @@
     "north-america/us/wisconsin",
     "russia/central-fed-district",
     "russia/far-eastern-fed-district",
+    "russia/north-caucasus-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/south-fed-district",
@@ -224,26 +229,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/france/auvergne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/auvergne-latest.osm.pbf"
-    },
-    {
-      "id": "africa/guinea",
-      "pbf_url": "https://download.geofabrik.de/africa/guinea-latest.osm.pbf"
-    },
-    {
-      "id": "asia/israel-and-palestine",
-      "pbf_url": "https://download.geofabrik.de/asia/israel-and-palestine-latest.osm.pbf"
-    },
-    {
-      "id": "russia/north-caucasus-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/north-caucasus-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/idaho",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/idaho-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/greater-london",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/greater-london-latest.osm.pbf"
