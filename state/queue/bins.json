@@ -31,6 +31,7 @@
     "asia/japan/chugoku",
     "asia/japan/kansai",
     "asia/jordan",
+    "asia/kazakhstan",
     "asia/laos",
     "asia/pakistan",
     "asia/philippines",
@@ -88,6 +89,8 @@
     "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
     "europe/spain/islas-baleares",
+    "europe/spain/la-rioja",
+    "europe/spain/madrid",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
@@ -103,6 +106,7 @@
     "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/leicestershire",
+    "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/west-midlands",
@@ -119,6 +123,7 @@
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
+    "north-america/canada/prince-edward-island",
     "north-america/canada/quebec",
     "north-america/mexico",
     "north-america/us/california/norcal",
@@ -139,26 +144,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/prince-edward-island",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/prince-edward-island-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/north-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/north-yorkshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/la-rioja",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/la-rioja-latest.osm.pbf"
-    },
-    {
-      "id": "asia/kazakhstan",
-      "pbf_url": "https://download.geofabrik.de/asia/kazakhstan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/madrid",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/madrid-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/pomorskie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/pomorskie-latest.osm.pbf"
