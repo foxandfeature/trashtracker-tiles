@@ -122,7 +122,9 @@
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
+    "europe/bulgaria",
     "europe/croatia",
+    "europe/cyprus",
     "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/karlovarsky",
@@ -174,6 +176,7 @@
     "europe/germany/rheinland-pfalz",
     "europe/germany/saarland",
     "europe/germany/sachsen",
+    "europe/germany/sachsen-anhalt",
     "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
     "europe/greece",
@@ -247,6 +250,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/bedfordshire",
     "europe/united-kingdom/england/berkshire",
     "europe/united-kingdom/england/bristol",
     "europe/united-kingdom/england/cambridgeshire",
@@ -326,6 +330,7 @@
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
     "north-america/us/ohio",
+    "north-america/us/oklahoma",
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
     "north-america/us/south-carolina",
@@ -359,26 +364,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/sachsen-anhalt",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/sachsen-anhalt-latest.osm.pbf"
-    },
-    {
-      "id": "europe/bulgaria",
-      "pbf_url": "https://download.geofabrik.de/europe/bulgaria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/cyprus",
-      "pbf_url": "https://download.geofabrik.de/europe/cyprus-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/oklahoma",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/oklahoma-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/bedfordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/bedfordshire-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/alabama",
       "pbf_url": "https://download.geofabrik.de/north-america/us/alabama-latest.osm.pbf"
