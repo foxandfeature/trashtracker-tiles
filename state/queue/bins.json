@@ -13,6 +13,7 @@
     "africa/guinea-bissau",
     "africa/ivory-coast",
     "africa/malawi",
+    "africa/morocco",
     "africa/niger",
     "africa/rwanda",
     "africa/somalia",
@@ -62,8 +63,10 @@
     "europe/belarus",
     "europe/belgium",
     "europe/czech-republic/liberecky",
+    "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/zlinsky",
+    "europe/finland",
     "europe/france/alsace",
     "europe/france/bretagne",
     "europe/france/champagne-ardenne",
@@ -103,6 +106,7 @@
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/spain/cantabria",
+    "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
     "europe/ukraine",
@@ -138,6 +142,7 @@
     "north-america/us/maine",
     "north-america/us/nebraska",
     "north-america/us/north-dakota",
+    "north-america/us/texas",
     "north-america/us/washington",
     "north-america/us/wisconsin",
     "russia/central-fed-district",
@@ -154,26 +159,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/finland",
-      "pbf_url": "https://download.geofabrik.de/europe/finland-latest.osm.pbf"
-    },
-    {
-      "id": "africa/morocco",
-      "pbf_url": "https://download.geofabrik.de/africa/morocco-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/stredocesky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/stredocesky-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/texas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/texas-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/pais-vasco",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/pais-vasco-latest.osm.pbf"
-    },
     {
       "id": "asia/pakistan",
       "pbf_url": "https://download.geofabrik.de/asia/pakistan-latest.osm.pbf"
