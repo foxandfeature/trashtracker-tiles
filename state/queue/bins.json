@@ -27,6 +27,7 @@
     "africa/madagascar",
     "africa/malawi",
     "africa/mali",
+    "africa/mauritania",
     "africa/morocco",
     "africa/mozambique",
     "africa/namibia",
@@ -39,6 +40,7 @@
     "africa/south-africa",
     "africa/south-sudan",
     "africa/sudan",
+    "africa/swaziland",
     "africa/tanzania",
     "africa/togo",
     "africa/tunisia",
@@ -103,6 +105,7 @@
     "asia/japan/kyushu",
     "asia/japan/shikoku",
     "asia/japan/tohoku",
+    "asia/jordan",
     "asia/kazakhstan",
     "asia/kyrgyzstan",
     "asia/laos",
@@ -228,6 +231,7 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/kosovo",
     "europe/latvia",
     "europe/lithuania",
     "europe/luxembourg",
@@ -322,6 +326,7 @@
     "europe/united-kingdom/england/staffordshire",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/surrey",
+    "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
     "europe/united-kingdom/england/west-yorkshire",
@@ -424,26 +429,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/jordan",
-      "pbf_url": "https://download.geofabrik.de/asia/jordan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/kosovo",
-      "pbf_url": "https://download.geofabrik.de/europe/kosovo-latest.osm.pbf"
-    },
-    {
-      "id": "africa/mauritania",
-      "pbf_url": "https://download.geofabrik.de/africa/mauritania-latest.osm.pbf"
-    },
-    {
-      "id": "africa/swaziland",
-      "pbf_url": "https://download.geofabrik.de/africa/swaziland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/tyne-and-wear",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/tyne-and-wear-latest.osm.pbf"
-    },
     {
       "id": "central-america/bahamas",
       "pbf_url": "https://download.geofabrik.de/central-america/bahamas-latest.osm.pbf"
