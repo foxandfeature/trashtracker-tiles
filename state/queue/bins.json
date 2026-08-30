@@ -9,6 +9,7 @@
     "africa/congo-democratic-republic",
     "africa/ivory-coast",
     "africa/malawi",
+    "africa/niger",
     "africa/rwanda",
     "africa/somalia",
     "africa/sudan",
@@ -25,6 +26,7 @@
     "asia/indonesia/sumatra",
     "asia/japan/chubu",
     "asia/japan/chugoku",
+    "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/japan/kyushu",
     "asia/japan/shikoku",
@@ -33,6 +35,7 @@
     "asia/myanmar",
     "asia/south-korea",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/papua-new-guinea",
     "central-america/honduras",
     "europe/albania",
     "europe/belarus",
@@ -46,6 +49,7 @@
     "europe/france/pays-de-la-loire",
     "europe/france/picardie",
     "europe/france/provence-alpes-cote-d-azur",
+    "europe/germany/bayern/oberfranken",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
@@ -76,6 +80,7 @@
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
+    "north-america/canada/quebec",
     "north-america/us/california/norcal",
     "north-america/us/colorado",
     "north-america/us/maine",
@@ -89,26 +94,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/quebec",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/quebec-latest.osm.pbf"
-    },
-    {
-      "id": "africa/niger",
-      "pbf_url": "https://download.geofabrik.de/africa/niger-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/kansai",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kansai-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/oberfranken",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberfranken-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/papua-new-guinea",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/papua-new-guinea-latest.osm.pbf"
-    },
     {
       "id": "asia/china/guangdong",
       "pbf_url": "https://download.geofabrik.de/asia/china/guangdong-latest.osm.pbf"
