@@ -18,6 +18,7 @@
     "africa/egypt",
     "africa/eritrea",
     "africa/ethiopia",
+    "africa/gabon",
     "africa/ghana",
     "africa/guinea",
     "africa/guinea-bissau",
@@ -142,6 +143,7 @@
     "australia-oceania/australia/act",
     "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/australia/northern-territory",
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/south-australia",
     "australia-oceania/australia/tasmania",
@@ -155,6 +157,7 @@
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
     "australia-oceania/pitcairn-islands",
+    "australia-oceania/polynesie-francaise",
     "australia-oceania/tuvalu",
     "australia-oceania/wallis-et-futuna",
     "central-america/bahamas",
@@ -206,6 +209,7 @@
     "europe/france/champagne-ardenne",
     "europe/france/corse",
     "europe/france/franche-comte",
+    "europe/france/guadeloupe",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
@@ -342,6 +346,7 @@
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/dorset",
     "europe/united-kingdom/england/durham",
+    "europe/united-kingdom/england/east-sussex",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
@@ -479,26 +484,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/east-sussex",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/east-sussex-latest.osm.pbf"
-    },
-    {
-      "id": "africa/gabon",
-      "pbf_url": "https://download.geofabrik.de/africa/gabon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/guadeloupe",
-      "pbf_url": "https://download.geofabrik.de/europe/france/guadeloupe-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/northern-territory",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/northern-territory-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/polynesie-francaise",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/polynesie-francaise-latest.osm.pbf"
-    },
     {
       "id": "south-america/guyana",
       "pbf_url": "https://download.geofabrik.de/south-america/guyana-latest.osm.pbf"
