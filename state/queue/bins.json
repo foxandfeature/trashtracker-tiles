@@ -26,6 +26,7 @@
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
+    "asia/indonesia/kalimantan",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/iraq",
@@ -35,6 +36,7 @@
     "asia/jordan",
     "asia/kazakhstan",
     "asia/laos",
+    "asia/nepal",
     "asia/pakistan",
     "asia/philippines",
     "australia-oceania/australia/new-south-wales",
@@ -53,6 +55,7 @@
     "europe/czech-republic/ustecky",
     "europe/denmark",
     "europe/finland",
+    "europe/france/alsace",
     "europe/france/champagne-ardenne",
     "europe/france/franche-comte",
     "europe/france/nord-pas-de-calais",
@@ -80,6 +83,7 @@
     "europe/poland/dolnoslaskie",
     "europe/poland/kujawsko-pomorskie",
     "europe/poland/lodzkie",
+    "europe/poland/lubelskie",
     "europe/poland/lubuskie",
     "europe/poland/malopolskie",
     "europe/poland/opolskie",
@@ -101,6 +105,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/bristol",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/derbyshire",
@@ -149,26 +154,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/bristol",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/bristol-latest.osm.pbf"
-    },
-    {
-      "id": "asia/nepal",
-      "pbf_url": "https://download.geofabrik.de/asia/nepal-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/alsace",
-      "pbf_url": "https://download.geofabrik.de/europe/france/alsace-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/lubelskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lubelskie-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/kalimantan",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/kalimantan-latest.osm.pbf"
-    },
     {
       "id": "europe/czech-republic/kralovehradecky",
       "pbf_url": "https://download.geofabrik.de/europe/czech-republic/kralovehradecky-latest.osm.pbf"
