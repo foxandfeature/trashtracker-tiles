@@ -21,6 +21,7 @@
     "africa/mali",
     "africa/morocco",
     "africa/mozambique",
+    "africa/namibia",
     "africa/niger",
     "africa/nigeria",
     "africa/rwanda",
@@ -184,6 +185,7 @@
     "europe/germany/bayern/schwaben",
     "europe/germany/berlin",
     "europe/germany/brandenburg",
+    "europe/germany/bremen",
     "europe/germany/hessen",
     "europe/germany/mecklenburg-vorpommern",
     "europe/germany/niedersachsen",
@@ -207,6 +209,7 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/latvia",
     "europe/liechtenstein",
     "europe/lithuania",
     "europe/moldova",
@@ -341,6 +344,7 @@
     "north-america/us/illinois",
     "north-america/us/indiana",
     "north-america/us/iowa",
+    "north-america/us/kentucky",
     "north-america/us/louisiana",
     "north-america/us/maine",
     "north-america/us/maryland",
@@ -385,30 +389,11 @@
     "south-america/guyana",
     "south-america/paraguay",
     "south-america/peru",
+    "south-america/suriname",
     "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/namibia",
-      "pbf_url": "https://download.geofabrik.de/africa/namibia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/kentucky",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/kentucky-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/suriname",
-      "pbf_url": "https://download.geofabrik.de/south-america/suriname-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bremen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bremen-latest.osm.pbf"
-    },
-    {
-      "id": "europe/latvia",
-      "pbf_url": "https://download.geofabrik.de/europe/latvia-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/nordrhein-westfalen/detmold-regbez",
       "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/detmold-regbez-latest.osm.pbf"
