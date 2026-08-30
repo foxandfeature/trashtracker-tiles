@@ -15,6 +15,7 @@
     "africa/congo-brazzaville",
     "africa/congo-democratic-republic",
     "africa/egypt",
+    "africa/eritrea",
     "africa/ethiopia",
     "africa/ghana",
     "africa/guinea",
@@ -165,6 +166,7 @@
     "europe/france/bretagne",
     "europe/france/centre",
     "europe/france/champagne-ardenne",
+    "europe/france/corse",
     "europe/france/franche-comte",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
@@ -262,6 +264,7 @@
     "europe/spain/andalucia",
     "europe/spain/aragon",
     "europe/spain/asturias",
+    "europe/spain/cantabria",
     "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
@@ -299,8 +302,10 @@
     "europe/united-kingdom/england/northumberland",
     "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/oxfordshire",
+    "europe/united-kingdom/england/shropshire",
     "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/south-yorkshire",
+    "europe/united-kingdom/england/staffordshire",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/surrey",
     "europe/united-kingdom/england/west-midlands",
@@ -404,26 +409,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/shropshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/shropshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/staffordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/staffordshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/cantabria",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/cantabria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/corse",
-      "pbf_url": "https://download.geofabrik.de/europe/france/corse-latest.osm.pbf"
-    },
-    {
-      "id": "africa/eritrea",
-      "pbf_url": "https://download.geofabrik.de/africa/eritrea-latest.osm.pbf"
-    },
     {
       "id": "europe/netherlands/flevoland",
       "pbf_url": "https://download.geofabrik.de/europe/netherlands/flevoland-latest.osm.pbf"
