@@ -12,8 +12,13 @@
     "asia/japan/chubu",
     "asia/japan/kanto",
     "australia-oceania/australia/new-south-wales",
+    "europe/france/bretagne",
+    "europe/france/ile-de-france",
+    "europe/france/midi-pyrenees",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
+    "europe/moldova",
+    "europe/netherlands/groningen",
     "europe/poland/mazowieckie",
     "europe/spain/aragon",
     "europe/united-kingdom/scotland",
@@ -24,26 +29,6 @@
     "north-america/us/california/norcal"
   ],
   "remaining": [
-    {
-      "id": "europe/france/ile-de-france",
-      "pbf_url": "https://download.geofabrik.de/europe/france/ile-de-france-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/midi-pyrenees",
-      "pbf_url": "https://download.geofabrik.de/europe/france/midi-pyrenees-latest.osm.pbf"
-    },
-    {
-      "id": "europe/moldova",
-      "pbf_url": "https://download.geofabrik.de/europe/moldova-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/bretagne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/bretagne-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/groningen",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/groningen-latest.osm.pbf"
-    },
     {
       "id": "south-america/colombia",
       "pbf_url": "https://download.geofabrik.de/south-america/colombia-latest.osm.pbf"
