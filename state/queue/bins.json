@@ -77,12 +77,14 @@
     "asia/philippines",
     "asia/south-korea",
     "asia/sri-lanka",
+    "asia/syria",
     "asia/taiwan",
     "asia/thailand",
     "asia/uzbekistan",
     "asia/vietnam",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
+    "australia-oceania/australia/south-australia",
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
@@ -153,6 +155,7 @@
     "europe/germany/thueringen",
     "europe/greece",
     "europe/hungary",
+    "europe/iceland",
     "europe/ireland-and-northern-ireland",
     "europe/italy/centro",
     "europe/italy/isole",
@@ -162,6 +165,7 @@
     "europe/latvia",
     "europe/lithuania",
     "europe/moldova",
+    "europe/netherlands/friesland",
     "europe/netherlands/gelderland",
     "europe/netherlands/limburg",
     "europe/netherlands/noord-brabant",
@@ -180,6 +184,7 @@
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/poland/podkarpackie",
+    "europe/poland/podlaskie",
     "europe/poland/pomorskie",
     "europe/poland/slaskie",
     "europe/poland/swietokrzyskie",
@@ -289,26 +294,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/netherlands/friesland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/friesland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/iceland",
-      "pbf_url": "https://download.geofabrik.de/europe/iceland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/podlaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/podlaskie-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/south-australia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/south-australia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/syria",
-      "pbf_url": "https://download.geofabrik.de/asia/syria-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/maine",
       "pbf_url": "https://download.geofabrik.de/north-america/us/maine-latest.osm.pbf"
