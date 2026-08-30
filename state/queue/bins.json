@@ -114,6 +114,7 @@
     "australia-oceania/tuvalu",
     "central-america/belize",
     "central-america/costa-rica",
+    "central-america/cuba",
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
@@ -269,6 +270,7 @@
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/dorset",
     "europe/united-kingdom/england/durham",
+    "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
@@ -279,6 +281,7 @@
     "europe/united-kingdom/england/lancashire",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/lincolnshire",
+    "europe/united-kingdom/england/merseyside",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/northamptonshire",
@@ -289,6 +292,7 @@
     "europe/united-kingdom/england/south-yorkshire",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/tyne-and-wear",
+    "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
     "europe/united-kingdom/england/west-yorkshire",
@@ -326,6 +330,7 @@
     "north-america/us/georgia",
     "north-america/us/illinois",
     "north-america/us/indiana",
+    "north-america/us/iowa",
     "north-america/us/louisiana",
     "north-america/us/maine",
     "north-america/us/maryland",
@@ -374,26 +379,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/merseyside",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/merseyside-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/iowa",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/iowa-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/east-yorkshire-with-hull",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/east-yorkshire-with-hull-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/cuba",
-      "pbf_url": "https://download.geofabrik.de/central-america/cuba-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/warwickshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/warwickshire-latest.osm.pbf"
-    },
     {
       "id": "africa/sao-tome-and-principe",
       "pbf_url": "https://download.geofabrik.de/africa/sao-tome-and-principe-latest.osm.pbf"
