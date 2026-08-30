@@ -59,11 +59,13 @@
     "australia-oceania/micronesia",
     "australia-oceania/nauru",
     "australia-oceania/new-zealand",
+    "australia-oceania/pitcairn-islands",
     "australia-oceania/tuvalu",
     "central-america/costa-rica",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
     "central-america/nicaragua",
+    "central-america/panama",
     "europe/albania",
     "europe/andorra",
     "europe/austria",
@@ -79,6 +81,7 @@
     "europe/denmark",
     "europe/finland",
     "europe/france/alsace",
+    "europe/france/centre",
     "europe/france/champagne-ardenne",
     "europe/france/franche-comte",
     "europe/france/haute-normandie",
@@ -104,6 +107,7 @@
     "europe/liechtenstein",
     "europe/moldova",
     "europe/netherlands/drenthe",
+    "europe/netherlands/flevoland",
     "europe/netherlands/friesland",
     "europe/netherlands/gelderland",
     "europe/netherlands/limburg",
@@ -190,6 +194,7 @@
     "north-america/us/district-of-columbia",
     "north-america/us/florida",
     "north-america/us/georgia",
+    "north-america/us/illinois",
     "north-america/us/louisiana",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
@@ -214,26 +219,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "central-america/panama",
-      "pbf_url": "https://download.geofabrik.de/central-america/panama-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/illinois",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/illinois-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/flevoland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/flevoland-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/pitcairn-islands",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/pitcairn-islands-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/centre",
-      "pbf_url": "https://download.geofabrik.de/europe/france/centre-latest.osm.pbf"
-    },
     {
       "id": "europe/france/ile-de-france",
       "pbf_url": "https://download.geofabrik.de/europe/france/ile-de-france-latest.osm.pbf"
