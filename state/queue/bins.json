@@ -92,6 +92,7 @@
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/liberecky",
+    "europe/czech-republic/olomoucky",
     "europe/czech-republic/praha",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
@@ -132,6 +133,7 @@
     "europe/netherlands/groningen",
     "europe/netherlands/limburg",
     "europe/netherlands/noord-brabant",
+    "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
@@ -220,6 +222,7 @@
     "north-america/us/delaware",
     "north-america/us/district-of-columbia",
     "north-america/us/florida",
+    "north-america/us/georgia",
     "north-america/us/louisiana",
     "north-america/us/maine",
     "north-america/us/massachusetts",
@@ -237,7 +240,9 @@
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/south-fed-district",
+    "russia/ural-fed-district",
     "russia/volga-fed-district",
+    "south-america/argentina",
     "south-america/bolivia",
     "south-america/brazil/nordeste",
     "south-america/brazil/norte",
@@ -249,26 +254,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/czech-republic/olomoucky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/olomoucky-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/argentina",
-      "pbf_url": "https://download.geofabrik.de/south-america/argentina-latest.osm.pbf"
-    },
-    {
-      "id": "russia/ural-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/ural-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/noord-holland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/noord-holland-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/georgia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/georgia-latest.osm.pbf"
-    },
     {
       "id": "europe/italy/isole",
       "pbf_url": "https://download.geofabrik.de/europe/italy/isole-latest.osm.pbf"
