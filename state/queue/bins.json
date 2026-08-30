@@ -10,35 +10,20 @@
     "asia/indonesia/sumatra",
     "asia/japan/chubu",
     "asia/japan/kanto",
+    "australia-oceania/australia/new-south-wales",
+    "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
+    "europe/moldova",
     "europe/poland/mazowieckie",
     "europe/spain/aragon",
+    "europe/united-kingdom/scotland",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
-    "north-america/canada/nunavut/qikiqtaaluk"
+    "north-america/canada/nunavut/qikiqtaaluk",
+    "north-america/us/california/norcal"
   ],
   "remaining": [
-    {
-      "id": "europe/moldova",
-      "pbf_url": "https://download.geofabrik.de/europe/moldova-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/california/norcal",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/california/norcal-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/pays-de-la-loire",
-      "pbf_url": "https://download.geofabrik.de/europe/france/pays-de-la-loire-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/new-south-wales",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/new-south-wales-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/scotland",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/scotland-latest.osm.pbf"
-    },
     {
       "id": "asia/china/sichuan",
       "pbf_url": "https://download.geofabrik.de/asia/china/sichuan-latest.osm.pbf"
