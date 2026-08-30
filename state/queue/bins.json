@@ -16,12 +16,14 @@
     "africa/mozambique",
     "africa/nigeria",
     "africa/south-africa",
+    "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
     "africa/uganda",
     "africa/zambia",
     "africa/zimbabwe",
     "asia/bangladesh",
+    "asia/china/guangdong",
     "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
@@ -76,6 +78,7 @@
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/freiburg-regbez",
+    "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/bayern/oberbayern",
     "europe/germany/brandenburg",
@@ -158,6 +161,7 @@
     "north-america/us/minnesota",
     "north-america/us/missouri",
     "north-america/us/new-jersey",
+    "north-america/us/new-mexico",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/ohio",
@@ -182,6 +186,7 @@
     "south-america/bolivia",
     "south-america/brazil/centro-oeste",
     "south-america/brazil/nordeste",
+    "south-america/brazil/norte",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
     "south-america/chile",
@@ -189,26 +194,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "asia/china/guangdong",
-      "pbf_url": "https://download.geofabrik.de/asia/china/guangdong-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/norte",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/norte-latest.osm.pbf"
-    },
-    {
-      "id": "africa/south-sudan",
-      "pbf_url": "https://download.geofabrik.de/africa/south-sudan-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-mexico",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-mexico-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/karlsruhe-regbez-latest.osm.pbf"
-    },
     {
       "id": "asia/indonesia/sulawesi",
       "pbf_url": "https://download.geofabrik.de/asia/indonesia/sulawesi-latest.osm.pbf"
