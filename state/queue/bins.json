@@ -9,9 +9,11 @@
     "africa/congo-democratic-republic",
     "africa/guinea-bissau",
     "africa/kenya",
+    "africa/madagascar",
     "africa/morocco",
     "africa/niger",
     "africa/nigeria",
+    "africa/saint-helena-ascension-and-tristan-da-cunha",
     "africa/senegal-and-gambia",
     "africa/south-africa",
     "africa/sudan",
@@ -30,6 +32,7 @@
     "asia/china/tibet",
     "asia/china/yunnan",
     "asia/china/zhejiang",
+    "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
     "asia/india/southern-zone",
@@ -88,6 +91,7 @@
     "europe/france/franche-comte",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
+    "europe/france/languedoc-roussillon",
     "europe/france/limousin",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
@@ -101,6 +105,7 @@
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/thueringen",
+    "europe/greece",
     "europe/iceland",
     "europe/ireland-and-northern-ireland",
     "europe/isle-of-man",
@@ -224,26 +229,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/gcc-states",
-      "pbf_url": "https://download.geofabrik.de/asia/gcc-states-latest.osm.pbf"
-    },
-    {
-      "id": "africa/saint-helena-ascension-and-tristan-da-cunha",
-      "pbf_url": "https://download.geofabrik.de/africa/saint-helena-ascension-and-tristan-da-cunha-latest.osm.pbf"
-    },
-    {
-      "id": "europe/greece",
-      "pbf_url": "https://download.geofabrik.de/europe/greece-latest.osm.pbf"
-    },
-    {
-      "id": "africa/madagascar",
-      "pbf_url": "https://download.geofabrik.de/africa/madagascar-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/languedoc-roussillon",
-      "pbf_url": "https://download.geofabrik.de/europe/france/languedoc-roussillon-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/schleswig-holstein",
       "pbf_url": "https://download.geofabrik.de/europe/germany/schleswig-holstein-latest.osm.pbf"
