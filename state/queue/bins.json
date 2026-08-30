@@ -36,15 +36,19 @@
     "asia/philippines",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/fiji",
+    "australia-oceania/micronesia",
     "central-america/costa-rica",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
     "central-america/nicaragua",
     "europe/albania",
+    "europe/andorra",
     "europe/austria",
     "europe/belgium",
+    "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
+    "europe/denmark",
     "europe/finland",
     "europe/france/champagne-ardenne",
     "europe/france/franche-comte",
@@ -81,6 +85,7 @@
     "europe/poland/warminsko-mazurskie",
     "europe/poland/zachodniopomorskie",
     "europe/slovenia",
+    "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
     "europe/spain/islas-baleares",
     "europe/spain/pais-vasco",
@@ -134,26 +139,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/micronesia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/micronesia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/andorra",
-      "pbf_url": "https://download.geofabrik.de/europe/andorra-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/aragon",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/aragon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/denmark",
-      "pbf_url": "https://download.geofabrik.de/europe/denmark-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/jihomoravsky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/jihomoravsky-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/prince-edward-island",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/prince-edward-island-latest.osm.pbf"
