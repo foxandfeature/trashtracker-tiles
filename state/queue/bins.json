@@ -35,6 +35,7 @@
     "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
+    "africa/tunisia",
     "africa/uganda",
     "africa/zambia",
     "africa/zimbabwe",
@@ -48,6 +49,8 @@
     "asia/china/guangdong",
     "asia/china/guangxi",
     "asia/china/guizhou",
+    "asia/china/hainan",
+    "asia/china/hebei",
     "asia/china/heilongjiang",
     "asia/china/hubei",
     "asia/china/hunan",
@@ -158,6 +161,7 @@
     "europe/czech-republic/ustecky",
     "europe/czech-republic/zlinsky",
     "europe/denmark",
+    "europe/estonia",
     "europe/finland",
     "europe/france/alsace",
     "europe/france/aquitaine",
@@ -365,6 +369,7 @@
     "north-america/us/michigan",
     "north-america/us/minnesota",
     "north-america/us/missouri",
+    "north-america/us/montana",
     "north-america/us/nebraska",
     "north-america/us/nevada",
     "north-america/us/new-jersey",
@@ -409,26 +414,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/estonia",
-      "pbf_url": "https://download.geofabrik.de/europe/estonia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hebei",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hebei-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hainan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hainan-latest.osm.pbf"
-    },
-    {
-      "id": "africa/tunisia",
-      "pbf_url": "https://download.geofabrik.de/africa/tunisia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/montana",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/montana-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/puerto-rico",
       "pbf_url": "https://download.geofabrik.de/north-america/us/puerto-rico-latest.osm.pbf"
