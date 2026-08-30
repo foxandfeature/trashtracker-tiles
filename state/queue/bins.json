@@ -34,6 +34,7 @@
     "asia/china/tianjin",
     "asia/china/tibet",
     "asia/china/xinjiang",
+    "asia/china/yunnan",
     "asia/china/zhejiang",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
@@ -64,6 +65,7 @@
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/victoria",
     "australia-oceania/fiji",
+    "australia-oceania/micronesia",
     "australia-oceania/papua-new-guinea",
     "central-america/costa-rica",
     "central-america/guatemala",
@@ -90,6 +92,7 @@
     "europe/france/pays-de-la-loire",
     "europe/france/picardie",
     "europe/france/provence-alpes-cote-d-azur",
+    "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/tuebingen-regbez",
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
@@ -136,6 +139,7 @@
     "europe/united-kingdom/england/cheshire",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/cumbria",
+    "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/dorset",
     "europe/united-kingdom/england/durham",
@@ -151,6 +155,7 @@
     "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
+    "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/england/wiltshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -194,26 +199,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/france/rhone-alpes",
-      "pbf_url": "https://download.geofabrik.de/europe/france/rhone-alpes-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/yunnan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/yunnan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/west-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-yorkshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/derbyshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/derbyshire-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/micronesia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/micronesia-latest.osm.pbf"
-    },
     {
       "id": "asia/india/southern-zone",
       "pbf_url": "https://download.geofabrik.de/asia/india/southern-zone-latest.osm.pbf"
