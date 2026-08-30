@@ -7,6 +7,7 @@
     "africa/cameroon",
     "africa/chad",
     "africa/congo-democratic-republic",
+    "africa/ethiopia",
     "africa/ivory-coast",
     "africa/malawi",
     "africa/niger",
@@ -24,6 +25,7 @@
     "asia/india/north-eastern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
+    "asia/indonesia/kalimantan",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/japan/chubu",
@@ -43,6 +45,7 @@
     "central-america/honduras",
     "europe/albania",
     "europe/belarus",
+    "europe/czech-republic/ustecky",
     "europe/czech-republic/zlinsky",
     "europe/france/alsace",
     "europe/france/bretagne",
@@ -74,6 +77,7 @@
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/ukraine",
+    "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/dorset",
     "europe/united-kingdom/england/essex",
@@ -101,29 +105,10 @@
     "russia/south-fed-district",
     "south-america/bolivia",
     "south-america/brazil/sudeste",
-    "south-america/colombia"
+    "south-america/colombia",
+    "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/cornwall",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cornwall-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/kalimantan",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/kalimantan-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/venezuela",
-      "pbf_url": "https://download.geofabrik.de/south-america/venezuela-latest.osm.pbf"
-    },
-    {
-      "id": "africa/ethiopia",
-      "pbf_url": "https://download.geofabrik.de/africa/ethiopia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/ustecky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/ustecky-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/wales",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/wales-latest.osm.pbf"
