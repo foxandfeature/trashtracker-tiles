@@ -26,6 +26,7 @@
     "africa/sudan",
     "africa/tanzania",
     "africa/uganda",
+    "africa/zimbabwe",
     "asia/afghanistan",
     "asia/china/beijing",
     "asia/china/gansu",
@@ -109,6 +110,7 @@
     "europe/denmark",
     "europe/finland",
     "europe/france/alsace",
+    "europe/france/aquitaine",
     "europe/france/bretagne",
     "europe/france/centre",
     "europe/france/champagne-ardenne",
@@ -126,6 +128,7 @@
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
+    "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/schleswig-holstein",
@@ -171,6 +174,7 @@
     "europe/poland/zachodniopomorskie",
     "europe/portugal",
     "europe/serbia",
+    "europe/slovakia",
     "europe/slovenia",
     "europe/spain/aragon",
     "europe/spain/asturias",
@@ -202,6 +206,7 @@
     "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/leicestershire",
+    "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/rutland",
     "europe/united-kingdom/england/somerset",
@@ -269,26 +274,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/north-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/north-yorkshire-latest.osm.pbf"
-    },
-    {
-      "id": "africa/zimbabwe",
-      "pbf_url": "https://download.geofabrik.de/africa/zimbabwe-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/hessen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/hessen-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/aquitaine",
-      "pbf_url": "https://download.geofabrik.de/europe/france/aquitaine-latest.osm.pbf"
-    },
-    {
-      "id": "europe/slovakia",
-      "pbf_url": "https://download.geofabrik.de/europe/slovakia-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/lancashire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/lancashire-latest.osm.pbf"
