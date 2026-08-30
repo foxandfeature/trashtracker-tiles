@@ -2,6 +2,7 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/cameroon",
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/malawi",
@@ -21,6 +22,7 @@
     "asia/myanmar",
     "asia/south-korea",
     "australia-oceania/australia/new-south-wales",
+    "europe/belarus",
     "europe/czech-republic/ustecky",
     "europe/france/alsace",
     "europe/france/ile-de-france",
@@ -35,12 +37,15 @@
     "europe/netherlands/overijssel",
     "europe/poland/lubelskie",
     "europe/poland/mazowieckie",
+    "europe/poland/opolskie",
+    "europe/poland/podkarpackie",
     "europe/poland/warminsko-mazurskie",
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/spain/valencia",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/scotland",
+    "europe/united-kingdom/wales",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
@@ -54,26 +59,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/wales",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/wales-latest.osm.pbf"
-    },
-    {
-      "id": "europe/belarus",
-      "pbf_url": "https://download.geofabrik.de/europe/belarus-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/podkarpackie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/podkarpackie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/opolskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/opolskie-latest.osm.pbf"
-    },
-    {
-      "id": "africa/cameroon",
-      "pbf_url": "https://download.geofabrik.de/africa/cameroon-latest.osm.pbf"
-    },
     {
       "id": "europe/albania",
       "pbf_url": "https://download.geofabrik.de/europe/albania-latest.osm.pbf"
