@@ -48,6 +48,7 @@
     "africa/uganda",
     "africa/zambia",
     "africa/zimbabwe",
+    "antarctica",
     "asia/afghanistan",
     "asia/armenia",
     "asia/azerbaijan",
@@ -64,12 +65,14 @@
     "asia/china/hebei",
     "asia/china/heilongjiang",
     "asia/china/henan",
+    "asia/china/hong-kong",
     "asia/china/hubei",
     "asia/china/hunan",
     "asia/china/inner-mongolia",
     "asia/china/jiangsu",
     "asia/china/jiangxi",
     "asia/china/jilin",
+    "asia/china/liaoning",
     "asia/china/ningxia",
     "asia/china/qinghai",
     "asia/china/shaanxi",
@@ -208,6 +211,7 @@
     "europe/france/picardie",
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
+    "europe/france/reunion",
     "europe/france/rhone-alpes",
     "europe/georgia",
     "europe/germany/baden-wuerttemberg/freiburg-regbez",
@@ -349,6 +353,7 @@
     "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/rutland",
+    "europe/united-kingdom/england/shropshire",
     "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/south-yorkshire",
     "europe/united-kingdom/england/staffordshire",
@@ -464,26 +469,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "antarctica",
-      "pbf_url": "https://download.geofabrik.de/antarctica-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hong-kong",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hong-kong-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/liaoning",
-      "pbf_url": "https://download.geofabrik.de/asia/china/liaoning-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/reunion",
-      "pbf_url": "https://download.geofabrik.de/europe/france/reunion-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/shropshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/shropshire-latest.osm.pbf"
-    },
     {
       "id": "asia/cambodia",
       "pbf_url": "https://download.geofabrik.de/asia/cambodia-latest.osm.pbf"
