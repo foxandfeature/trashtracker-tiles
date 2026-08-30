@@ -115,6 +115,7 @@
     "australia-oceania/tuvalu",
     "central-america/belize",
     "central-america/costa-rica",
+    "central-america/cuba",
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
@@ -123,6 +124,7 @@
     "europe/albania",
     "europe/andorra",
     "europe/austria",
+    "europe/azores",
     "europe/belarus",
     "europe/belgium",
     "europe/bulgaria",
@@ -172,6 +174,7 @@
     "europe/germany/berlin",
     "europe/germany/brandenburg",
     "europe/germany/hessen",
+    "europe/germany/mecklenburg-vorpommern",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
@@ -285,6 +288,7 @@
     "europe/united-kingdom/england/south-yorkshire",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/tyne-and-wear",
+    "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
     "europe/united-kingdom/england/west-yorkshire",
@@ -321,6 +325,7 @@
     "north-america/us/georgia",
     "north-america/us/illinois",
     "north-america/us/indiana",
+    "north-america/us/iowa",
     "north-america/us/louisiana",
     "north-america/us/maine",
     "north-america/us/maryland",
@@ -369,26 +374,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/warwickshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/warwickshire-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/cuba",
-      "pbf_url": "https://download.geofabrik.de/central-america/cuba-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/mecklenburg-vorpommern",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/mecklenburg-vorpommern-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/iowa",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/iowa-latest.osm.pbf"
-    },
-    {
-      "id": "europe/azores",
-      "pbf_url": "https://download.geofabrik.de/europe/azores-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/kansas",
       "pbf_url": "https://download.geofabrik.de/north-america/us/kansas-latest.osm.pbf"
