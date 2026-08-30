@@ -92,6 +92,7 @@
     "europe/france/aquitaine",
     "europe/france/basse-normandie",
     "europe/france/bourgogne",
+    "europe/france/bretagne",
     "europe/france/centre",
     "europe/france/champagne-ardenne",
     "europe/france/corse",
@@ -104,6 +105,7 @@
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
     "europe/france/picardie",
+    "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/tuebingen-regbez",
@@ -114,6 +116,7 @@
     "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
     "europe/greece",
+    "europe/hungary",
     "europe/iceland",
     "europe/ireland-and-northern-ireland",
     "europe/isle-of-man",
@@ -152,6 +155,7 @@
     "europe/poland/warminsko-mazurskie",
     "europe/poland/zachodniopomorskie",
     "europe/portugal",
+    "europe/romania",
     "europe/slovakia",
     "europe/slovenia",
     "europe/spain/aragon",
@@ -239,31 +243,12 @@
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
+    "south-america/chile",
     "south-america/colombia",
     "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/romania",
-      "pbf_url": "https://download.geofabrik.de/europe/romania-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/chile",
-      "pbf_url": "https://download.geofabrik.de/south-america/chile-latest.osm.pbf"
-    },
-    {
-      "id": "europe/hungary",
-      "pbf_url": "https://download.geofabrik.de/europe/hungary-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/poitou-charentes",
-      "pbf_url": "https://download.geofabrik.de/europe/france/poitou-charentes-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/bretagne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/bretagne-latest.osm.pbf"
-    },
     {
       "id": "europe/france/auvergne",
       "pbf_url": "https://download.geofabrik.de/europe/france/auvergne-latest.osm.pbf"
