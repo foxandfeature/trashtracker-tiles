@@ -74,6 +74,7 @@
     "europe/france/alsace",
     "europe/france/champagne-ardenne",
     "europe/france/franche-comte",
+    "europe/france/haute-normandie",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
     "europe/france/picardie",
@@ -116,6 +117,7 @@
     "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
     "europe/poland/zachodniopomorskie",
+    "europe/portugal",
     "europe/slovenia",
     "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
@@ -168,6 +170,7 @@
     "north-america/mexico",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
+    "north-america/us/colorado",
     "north-america/us/connecticut",
     "north-america/us/delaware",
     "north-america/us/district-of-columbia",
@@ -177,6 +180,7 @@
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
+    "north-america/us/pennsylvania",
     "north-america/us/texas",
     "north-america/us/virginia",
     "north-america/us/washington",
@@ -191,29 +195,10 @@
     "south-america/bolivia",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
+    "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/portugal",
-      "pbf_url": "https://download.geofabrik.de/europe/portugal-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/haute-normandie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/haute-normandie-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/uruguay",
-      "pbf_url": "https://download.geofabrik.de/south-america/uruguay-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/colorado",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/colorado-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/pennsylvania",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/pennsylvania-latest.osm.pbf"
-    },
     {
       "id": "asia/iran",
       "pbf_url": "https://download.geofabrik.de/asia/iran-latest.osm.pbf"
