@@ -17,6 +17,7 @@
     "africa/niger",
     "africa/nigeria",
     "africa/rwanda",
+    "africa/senegal-and-gambia",
     "africa/somalia",
     "africa/sudan",
     "africa/tanzania",
@@ -27,6 +28,7 @@
     "asia/china/guangxi",
     "asia/china/jiangxi",
     "asia/china/qinghai",
+    "asia/china/shaanxi",
     "asia/china/sichuan",
     "asia/china/tianjin",
     "asia/china/tibet",
@@ -85,10 +87,12 @@
     "europe/france/pays-de-la-loire",
     "europe/france/picardie",
     "europe/france/provence-alpes-cote-d-azur",
+    "europe/germany/baden-wuerttemberg/tuebingen-regbez",
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/iceland",
+    "europe/ireland-and-northern-ireland",
     "europe/isle-of-man",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
@@ -104,6 +108,7 @@
     "europe/poland/mazowieckie",
     "europe/poland/opolskie",
     "europe/poland/podkarpackie",
+    "europe/poland/podlaskie",
     "europe/poland/pomorskie",
     "europe/poland/slaskie",
     "europe/poland/swietokrzyskie",
@@ -174,26 +179,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/poland/podlaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/podlaskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/ireland-and-northern-ireland",
-      "pbf_url": "https://download.geofabrik.de/europe/ireland-and-northern-ireland-latest.osm.pbf"
-    },
-    {
-      "id": "africa/senegal-and-gambia",
-      "pbf_url": "https://download.geofabrik.de/africa/senegal-and-gambia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/shaanxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/shaanxi-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/baden-wuerttemberg/tuebingen-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/tuebingen-regbez-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/florida",
       "pbf_url": "https://download.geofabrik.de/north-america/us/florida-latest.osm.pbf"
