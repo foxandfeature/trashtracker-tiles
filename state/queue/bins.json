@@ -90,6 +90,7 @@
     "australia-oceania/new-zealand",
     "australia-oceania/pitcairn-islands",
     "australia-oceania/tuvalu",
+    "central-america/belize",
     "central-america/costa-rica",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
@@ -202,6 +203,7 @@
     "europe/slovakia",
     "europe/slovenia",
     "europe/spain/aragon",
+    "europe/spain/asturias",
     "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
@@ -226,6 +228,7 @@
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/durham",
     "europe/united-kingdom/england/essex",
+    "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-manchester",
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/isle-of-wight",
@@ -277,9 +280,11 @@
     "north-america/us/georgia",
     "north-america/us/illinois",
     "north-america/us/louisiana",
+    "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/minnesota",
+    "north-america/us/missouri",
     "north-america/us/nebraska",
     "north-america/us/new-jersey",
     "north-america/us/new-mexico",
@@ -314,26 +319,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/maryland",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/maryland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/asturias",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/asturias-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/belize",
-      "pbf_url": "https://download.geofabrik.de/central-america/belize-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/gloucestershire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/gloucestershire-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/missouri",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/missouri-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/wielkopolskie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/wielkopolskie-latest.osm.pbf"
