@@ -24,6 +24,7 @@
     "africa/saint-helena-ascension-and-tristan-da-cunha",
     "africa/sao-tome-and-principe",
     "africa/senegal-and-gambia",
+    "africa/somalia",
     "africa/south-africa",
     "africa/south-sudan",
     "africa/sudan",
@@ -32,6 +33,7 @@
     "africa/zambia",
     "africa/zimbabwe",
     "asia/afghanistan",
+    "asia/azerbaijan",
     "asia/bangladesh",
     "asia/china/beijing",
     "asia/china/chongqing",
@@ -89,6 +91,7 @@
     "asia/pakistan",
     "asia/philippines",
     "asia/south-korea",
+    "asia/sri-lanka",
     "asia/taiwan",
     "asia/thailand",
     "asia/vietnam",
@@ -96,6 +99,7 @@
     "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
+    "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
     "australia-oceania/fiji",
     "australia-oceania/ile-de-clipperton",
@@ -174,6 +178,7 @@
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
+    "europe/germany/nordrhein-westfalen/muenster-regbez",
     "europe/germany/rheinland-pfalz",
     "europe/germany/saarland",
     "europe/germany/sachsen",
@@ -364,26 +369,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/sri-lanka",
-      "pbf_url": "https://download.geofabrik.de/asia/sri-lanka-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/muenster-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/muenster-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "africa/somalia",
-      "pbf_url": "https://download.geofabrik.de/africa/somalia-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/tasmania",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/tasmania-latest.osm.pbf"
-    },
-    {
-      "id": "asia/azerbaijan",
-      "pbf_url": "https://download.geofabrik.de/asia/azerbaijan-latest.osm.pbf"
-    },
     {
       "id": "south-america/suriname",
       "pbf_url": "https://download.geofabrik.de/south-america/suriname-latest.osm.pbf"
