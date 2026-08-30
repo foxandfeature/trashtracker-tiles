@@ -4,6 +4,7 @@
   "lock": [
     "africa/chad",
     "africa/congo-democratic-republic",
+    "africa/malawi",
     "africa/somalia",
     "africa/tanzania",
     "asia/china/sichuan",
@@ -14,6 +15,7 @@
     "asia/indonesia/java",
     "asia/indonesia/sumatra",
     "asia/japan/chubu",
+    "asia/japan/chugoku",
     "asia/japan/kanto",
     "asia/japan/kyushu",
     "asia/japan/shikoku",
@@ -36,7 +38,10 @@
     "europe/poland/opolskie",
     "europe/poland/warminsko-mazurskie",
     "europe/spain/aragon",
+    "europe/spain/asturias",
+    "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/scotland",
+    "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
@@ -49,26 +54,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "asia/japan/chugoku",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/chugoku-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/asturias",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/asturias-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/island-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/island-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/gloucestershire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/gloucestershire-latest.osm.pbf"
-    },
-    {
-      "id": "africa/malawi",
-      "pbf_url": "https://download.geofabrik.de/africa/malawi-latest.osm.pbf"
-    },
     {
       "id": "asia/south-korea",
       "pbf_url": "https://download.geofabrik.de/asia/south-korea-latest.osm.pbf"
