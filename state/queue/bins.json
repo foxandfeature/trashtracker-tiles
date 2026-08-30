@@ -15,6 +15,7 @@
     "africa/malawi",
     "africa/morocco",
     "africa/niger",
+    "africa/nigeria",
     "africa/rwanda",
     "africa/senegal-and-gambia",
     "africa/sudan",
@@ -50,6 +51,7 @@
     "asia/myanmar",
     "asia/north-korea",
     "asia/pakistan",
+    "asia/philippines",
     "asia/south-korea",
     "asia/tajikistan",
     "asia/turkmenistan",
@@ -85,6 +87,7 @@
     "europe/germany/berlin",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/iceland",
+    "europe/ireland-and-northern-ireland",
     "europe/isle-of-man",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
@@ -130,6 +133,7 @@
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/tyne-and-wear",
+    "europe/united-kingdom/england/wiltshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/british-columbia/interior-admreg",
@@ -158,6 +162,7 @@
     "russia/central-fed-district",
     "russia/north-caucasus-fed-district",
     "russia/northwestern-fed-district",
+    "russia/siberian-fed-district",
     "russia/volga-fed-district",
     "south-america/bolivia",
     "south-america/brazil/nordeste",
@@ -169,26 +174,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/wiltshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/wiltshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/ireland-and-northern-ireland",
-      "pbf_url": "https://download.geofabrik.de/europe/ireland-and-northern-ireland-latest.osm.pbf"
-    },
-    {
-      "id": "africa/nigeria",
-      "pbf_url": "https://download.geofabrik.de/africa/nigeria-latest.osm.pbf"
-    },
-    {
-      "id": "asia/philippines",
-      "pbf_url": "https://download.geofabrik.de/asia/philippines-latest.osm.pbf"
-    },
-    {
-      "id": "russia/siberian-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/siberian-fed-district-latest.osm.pbf"
-    },
     {
       "id": "europe/turkey",
       "pbf_url": "https://download.geofabrik.de/europe/turkey-latest.osm.pbf"
