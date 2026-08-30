@@ -9,6 +9,7 @@
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/ethiopia",
+    "africa/ghana",
     "africa/guinea-bissau",
     "africa/ivory-coast",
     "africa/malawi",
@@ -24,6 +25,7 @@
     "asia/china/jiangxi",
     "asia/china/qinghai",
     "asia/china/sichuan",
+    "asia/china/tianjin",
     "asia/china/tibet",
     "asia/china/xinjiang",
     "asia/india/central-zone",
@@ -33,6 +35,7 @@
     "asia/indonesia/kalimantan",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
+    "asia/iraq",
     "asia/japan/chubu",
     "asia/japan/chugoku",
     "asia/japan/kanto",
@@ -55,6 +58,7 @@
     "central-america/honduras",
     "europe/albania",
     "europe/belarus",
+    "europe/belgium",
     "europe/czech-republic/liberecky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/zlinsky",
@@ -130,30 +134,11 @@
     "south-america/brazil/norte",
     "south-america/brazil/sudeste",
     "south-america/colombia",
+    "south-america/guyana",
     "south-america/paraguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "south-america/guyana",
-      "pbf_url": "https://download.geofabrik.de/south-america/guyana-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/tianjin",
-      "pbf_url": "https://download.geofabrik.de/asia/china/tianjin-latest.osm.pbf"
-    },
-    {
-      "id": "africa/ghana",
-      "pbf_url": "https://download.geofabrik.de/africa/ghana-latest.osm.pbf"
-    },
-    {
-      "id": "europe/belgium",
-      "pbf_url": "https://download.geofabrik.de/europe/belgium-latest.osm.pbf"
-    },
-    {
-      "id": "asia/iraq",
-      "pbf_url": "https://download.geofabrik.de/asia/iraq-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/ontario",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/ontario-latest.osm.pbf"
