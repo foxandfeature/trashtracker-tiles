@@ -66,6 +66,7 @@
     "australia-oceania/australia/victoria",
     "australia-oceania/fiji",
     "australia-oceania/micronesia",
+    "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
     "central-america/costa-rica",
     "central-america/guatemala",
@@ -132,6 +133,7 @@
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/spain/cantabria",
+    "europe/spain/islas-baleares",
     "europe/spain/la-rioja",
     "europe/spain/madrid",
     "europe/spain/pais-vasco",
@@ -169,6 +171,7 @@
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/new-brunswick",
     "north-america/canada/newfoundland-and-labrador",
+    "north-america/canada/northwest-territories",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
@@ -185,6 +188,8 @@
     "north-america/us/louisiana",
     "north-america/us/maine",
     "north-america/us/nebraska",
+    "north-america/us/new-york",
+    "north-america/us/north-carolina",
     "north-america/us/north-dakota",
     "north-america/us/texas",
     "north-america/us/washington",
@@ -204,26 +209,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/islas-baleares",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/islas-baleares-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/northwest-territories",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/northwest-territories-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/new-zealand",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/new-zealand-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/north-carolina",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/north-carolina-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-york",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-york-latest.osm.pbf"
-    },
     {
       "id": "europe/czech-republic/kralovehradecky",
       "pbf_url": "https://download.geofabrik.de/europe/czech-republic/kralovehradecky-latest.osm.pbf"
