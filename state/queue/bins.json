@@ -20,6 +20,7 @@
     "africa/rwanda",
     "africa/senegal-and-gambia",
     "africa/somalia",
+    "africa/south-africa",
     "africa/sudan",
     "africa/tanzania",
     "asia/afghanistan",
@@ -102,6 +103,7 @@
     "europe/france/franche-comte",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
+    "europe/france/limousin",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
@@ -129,6 +131,7 @@
     "europe/netherlands/noord-brabant",
     "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
+    "europe/norway/ostlandet",
     "europe/norway/sorlandet",
     "europe/norway/trondelag",
     "europe/poland/dolnoslaskie",
@@ -154,6 +157,7 @@
     "europe/spain/asturias",
     "europe/spain/cantabria",
     "europe/spain/extremadura",
+    "europe/spain/islas-baleares",
     "europe/spain/la-rioja",
     "europe/spain/pais-vasco",
     "europe/sweden",
@@ -217,6 +221,7 @@
     "north-america/us/washington",
     "north-america/us/wisconsin",
     "russia/central-fed-district",
+    "russia/far-eastern-fed-district",
     "russia/north-caucasus-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
@@ -234,26 +239,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/south-africa",
-      "pbf_url": "https://download.geofabrik.de/africa/south-africa-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/limousin",
-      "pbf_url": "https://download.geofabrik.de/europe/france/limousin-latest.osm.pbf"
-    },
-    {
-      "id": "russia/far-eastern-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/far-eastern-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/islas-baleares",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/islas-baleares-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/ostlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/ostlandet-latest.osm.pbf"
-    },
     {
       "id": "africa/saint-helena-ascension-and-tristan-da-cunha",
       "pbf_url": "https://download.geofabrik.de/africa/saint-helena-ascension-and-tristan-da-cunha-latest.osm.pbf"
