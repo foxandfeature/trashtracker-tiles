@@ -82,7 +82,9 @@
     "europe/belarus",
     "europe/belgium",
     "europe/czech-republic/jihomoravsky",
+    "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/liberecky",
+    "europe/czech-republic/praha",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/zlinsky",
@@ -158,6 +160,7 @@
     "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/isle-of-wight",
+    "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/oxfordshire",
@@ -187,7 +190,9 @@
     "north-america/us/florida",
     "north-america/us/louisiana",
     "north-america/us/maine",
+    "north-america/us/massachusetts",
     "north-america/us/nebraska",
+    "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
     "north-america/us/texas",
@@ -209,26 +214,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/new-york",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-york-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/kent",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/kent-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/kralovehradecky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/kralovehradecky-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/massachusetts",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/massachusetts-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/praha",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/praha-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/lancashire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/lancashire-latest.osm.pbf"
