@@ -3,6 +3,7 @@
   "failed": [],
   "lock": [
     "africa/algeria",
+    "africa/botswana",
     "africa/cameroon",
     "africa/chad",
     "africa/congo-democratic-republic",
@@ -46,12 +47,16 @@
     "europe/poland/opolskie",
     "europe/poland/swietokrzyskie",
     "europe/poland/warminsko-mazurskie",
+    "europe/portugal",
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/ukraine",
     "europe/united-kingdom/england/gloucestershire",
+    "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/scotland",
+    "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
@@ -64,26 +69,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/portugal",
-      "pbf_url": "https://download.geofabrik.de/europe/portugal-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/tyne-and-wear",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/tyne-and-wear-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/newfoundland-and-labrador",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/newfoundland-and-labrador-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/island-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/island-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "africa/botswana",
-      "pbf_url": "https://download.geofabrik.de/africa/botswana-latest.osm.pbf"
-    },
     {
       "id": "africa/sudan",
       "pbf_url": "https://download.geofabrik.de/africa/sudan-latest.osm.pbf"
