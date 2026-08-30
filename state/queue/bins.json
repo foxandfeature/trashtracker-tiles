@@ -16,7 +16,9 @@
     "africa/comores",
     "africa/congo-brazzaville",
     "africa/congo-democratic-republic",
+    "africa/djibouti",
     "africa/egypt",
+    "africa/equatorial-guinea",
     "africa/eritrea",
     "africa/ethiopia",
     "africa/gabon",
@@ -161,7 +163,9 @@
     "australia-oceania/papua-new-guinea",
     "australia-oceania/pitcairn-islands",
     "australia-oceania/polynesie-francaise",
+    "australia-oceania/solomon-islands",
     "australia-oceania/tuvalu",
+    "australia-oceania/vanuatu",
     "australia-oceania/wallis-et-futuna",
     "central-america/bahamas",
     "central-america/belize",
@@ -385,6 +389,7 @@
     "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/england/wiltshire",
     "europe/united-kingdom/england/worcestershire",
+    "europe/united-kingdom/falklands",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
@@ -489,26 +494,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/solomon-islands",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/solomon-islands-latest.osm.pbf"
-    },
-    {
-      "id": "africa/djibouti",
-      "pbf_url": "https://download.geofabrik.de/africa/djibouti-latest.osm.pbf"
-    },
-    {
-      "id": "africa/equatorial-guinea",
-      "pbf_url": "https://download.geofabrik.de/africa/equatorial-guinea-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/falklands",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/falklands-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/vanuatu",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/vanuatu-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/american-oceania",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/american-oceania-latest.osm.pbf"
