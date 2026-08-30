@@ -52,6 +52,7 @@
     "asia/myanmar",
     "asia/north-korea",
     "asia/pakistan",
+    "asia/philippines",
     "asia/south-korea",
     "asia/tajikistan",
     "asia/turkmenistan",
@@ -127,6 +128,7 @@
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
+    "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/suffolk",
@@ -143,11 +145,13 @@
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
     "north-america/canada/quebec",
+    "north-america/mexico",
     "north-america/us/alaska",
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
     "north-america/us/colorado",
+    "north-america/us/louisiana",
     "north-america/us/maine",
     "north-america/us/nebraska",
     "north-america/us/north-dakota",
@@ -157,6 +161,7 @@
     "russia/central-fed-district",
     "russia/north-caucasus-fed-district",
     "russia/northwestern-fed-district",
+    "russia/siberian-fed-district",
     "russia/south-fed-district",
     "russia/volga-fed-district",
     "south-america/bolivia",
@@ -169,26 +174,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/louisiana",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/louisiana-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/mexico",
-      "pbf_url": "https://download.geofabrik.de/north-america/mexico-latest.osm.pbf"
-    },
-    {
-      "id": "asia/philippines",
-      "pbf_url": "https://download.geofabrik.de/asia/philippines-latest.osm.pbf"
-    },
-    {
-      "id": "russia/siberian-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/siberian-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/isle-of-wight",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/isle-of-wight-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/podlaskie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/podlaskie-latest.osm.pbf"
