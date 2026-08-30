@@ -52,6 +52,7 @@
     "asia/japan/shikoku",
     "asia/japan/tohoku",
     "asia/jordan",
+    "asia/kazakhstan",
     "asia/kyrgyzstan",
     "asia/laos",
     "asia/myanmar",
@@ -66,6 +67,7 @@
     "australia-oceania/australia/victoria",
     "australia-oceania/fiji",
     "australia-oceania/micronesia",
+    "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
     "central-america/costa-rica",
     "central-america/guatemala",
@@ -78,6 +80,7 @@
     "europe/belarus",
     "europe/belgium",
     "europe/czech-republic/jihomoravsky",
+    "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/liberecky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/zlinsky",
@@ -129,6 +132,7 @@
     "europe/spain/la-rioja",
     "europe/spain/pais-vasco",
     "europe/sweden",
+    "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/england/bristol",
@@ -142,6 +146,7 @@
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/england/isle-of-wight",
+    "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/suffolk",
@@ -189,26 +194,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/switzerland",
-      "pbf_url": "https://download.geofabrik.de/europe/switzerland-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/new-zealand",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/new-zealand-latest.osm.pbf"
-    },
-    {
-      "id": "asia/kazakhstan",
-      "pbf_url": "https://download.geofabrik.de/asia/kazakhstan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/kent",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/kent-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/kralovehradecky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/kralovehradecky-latest.osm.pbf"
-    },
     {
       "id": "europe/italy/sud",
       "pbf_url": "https://download.geofabrik.de/europe/italy/sud-latest.osm.pbf"
