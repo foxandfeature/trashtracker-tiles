@@ -124,6 +124,7 @@
     "europe/austria",
     "europe/belarus",
     "europe/belgium",
+    "europe/bulgaria",
     "europe/croatia",
     "europe/cyprus",
     "europe/czech-republic/jihocesky",
@@ -135,6 +136,7 @@
     "europe/czech-republic/olomoucky",
     "europe/czech-republic/pardubicky",
     "europe/czech-republic/praha",
+    "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/zlinsky",
     "europe/denmark",
@@ -162,6 +164,7 @@
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
+    "europe/germany/bayern/mittelfranken",
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
@@ -174,6 +177,7 @@
     "europe/germany/rheinland-pfalz",
     "europe/germany/saarland",
     "europe/germany/sachsen",
+    "europe/germany/sachsen-anhalt",
     "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
     "europe/greece",
@@ -299,6 +303,7 @@
     "north-america/canada/quebec",
     "north-america/greenland",
     "north-america/mexico",
+    "north-america/us/alabama",
     "north-america/us/alaska",
     "north-america/us/arizona",
     "north-america/us/arkansas",
@@ -359,26 +364,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/bayern/mittelfranken",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/mittelfranken-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/sachsen-anhalt",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/sachsen-anhalt-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/stredocesky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/stredocesky-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/alabama",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/alabama-latest.osm.pbf"
-    },
-    {
-      "id": "europe/bulgaria",
-      "pbf_url": "https://download.geofabrik.de/europe/bulgaria-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/northamptonshire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/northamptonshire-latest.osm.pbf"
