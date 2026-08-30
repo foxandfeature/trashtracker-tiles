@@ -7,6 +7,7 @@
     "africa/cameroon",
     "africa/chad",
     "africa/congo-democratic-republic",
+    "africa/ethiopia",
     "africa/ivory-coast",
     "africa/malawi",
     "africa/niger",
@@ -50,6 +51,7 @@
     "europe/czech-republic/zlinsky",
     "europe/france/alsace",
     "europe/france/bretagne",
+    "europe/france/champagne-ardenne",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/midi-pyrenees",
@@ -76,6 +78,7 @@
     "europe/poland/slaskie",
     "europe/poland/swietokrzyskie",
     "europe/poland/warminsko-mazurskie",
+    "europe/poland/wielkopolskie",
     "europe/portugal",
     "europe/serbia",
     "europe/slovenia",
@@ -92,6 +95,7 @@
     "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
+    "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/newfoundland-and-labrador",
@@ -111,29 +115,10 @@
     "south-america/bolivia",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
-    "south-america/colombia"
+    "south-america/colombia",
+    "south-america/paraguay"
   ],
   "remaining": [
-    {
-      "id": "south-america/paraguay",
-      "pbf_url": "https://download.geofabrik.de/south-america/paraguay-latest.osm.pbf"
-    },
-    {
-      "id": "africa/ethiopia",
-      "pbf_url": "https://download.geofabrik.de/africa/ethiopia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/wielkopolskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/wielkopolskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/champagne-ardenne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/champagne-ardenne-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/interior-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/interior-admreg-latest.osm.pbf"
-    },
     {
       "id": "central-america/costa-rica",
       "pbf_url": "https://download.geofabrik.de/central-america/costa-rica-latest.osm.pbf"
