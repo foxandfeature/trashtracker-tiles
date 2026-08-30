@@ -17,6 +17,7 @@
     "africa/ivory-coast",
     "africa/kenya",
     "africa/lesotho",
+    "africa/libya",
     "africa/madagascar",
     "africa/malawi",
     "africa/mali",
@@ -37,8 +38,10 @@
     "asia/bangladesh",
     "asia/china/guangdong",
     "asia/china/hebei",
+    "asia/china/jiangsu",
     "asia/china/shaanxi",
     "asia/china/sichuan",
+    "asia/china/zhejiang",
     "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
@@ -171,6 +174,7 @@
     "europe/poland/pomorskie",
     "europe/poland/slaskie",
     "europe/poland/swietokrzyskie",
+    "europe/poland/warminsko-mazurskie",
     "europe/poland/wielkopolskie",
     "europe/poland/zachodniopomorskie",
     "europe/portugal",
@@ -179,6 +183,7 @@
     "europe/slovakia",
     "europe/slovenia",
     "europe/spain/andalucia",
+    "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
@@ -274,26 +279,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/poland/warminsko-mazurskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/warminsko-mazurskie-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/zhejiang",
-      "pbf_url": "https://download.geofabrik.de/asia/china/zhejiang-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/aragon",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/aragon-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/jiangsu",
-      "pbf_url": "https://download.geofabrik.de/asia/china/jiangsu-latest.osm.pbf"
-    },
-    {
-      "id": "africa/libya",
-      "pbf_url": "https://download.geofabrik.de/africa/libya-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/bayern/oberpfalz",
       "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberpfalz-latest.osm.pbf"
