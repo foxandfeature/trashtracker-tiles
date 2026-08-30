@@ -10,6 +10,7 @@
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/egypt",
+    "africa/eritrea",
     "africa/ethiopia",
     "africa/ghana",
     "africa/guinea-bissau",
@@ -127,6 +128,7 @@
     "central-america/guatemala",
     "central-america/haiti-and-domrep",
     "central-america/honduras",
+    "central-america/jamaica",
     "central-america/nicaragua",
     "central-america/panama",
     "europe/albania",
@@ -168,6 +170,7 @@
     "europe/france/languedoc-roussillon",
     "europe/france/limousin",
     "europe/france/lorraine",
+    "europe/france/mayotte",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
@@ -270,6 +273,7 @@
     "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/england/bedfordshire",
+    "europe/united-kingdom/england/berkshire",
     "europe/united-kingdom/england/bristol",
     "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cheshire",
@@ -321,6 +325,7 @@
     "north-america/canada/ontario",
     "north-america/canada/prince-edward-island",
     "north-america/canada/quebec",
+    "north-america/canada/saskatchewan",
     "north-america/greenland",
     "north-america/mexico",
     "north-america/us/alabama",
@@ -389,26 +394,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/eritrea",
-      "pbf_url": "https://download.geofabrik.de/africa/eritrea-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/jamaica",
-      "pbf_url": "https://download.geofabrik.de/central-america/jamaica-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/saskatchewan",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/saskatchewan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/berkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/berkshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/mayotte",
-      "pbf_url": "https://download.geofabrik.de/europe/france/mayotte-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/baden-wuerttemberg/tuebingen-regbez",
       "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/tuebingen-regbez-latest.osm.pbf"
