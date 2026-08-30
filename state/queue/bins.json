@@ -11,6 +11,7 @@
     "africa/kenya",
     "africa/madagascar",
     "africa/morocco",
+    "africa/mozambique",
     "africa/niger",
     "africa/nigeria",
     "africa/saint-helena-ascension-and-tristan-da-cunha",
@@ -25,6 +26,7 @@
     "asia/china/gansu",
     "asia/china/heilongjiang",
     "asia/china/hubei",
+    "asia/china/inner-mongolia",
     "asia/china/jiangsu",
     "asia/china/jilin",
     "asia/china/shaanxi",
@@ -87,6 +89,7 @@
     "europe/denmark",
     "europe/finland",
     "europe/france/alsace",
+    "europe/france/aquitaine",
     "europe/france/basse-normandie",
     "europe/france/bourgogne",
     "europe/france/centre",
@@ -184,6 +187,7 @@
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/rutland",
     "europe/united-kingdom/england/somerset",
+    "europe/united-kingdom/england/south-yorkshire",
     "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
@@ -218,6 +222,7 @@
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
+    "north-america/us/ohio",
     "north-america/us/pennsylvania",
     "north-america/us/texas",
     "north-america/us/virginia",
@@ -239,26 +244,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/inner-mongolia",
-      "pbf_url": "https://download.geofabrik.de/asia/china/inner-mongolia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/south-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/south-yorkshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/aquitaine",
-      "pbf_url": "https://download.geofabrik.de/europe/france/aquitaine-latest.osm.pbf"
-    },
-    {
-      "id": "africa/mozambique",
-      "pbf_url": "https://download.geofabrik.de/africa/mozambique-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/ohio",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/ohio-latest.osm.pbf"
-    },
     {
       "id": "europe/romania",
       "pbf_url": "https://download.geofabrik.de/europe/romania-latest.osm.pbf"
