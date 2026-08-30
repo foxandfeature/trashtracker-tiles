@@ -6,11 +6,13 @@
     "africa/botswana",
     "africa/burkina-faso",
     "africa/cameroon",
+    "africa/central-african-republic",
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/egypt",
     "africa/eritrea",
     "africa/ethiopia",
+    "africa/ghana",
     "africa/guinea",
     "africa/guinea-bissau",
     "africa/kenya",
@@ -44,6 +46,7 @@
     "asia/china/gansu",
     "asia/china/guangdong",
     "asia/china/guizhou",
+    "asia/china/hebei",
     "asia/china/heilongjiang",
     "asia/china/hong-kong",
     "asia/china/hubei",
@@ -56,6 +59,7 @@
     "asia/china/shaanxi",
     "asia/china/shanghai",
     "asia/china/shanxi",
+    "asia/china/sichuan",
     "asia/china/tianjin",
     "asia/china/tibet",
     "asia/china/xinjiang",
@@ -349,6 +353,7 @@
     "north-america/us/illinois",
     "north-america/us/indiana",
     "north-america/us/iowa",
+    "north-america/us/kansas",
     "north-america/us/kentucky",
     "north-america/us/louisiana",
     "north-america/us/maryland",
@@ -399,26 +404,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/ghana",
-      "pbf_url": "https://download.geofabrik.de/africa/ghana-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hebei",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hebei-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/sichuan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/sichuan-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/kansas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/kansas-latest.osm.pbf"
-    },
-    {
-      "id": "africa/central-african-republic",
-      "pbf_url": "https://download.geofabrik.de/africa/central-african-republic-latest.osm.pbf"
-    },
     {
       "id": "europe/georgia",
       "pbf_url": "https://download.geofabrik.de/europe/georgia-latest.osm.pbf"
