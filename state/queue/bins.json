@@ -16,6 +16,7 @@
     "africa/tanzania",
     "asia/china/beijing",
     "asia/china/guangdong",
+    "asia/china/guangxi",
     "asia/china/jiangxi",
     "asia/china/sichuan",
     "asia/china/tibet",
@@ -24,6 +25,7 @@
     "asia/india/north-eastern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
+    "asia/indonesia/kalimantan",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/japan/chubu",
@@ -37,6 +39,7 @@
     "asia/laos",
     "asia/myanmar",
     "asia/south-korea",
+    "asia/yemen",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/papua-new-guinea",
     "central-america/honduras",
@@ -77,6 +80,7 @@
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/ukraine",
+    "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/dorset",
     "europe/united-kingdom/england/essex",
@@ -91,6 +95,7 @@
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/quebec",
+    "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/colorado",
     "north-america/us/maine",
@@ -104,26 +109,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "asia/china/guangxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/guangxi-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/arkansas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/arkansas-latest.osm.pbf"
-    },
-    {
-      "id": "asia/yemen",
-      "pbf_url": "https://download.geofabrik.de/asia/yemen-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/cornwall",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cornwall-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/kalimantan",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/kalimantan-latest.osm.pbf"
-    },
     {
       "id": "europe/serbia",
       "pbf_url": "https://download.geofabrik.de/europe/serbia-latest.osm.pbf"
