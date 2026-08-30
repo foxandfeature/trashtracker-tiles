@@ -38,6 +38,7 @@
     "asia/afghanistan",
     "asia/bangladesh",
     "asia/china/beijing",
+    "asia/china/chongqing",
     "asia/china/gansu",
     "asia/china/guangdong",
     "asia/china/guangxi",
@@ -126,6 +127,7 @@
     "europe/albania",
     "europe/andorra",
     "europe/austria",
+    "europe/azores",
     "europe/belarus",
     "europe/belgium",
     "europe/bosnia-herzegovina",
@@ -202,6 +204,7 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/latvia",
     "europe/liechtenstein",
     "europe/lithuania",
     "europe/moldova",
@@ -318,6 +321,7 @@
     "north-america/canada/ontario",
     "north-america/canada/prince-edward-island",
     "north-america/canada/quebec",
+    "north-america/canada/saskatchewan",
     "north-america/greenland",
     "north-america/mexico",
     "north-america/us/alabama",
@@ -336,6 +340,7 @@
     "north-america/us/indiana",
     "north-america/us/iowa",
     "north-america/us/kansas",
+    "north-america/us/kentucky",
     "north-america/us/louisiana",
     "north-america/us/maine",
     "north-america/us/maryland",
@@ -384,26 +389,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/azores",
-      "pbf_url": "https://download.geofabrik.de/europe/azores-latest.osm.pbf"
-    },
-    {
-      "id": "europe/latvia",
-      "pbf_url": "https://download.geofabrik.de/europe/latvia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/kentucky",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/kentucky-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/chongqing",
-      "pbf_url": "https://download.geofabrik.de/asia/china/chongqing-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/saskatchewan",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/saskatchewan-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/bayern/schwaben",
       "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/schwaben-latest.osm.pbf"
