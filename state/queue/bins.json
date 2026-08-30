@@ -20,6 +20,7 @@
     "africa/tanzania",
     "asia/afghanistan",
     "asia/china/beijing",
+    "asia/china/gansu",
     "asia/china/guangdong",
     "asia/china/guangxi",
     "asia/china/jiangxi",
@@ -76,6 +77,7 @@
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
+    "europe/france/picardie",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
@@ -120,6 +122,7 @@
     "europe/united-kingdom/england/durham",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
+    "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/suffolk",
@@ -141,9 +144,11 @@
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
     "north-america/us/colorado",
+    "north-america/us/louisiana",
     "north-america/us/maine",
     "north-america/us/nebraska",
     "north-america/us/north-dakota",
+    "north-america/us/texas",
     "north-america/us/washington",
     "north-america/us/wisconsin",
     "russia/central-fed-district",
@@ -159,26 +164,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/gansu",
-      "pbf_url": "https://download.geofabrik.de/asia/china/gansu-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/isle-of-wight",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/isle-of-wight-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/picardie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/picardie-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/texas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/texas-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/louisiana",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/louisiana-latest.osm.pbf"
-    },
     {
       "id": "north-america/mexico",
       "pbf_url": "https://download.geofabrik.de/north-america/mexico-latest.osm.pbf"
