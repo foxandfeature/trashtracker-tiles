@@ -43,8 +43,10 @@
     "africa/zambia",
     "africa/zimbabwe",
     "asia/afghanistan",
+    "asia/armenia",
     "asia/azerbaijan",
     "asia/bangladesh",
+    "asia/china/anhui",
     "asia/china/beijing",
     "asia/china/chongqing",
     "asia/china/fujian",
@@ -164,6 +166,7 @@
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/olomoucky",
     "europe/czech-republic/pardubicky",
+    "europe/czech-republic/plzensky",
     "europe/czech-republic/praha",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
@@ -300,6 +303,7 @@
     "europe/united-kingdom/england/bedfordshire",
     "europe/united-kingdom/england/berkshire",
     "europe/united-kingdom/england/bristol",
+    "europe/united-kingdom/england/buckinghamshire",
     "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cheshire",
     "europe/united-kingdom/england/cornwall",
@@ -403,6 +407,7 @@
     "north-america/us/tennessee",
     "north-america/us/texas",
     "north-america/us/utah",
+    "north-america/us/vermont",
     "north-america/us/virginia",
     "north-america/us/washington",
     "north-america/us/west-virginia",
@@ -434,26 +439,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/czech-republic/plzensky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/plzensky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/buckinghamshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/buckinghamshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/armenia",
-      "pbf_url": "https://download.geofabrik.de/asia/armenia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/vermont",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/vermont-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/anhui",
-      "pbf_url": "https://download.geofabrik.de/asia/china/anhui-latest.osm.pbf"
-    },
     {
       "id": "africa/togo",
       "pbf_url": "https://download.geofabrik.de/africa/togo-latest.osm.pbf"
