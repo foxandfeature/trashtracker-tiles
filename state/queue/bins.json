@@ -9,6 +9,7 @@
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/egypt",
+    "africa/eritrea",
     "africa/ethiopia",
     "africa/guinea-bissau",
     "africa/kenya",
@@ -160,6 +161,7 @@
     "europe/france/languedoc-roussillon",
     "europe/france/limousin",
     "europe/france/lorraine",
+    "europe/france/mayotte",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
@@ -203,6 +205,7 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
+    "europe/latvia",
     "europe/liechtenstein",
     "europe/lithuania",
     "europe/moldova",
@@ -272,6 +275,7 @@
     "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/devon",
+    "europe/united-kingdom/england/dorset",
     "europe/united-kingdom/england/durham",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/essex",
@@ -288,6 +292,7 @@
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/northamptonshire",
+    "europe/united-kingdom/england/northumberland",
     "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/rutland",
@@ -384,26 +389,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/latvia",
-      "pbf_url": "https://download.geofabrik.de/europe/latvia-latest.osm.pbf"
-    },
-    {
-      "id": "africa/eritrea",
-      "pbf_url": "https://download.geofabrik.de/africa/eritrea-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/northumberland",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/northumberland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/mayotte",
-      "pbf_url": "https://download.geofabrik.de/europe/france/mayotte-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/dorset",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/dorset-latest.osm.pbf"
-    },
     {
       "id": "asia/north-korea",
       "pbf_url": "https://download.geofabrik.de/asia/north-korea-latest.osm.pbf"
