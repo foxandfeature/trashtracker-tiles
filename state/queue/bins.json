@@ -68,6 +68,7 @@
     "asia/indonesia/java",
     "asia/indonesia/kalimantan",
     "asia/indonesia/maluku",
+    "asia/indonesia/nusa-tenggara",
     "asia/indonesia/papua",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
@@ -165,6 +166,7 @@
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/bayern/mittelfranken",
+    "europe/germany/bayern/niederbayern",
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
@@ -174,6 +176,7 @@
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
+    "europe/germany/nordrhein-westfalen/muenster-regbez",
     "europe/germany/rheinland-pfalz",
     "europe/germany/saarland",
     "europe/germany/sachsen",
@@ -274,6 +277,7 @@
     "europe/united-kingdom/england/merseyside",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
+    "europe/united-kingdom/england/northamptonshire",
     "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/rutland",
@@ -331,6 +335,7 @@
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
     "north-america/us/ohio",
+    "north-america/us/oklahoma",
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
     "north-america/us/south-carolina",
@@ -364,26 +369,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/northamptonshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/northamptonshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/muenster-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/muenster-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/niederbayern",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/niederbayern-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/nusa-tenggara",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/nusa-tenggara-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/oklahoma",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/oklahoma-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/warwickshire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/warwickshire-latest.osm.pbf"
