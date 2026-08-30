@@ -16,6 +16,7 @@
     "africa/morocco",
     "africa/niger",
     "africa/rwanda",
+    "africa/senegal-and-gambia",
     "africa/somalia",
     "africa/sudan",
     "africa/tanzania",
@@ -145,18 +146,22 @@
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
     "north-america/canada/quebec",
+    "north-america/mexico",
     "north-america/us/alaska",
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
     "north-america/us/colorado",
+    "north-america/us/louisiana",
     "north-america/us/maine",
     "north-america/us/nebraska",
     "north-america/us/north-dakota",
+    "north-america/us/texas",
     "north-america/us/washington",
     "north-america/us/wisconsin",
     "russia/central-fed-district",
     "russia/north-caucasus-fed-district",
+    "russia/northwestern-fed-district",
     "russia/south-fed-district",
     "russia/volga-fed-district",
     "south-america/bolivia",
@@ -169,26 +174,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/texas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/texas-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/louisiana",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/louisiana-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/mexico",
-      "pbf_url": "https://download.geofabrik.de/north-america/mexico-latest.osm.pbf"
-    },
-    {
-      "id": "russia/northwestern-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/northwestern-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "africa/senegal-and-gambia",
-      "pbf_url": "https://download.geofabrik.de/africa/senegal-and-gambia-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/kent",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/kent-latest.osm.pbf"
