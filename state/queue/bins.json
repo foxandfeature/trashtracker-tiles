@@ -66,6 +66,7 @@
     "europe/france/alsace",
     "europe/france/bretagne",
     "europe/france/champagne-ardenne",
+    "europe/france/franche-comte",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/midi-pyrenees",
@@ -103,11 +104,14 @@
     "europe/spain/asturias",
     "europe/spain/cantabria",
     "europe/spain/valencia",
+    "europe/sweden",
     "europe/ukraine",
     "europe/united-kingdom/england/cheshire",
     "europe/united-kingdom/england/cornwall",
+    "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/dorset",
+    "europe/united-kingdom/england/durham",
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
@@ -139,6 +143,7 @@
     "russia/central-fed-district",
     "russia/north-caucasus-fed-district",
     "russia/south-fed-district",
+    "russia/volga-fed-district",
     "south-america/bolivia",
     "south-america/brazil/nordeste",
     "south-america/brazil/norte",
@@ -149,26 +154,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/cumbria",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cumbria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/sweden",
-      "pbf_url": "https://download.geofabrik.de/europe/sweden-latest.osm.pbf"
-    },
-    {
-      "id": "russia/volga-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/volga-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/franche-comte",
-      "pbf_url": "https://download.geofabrik.de/europe/france/franche-comte-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/durham",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/durham-latest.osm.pbf"
-    },
     {
       "id": "asia/jordan",
       "pbf_url": "https://download.geofabrik.de/asia/jordan-latest.osm.pbf"
