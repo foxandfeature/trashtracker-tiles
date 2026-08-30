@@ -28,6 +28,7 @@
     "africa/tanzania",
     "africa/uganda",
     "africa/zambia",
+    "africa/zimbabwe",
     "asia/afghanistan",
     "asia/bangladesh",
     "asia/china/beijing",
@@ -68,6 +69,7 @@
     "asia/kyrgyzstan",
     "asia/laos",
     "asia/lebanon",
+    "asia/malaysia-singapore-brunei",
     "asia/maldives",
     "asia/myanmar",
     "asia/nepal",
@@ -120,6 +122,7 @@
     "europe/france/bretagne",
     "europe/france/centre",
     "europe/france/champagne-ardenne",
+    "europe/france/corse",
     "europe/france/franche-comte",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
@@ -211,6 +214,7 @@
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
+    "europe/united-kingdom/england/greater-manchester",
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/kent",
@@ -263,6 +267,7 @@
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/north-dakota",
+    "north-america/us/pennsylvania",
     "north-america/us/texas",
     "north-america/us/virginia",
     "north-america/us/washington",
@@ -289,26 +294,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/greater-manchester",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/greater-manchester-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/pennsylvania",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/pennsylvania-latest.osm.pbf"
-    },
-    {
-      "id": "africa/zimbabwe",
-      "pbf_url": "https://download.geofabrik.de/africa/zimbabwe-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/corse",
-      "pbf_url": "https://download.geofabrik.de/europe/france/corse-latest.osm.pbf"
-    },
-    {
-      "id": "asia/malaysia-singapore-brunei",
-      "pbf_url": "https://download.geofabrik.de/asia/malaysia-singapore-brunei-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/ohio",
       "pbf_url": "https://download.geofabrik.de/north-america/us/ohio-latest.osm.pbf"
