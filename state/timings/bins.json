@@ -308,11 +308,11 @@
     6
   ],
   "africa/somalia": [
-    12,
     693,
     16,
     12,
-    14
+    14,
+    15
   ],
   "africa/south-africa": [
     41,
@@ -621,11 +621,11 @@
     7
   ],
   "asia/china/sichuan": [
-    9,
     808,
     9,
     10,
-    9
+    9,
+    12
   ],
   "asia/china/tianjin": [
     4,
@@ -837,11 +837,11 @@
     8
   ],
   "asia/japan/tohoku": [
-    27,
     575,
     21,
     29,
-    22
+    22,
+    24
   ],
   "asia/jordan": [
     5,
@@ -1563,11 +1563,11 @@
     23
   ],
   "europe/france/bretagne": [
-    31,
     669,
     25,
     24,
-    30
+    30,
+    24
   ],
   "europe/france/centre": [
     22,
@@ -1612,11 +1612,11 @@
     5
   ],
   "europe/france/haute-normandie": [
-    9,
     630,
     9,
     116,
-    12
+    12,
+    9
   ],
   "europe/france/ile-de-france": [
     27,
@@ -1682,10 +1682,10 @@
     34
   ],
   "europe/france/picardie": [
-    15,
     335,
     12,
     216,
+    15,
     15
   ],
   "europe/france/poitou-charentes": [
@@ -2053,11 +2053,11 @@
     4
   ],
   "europe/moldova": [
-    10,
     742,
     11,
     144,
-    10
+    10,
+    22
   ],
   "europe/monaco": [
     3,
@@ -2276,11 +2276,11 @@
     10
   ],
   "europe/poland/slaskie": [
-    16,
     391,
     17,
     19,
-    249
+    249,
+    14
   ],
   "europe/poland/swietokrzyskie": [
     10,
@@ -2353,11 +2353,11 @@
     14
   ],
   "europe/spain/aragon": [
-    10,
     9,
     969,
     8,
-    10
+    10,
+    9
   ],
   "europe/spain/asturias": [
     6,
@@ -2604,10 +2604,10 @@
     7
   ],
   "europe/united-kingdom/england/essex": [
-    8,
     454,
     7,
     73,
+    7,
     7
   ],
   "europe/united-kingdom/england/gloucestershire": [
@@ -2939,11 +2939,11 @@
     8
   ],
   "north-america/canada/nunavut/kitikmeot": [
-    31,
     37,
     851,
     25,
-    26
+    26,
+    28
   ],
   "north-america/canada/nunavut/kivalliq": [
     52,
@@ -3426,11 +3426,11 @@
     40
   ],
   "russia/south-fed-district": [
-    28,
     596,
     25,
     28,
-    23
+    23,
+    22
   ],
   "russia/ural-fed-district": [
     28,
