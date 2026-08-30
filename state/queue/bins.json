@@ -3,12 +3,15 @@
   "failed": [],
   "lock": [
     "africa/algeria",
+    "africa/botswana",
     "africa/cameroon",
     "africa/chad",
     "africa/congo-democratic-republic",
+    "africa/ivory-coast",
     "africa/malawi",
     "africa/rwanda",
     "africa/somalia",
+    "africa/sudan",
     "africa/tanzania",
     "asia/china/jiangxi",
     "asia/china/sichuan",
@@ -25,6 +28,7 @@
     "asia/japan/kyushu",
     "asia/japan/shikoku",
     "asia/japan/tohoku",
+    "asia/kyrgyzstan",
     "asia/myanmar",
     "asia/south-korea",
     "australia-oceania/australia/new-south-wales",
@@ -49,6 +53,7 @@
     "europe/netherlands/groningen",
     "europe/netherlands/overijssel",
     "europe/poland/lubelskie",
+    "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/poland/opolskie",
     "europe/poland/podkarpackie",
@@ -84,26 +89,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "africa/botswana",
-      "pbf_url": "https://download.geofabrik.de/africa/botswana-latest.osm.pbf"
-    },
-    {
-      "id": "asia/kyrgyzstan",
-      "pbf_url": "https://download.geofabrik.de/asia/kyrgyzstan-latest.osm.pbf"
-    },
-    {
-      "id": "africa/sudan",
-      "pbf_url": "https://download.geofabrik.de/africa/sudan-latest.osm.pbf"
-    },
-    {
-      "id": "africa/ivory-coast",
-      "pbf_url": "https://download.geofabrik.de/africa/ivory-coast-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/malopolskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/malopolskie-latest.osm.pbf"
-    },
     {
       "id": "africa/niger",
       "pbf_url": "https://download.geofabrik.de/africa/niger-latest.osm.pbf"
