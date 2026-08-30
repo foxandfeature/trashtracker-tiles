@@ -102,6 +102,7 @@
     "asia/lebanon",
     "asia/malaysia-singapore-brunei",
     "asia/maldives",
+    "asia/mongolia",
     "asia/myanmar",
     "asia/nepal",
     "asia/north-korea",
@@ -109,6 +110,7 @@
     "asia/philippines",
     "asia/south-korea",
     "asia/sri-lanka",
+    "asia/syria",
     "asia/taiwan",
     "asia/tajikistan",
     "asia/thailand",
@@ -197,6 +199,7 @@
     "europe/germany/bayern/niederbayern",
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
+    "europe/germany/bayern/oberpfalz",
     "europe/germany/bayern/schwaben",
     "europe/germany/berlin",
     "europe/germany/brandenburg",
@@ -304,6 +307,7 @@
     "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/england/greater-manchester",
     "europe/united-kingdom/england/hampshire",
+    "europe/united-kingdom/england/herefordshire",
     "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/lancashire",
@@ -371,6 +375,7 @@
     "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/minnesota",
+    "north-america/us/mississippi",
     "north-america/us/missouri",
     "north-america/us/montana",
     "north-america/us/nebraska",
@@ -419,26 +424,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/herefordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/herefordshire-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/mississippi",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/mississippi-latest.osm.pbf"
-    },
-    {
-      "id": "asia/mongolia",
-      "pbf_url": "https://download.geofabrik.de/asia/mongolia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/oberpfalz",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberpfalz-latest.osm.pbf"
-    },
-    {
-      "id": "asia/syria",
-      "pbf_url": "https://download.geofabrik.de/asia/syria-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/bayern/unterfranken",
       "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/unterfranken-latest.osm.pbf"
