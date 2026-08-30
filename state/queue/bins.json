@@ -146,6 +146,8 @@
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
+    "europe/germany/rheinland-pfalz",
+    "europe/germany/saarland",
     "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
     "europe/greece",
@@ -169,6 +171,7 @@
     "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
     "europe/netherlands/zeeland",
+    "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/sorlandet",
@@ -195,6 +198,7 @@
     "europe/serbia",
     "europe/slovakia",
     "europe/slovenia",
+    "europe/spain/andalucia",
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/spain/cantabria",
@@ -207,6 +211,7 @@
     "europe/spain/la-rioja",
     "europe/spain/madrid",
     "europe/spain/pais-vasco",
+    "europe/spain/valencia",
     "europe/sweden",
     "europe/switzerland",
     "europe/turkey",
@@ -304,26 +309,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/rheinland-pfalz",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/rheinland-pfalz-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/andalucia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/andalucia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/valencia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/valencia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/zuid-holland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/zuid-holland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/saarland",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/saarland-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/lincolnshire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/lincolnshire-latest.osm.pbf"
