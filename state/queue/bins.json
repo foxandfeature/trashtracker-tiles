@@ -41,6 +41,7 @@
     "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/indonesia/kalimantan",
+    "asia/indonesia/maluku",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/iran",
@@ -115,6 +116,7 @@
     "europe/germany/bayern/oberfranken",
     "europe/germany/berlin",
     "europe/germany/brandenburg",
+    "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/schleswig-holstein",
@@ -140,6 +142,7 @@
     "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
     "europe/netherlands/zeeland",
+    "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/sorlandet",
@@ -171,6 +174,7 @@
     "europe/spain/islas-baleares",
     "europe/spain/la-rioja",
     "europe/spain/madrid",
+    "europe/spain/murcia",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
@@ -227,6 +231,7 @@
     "north-america/us/georgia",
     "north-america/us/illinois",
     "north-america/us/louisiana",
+    "north-america/us/michigan",
     "north-america/us/new-jersey",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
@@ -254,26 +259,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/netherlands/zuid-holland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/zuid-holland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/hessen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/hessen-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/maluku",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/maluku-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/murcia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/murcia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/michigan",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/michigan-latest.osm.pbf"
-    },
     {
       "id": "africa/zambia",
       "pbf_url": "https://download.geofabrik.de/africa/zambia-latest.osm.pbf"
