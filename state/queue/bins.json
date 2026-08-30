@@ -2,6 +2,7 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/chad",
     "africa/congo-democratic-republic",
     "africa/malawi",
     "africa/somalia",
@@ -21,6 +22,7 @@
     "asia/japan/shikoku",
     "asia/japan/tohoku",
     "asia/myanmar",
+    "asia/south-korea",
     "australia-oceania/australia/new-south-wales",
     "europe/france/alsace",
     "europe/france/bretagne",
@@ -28,6 +30,7 @@
     "europe/france/ile-de-france",
     "europe/france/midi-pyrenees",
     "europe/france/pays-de-la-loire",
+    "europe/france/picardie",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/germany/bayern/oberfranken",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
@@ -38,10 +41,12 @@
     "europe/poland/lubelskie",
     "europe/poland/mazowieckie",
     "europe/poland/slaskie",
+    "europe/poland/warminsko-mazurskie",
     "europe/spain/aragon",
     "europe/spain/asturias",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/scotland",
+    "europe/united-kingdom/wales",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
@@ -54,26 +59,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/france/picardie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/picardie-latest.osm.pbf"
-    },
-    {
-      "id": "asia/south-korea",
-      "pbf_url": "https://download.geofabrik.de/asia/south-korea-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/warminsko-mazurskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/warminsko-mazurskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/wales",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/wales-latest.osm.pbf"
-    },
-    {
-      "id": "africa/chad",
-      "pbf_url": "https://download.geofabrik.de/africa/chad-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/washington",
       "pbf_url": "https://download.geofabrik.de/north-america/us/washington-latest.osm.pbf"
