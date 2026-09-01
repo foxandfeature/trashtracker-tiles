@@ -7,6 +7,7 @@
     "africa/benin",
     "africa/botswana",
     "africa/burkina-faso",
+    "africa/burundi",
     "africa/cameroon",
     "africa/canary-islands",
     "africa/central-african-republic",
@@ -22,6 +23,7 @@
     "africa/ivory-coast",
     "africa/kenya",
     "africa/lesotho",
+    "africa/liberia",
     "africa/libya",
     "africa/madagascar",
     "africa/malawi",
@@ -71,6 +73,7 @@
     "asia/china/jiangxi",
     "asia/china/jilin",
     "asia/china/liaoning",
+    "asia/china/ningxia",
     "asia/china/qinghai",
     "asia/china/shaanxi",
     "asia/china/shandong",
@@ -122,6 +125,7 @@
     "asia/sri-lanka",
     "asia/syria",
     "asia/taiwan",
+    "asia/tajikistan",
     "asia/thailand",
     "asia/uzbekistan",
     "asia/vietnam",
@@ -321,6 +325,7 @@
     "europe/united-kingdom/england/bristol",
     "europe/united-kingdom/england/buckinghamshire",
     "europe/united-kingdom/england/cambridgeshire",
+    "europe/united-kingdom/england/cheshire",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/derbyshire",
@@ -459,26 +464,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/tajikistan",
-      "pbf_url": "https://download.geofabrik.de/asia/tajikistan-latest.osm.pbf"
-    },
-    {
-      "id": "africa/burundi",
-      "pbf_url": "https://download.geofabrik.de/africa/burundi-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/cheshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cheshire-latest.osm.pbf"
-    },
-    {
-      "id": "africa/liberia",
-      "pbf_url": "https://download.geofabrik.de/africa/liberia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/ningxia",
-      "pbf_url": "https://download.geofabrik.de/asia/china/ningxia-latest.osm.pbf"
-    },
     {
       "id": "asia/china/xinjiang",
       "pbf_url": "https://download.geofabrik.de/asia/china/xinjiang-latest.osm.pbf"
