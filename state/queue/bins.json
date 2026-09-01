@@ -94,6 +94,7 @@
     "asia/mongolia",
     "asia/myanmar",
     "asia/nepal",
+    "asia/north-korea",
     "asia/pakistan",
     "asia/philippines",
     "asia/south-korea",
@@ -112,6 +113,7 @@
     "australia-oceania/australia/south-australia",
     "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
+    "australia-oceania/australia/western-australia",
     "australia-oceania/ile-de-clipperton",
     "australia-oceania/micronesia",
     "australia-oceania/nauru",
@@ -160,7 +162,9 @@
     "europe/france/bourgogne",
     "europe/france/bretagne",
     "europe/france/centre",
+    "europe/france/champagne-ardenne",
     "europe/france/corse",
+    "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
     "europe/france/limousin",
@@ -357,6 +361,7 @@
     "north-america/us/new-mexico",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
+    "north-america/us/north-dakota",
     "north-america/us/ohio",
     "north-america/us/oklahoma",
     "north-america/us/oregon",
@@ -394,26 +399,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/north-korea",
-      "pbf_url": "https://download.geofabrik.de/asia/north-korea-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/champagne-ardenne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/champagne-ardenne-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/haute-normandie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/haute-normandie-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/north-dakota",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/north-dakota-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/western-australia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/western-australia-latest.osm.pbf"
-    },
     {
       "id": "africa/central-african-republic",
       "pbf_url": "https://download.geofabrik.de/africa/central-african-republic-latest.osm.pbf"
