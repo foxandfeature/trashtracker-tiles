@@ -38,6 +38,7 @@
     "central-america/jamaica",
     "central-america/nicaragua",
     "europe/austria",
+    "europe/belgium",
     "europe/bosnia-herzegovina",
     "europe/cyprus",
     "europe/czech-republic/stredocesky",
@@ -68,11 +69,15 @@
     "europe/norway/nord-norge",
     "europe/norway/sorlandet",
     "europe/norway/trondelag",
+    "europe/poland/lodzkie",
+    "europe/poland/lubuskie",
     "europe/poland/podkarpackie",
     "europe/poland/podlaskie",
     "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
+    "europe/poland/zachodniopomorskie",
     "europe/spain/castilla-la-mancha",
+    "europe/spain/islas-baleares",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
@@ -119,26 +124,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/poland/lubuskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lubuskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/belgium",
-      "pbf_url": "https://download.geofabrik.de/europe/belgium-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/zachodniopomorskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/zachodniopomorskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/lodzkie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lodzkie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/islas-baleares",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/islas-baleares-latest.osm.pbf"
-    },
     {
       "id": "asia/china/yunnan",
       "pbf_url": "https://download.geofabrik.de/asia/china/yunnan-latest.osm.pbf"
