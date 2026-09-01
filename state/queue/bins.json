@@ -1,7 +1,5 @@
 {
-  "done": [],
-  "failed": [],
-  "lock": [
+  "done": [
     "africa/algeria",
     "africa/angola",
     "africa/benin",
@@ -156,7 +154,6 @@
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/norfolk-island",
     "australia-oceania/australia/northern-territory",
-    "australia-oceania/australia/queensland",
     "australia-oceania/australia/south-australia",
     "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
@@ -201,7 +198,6 @@
     "europe/belgium",
     "europe/bosnia-herzegovina",
     "europe/bulgaria",
-    "europe/croatia",
     "europe/cyprus",
     "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
@@ -218,7 +214,6 @@
     "europe/czech-republic/vysocina",
     "europe/czech-republic/zlinsky",
     "europe/denmark",
-    "europe/estonia",
     "europe/faroe-islands",
     "europe/finland",
     "europe/france/alsace",
@@ -258,7 +253,6 @@
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
     "europe/germany/bayern/oberpfalz",
-    "europe/germany/bayern/schwaben",
     "europe/germany/bayern/unterfranken",
     "europe/germany/berlin",
     "europe/germany/brandenburg",
@@ -513,5 +507,12 @@
     "south-america/uruguay",
     "south-america/venezuela"
   ],
+  "failed": [
+    "australia-oceania/australia/queensland",
+    "europe/croatia",
+    "europe/estonia",
+    "europe/germany/bayern/schwaben"
+  ],
+  "lock": [],
   "remaining": []
 }
