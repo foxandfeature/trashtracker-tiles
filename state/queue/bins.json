@@ -6,34 +6,19 @@
     "asia/india/central-zone",
     "asia/india/western-zone",
     "asia/indonesia/sumatra",
+    "australia-oceania/australia/new-south-wales",
     "europe/france/provence-alpes-cote-d-azur",
+    "europe/france/rhone-alpes",
+    "europe/italy/sud",
     "europe/united-kingdom/scotland",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
-    "north-america/us/california/norcal"
+    "north-america/canada/quebec",
+    "north-america/us/california/norcal",
+    "russia/siberian-fed-district"
   ],
   "remaining": [
-    {
-      "id": "europe/france/rhone-alpes",
-      "pbf_url": "https://download.geofabrik.de/europe/france/rhone-alpes-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/new-south-wales",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/new-south-wales-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/quebec",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/quebec-latest.osm.pbf"
-    },
-    {
-      "id": "russia/siberian-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/siberian-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/sud",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/sud-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/wales",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/wales-latest.osm.pbf"
