@@ -7,6 +7,8 @@
     "africa/guinea",
     "africa/guinea-bissau",
     "africa/ivory-coast",
+    "africa/senegal-and-gambia",
+    "africa/somalia",
     "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
@@ -30,11 +32,13 @@
     "australia-oceania/australia/south-australia",
     "central-america/honduras",
     "central-america/jamaica",
+    "central-america/nicaragua",
     "europe/austria",
     "europe/bosnia-herzegovina",
     "europe/cyprus",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
+    "europe/finland",
     "europe/france/mayotte",
     "europe/france/nord-pas-de-calais",
     "europe/france/provence-alpes-cote-d-azur",
@@ -88,32 +92,13 @@
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
+    "south-america/bolivia",
     "south-america/brazil/nordeste",
     "south-america/brazil/norte",
     "south-america/brazil/sudeste",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/finland",
-      "pbf_url": "https://download.geofabrik.de/europe/finland-latest.osm.pbf"
-    },
-    {
-      "id": "africa/senegal-and-gambia",
-      "pbf_url": "https://download.geofabrik.de/africa/senegal-and-gambia-latest.osm.pbf"
-    },
-    {
-      "id": "africa/somalia",
-      "pbf_url": "https://download.geofabrik.de/africa/somalia-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/bolivia",
-      "pbf_url": "https://download.geofabrik.de/south-america/bolivia-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/nicaragua",
-      "pbf_url": "https://download.geofabrik.de/central-america/nicaragua-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/nordrhein-westfalen/detmold-regbez",
       "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/detmold-regbez-latest.osm.pbf"
