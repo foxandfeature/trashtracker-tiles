@@ -2,12 +2,14 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/angola",
     "africa/guinea",
     "africa/ivory-coast",
     "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
     "asia/china/hebei",
+    "asia/china/shaanxi",
     "asia/india/central-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
@@ -18,10 +20,13 @@
     "asia/mongolia",
     "australia-oceania/australia/act",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/australia/south-australia",
     "central-america/jamaica",
+    "europe/austria",
     "europe/bosnia-herzegovina",
     "europe/cyprus",
     "europe/czech-republic/stredocesky",
+    "europe/czech-republic/ustecky",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
@@ -54,26 +59,6 @@
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "europe/austria",
-      "pbf_url": "https://download.geofabrik.de/europe/austria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/ustecky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/ustecky-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/south-australia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/south-australia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/shaanxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/shaanxi-latest.osm.pbf"
-    },
-    {
-      "id": "africa/angola",
-      "pbf_url": "https://download.geofabrik.de/africa/angola-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/ontario",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/ontario-latest.osm.pbf"
