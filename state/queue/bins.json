@@ -67,6 +67,7 @@
     "asia/china/liaoning",
     "asia/china/qinghai",
     "asia/china/shaanxi",
+    "asia/china/shandong",
     "asia/china/shanghai",
     "asia/china/shanxi",
     "asia/china/sichuan",
@@ -172,6 +173,7 @@
     "europe/czech-republic/vysocina",
     "europe/denmark",
     "europe/estonia",
+    "europe/faroe-islands",
     "europe/finland",
     "europe/france/alsace",
     "europe/france/aquitaine",
@@ -211,6 +213,7 @@
     "europe/germany/berlin",
     "europe/germany/brandenburg",
     "europe/germany/bremen",
+    "europe/germany/hamburg",
     "europe/germany/hessen",
     "europe/germany/mecklenburg-vorpommern",
     "europe/germany/niedersachsen",
@@ -245,6 +248,7 @@
     "europe/netherlands/flevoland",
     "europe/netherlands/friesland",
     "europe/netherlands/gelderland",
+    "europe/netherlands/groningen",
     "europe/netherlands/limburg",
     "europe/netherlands/noord-brabant",
     "europe/netherlands/noord-holland",
@@ -304,6 +308,7 @@
     "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/derbyshire",
+    "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/dorset",
     "europe/united-kingdom/england/durham",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
@@ -434,26 +439,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/devon",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/devon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/groningen",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/groningen-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/shandong",
-      "pbf_url": "https://download.geofabrik.de/asia/china/shandong-latest.osm.pbf"
-    },
-    {
-      "id": "europe/faroe-islands",
-      "pbf_url": "https://download.geofabrik.de/europe/faroe-islands-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/hamburg",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/hamburg-latest.osm.pbf"
-    },
     {
       "id": "asia/laos",
       "pbf_url": "https://download.geofabrik.de/asia/laos-latest.osm.pbf"
