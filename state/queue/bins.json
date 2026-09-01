@@ -80,6 +80,7 @@
     "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/south-australia",
+    "australia-oceania/australia/victoria",
     "australia-oceania/micronesia",
     "australia-oceania/nauru",
     "australia-oceania/new-zealand",
@@ -159,6 +160,7 @@
     "europe/italy/sud",
     "europe/kosovo",
     "europe/liechtenstein",
+    "europe/lithuania",
     "europe/moldova",
     "europe/monaco",
     "europe/netherlands/drenthe",
@@ -219,6 +221,7 @@
     "europe/united-kingdom/england/lancashire",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/lincolnshire",
+    "europe/united-kingdom/england/merseyside",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/northumberland",
@@ -269,7 +272,9 @@
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/ohio",
+    "north-america/us/oregon",
     "north-america/us/pennsylvania",
+    "north-america/us/tennessee",
     "north-america/us/texas",
     "north-america/us/virginia",
     "north-america/us/washington",
@@ -294,26 +299,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/oregon",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/oregon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/merseyside",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/merseyside-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/victoria",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/victoria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/lithuania",
-      "pbf_url": "https://download.geofabrik.de/europe/lithuania-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/tennessee",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/tennessee-latest.osm.pbf"
-    },
     {
       "id": "africa/morocco",
       "pbf_url": "https://download.geofabrik.de/africa/morocco-latest.osm.pbf"
