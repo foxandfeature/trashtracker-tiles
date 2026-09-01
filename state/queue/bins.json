@@ -10,6 +10,7 @@
     "africa/guinea",
     "africa/guinea-bissau",
     "africa/ivory-coast",
+    "africa/kenya",
     "africa/mali",
     "africa/nigeria",
     "africa/senegal-and-gambia",
@@ -77,6 +78,8 @@
     "europe/denmark",
     "europe/finland",
     "europe/france/alsace",
+    "europe/france/centre",
+    "europe/france/limousin",
     "europe/france/mayotte",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
@@ -180,6 +183,7 @@
     "north-america/us/delaware",
     "north-america/us/district-of-columbia",
     "north-america/us/florida",
+    "north-america/us/georgia",
     "north-america/us/illinois",
     "north-america/us/mississippi",
     "north-america/us/new-york",
@@ -190,6 +194,7 @@
     "north-america/us/wisconsin",
     "russia/central-fed-district",
     "russia/crimean-fed-district",
+    "russia/far-eastern-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/ural-fed-district",
@@ -204,26 +209,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/georgia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/georgia-latest.osm.pbf"
-    },
-    {
-      "id": "africa/kenya",
-      "pbf_url": "https://download.geofabrik.de/africa/kenya-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/limousin",
-      "pbf_url": "https://download.geofabrik.de/europe/france/limousin-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/centre",
-      "pbf_url": "https://download.geofabrik.de/europe/france/centre-latest.osm.pbf"
-    },
-    {
-      "id": "russia/far-eastern-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/far-eastern-fed-district-latest.osm.pbf"
-    },
     {
       "id": "asia/china/hubei",
       "pbf_url": "https://download.geofabrik.de/asia/china/hubei-latest.osm.pbf"
