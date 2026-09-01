@@ -36,6 +36,7 @@
     "asia/china/jiangsu",
     "asia/china/jilin",
     "asia/china/shaanxi",
+    "asia/china/shanxi",
     "asia/china/yunnan",
     "asia/china/zhejiang",
     "asia/gcc-states",
@@ -57,10 +58,12 @@
     "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/japan/kyushu",
+    "asia/japan/tohoku",
     "asia/kazakhstan",
     "asia/lebanon",
     "asia/maldives",
     "asia/mongolia",
+    "asia/myanmar",
     "asia/nepal",
     "asia/pakistan",
     "asia/philippines",
@@ -68,6 +71,7 @@
     "asia/taiwan",
     "asia/thailand",
     "asia/vietnam",
+    "asia/yemen",
     "australia-oceania/australia/act",
     "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/new-south-wales",
@@ -260,6 +264,7 @@
     "russia/far-eastern-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
+    "russia/south-fed-district",
     "russia/ural-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
@@ -274,26 +279,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/japan/tohoku",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/tohoku-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/shanxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/shanxi-latest.osm.pbf"
-    },
-    {
-      "id": "russia/south-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/south-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "asia/yemen",
-      "pbf_url": "https://download.geofabrik.de/asia/yemen-latest.osm.pbf"
-    },
-    {
-      "id": "asia/myanmar",
-      "pbf_url": "https://download.geofabrik.de/asia/myanmar-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/idaho",
       "pbf_url": "https://download.geofabrik.de/north-america/us/idaho-latest.osm.pbf"
