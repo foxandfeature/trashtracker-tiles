@@ -21,6 +21,7 @@
     "australia-oceania/australia/act",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/south-australia",
+    "central-america/honduras",
     "central-america/jamaica",
     "europe/austria",
     "europe/bosnia-herzegovina",
@@ -42,6 +43,7 @@
     "europe/norway/trondelag",
     "europe/poland/warminsko-mazurskie",
     "europe/spain/valencia",
+    "europe/sweden",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/scotland",
@@ -50,35 +52,18 @@
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
+    "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/mississippi",
     "russia/siberian-fed-district",
     "south-america/brazil/nordeste",
-    "south-america/brazil/sudeste"
+    "south-america/brazil/norte",
+    "south-america/brazil/sudeste",
+    "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/ontario",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/ontario-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/norte",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/norte-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/honduras",
-      "pbf_url": "https://download.geofabrik.de/central-america/honduras-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/venezuela",
-      "pbf_url": "https://download.geofabrik.de/south-america/venezuela-latest.osm.pbf"
-    },
-    {
-      "id": "europe/sweden",
-      "pbf_url": "https://download.geofabrik.de/europe/sweden-latest.osm.pbf"
-    },
     {
       "id": "europe/ukraine",
       "pbf_url": "https://download.geofabrik.de/europe/ukraine-latest.osm.pbf"
