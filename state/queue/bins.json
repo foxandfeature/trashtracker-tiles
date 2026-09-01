@@ -33,6 +33,7 @@
     "asia/israel-and-palestine",
     "asia/japan/chugoku",
     "asia/japan/kansai",
+    "asia/kazakhstan",
     "asia/mongolia",
     "asia/pakistan",
     "asia/philippines",
@@ -86,12 +87,14 @@
     "europe/poland/lubuskie",
     "europe/poland/podkarpackie",
     "europe/poland/podlaskie",
+    "europe/poland/pomorskie",
     "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
     "europe/poland/zachodniopomorskie",
     "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
     "europe/spain/islas-baleares",
+    "europe/spain/la-rioja",
     "europe/spain/melilla",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
@@ -107,8 +110,10 @@
     "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/lancashire",
+    "europe/united-kingdom/england/lincolnshire",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/northumberland",
+    "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
@@ -144,26 +149,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/lincolnshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/lincolnshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/la-rioja",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/la-rioja-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/pomorskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/pomorskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/nottinghamshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/nottinghamshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/kazakhstan",
-      "pbf_url": "https://download.geofabrik.de/asia/kazakhstan-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/madrid",
       "pbf_url": "https://download.geofabrik.de/europe/spain/madrid-latest.osm.pbf"
