@@ -24,6 +24,7 @@
     "africa/sudan",
     "africa/tanzania",
     "africa/uganda",
+    "africa/zambia",
     "africa/zimbabwe",
     "antarctica",
     "asia/bangladesh",
@@ -114,6 +115,7 @@
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
+    "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
@@ -168,6 +170,7 @@
     "europe/poland/warminsko-mazurskie",
     "europe/poland/zachodniopomorskie",
     "europe/portugal",
+    "europe/romania",
     "europe/slovakia",
     "europe/slovenia",
     "europe/spain/aragon",
@@ -179,6 +182,7 @@
     "europe/spain/la-rioja",
     "europe/spain/madrid",
     "europe/spain/melilla",
+    "europe/spain/murcia",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
@@ -225,6 +229,7 @@
     "north-america/canada/prince-edward-island",
     "north-america/canada/quebec",
     "north-america/mexico",
+    "north-america/us/arizona",
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
@@ -264,26 +269,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/murcia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/murcia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/romania",
-      "pbf_url": "https://download.geofabrik.de/europe/romania-latest.osm.pbf"
-    },
-    {
-      "id": "africa/zambia",
-      "pbf_url": "https://download.geofabrik.de/africa/zambia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/poitou-charentes",
-      "pbf_url": "https://download.geofabrik.de/europe/france/poitou-charentes-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/arizona",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/arizona-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/michigan",
       "pbf_url": "https://download.geofabrik.de/north-america/us/michigan-latest.osm.pbf"
