@@ -15,6 +15,7 @@
     "africa/kenya",
     "africa/lesotho",
     "africa/madagascar",
+    "africa/malawi",
     "africa/mali",
     "africa/morocco",
     "africa/mozambique",
@@ -36,6 +37,7 @@
     "asia/china/beijing",
     "asia/china/chongqing",
     "asia/china/gansu",
+    "asia/china/guangdong",
     "asia/china/guizhou",
     "asia/china/hebei",
     "asia/china/heilongjiang",
@@ -46,6 +48,7 @@
     "asia/china/jiangsu",
     "asia/china/jiangxi",
     "asia/china/jilin",
+    "asia/china/liaoning",
     "asia/china/shaanxi",
     "asia/china/shanghai",
     "asia/china/shanxi",
@@ -206,6 +209,7 @@
     "europe/norway/sorlandet",
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
+    "europe/poland/dolnoslaskie",
     "europe/poland/lodzkie",
     "europe/poland/lubelskie",
     "europe/poland/lubuskie",
@@ -323,6 +327,7 @@
     "north-america/us/south-carolina",
     "north-america/us/tennessee",
     "north-america/us/texas",
+    "north-america/us/utah",
     "north-america/us/virginia",
     "north-america/us/washington",
     "north-america/us/wisconsin",
@@ -349,26 +354,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/guangdong",
-      "pbf_url": "https://download.geofabrik.de/asia/china/guangdong-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/liaoning",
-      "pbf_url": "https://download.geofabrik.de/asia/china/liaoning-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/utah",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/utah-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/dolnoslaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/dolnoslaskie-latest.osm.pbf"
-    },
-    {
-      "id": "africa/malawi",
-      "pbf_url": "https://download.geofabrik.de/africa/malawi-latest.osm.pbf"
-    },
     {
       "id": "asia/china/qinghai",
       "pbf_url": "https://download.geofabrik.de/asia/china/qinghai-latest.osm.pbf"
