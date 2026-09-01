@@ -2,8 +2,10 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/ivory-coast",
     "africa/south-sudan",
     "africa/tanzania",
+    "asia/china/hebei",
     "asia/india/central-zone",
     "asia/india/western-zone",
     "asia/indonesia/sumatra",
@@ -24,6 +26,7 @@
     "europe/italy/sud",
     "europe/norway/nord-norge",
     "europe/norway/trondelag",
+    "europe/poland/warminsko-mazurskie",
     "europe/spain/valencia",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/warwickshire",
@@ -34,31 +37,13 @@
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/quebec",
+    "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "russia/siberian-fed-district",
-    "south-america/brazil/nordeste"
+    "south-america/brazil/nordeste",
+    "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/arkansas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/arkansas-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/warminsko-mazurskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/warminsko-mazurskie-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/sudeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/sudeste-latest.osm.pbf"
-    },
-    {
-      "id": "africa/ivory-coast",
-      "pbf_url": "https://download.geofabrik.de/africa/ivory-coast-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hebei",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hebei-latest.osm.pbf"
-    },
     {
       "id": "asia/mongolia",
       "pbf_url": "https://download.geofabrik.de/asia/mongolia-latest.osm.pbf"
