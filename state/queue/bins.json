@@ -41,6 +41,7 @@
     "asia/bangladesh",
     "asia/china/beijing",
     "asia/china/chongqing",
+    "asia/china/fujian",
     "asia/china/gansu",
     "asia/china/guangdong",
     "asia/china/guizhou",
@@ -100,6 +101,7 @@
     "asia/vietnam",
     "asia/yemen",
     "australia-oceania/australia/act",
+    "australia-oceania/australia/ashmore-cartier",
     "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
@@ -248,6 +250,7 @@
     "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
+    "europe/spain/ceuta",
     "europe/spain/extremadura",
     "europe/spain/galicia",
     "europe/spain/islas-baleares",
@@ -302,6 +305,7 @@
     "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/kootenay-admreg",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/british-columbia/southcoast-admreg",
     "north-america/canada/manitoba",
     "north-america/canada/new-brunswick",
     "north-america/canada/newfoundland-and-labrador",
@@ -331,6 +335,7 @@
     "north-america/us/illinois",
     "north-america/us/indiana",
     "north-america/us/iowa",
+    "north-america/us/kentucky",
     "north-america/us/louisiana",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
@@ -379,26 +384,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/british-columbia/southcoast-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/southcoast-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/ceuta",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/ceuta-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/fujian",
-      "pbf_url": "https://download.geofabrik.de/asia/china/fujian-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/kentucky",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/kentucky-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/ashmore-cartier",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/ashmore-cartier-latest.osm.pbf"
-    },
     {
       "id": "africa/eritrea",
       "pbf_url": "https://download.geofabrik.de/africa/eritrea-latest.osm.pbf"
