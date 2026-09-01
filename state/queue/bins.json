@@ -13,6 +13,7 @@
     "africa/kenya",
     "africa/madagascar",
     "africa/mali",
+    "africa/mozambique",
     "africa/niger",
     "africa/nigeria",
     "africa/saint-helena-ascension-and-tristan-da-cunha",
@@ -30,6 +31,7 @@
     "asia/china/hebei",
     "asia/china/heilongjiang",
     "asia/china/hubei",
+    "asia/china/inner-mongolia",
     "asia/china/jiangsu",
     "asia/china/jilin",
     "asia/china/shaanxi",
@@ -58,6 +60,7 @@
     "asia/nepal",
     "asia/pakistan",
     "asia/philippines",
+    "asia/taiwan",
     "asia/thailand",
     "asia/vietnam",
     "australia-oceania/australia/act",
@@ -196,6 +199,7 @@
     "europe/united-kingdom/england/worcestershire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
+    "north-america/canada/alberta",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/north-admreg",
@@ -219,6 +223,7 @@
     "north-america/us/georgia",
     "north-america/us/illinois",
     "north-america/us/mississippi",
+    "north-america/us/new-jersey",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/ohio",
@@ -244,26 +249,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/taiwan",
-      "pbf_url": "https://download.geofabrik.de/asia/taiwan-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/alberta",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/alberta-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/inner-mongolia",
-      "pbf_url": "https://download.geofabrik.de/asia/china/inner-mongolia-latest.osm.pbf"
-    },
-    {
-      "id": "africa/mozambique",
-      "pbf_url": "https://download.geofabrik.de/africa/mozambique-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-jersey",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-jersey-latest.osm.pbf"
-    },
     {
       "id": "europe/belarus",
       "pbf_url": "https://download.geofabrik.de/europe/belarus-latest.osm.pbf"
