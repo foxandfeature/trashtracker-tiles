@@ -3,7 +3,9 @@
   "failed": [],
   "lock": [
     "africa/angola",
+    "africa/benin",
     "africa/guinea",
+    "africa/guinea-bissau",
     "africa/ivory-coast",
     "africa/south-sudan",
     "africa/sudan",
@@ -42,8 +44,10 @@
     "europe/norway/nord-norge",
     "europe/norway/trondelag",
     "europe/poland/warminsko-mazurskie",
+    "europe/spain/castilla-la-mancha",
     "europe/spain/valencia",
     "europe/sweden",
+    "europe/ukraine",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/scotland",
@@ -57,6 +61,7 @@
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/mississippi",
+    "russia/central-fed-district",
     "russia/siberian-fed-district",
     "south-america/brazil/nordeste",
     "south-america/brazil/norte",
@@ -64,26 +69,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/ukraine",
-      "pbf_url": "https://download.geofabrik.de/europe/ukraine-latest.osm.pbf"
-    },
-    {
-      "id": "africa/benin",
-      "pbf_url": "https://download.geofabrik.de/africa/benin-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/castilla-la-mancha",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/castilla-la-mancha-latest.osm.pbf"
-    },
-    {
-      "id": "africa/guinea-bissau",
-      "pbf_url": "https://download.geofabrik.de/africa/guinea-bissau-latest.osm.pbf"
-    },
-    {
-      "id": "russia/central-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/central-fed-district-latest.osm.pbf"
-    },
     {
       "id": "europe/france/mayotte",
       "pbf_url": "https://download.geofabrik.de/europe/france/mayotte-latest.osm.pbf"
