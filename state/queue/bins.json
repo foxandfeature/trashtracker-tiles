@@ -43,6 +43,7 @@
     "africa/south-africa",
     "africa/south-sudan",
     "africa/sudan",
+    "africa/swaziland",
     "africa/tanzania",
     "africa/togo",
     "africa/tunisia",
@@ -54,6 +55,7 @@
     "asia/armenia",
     "asia/azerbaijan",
     "asia/bangladesh",
+    "asia/bhutan",
     "asia/cambodia",
     "asia/china/anhui",
     "asia/china/beijing",
@@ -263,6 +265,7 @@
     "europe/liechtenstein",
     "europe/lithuania",
     "europe/luxembourg",
+    "europe/macedonia",
     "europe/malta",
     "europe/moldova",
     "europe/monaco",
@@ -340,6 +343,7 @@
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/dorset",
     "europe/united-kingdom/england/durham",
+    "europe/united-kingdom/england/east-sussex",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
@@ -359,6 +363,7 @@
     "europe/united-kingdom/england/northamptonshire",
     "europe/united-kingdom/england/northumberland",
     "europe/united-kingdom/england/nottinghamshire",
+    "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/rutland",
     "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/south-yorkshire",
@@ -474,26 +479,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/macedonia",
-      "pbf_url": "https://download.geofabrik.de/europe/macedonia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/oxfordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/oxfordshire-latest.osm.pbf"
-    },
-    {
-      "id": "africa/swaziland",
-      "pbf_url": "https://download.geofabrik.de/africa/swaziland-latest.osm.pbf"
-    },
-    {
-      "id": "asia/bhutan",
-      "pbf_url": "https://download.geofabrik.de/asia/bhutan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/east-sussex",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/east-sussex-latest.osm.pbf"
-    },
     {
       "id": "africa/gabon",
       "pbf_url": "https://download.geofabrik.de/africa/gabon-latest.osm.pbf"
