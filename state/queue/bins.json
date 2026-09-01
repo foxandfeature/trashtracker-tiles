@@ -9,6 +9,7 @@
     "africa/cameroon",
     "africa/central-african-republic",
     "africa/chad",
+    "africa/comores",
     "africa/congo-democratic-republic",
     "africa/egypt",
     "africa/eritrea",
@@ -168,6 +169,7 @@
     "europe/france/centre",
     "europe/france/champagne-ardenne",
     "europe/france/corse",
+    "europe/france/franche-comte",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
@@ -309,6 +311,8 @@
     "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/south-yorkshire",
     "europe/united-kingdom/england/staffordshire",
+    "europe/united-kingdom/england/suffolk",
+    "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
@@ -352,6 +356,7 @@
     "north-america/us/illinois",
     "north-america/us/indiana",
     "north-america/us/iowa",
+    "north-america/us/kansas",
     "north-america/us/kentucky",
     "north-america/us/louisiana",
     "north-america/us/maryland",
@@ -404,26 +409,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/comores",
-      "pbf_url": "https://download.geofabrik.de/africa/comores-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/franche-comte",
-      "pbf_url": "https://download.geofabrik.de/europe/france/franche-comte-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/suffolk",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/suffolk-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/tyne-and-wear",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/tyne-and-wear-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/kansas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/kansas-latest.osm.pbf"
-    },
     {
       "id": "asia/china/hainan",
       "pbf_url": "https://download.geofabrik.de/asia/china/hainan-latest.osm.pbf"
