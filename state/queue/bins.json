@@ -27,6 +27,7 @@
     "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/indonesia/kalimantan",
+    "asia/indonesia/nusa-tenggara",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/israel-and-palestine",
@@ -39,6 +40,7 @@
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/south-australia",
     "australia-oceania/micronesia",
+    "australia-oceania/tokelau",
     "central-america/honduras",
     "central-america/jamaica",
     "central-america/nicaragua",
@@ -72,8 +74,10 @@
     "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/kosovo",
+    "europe/monaco",
     "europe/netherlands/drenthe",
     "europe/netherlands/friesland",
+    "europe/netherlands/limburg",
     "europe/netherlands/overijssel",
     "europe/norway/nord-norge",
     "europe/norway/sorlandet",
@@ -118,6 +122,7 @@
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
+    "north-america/canada/prince-edward-island",
     "north-america/canada/quebec",
     "north-america/mexico",
     "north-america/us/arkansas",
@@ -139,26 +144,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/monaco",
-      "pbf_url": "https://download.geofabrik.de/europe/monaco-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/prince-edward-island",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/prince-edward-island-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/limburg",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/limburg-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/nusa-tenggara",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/nusa-tenggara-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/tokelau",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/tokelau-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/lincolnshire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/lincolnshire-latest.osm.pbf"
