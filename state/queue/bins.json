@@ -41,6 +41,7 @@
     "asia/china/hunan",
     "asia/china/inner-mongolia",
     "asia/china/jiangsu",
+    "asia/china/jiangxi",
     "asia/china/jilin",
     "asia/china/shaanxi",
     "asia/china/shanghai",
@@ -109,6 +110,7 @@
     "europe/belarus",
     "europe/belgium",
     "europe/bosnia-herzegovina",
+    "europe/bulgaria",
     "europe/croatia",
     "europe/cyprus",
     "europe/czech-republic/jihocesky",
@@ -161,6 +163,7 @@
     "europe/germany/rheinland-pfalz",
     "europe/germany/saarland",
     "europe/germany/sachsen",
+    "europe/germany/sachsen-anhalt",
     "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
     "europe/greece",
@@ -265,6 +268,7 @@
     "north-america/canada/british-columbia/kootenay-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/manitoba",
+    "north-america/canada/new-brunswick",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/northwest-territories",
     "north-america/canada/nunavut/kitikmeot",
@@ -288,6 +292,7 @@
     "north-america/us/georgia",
     "north-america/us/idaho",
     "north-america/us/illinois",
+    "north-america/us/indiana",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
@@ -329,26 +334,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/jiangxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/jiangxi-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/new-brunswick",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/new-brunswick-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/indiana",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/indiana-latest.osm.pbf"
-    },
-    {
-      "id": "europe/bulgaria",
-      "pbf_url": "https://download.geofabrik.de/europe/bulgaria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/sachsen-anhalt",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/sachsen-anhalt-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/andalucia",
       "pbf_url": "https://download.geofabrik.de/europe/spain/andalucia-latest.osm.pbf"
