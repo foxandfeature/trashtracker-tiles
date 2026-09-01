@@ -10,6 +10,7 @@
     "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
+    "asia/china/gansu",
     "asia/china/hebei",
     "asia/china/shaanxi",
     "asia/india/central-zone",
@@ -30,6 +31,7 @@
     "europe/cyprus",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
+    "europe/france/mayotte",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
@@ -43,6 +45,7 @@
     "europe/italy/sud",
     "europe/norway/nord-norge",
     "europe/norway/trondelag",
+    "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
     "europe/spain/castilla-la-mancha",
     "europe/spain/valencia",
@@ -62,33 +65,15 @@
     "north-america/us/california/norcal",
     "north-america/us/mississippi",
     "russia/central-fed-district",
+    "russia/crimean-fed-district",
     "russia/siberian-fed-district",
+    "russia/volga-fed-district",
     "south-america/brazil/nordeste",
     "south-america/brazil/norte",
     "south-america/brazil/sudeste",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/france/mayotte",
-      "pbf_url": "https://download.geofabrik.de/europe/france/mayotte-latest.osm.pbf"
-    },
-    {
-      "id": "russia/volga-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/volga-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/slaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/slaskie-latest.osm.pbf"
-    },
-    {
-      "id": "russia/crimean-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/crimean-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/gansu",
-      "pbf_url": "https://download.geofabrik.de/asia/china/gansu-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/hertfordshire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/hertfordshire-latest.osm.pbf"
