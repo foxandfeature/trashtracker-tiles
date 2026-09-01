@@ -61,6 +61,7 @@
     "asia/japan/tohoku",
     "asia/kazakhstan",
     "asia/lebanon",
+    "asia/malaysia-singapore-brunei",
     "asia/maldives",
     "asia/mongolia",
     "asia/myanmar",
@@ -93,6 +94,7 @@
     "europe/belgium",
     "europe/bosnia-herzegovina",
     "europe/cyprus",
+    "europe/czech-republic/jihocesky",
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/karlovarsky",
     "europe/czech-republic/kralovehradecky",
@@ -126,6 +128,7 @@
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/baden-wuerttemberg/tuebingen-regbez",
+    "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
     "europe/germany/bayern/oberpfalz",
     "europe/germany/bayern/unterfranken",
@@ -247,9 +250,11 @@
     "north-america/us/district-of-columbia",
     "north-america/us/florida",
     "north-america/us/georgia",
+    "north-america/us/idaho",
     "north-america/us/illinois",
     "north-america/us/michigan",
     "north-america/us/mississippi",
+    "north-america/us/nebraska",
     "north-america/us/new-jersey",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
@@ -279,26 +284,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/idaho",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/idaho-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/nebraska",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/nebraska-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/jihocesky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/jihocesky-latest.osm.pbf"
-    },
-    {
-      "id": "asia/malaysia-singapore-brunei",
-      "pbf_url": "https://download.geofabrik.de/asia/malaysia-singapore-brunei-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/oberbayern",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberbayern-latest.osm.pbf"
-    },
     {
       "id": "africa/rwanda",
       "pbf_url": "https://download.geofabrik.de/africa/rwanda-latest.osm.pbf"
