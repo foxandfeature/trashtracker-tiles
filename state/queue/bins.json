@@ -54,6 +54,7 @@
     "asia/armenia",
     "asia/azerbaijan",
     "asia/bangladesh",
+    "asia/cambodia",
     "asia/china/anhui",
     "asia/china/beijing",
     "asia/china/chongqing",
@@ -153,6 +154,7 @@
     "australia-oceania/samoa",
     "australia-oceania/tokelau",
     "australia-oceania/tuvalu",
+    "australia-oceania/wallis-et-futuna",
     "central-america/bahamas",
     "central-america/belize",
     "central-america/costa-rica",
@@ -214,6 +216,7 @@
     "europe/france/picardie",
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
+    "europe/france/reunion",
     "europe/france/rhone-alpes",
     "europe/georgia",
     "europe/germany/baden-wuerttemberg/freiburg-regbez",
@@ -249,6 +252,7 @@
     "europe/hungary",
     "europe/iceland",
     "europe/ireland-and-northern-ireland",
+    "europe/isle-of-man",
     "europe/italy/centro",
     "europe/italy/isole",
     "europe/italy/nord-est",
@@ -360,6 +364,7 @@
     "europe/united-kingdom/england/south-yorkshire",
     "europe/united-kingdom/england/staffordshire",
     "europe/united-kingdom/england/suffolk",
+    "europe/united-kingdom/england/surrey",
     "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
@@ -469,26 +474,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/surrey",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/surrey-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/wallis-et-futuna",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/wallis-et-futuna-latest.osm.pbf"
-    },
-    {
-      "id": "asia/cambodia",
-      "pbf_url": "https://download.geofabrik.de/asia/cambodia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/reunion",
-      "pbf_url": "https://download.geofabrik.de/europe/france/reunion-latest.osm.pbf"
-    },
-    {
-      "id": "europe/isle-of-man",
-      "pbf_url": "https://download.geofabrik.de/europe/isle-of-man-latest.osm.pbf"
-    },
     {
       "id": "europe/macedonia",
       "pbf_url": "https://download.geofabrik.de/europe/macedonia-latest.osm.pbf"
