@@ -8,13 +8,17 @@
     "asia/china/hebei",
     "asia/india/central-zone",
     "asia/india/western-zone",
+    "asia/indonesia/java",
     "asia/indonesia/sumatra",
+    "asia/israel-and-palestine",
     "asia/japan/chugoku",
     "asia/japan/kansai",
+    "asia/mongolia",
     "australia-oceania/australia/act",
     "australia-oceania/australia/new-south-wales",
     "central-america/jamaica",
     "europe/cyprus",
+    "europe/czech-republic/stredocesky",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
@@ -39,31 +43,12 @@
     "north-america/canada/quebec",
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
+    "north-america/us/mississippi",
     "russia/siberian-fed-district",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "asia/mongolia",
-      "pbf_url": "https://download.geofabrik.de/asia/mongolia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/mississippi",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/mississippi-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/java",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/java-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/stredocesky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/stredocesky-latest.osm.pbf"
-    },
-    {
-      "id": "asia/israel-and-palestine",
-      "pbf_url": "https://download.geofabrik.de/asia/israel-and-palestine-latest.osm.pbf"
-    },
     {
       "id": "africa/guinea",
       "pbf_url": "https://download.geofabrik.de/africa/guinea-latest.osm.pbf"
