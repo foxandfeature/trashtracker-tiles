@@ -60,6 +60,7 @@
     "asia/israel-and-palestine",
     "asia/japan/chubu",
     "asia/japan/chugoku",
+    "asia/japan/hokkaido",
     "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/japan/kyushu",
@@ -193,6 +194,7 @@
     "europe/poland/zachodniopomorskie",
     "europe/portugal",
     "europe/romania",
+    "europe/serbia",
     "europe/slovakia",
     "europe/slovenia",
     "europe/spain/aragon",
@@ -256,6 +258,7 @@
     "north-america/canada/prince-edward-island",
     "north-america/canada/quebec",
     "north-america/mexico",
+    "north-america/us/alaska",
     "north-america/us/arizona",
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
@@ -294,36 +297,18 @@
     "russia/volga-fed-district",
     "south-america/argentina",
     "south-america/bolivia",
+    "south-america/brazil/centro-oeste",
     "south-america/brazil/nordeste",
     "south-america/brazil/norte",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
     "south-america/chile",
     "south-america/colombia",
+    "south-america/peru",
     "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "south-america/peru",
-      "pbf_url": "https://download.geofabrik.de/south-america/peru-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/centro-oeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/centro-oeste-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/hokkaido",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/hokkaido-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/alaska",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/alaska-latest.osm.pbf"
-    },
-    {
-      "id": "europe/serbia",
-      "pbf_url": "https://download.geofabrik.de/europe/serbia-latest.osm.pbf"
-    },
     {
       "id": "europe/netherlands/utrecht",
       "pbf_url": "https://download.geofabrik.de/europe/netherlands/utrecht-latest.osm.pbf"
