@@ -13,6 +13,7 @@
     "africa/kenya",
     "africa/madagascar",
     "africa/mali",
+    "africa/morocco",
     "africa/mozambique",
     "africa/niger",
     "africa/nigeria",
@@ -30,6 +31,7 @@
     "antarctica",
     "asia/bangladesh",
     "asia/china/gansu",
+    "asia/china/guizhou",
     "asia/china/hebei",
     "asia/china/heilongjiang",
     "asia/china/hubei",
@@ -37,6 +39,7 @@
     "asia/china/jiangsu",
     "asia/china/jilin",
     "asia/china/shaanxi",
+    "asia/china/shanghai",
     "asia/china/shanxi",
     "asia/china/yunnan",
     "asia/china/zhejiang",
@@ -172,6 +175,7 @@
     "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
     "europe/netherlands/zeeland",
+    "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/sorlandet",
@@ -210,6 +214,7 @@
     "europe/ukraine",
     "europe/united-kingdom/england/bedfordshire",
     "europe/united-kingdom/england/bristol",
+    "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
@@ -299,26 +304,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/morocco",
-      "pbf_url": "https://download.geofabrik.de/africa/morocco-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/cambridgeshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cambridgeshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/zuid-holland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/zuid-holland-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/guizhou",
-      "pbf_url": "https://download.geofabrik.de/asia/china/guizhou-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/shanghai",
-      "pbf_url": "https://download.geofabrik.de/asia/china/shanghai-latest.osm.pbf"
-    },
     {
       "id": "south-america/peru",
       "pbf_url": "https://download.geofabrik.de/south-america/peru-latest.osm.pbf"
