@@ -50,6 +50,7 @@
     "asia/armenia",
     "asia/azerbaijan",
     "asia/bangladesh",
+    "asia/china/anhui",
     "asia/china/beijing",
     "asia/china/chongqing",
     "asia/china/fujian",
@@ -145,6 +146,7 @@
     "australia-oceania/tuvalu",
     "central-america/bahamas",
     "central-america/belize",
+    "central-america/costa-rica",
     "central-america/cuba",
     "central-america/el-salvador",
     "central-america/guatemala",
@@ -175,6 +177,7 @@
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/vysocina",
+    "europe/czech-republic/zlinsky",
     "europe/denmark",
     "europe/estonia",
     "europe/faroe-islands",
@@ -414,10 +417,12 @@
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
     "north-america/us/puerto-rico",
+    "north-america/us/rhode-island",
     "north-america/us/south-carolina",
     "north-america/us/tennessee",
     "north-america/us/texas",
     "north-america/us/utah",
+    "north-america/us/vermont",
     "north-america/us/virginia",
     "north-america/us/washington",
     "north-america/us/west-virginia",
@@ -449,26 +454,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/czech-republic/zlinsky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/zlinsky-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/rhode-island",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/rhode-island-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/vermont",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/vermont-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/anhui",
-      "pbf_url": "https://download.geofabrik.de/asia/china/anhui-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/costa-rica",
-      "pbf_url": "https://download.geofabrik.de/central-america/costa-rica-latest.osm.pbf"
-    },
     {
       "id": "asia/china/guangxi",
       "pbf_url": "https://download.geofabrik.de/asia/china/guangxi-latest.osm.pbf"
