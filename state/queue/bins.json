@@ -5,6 +5,7 @@
     "africa/algeria",
     "africa/angola",
     "africa/benin",
+    "africa/botswana",
     "africa/burkina-faso",
     "africa/cameroon",
     "africa/central-african-republic",
@@ -50,6 +51,7 @@
     "asia/china/gansu",
     "asia/china/guangdong",
     "asia/china/guizhou",
+    "asia/china/hainan",
     "asia/china/hebei",
     "asia/china/heilongjiang",
     "asia/china/hong-kong",
@@ -83,6 +85,7 @@
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/iran",
+    "asia/iraq",
     "asia/israel-and-palestine",
     "asia/japan/chubu",
     "asia/japan/chugoku",
@@ -290,6 +293,7 @@
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/dorset",
+    "europe/united-kingdom/england/durham",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
@@ -359,6 +363,7 @@
     "north-america/us/kansas",
     "north-america/us/kentucky",
     "north-america/us/louisiana",
+    "north-america/us/maine",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
@@ -409,26 +414,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/hainan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hainan-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/maine",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/maine-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/durham",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/durham-latest.osm.pbf"
-    },
-    {
-      "id": "asia/iraq",
-      "pbf_url": "https://download.geofabrik.de/asia/iraq-latest.osm.pbf"
-    },
-    {
-      "id": "africa/botswana",
-      "pbf_url": "https://download.geofabrik.de/africa/botswana-latest.osm.pbf"
-    },
     {
       "id": "central-america/haiti-and-domrep",
       "pbf_url": "https://download.geofabrik.de/central-america/haiti-and-domrep-latest.osm.pbf"
