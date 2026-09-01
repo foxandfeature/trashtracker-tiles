@@ -80,6 +80,7 @@
     "europe/albania",
     "europe/andorra",
     "europe/austria",
+    "europe/belarus",
     "europe/belgium",
     "europe/bosnia-herzegovina",
     "europe/cyprus",
@@ -95,10 +96,12 @@
     "europe/denmark",
     "europe/finland",
     "europe/france/alsace",
+    "europe/france/aquitaine",
     "europe/france/bourgogne",
     "europe/france/bretagne",
     "europe/france/centre",
     "europe/france/corse",
+    "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
     "europe/france/limousin",
     "europe/france/mayotte",
@@ -120,6 +123,7 @@
     "europe/germany/nordrhein-westfalen/muenster-regbez",
     "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
+    "europe/greece",
     "europe/iceland",
     "europe/ireland-and-northern-ireland",
     "europe/italy/centro",
@@ -245,30 +249,11 @@
     "south-america/brazil/norte",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
+    "south-america/colombia",
     "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/belarus",
-      "pbf_url": "https://download.geofabrik.de/europe/belarus-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/ile-de-france",
-      "pbf_url": "https://download.geofabrik.de/europe/france/ile-de-france-latest.osm.pbf"
-    },
-    {
-      "id": "europe/greece",
-      "pbf_url": "https://download.geofabrik.de/europe/greece-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/aquitaine",
-      "pbf_url": "https://download.geofabrik.de/europe/france/aquitaine-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/colombia",
-      "pbf_url": "https://download.geofabrik.de/south-america/colombia-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/hessen",
       "pbf_url": "https://download.geofabrik.de/europe/germany/hessen-latest.osm.pbf"
