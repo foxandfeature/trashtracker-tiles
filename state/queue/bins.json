@@ -16,6 +16,7 @@
     "africa/mozambique",
     "africa/niger",
     "africa/nigeria",
+    "africa/rwanda",
     "africa/saint-helena-ascension-and-tristan-da-cunha",
     "africa/senegal-and-gambia",
     "africa/somalia",
@@ -68,6 +69,7 @@
     "asia/nepal",
     "asia/pakistan",
     "asia/philippines",
+    "asia/south-korea",
     "asia/sri-lanka",
     "asia/taiwan",
     "asia/thailand",
@@ -140,6 +142,7 @@
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
+    "europe/germany/saarland",
     "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
     "europe/greece",
@@ -230,6 +233,7 @@
     "north-america/canada/alberta",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/island-admreg",
+    "north-america/canada/british-columbia/kootenay-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/northwest-territories",
@@ -252,6 +256,7 @@
     "north-america/us/georgia",
     "north-america/us/idaho",
     "north-america/us/illinois",
+    "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/mississippi",
     "north-america/us/nebraska",
@@ -284,26 +289,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/rwanda",
-      "pbf_url": "https://download.geofabrik.de/africa/rwanda-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/saarland",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/saarland-latest.osm.pbf"
-    },
-    {
-      "id": "asia/south-korea",
-      "pbf_url": "https://download.geofabrik.de/asia/south-korea-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/kootenay-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/kootenay-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/massachusetts",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/massachusetts-latest.osm.pbf"
-    },
     {
       "id": "asia/india/eastern-zone",
       "pbf_url": "https://download.geofabrik.de/asia/india/eastern-zone-latest.osm.pbf"
