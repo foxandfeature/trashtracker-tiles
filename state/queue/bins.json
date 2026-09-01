@@ -102,6 +102,7 @@
     "australia-oceania/australia/south-australia",
     "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
+    "australia-oceania/ile-de-clipperton",
     "australia-oceania/micronesia",
     "australia-oceania/nauru",
     "australia-oceania/new-zealand",
@@ -111,6 +112,7 @@
     "central-america/belize",
     "central-america/cuba",
     "central-america/el-salvador",
+    "central-america/guatemala",
     "central-america/honduras",
     "central-america/jamaica",
     "central-america/nicaragua",
@@ -118,6 +120,7 @@
     "europe/albania",
     "europe/andorra",
     "europe/austria",
+    "europe/azores",
     "europe/belarus",
     "europe/belgium",
     "europe/bosnia-herzegovina",
@@ -154,6 +157,7 @@
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
+    "europe/france/picardie",
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
@@ -299,6 +303,7 @@
     "north-america/canada/quebec",
     "north-america/greenland",
     "north-america/mexico",
+    "north-america/us/alabama",
     "north-america/us/alaska",
     "north-america/us/arizona",
     "north-america/us/arkansas",
@@ -359,26 +364,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/ile-de-clipperton",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/ile-de-clipperton-latest.osm.pbf"
-    },
-    {
-      "id": "europe/azores",
-      "pbf_url": "https://download.geofabrik.de/europe/azores-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/guatemala",
-      "pbf_url": "https://download.geofabrik.de/central-america/guatemala-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/picardie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/picardie-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/alabama",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/alabama-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/bayern/schwaben",
       "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/schwaben-latest.osm.pbf"
