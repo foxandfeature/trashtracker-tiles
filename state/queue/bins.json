@@ -6,11 +6,13 @@
     "africa/angola",
     "africa/benin",
     "africa/burkina-faso",
+    "africa/cameroon",
     "africa/congo-democratic-republic",
     "africa/guinea",
     "africa/guinea-bissau",
     "africa/ivory-coast",
     "africa/kenya",
+    "africa/lesotho",
     "africa/madagascar",
     "africa/mali",
     "africa/morocco",
@@ -30,6 +32,7 @@
     "africa/zimbabwe",
     "antarctica",
     "asia/bangladesh",
+    "asia/china/beijing",
     "asia/china/gansu",
     "asia/china/guizhou",
     "asia/china/hebei",
@@ -84,6 +87,7 @@
     "australia-oceania/australia/act",
     "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/australia/queensland",
     "australia-oceania/australia/south-australia",
     "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
@@ -224,6 +228,7 @@
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
+    "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-manchester",
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/hertfordshire",
@@ -314,26 +319,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/beijing",
-      "pbf_url": "https://download.geofabrik.de/asia/china/beijing-latest.osm.pbf"
-    },
-    {
-      "id": "africa/cameroon",
-      "pbf_url": "https://download.geofabrik.de/africa/cameroon-latest.osm.pbf"
-    },
-    {
-      "id": "africa/lesotho",
-      "pbf_url": "https://download.geofabrik.de/africa/lesotho-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/gloucestershire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/gloucestershire-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/queensland",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/queensland-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/berkshire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/berkshire-latest.osm.pbf"
