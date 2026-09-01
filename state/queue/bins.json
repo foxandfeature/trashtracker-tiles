@@ -19,10 +19,13 @@
     "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
+    "africa/uganda",
     "antarctica",
+    "asia/bangladesh",
     "asia/china/gansu",
     "asia/china/hebei",
     "asia/china/heilongjiang",
+    "asia/china/hubei",
     "asia/china/jiangsu",
     "asia/china/jilin",
     "asia/china/shaanxi",
@@ -44,6 +47,7 @@
     "asia/japan/kanto",
     "asia/kazakhstan",
     "asia/lebanon",
+    "asia/maldives",
     "asia/mongolia",
     "asia/nepal",
     "asia/pakistan",
@@ -81,6 +85,7 @@
     "europe/france/centre",
     "europe/france/limousin",
     "europe/france/mayotte",
+    "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
@@ -209,26 +214,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/hubei",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hubei-latest.osm.pbf"
-    },
-    {
-      "id": "asia/maldives",
-      "pbf_url": "https://download.geofabrik.de/asia/maldives-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/midi-pyrenees",
-      "pbf_url": "https://download.geofabrik.de/europe/france/midi-pyrenees-latest.osm.pbf"
-    },
-    {
-      "id": "africa/uganda",
-      "pbf_url": "https://download.geofabrik.de/africa/uganda-latest.osm.pbf"
-    },
-    {
-      "id": "asia/bangladesh",
-      "pbf_url": "https://download.geofabrik.de/asia/bangladesh-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/cataluna",
       "pbf_url": "https://download.geofabrik.de/europe/spain/cataluna-latest.osm.pbf"
