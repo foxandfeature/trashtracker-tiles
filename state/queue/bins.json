@@ -13,6 +13,7 @@
     "africa/central-african-republic",
     "africa/chad",
     "africa/comores",
+    "africa/congo-brazzaville",
     "africa/congo-democratic-republic",
     "africa/egypt",
     "africa/eritrea",
@@ -81,6 +82,7 @@
     "asia/china/shanxi",
     "asia/china/sichuan",
     "asia/china/tibet",
+    "asia/china/xinjiang",
     "asia/china/yunnan",
     "asia/china/zhejiang",
     "asia/east-timor",
@@ -302,6 +304,7 @@
     "europe/slovenia",
     "europe/spain/andalucia",
     "europe/spain/aragon",
+    "europe/spain/asturias",
     "europe/spain/cantabria",
     "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
@@ -314,6 +317,7 @@
     "europe/spain/madrid",
     "europe/spain/melilla",
     "europe/spain/murcia",
+    "europe/spain/navarra",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
@@ -429,6 +433,7 @@
     "north-america/us/puerto-rico",
     "north-america/us/rhode-island",
     "north-america/us/south-carolina",
+    "north-america/us/south-dakota",
     "north-america/us/tennessee",
     "north-america/us/texas",
     "north-america/us/utah",
@@ -464,26 +469,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/xinjiang",
-      "pbf_url": "https://download.geofabrik.de/asia/china/xinjiang-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/navarra",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/navarra-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/south-dakota",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/south-dakota-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/asturias",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/asturias-latest.osm.pbf"
-    },
-    {
-      "id": "africa/congo-brazzaville",
-      "pbf_url": "https://download.geofabrik.de/africa/congo-brazzaville-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/surrey",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/surrey-latest.osm.pbf"
