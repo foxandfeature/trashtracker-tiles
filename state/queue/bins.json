@@ -16,6 +16,7 @@
     "africa/comores",
     "africa/congo-brazzaville",
     "africa/congo-democratic-republic",
+    "africa/djibouti",
     "africa/egypt",
     "africa/equatorial-guinea",
     "africa/eritrea",
@@ -159,6 +160,7 @@
     "australia-oceania/cook-islands",
     "australia-oceania/fiji",
     "australia-oceania/ile-de-clipperton",
+    "australia-oceania/kiribati",
     "australia-oceania/micronesia",
     "australia-oceania/nauru",
     "australia-oceania/new-caledonia",
@@ -170,6 +172,7 @@
     "australia-oceania/solomon-islands",
     "australia-oceania/tokelau",
     "australia-oceania/tuvalu",
+    "australia-oceania/vanuatu",
     "australia-oceania/wallis-et-futuna",
     "central-america/bahamas",
     "central-america/belize",
@@ -348,6 +351,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/bermuda",
     "europe/united-kingdom/england/bedfordshire",
     "europe/united-kingdom/england/berkshire",
     "europe/united-kingdom/england/bristol",
@@ -395,6 +399,7 @@
     "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/england/wiltshire",
     "europe/united-kingdom/england/worcestershire",
+    "europe/united-kingdom/falklands",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
@@ -499,26 +504,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/falklands",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/falklands-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/kiribati",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/kiribati-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/vanuatu",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/vanuatu-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/bermuda",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/bermuda-latest.osm.pbf"
-    },
-    {
-      "id": "africa/djibouti",
-      "pbf_url": "https://download.geofabrik.de/africa/djibouti-latest.osm.pbf"
-    },
     {
       "id": "europe/guernsey-jersey",
       "pbf_url": "https://download.geofabrik.de/europe/guernsey-jersey-latest.osm.pbf"
