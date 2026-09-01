@@ -59,11 +59,13 @@
     "australia-oceania/micronesia",
     "australia-oceania/nauru",
     "australia-oceania/new-zealand",
+    "australia-oceania/pitcairn-islands",
     "australia-oceania/tokelau",
     "australia-oceania/tuvalu",
     "central-america/honduras",
     "central-america/jamaica",
     "central-america/nicaragua",
+    "central-america/panama",
     "europe/albania",
     "europe/andorra",
     "europe/austria",
@@ -101,6 +103,7 @@
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
+    "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
     "europe/iceland",
     "europe/ireland-and-northern-ireland",
@@ -113,6 +116,7 @@
     "europe/moldova",
     "europe/monaco",
     "europe/netherlands/drenthe",
+    "europe/netherlands/flevoland",
     "europe/netherlands/friesland",
     "europe/netherlands/gelderland",
     "europe/netherlands/limburg",
@@ -158,6 +162,7 @@
     "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/lancashire",
+    "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/lincolnshire",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
@@ -219,26 +224,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/netherlands/flevoland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/flevoland-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/panama",
-      "pbf_url": "https://download.geofabrik.de/central-america/panama-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/leicestershire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/leicestershire-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/pitcairn-islands",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/pitcairn-islands-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/schleswig-holstein",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/schleswig-holstein-latest.osm.pbf"
-    },
     {
       "id": "asia/vietnam",
       "pbf_url": "https://download.geofabrik.de/asia/vietnam-latest.osm.pbf"
