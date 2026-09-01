@@ -20,6 +20,7 @@
     "africa/sudan",
     "africa/tanzania",
     "africa/uganda",
+    "africa/zimbabwe",
     "antarctica",
     "asia/bangladesh",
     "asia/china/gansu",
@@ -52,6 +53,7 @@
     "asia/nepal",
     "asia/pakistan",
     "asia/philippines",
+    "asia/vietnam",
     "australia-oceania/australia/act",
     "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/new-south-wales",
@@ -128,6 +130,7 @@
     "europe/norway/ostlandet",
     "europe/norway/sorlandet",
     "europe/norway/trondelag",
+    "europe/norway/vestlandet",
     "europe/poland/lodzkie",
     "europe/poland/lubelskie",
     "europe/poland/lubuskie",
@@ -183,6 +186,7 @@
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/northwest-territories",
+    "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
@@ -202,6 +206,7 @@
     "north-america/us/mississippi",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
+    "north-america/us/ohio",
     "north-america/us/pennsylvania",
     "north-america/us/texas",
     "north-america/us/virginia",
@@ -224,26 +229,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/vietnam",
-      "pbf_url": "https://download.geofabrik.de/asia/vietnam-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/ohio",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/ohio-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/vestlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/vestlandet-latest.osm.pbf"
-    },
-    {
-      "id": "africa/zimbabwe",
-      "pbf_url": "https://download.geofabrik.de/africa/zimbabwe-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/nunavut/kitikmeot",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/nunavut/kitikmeot-latest.osm.pbf"
-    },
     {
       "id": "africa/niger",
       "pbf_url": "https://download.geofabrik.de/africa/niger-latest.osm.pbf"
