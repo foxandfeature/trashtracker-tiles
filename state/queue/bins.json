@@ -34,6 +34,7 @@
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/israel-and-palestine",
+    "asia/japan/chubu",
     "asia/japan/chugoku",
     "asia/japan/kansai",
     "asia/japan/kanto",
@@ -57,6 +58,7 @@
     "europe/cyprus",
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/kralovehradecky",
+    "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/plzensky",
     "europe/czech-republic/praha",
     "europe/czech-republic/stredocesky",
@@ -80,6 +82,7 @@
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
     "europe/iceland",
+    "europe/ireland-and-northern-ireland",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
@@ -90,6 +93,7 @@
     "europe/netherlands/friesland",
     "europe/netherlands/limburg",
     "europe/netherlands/overijssel",
+    "europe/netherlands/zeeland",
     "europe/norway/nord-norge",
     "europe/norway/sorlandet",
     "europe/norway/trondelag",
@@ -104,6 +108,7 @@
     "europe/poland/zachodniopomorskie",
     "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
+    "europe/spain/extremadura",
     "europe/spain/islas-baleares",
     "europe/spain/la-rioja",
     "europe/spain/madrid",
@@ -164,26 +169,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/extremadura",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/extremadura-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/zeeland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/zeeland-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/chubu",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/chubu-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/moravskoslezky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/moravskoslezky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/ireland-and-northern-ireland",
-      "pbf_url": "https://download.geofabrik.de/europe/ireland-and-northern-ireland-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/norfolk",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/norfolk-latest.osm.pbf"
