@@ -16,7 +16,9 @@
     "antarctica",
     "asia/china/gansu",
     "asia/china/hebei",
+    "asia/china/jiangsu",
     "asia/china/shaanxi",
+    "asia/china/zhejiang",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
     "asia/india/western-zone",
@@ -67,6 +69,7 @@
     "europe/norway/sorlandet",
     "europe/norway/trondelag",
     "europe/poland/podkarpackie",
+    "europe/poland/podlaskie",
     "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
     "europe/spain/castilla-la-mancha",
@@ -83,6 +86,7 @@
     "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/north-yorkshire",
+    "europe/united-kingdom/england/northumberland",
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
@@ -100,6 +104,7 @@
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
+    "north-america/us/florida",
     "north-america/us/mississippi",
     "north-america/us/texas",
     "russia/central-fed-district",
@@ -114,26 +119,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/zhejiang",
-      "pbf_url": "https://download.geofabrik.de/asia/china/zhejiang-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/podlaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/podlaskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/northumberland",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/northumberland-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/florida",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/florida-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/jiangsu",
-      "pbf_url": "https://download.geofabrik.de/asia/china/jiangsu-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/lubuskie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/lubuskie-latest.osm.pbf"
