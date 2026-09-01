@@ -122,6 +122,7 @@
     "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
     "europe/poland/zachodniopomorskie",
+    "europe/portugal",
     "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
     "europe/spain/extremadura",
@@ -181,39 +182,23 @@
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/texas",
+    "north-america/us/virginia",
     "north-america/us/wisconsin",
     "russia/central-fed-district",
     "russia/crimean-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
+    "russia/ural-fed-district",
     "russia/volga-fed-district",
+    "south-america/argentina",
     "south-america/bolivia",
     "south-america/brazil/nordeste",
     "south-america/brazil/norte",
     "south-america/brazil/sudeste",
+    "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "russia/ural-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/ural-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/portugal",
-      "pbf_url": "https://download.geofabrik.de/europe/portugal-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/virginia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/virginia-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/uruguay",
-      "pbf_url": "https://download.geofabrik.de/south-america/uruguay-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/argentina",
-      "pbf_url": "https://download.geofabrik.de/south-america/argentina-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/british-columbia/island-admreg",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/island-admreg-latest.osm.pbf"
