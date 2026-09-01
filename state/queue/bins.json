@@ -104,6 +104,7 @@
     "europe/germany/thueringen",
     "europe/iceland",
     "europe/ireland-and-northern-ireland",
+    "europe/italy/centro",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
@@ -116,6 +117,7 @@
     "europe/netherlands/gelderland",
     "europe/netherlands/limburg",
     "europe/netherlands/noord-brabant",
+    "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
     "europe/netherlands/zeeland",
     "europe/norway/nord-norge",
@@ -134,6 +136,8 @@
     "europe/portugal",
     "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
+    "europe/spain/castilla-y-leon",
+    "europe/spain/cataluna",
     "europe/spain/extremadura",
     "europe/spain/islas-baleares",
     "europe/spain/la-rioja",
@@ -196,6 +200,7 @@
     "north-america/us/pennsylvania",
     "north-america/us/texas",
     "north-america/us/virginia",
+    "north-america/us/washington",
     "north-america/us/wisconsin",
     "russia/central-fed-district",
     "russia/crimean-fed-district",
@@ -214,26 +219,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/cataluna",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/cataluna-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/noord-holland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/noord-holland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/castilla-y-leon",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/castilla-y-leon-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/washington",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/washington-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/centro",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/centro-latest.osm.pbf"
-    },
     {
       "id": "europe/netherlands/flevoland",
       "pbf_url": "https://download.geofabrik.de/europe/netherlands/flevoland-latest.osm.pbf"
