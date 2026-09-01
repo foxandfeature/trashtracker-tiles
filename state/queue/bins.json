@@ -13,6 +13,7 @@
     "africa/nigeria",
     "africa/senegal-and-gambia",
     "africa/somalia",
+    "africa/south-africa",
     "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
@@ -57,10 +58,12 @@
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/plzensky",
+    "europe/czech-republic/praha",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
     "europe/denmark",
     "europe/finland",
+    "europe/france/alsace",
     "europe/france/mayotte",
     "europe/france/nord-pas-de-calais",
     "europe/france/provence-alpes-cote-d-azur",
@@ -134,6 +137,7 @@
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/newfoundland-and-labrador",
+    "north-america/canada/northwest-territories",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
@@ -145,6 +149,7 @@
     "north-america/us/california/socal",
     "north-america/us/florida",
     "north-america/us/mississippi",
+    "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/texas",
     "russia/central-fed-district",
@@ -159,26 +164,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/france/alsace",
-      "pbf_url": "https://download.geofabrik.de/europe/france/alsace-latest.osm.pbf"
-    },
-    {
-      "id": "africa/south-africa",
-      "pbf_url": "https://download.geofabrik.de/africa/south-africa-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/praha",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/praha-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/northwest-territories",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/northwest-territories-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-york",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-york-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/extremadura",
       "pbf_url": "https://download.geofabrik.de/europe/spain/extremadura-latest.osm.pbf"
