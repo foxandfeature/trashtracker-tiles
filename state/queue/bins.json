@@ -44,6 +44,7 @@
     "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/indonesia/kalimantan",
+    "asia/indonesia/maluku",
     "asia/indonesia/nusa-tenggara",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
@@ -53,6 +54,7 @@
     "asia/japan/chugoku",
     "asia/japan/kansai",
     "asia/japan/kanto",
+    "asia/japan/kyushu",
     "asia/kazakhstan",
     "asia/lebanon",
     "asia/maldives",
@@ -60,6 +62,7 @@
     "asia/nepal",
     "asia/pakistan",
     "asia/philippines",
+    "asia/sri-lanka",
     "asia/taiwan",
     "asia/thailand",
     "asia/vietnam",
@@ -98,6 +101,7 @@
     "europe/finland",
     "europe/france/alsace",
     "europe/france/aquitaine",
+    "europe/france/auvergne",
     "europe/france/basse-normandie",
     "europe/france/bourgogne",
     "europe/france/bretagne",
@@ -127,6 +131,7 @@
     "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
     "europe/greece",
+    "europe/hungary",
     "europe/iceland",
     "europe/ireland-and-northern-ireland",
     "europe/italy/centro",
@@ -259,26 +264,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/france/auvergne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/auvergne-latest.osm.pbf"
-    },
-    {
-      "id": "asia/sri-lanka",
-      "pbf_url": "https://download.geofabrik.de/asia/sri-lanka-latest.osm.pbf"
-    },
-    {
-      "id": "europe/hungary",
-      "pbf_url": "https://download.geofabrik.de/europe/hungary-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/kyushu",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kyushu-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/maluku",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/maluku-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/murcia",
       "pbf_url": "https://download.geofabrik.de/europe/spain/murcia-latest.osm.pbf"
