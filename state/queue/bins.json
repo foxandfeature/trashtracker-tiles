@@ -10,12 +10,14 @@
     "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
+    "antarctica",
     "asia/china/gansu",
     "asia/china/hebei",
     "asia/china/shaanxi",
     "asia/india/central-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
+    "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/israel-and-palestine",
     "asia/japan/chugoku",
@@ -32,6 +34,7 @@
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
     "europe/france/mayotte",
+    "europe/france/nord-pas-de-calais",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
@@ -43,9 +46,11 @@
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
     "europe/italy/sud",
+    "europe/kosovo",
     "europe/netherlands/drenthe",
     "europe/norway/nord-norge",
     "europe/norway/trondelag",
+    "europe/poland/podkarpackie",
     "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
     "europe/spain/castilla-la-mancha",
@@ -79,26 +84,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/kosovo",
-      "pbf_url": "https://download.geofabrik.de/europe/kosovo-latest.osm.pbf"
-    },
-    {
-      "id": "antarctica",
-      "pbf_url": "https://download.geofabrik.de/antarctica-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/podkarpackie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/podkarpackie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/nord-pas-de-calais",
-      "pbf_url": "https://download.geofabrik.de/europe/france/nord-pas-de-calais-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/sulawesi",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/sulawesi-latest.osm.pbf"
-    },
     {
       "id": "asia/india/north-eastern-zone",
       "pbf_url": "https://download.geofabrik.de/asia/india/north-eastern-zone-latest.osm.pbf"
