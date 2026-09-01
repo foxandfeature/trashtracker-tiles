@@ -46,12 +46,14 @@
     "asia/pakistan",
     "asia/philippines",
     "australia-oceania/australia/act",
+    "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/south-australia",
     "australia-oceania/micronesia",
     "australia-oceania/nauru",
     "australia-oceania/new-zealand",
     "australia-oceania/tokelau",
+    "australia-oceania/tuvalu",
     "central-america/honduras",
     "central-america/jamaica",
     "central-america/nicaragua",
@@ -86,12 +88,14 @@
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
+    "europe/germany/thueringen",
     "europe/iceland",
     "europe/ireland-and-northern-ireland",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/kosovo",
+    "europe/liechtenstein",
     "europe/moldova",
     "europe/monaco",
     "europe/netherlands/drenthe",
@@ -161,6 +165,7 @@
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
     "north-america/us/delaware",
+    "north-america/us/district-of-columbia",
     "north-america/us/florida",
     "north-america/us/mississippi",
     "north-america/us/new-york",
@@ -179,26 +184,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/liechtenstein",
-      "pbf_url": "https://download.geofabrik.de/europe/liechtenstein-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/district-of-columbia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/district-of-columbia-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/christmas-island",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/christmas-island-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/thueringen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/thueringen-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/tuvalu",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/tuvalu-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/rutland",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/rutland-latest.osm.pbf"
