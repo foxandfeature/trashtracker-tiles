@@ -35,6 +35,7 @@
     "asia/china/hebei",
     "asia/china/heilongjiang",
     "asia/china/hubei",
+    "asia/china/hunan",
     "asia/china/inner-mongolia",
     "asia/china/jiangsu",
     "asia/china/jilin",
@@ -84,6 +85,7 @@
     "australia-oceania/australia/christmas-island",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/south-australia",
+    "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
     "australia-oceania/micronesia",
     "australia-oceania/nauru",
@@ -167,6 +169,7 @@
     "europe/lithuania",
     "europe/moldova",
     "europe/monaco",
+    "europe/montenegro",
     "europe/netherlands/drenthe",
     "europe/netherlands/flevoland",
     "europe/netherlands/friesland",
@@ -175,6 +178,7 @@
     "europe/netherlands/noord-brabant",
     "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
+    "europe/netherlands/utrecht",
     "europe/netherlands/zeeland",
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
@@ -277,6 +281,7 @@
     "north-america/us/mississippi",
     "north-america/us/nebraska",
     "north-america/us/new-jersey",
+    "north-america/us/new-mexico",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/ohio",
@@ -309,26 +314,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/netherlands/utrecht",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/utrecht-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hunan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hunan-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/tasmania",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/tasmania-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-mexico",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-mexico-latest.osm.pbf"
-    },
-    {
-      "id": "europe/montenegro",
-      "pbf_url": "https://download.geofabrik.de/europe/montenegro-latest.osm.pbf"
-    },
     {
       "id": "asia/china/beijing",
       "pbf_url": "https://download.geofabrik.de/asia/china/beijing-latest.osm.pbf"
