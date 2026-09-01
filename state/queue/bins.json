@@ -47,6 +47,7 @@
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/south-australia",
     "australia-oceania/micronesia",
+    "australia-oceania/new-zealand",
     "australia-oceania/tokelau",
     "central-america/honduras",
     "central-america/jamaica",
@@ -59,6 +60,7 @@
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/moravskoslezky",
+    "europe/czech-republic/pardubicky",
     "europe/czech-republic/plzensky",
     "europe/czech-republic/praha",
     "europe/czech-republic/stredocesky",
@@ -91,6 +93,7 @@
     "europe/monaco",
     "europe/netherlands/drenthe",
     "europe/netherlands/friesland",
+    "europe/netherlands/gelderland",
     "europe/netherlands/limburg",
     "europe/netherlands/overijssel",
     "europe/netherlands/zeeland",
@@ -129,6 +132,7 @@
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/lancashire",
     "europe/united-kingdom/england/lincolnshire",
+    "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/northumberland",
     "europe/united-kingdom/england/nottinghamshire",
@@ -152,6 +156,7 @@
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
+    "north-america/us/delaware",
     "north-america/us/florida",
     "north-america/us/mississippi",
     "north-america/us/new-york",
@@ -169,26 +174,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/norfolk",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/norfolk-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/gelderland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/gelderland-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/new-zealand",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/new-zealand-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/pardubicky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/pardubicky-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/delaware",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/delaware-latest.osm.pbf"
-    },
     {
       "id": "europe/norway/ostlandet",
       "pbf_url": "https://download.geofabrik.de/europe/norway/ostlandet-latest.osm.pbf"
