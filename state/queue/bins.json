@@ -56,10 +56,13 @@
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
     "europe/iceland",
+    "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/kosovo",
     "europe/netherlands/drenthe",
+    "europe/netherlands/friesland",
+    "europe/netherlands/overijssel",
     "europe/norway/nord-norge",
     "europe/norway/sorlandet",
     "europe/norway/trondelag",
@@ -79,6 +82,7 @@
     "europe/united-kingdom/england/hertfordshire",
     "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/kent",
+    "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
@@ -92,6 +96,7 @@
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
     "north-america/canada/quebec",
+    "north-america/mexico",
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
@@ -109,26 +114,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/italy/nord-est",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/nord-est-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/mexico",
-      "pbf_url": "https://download.geofabrik.de/north-america/mexico-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/north-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/north-yorkshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/friesland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/friesland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/overijssel",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/overijssel-latest.osm.pbf"
-    },
     {
       "id": "asia/china/zhejiang",
       "pbf_url": "https://download.geofabrik.de/asia/china/zhejiang-latest.osm.pbf"
