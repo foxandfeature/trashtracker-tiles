@@ -14,6 +14,7 @@
     "africa/mali",
     "africa/niger",
     "africa/nigeria",
+    "africa/saint-helena-ascension-and-tristan-da-cunha",
     "africa/senegal-and-gambia",
     "africa/somalia",
     "africa/south-africa",
@@ -33,6 +34,7 @@
     "asia/china/shaanxi",
     "asia/china/yunnan",
     "asia/china/zhejiang",
+    "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
     "asia/india/southern-zone",
@@ -42,6 +44,7 @@
     "asia/indonesia/nusa-tenggara",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
+    "asia/iran",
     "asia/israel-and-palestine",
     "asia/japan/chubu",
     "asia/japan/chugoku",
@@ -88,6 +91,7 @@
     "europe/denmark",
     "europe/finland",
     "europe/france/alsace",
+    "europe/france/bretagne",
     "europe/france/centre",
     "europe/france/limousin",
     "europe/france/mayotte",
@@ -144,6 +148,7 @@
     "europe/poland/warminsko-mazurskie",
     "europe/poland/zachodniopomorskie",
     "europe/portugal",
+    "europe/slovakia",
     "europe/slovenia",
     "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
@@ -234,26 +239,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/saint-helena-ascension-and-tristan-da-cunha",
-      "pbf_url": "https://download.geofabrik.de/africa/saint-helena-ascension-and-tristan-da-cunha-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/bretagne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/bretagne-latest.osm.pbf"
-    },
-    {
-      "id": "asia/iran",
-      "pbf_url": "https://download.geofabrik.de/asia/iran-latest.osm.pbf"
-    },
-    {
-      "id": "europe/slovakia",
-      "pbf_url": "https://download.geofabrik.de/europe/slovakia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/gcc-states",
-      "pbf_url": "https://download.geofabrik.de/asia/gcc-states-latest.osm.pbf"
-    },
     {
       "id": "europe/france/languedoc-roussillon",
       "pbf_url": "https://download.geofabrik.de/europe/france/languedoc-roussillon-latest.osm.pbf"
