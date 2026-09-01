@@ -35,6 +35,7 @@
     "africa/zambia",
     "africa/zimbabwe",
     "antarctica",
+    "asia/azerbaijan",
     "asia/bangladesh",
     "asia/china/beijing",
     "asia/china/chongqing",
@@ -170,6 +171,7 @@
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
     "europe/germany/bayern/oberpfalz",
+    "europe/germany/bayern/schwaben",
     "europe/germany/bayern/unterfranken",
     "europe/germany/brandenburg",
     "europe/germany/hessen",
@@ -256,6 +258,7 @@
     "europe/united-kingdom/england/bedfordshire",
     "europe/united-kingdom/england/berkshire",
     "europe/united-kingdom/england/bristol",
+    "europe/united-kingdom/england/buckinghamshire",
     "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/derbyshire",
@@ -301,6 +304,7 @@
     "north-america/canada/ontario",
     "north-america/canada/prince-edward-island",
     "north-america/canada/quebec",
+    "north-america/canada/saskatchewan",
     "north-america/greenland",
     "north-america/mexico",
     "north-america/us/alabama",
@@ -360,30 +364,11 @@
     "south-america/colombia",
     "south-america/paraguay",
     "south-america/peru",
+    "south-america/suriname",
     "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/bayern/schwaben",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/schwaben-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/saskatchewan",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/saskatchewan-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/suriname",
-      "pbf_url": "https://download.geofabrik.de/south-america/suriname-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/buckinghamshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/buckinghamshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/azerbaijan",
-      "pbf_url": "https://download.geofabrik.de/asia/azerbaijan-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/bremen",
       "pbf_url": "https://download.geofabrik.de/europe/germany/bremen-latest.osm.pbf"
