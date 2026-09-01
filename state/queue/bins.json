@@ -20,6 +20,7 @@
     "antarctica",
     "asia/china/gansu",
     "asia/china/hebei",
+    "asia/china/heilongjiang",
     "asia/china/jiangsu",
     "asia/china/shaanxi",
     "asia/china/yunnan",
@@ -39,6 +40,7 @@
     "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/kazakhstan",
+    "asia/lebanon",
     "asia/mongolia",
     "asia/nepal",
     "asia/pakistan",
@@ -47,6 +49,7 @@
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/south-australia",
     "australia-oceania/micronesia",
+    "australia-oceania/nauru",
     "australia-oceania/new-zealand",
     "australia-oceania/tokelau",
     "central-america/honduras",
@@ -98,6 +101,7 @@
     "europe/netherlands/overijssel",
     "europe/netherlands/zeeland",
     "europe/norway/nord-norge",
+    "europe/norway/ostlandet",
     "europe/norway/sorlandet",
     "europe/norway/trondelag",
     "europe/poland/lodzkie",
@@ -162,6 +166,7 @@
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/texas",
+    "north-america/us/wisconsin",
     "russia/central-fed-district",
     "russia/crimean-fed-district",
     "russia/northwestern-fed-district",
@@ -174,26 +179,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/norway/ostlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/ostlandet-latest.osm.pbf"
-    },
-    {
-      "id": "asia/lebanon",
-      "pbf_url": "https://download.geofabrik.de/asia/lebanon-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/nauru",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/nauru-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/wisconsin",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/wisconsin-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/heilongjiang",
-      "pbf_url": "https://download.geofabrik.de/asia/china/heilongjiang-latest.osm.pbf"
-    },
     {
       "id": "europe/liechtenstein",
       "pbf_url": "https://download.geofabrik.de/europe/liechtenstein-latest.osm.pbf"
