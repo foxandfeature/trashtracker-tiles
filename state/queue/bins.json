@@ -2,8 +2,10 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/guinea",
     "africa/ivory-coast",
     "africa/south-sudan",
+    "africa/sudan",
     "africa/tanzania",
     "asia/china/hebei",
     "asia/india/central-zone",
@@ -17,12 +19,15 @@
     "australia-oceania/australia/act",
     "australia-oceania/australia/new-south-wales",
     "central-america/jamaica",
+    "europe/bosnia-herzegovina",
     "europe/cyprus",
     "europe/czech-republic/stredocesky",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/bayern/oberfranken",
+    "europe/germany/bayern/oberpfalz",
+    "europe/germany/bayern/unterfranken",
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
@@ -49,26 +54,6 @@
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "africa/guinea",
-      "pbf_url": "https://download.geofabrik.de/africa/guinea-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/unterfranken",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/unterfranken-latest.osm.pbf"
-    },
-    {
-      "id": "africa/sudan",
-      "pbf_url": "https://download.geofabrik.de/africa/sudan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/oberpfalz",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberpfalz-latest.osm.pbf"
-    },
-    {
-      "id": "europe/bosnia-herzegovina",
-      "pbf_url": "https://download.geofabrik.de/europe/bosnia-herzegovina-latest.osm.pbf"
-    },
     {
       "id": "europe/austria",
       "pbf_url": "https://download.geofabrik.de/europe/austria-latest.osm.pbf"
