@@ -7,6 +7,7 @@
     "africa/guinea",
     "africa/guinea-bissau",
     "africa/ivory-coast",
+    "africa/nigeria",
     "africa/senegal-and-gambia",
     "africa/somalia",
     "africa/south-sudan",
@@ -54,10 +55,13 @@
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
+    "europe/iceland",
+    "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/kosovo",
     "europe/netherlands/drenthe",
     "europe/norway/nord-norge",
+    "europe/norway/sorlandet",
     "europe/norway/trondelag",
     "europe/poland/podkarpackie",
     "europe/poland/slaskie",
@@ -66,6 +70,7 @@
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
+    "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/derbyshire",
@@ -104,26 +109,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/nigeria",
-      "pbf_url": "https://download.geofabrik.de/africa/nigeria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/nord-ovest",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/nord-ovest-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/sorlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/sorlandet-latest.osm.pbf"
-    },
-    {
-      "id": "europe/turkey",
-      "pbf_url": "https://download.geofabrik.de/europe/turkey-latest.osm.pbf"
-    },
-    {
-      "id": "europe/iceland",
-      "pbf_url": "https://download.geofabrik.de/europe/iceland-latest.osm.pbf"
-    },
     {
       "id": "europe/italy/nord-est",
       "pbf_url": "https://download.geofabrik.de/europe/italy/nord-est-latest.osm.pbf"
