@@ -7,15 +7,20 @@
     "asia/india/western-zone",
     "asia/indonesia/sumatra",
     "asia/japan/chugoku",
+    "australia-oceania/australia/act",
     "australia-oceania/australia/new-south-wales",
+    "europe/cyprus",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/bayern/oberfranken",
+    "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
+    "europe/germany/nordrhein-westfalen/muenster-regbez",
     "europe/italy/sud",
     "europe/norway/nord-norge",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/quebec",
@@ -24,26 +29,6 @@
     "south-america/brazil/nordeste"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/newfoundland-and-labrador",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/newfoundland-and-labrador-latest.osm.pbf"
-    },
-    {
-      "id": "europe/cyprus",
-      "pbf_url": "https://download.geofabrik.de/europe/cyprus-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/muenster-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/muenster-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/act",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/act-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/duesseldorf-regbez-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/east-yorkshire-with-hull",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/east-yorkshire-with-hull-latest.osm.pbf"
