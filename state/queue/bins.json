@@ -6,39 +6,24 @@
     "asia/india/central-zone",
     "asia/india/western-zone",
     "asia/indonesia/sumatra",
+    "asia/japan/chugoku",
     "australia-oceania/australia/new-south-wales",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/germany/bayern/oberfranken",
     "europe/italy/sud",
+    "europe/norway/nord-norge",
     "europe/united-kingdom/scotland",
+    "europe/united-kingdom/wales",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/quebec",
     "north-america/us/california/norcal",
-    "russia/siberian-fed-district"
+    "russia/siberian-fed-district",
+    "south-america/brazil/nordeste"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/wales",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/wales-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/oberfranken",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberfranken-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/nordeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/nordeste-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/nord-norge",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/nord-norge-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/chugoku",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/chugoku-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/newfoundland-and-labrador",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/newfoundland-and-labrador-latest.osm.pbf"
