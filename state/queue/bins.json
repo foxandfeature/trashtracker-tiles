@@ -21,6 +21,7 @@
     "africa/mali",
     "africa/morocco",
     "africa/mozambique",
+    "africa/namibia",
     "africa/niger",
     "africa/nigeria",
     "africa/rwanda",
@@ -59,6 +60,7 @@
     "asia/china/shanxi",
     "asia/china/yunnan",
     "asia/china/zhejiang",
+    "asia/east-timor",
     "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
@@ -109,6 +111,7 @@
     "australia-oceania/nauru",
     "australia-oceania/new-zealand",
     "australia-oceania/pitcairn-islands",
+    "australia-oceania/samoa",
     "australia-oceania/tokelau",
     "australia-oceania/tuvalu",
     "central-america/belize",
@@ -199,6 +202,7 @@
     "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/kosovo",
+    "europe/latvia",
     "europe/liechtenstein",
     "europe/lithuania",
     "europe/moldova",
@@ -266,6 +270,7 @@
     "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/gloucestershire",
+    "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/england/greater-manchester",
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/hertfordshire",
@@ -374,26 +379,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/greater-london",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/greater-london-latest.osm.pbf"
-    },
-    {
-      "id": "africa/namibia",
-      "pbf_url": "https://download.geofabrik.de/africa/namibia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/east-timor",
-      "pbf_url": "https://download.geofabrik.de/asia/east-timor-latest.osm.pbf"
-    },
-    {
-      "id": "europe/latvia",
-      "pbf_url": "https://download.geofabrik.de/europe/latvia-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/samoa",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/samoa-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/british-columbia/southcoast-admreg",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/southcoast-admreg-latest.osm.pbf"
