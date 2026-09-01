@@ -42,10 +42,13 @@
     "central-america/honduras",
     "central-america/jamaica",
     "central-america/nicaragua",
+    "europe/andorra",
     "europe/austria",
     "europe/belgium",
     "europe/bosnia-herzegovina",
     "europe/cyprus",
+    "europe/czech-republic/jihomoravsky",
+    "europe/czech-republic/plzensky",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
     "europe/denmark",
@@ -89,6 +92,7 @@
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
+    "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/england/cornwall",
@@ -98,6 +102,7 @@
     "europe/united-kingdom/england/hertfordshire",
     "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/kent",
+    "europe/united-kingdom/england/lancashire",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/northumberland",
     "europe/united-kingdom/england/warwickshire",
@@ -134,26 +139,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/andorra",
-      "pbf_url": "https://download.geofabrik.de/europe/andorra-latest.osm.pbf"
-    },
-    {
-      "id": "europe/switzerland",
-      "pbf_url": "https://download.geofabrik.de/europe/switzerland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/lancashire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/lancashire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/plzensky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/plzensky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/jihomoravsky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/jihomoravsky-latest.osm.pbf"
-    },
     {
       "id": "europe/monaco",
       "pbf_url": "https://download.geofabrik.de/europe/monaco-latest.osm.pbf"
