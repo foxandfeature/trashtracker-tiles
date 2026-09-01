@@ -15,6 +15,7 @@
     "asia/china/hebei",
     "asia/china/shaanxi",
     "asia/india/central-zone",
+    "asia/india/north-eastern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/indonesia/sulawesi",
@@ -23,6 +24,7 @@
     "asia/japan/chugoku",
     "asia/japan/kansai",
     "asia/mongolia",
+    "asia/pakistan",
     "australia-oceania/australia/act",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/south-australia",
@@ -58,7 +60,9 @@
     "europe/sweden",
     "europe/ukraine",
     "europe/united-kingdom/england/cornwall",
+    "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
+    "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/hertfordshire",
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
@@ -76,6 +80,7 @@
     "north-america/us/mississippi",
     "russia/central-fed-district",
     "russia/crimean-fed-district",
+    "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
     "south-america/brazil/nordeste",
@@ -84,26 +89,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/india/north-eastern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/north-eastern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "asia/pakistan",
-      "pbf_url": "https://download.geofabrik.de/asia/pakistan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/derbyshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/derbyshire-latest.osm.pbf"
-    },
-    {
-      "id": "russia/northwestern-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/northwestern-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/hampshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/hampshire-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/pais-vasco",
       "pbf_url": "https://download.geofabrik.de/europe/spain/pais-vasco-latest.osm.pbf"
