@@ -35,6 +35,7 @@
     "asia/israel-and-palestine",
     "asia/japan/chugoku",
     "asia/japan/kansai",
+    "asia/japan/kanto",
     "asia/kazakhstan",
     "asia/mongolia",
     "asia/nepal",
@@ -54,6 +55,7 @@
     "europe/bosnia-herzegovina",
     "europe/cyprus",
     "europe/czech-republic/jihomoravsky",
+    "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/plzensky",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
@@ -68,6 +70,7 @@
     "europe/germany/bayern/oberfranken",
     "europe/germany/bayern/oberpfalz",
     "europe/germany/bayern/unterfranken",
+    "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
     "europe/germany/nordrhein-westfalen/detmold-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
@@ -78,6 +81,7 @@
     "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/kosovo",
+    "europe/moldova",
     "europe/monaco",
     "europe/netherlands/drenthe",
     "europe/netherlands/friesland",
@@ -87,6 +91,7 @@
     "europe/norway/sorlandet",
     "europe/norway/trondelag",
     "europe/poland/lodzkie",
+    "europe/poland/lubelskie",
     "europe/poland/lubuskie",
     "europe/poland/podkarpackie",
     "europe/poland/podlaskie",
@@ -154,26 +159,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/moldova",
-      "pbf_url": "https://download.geofabrik.de/europe/moldova-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/kanto",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kanto-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/niedersachsen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/niedersachsen-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/kralovehradecky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/kralovehradecky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/lubelskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lubelskie-latest.osm.pbf"
-    },
     {
       "id": "europe/france/alsace",
       "pbf_url": "https://download.geofabrik.de/europe/france/alsace-latest.osm.pbf"
