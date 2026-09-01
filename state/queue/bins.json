@@ -2,13 +2,16 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/south-sudan",
     "africa/tanzania",
     "asia/india/central-zone",
     "asia/india/western-zone",
     "asia/indonesia/sumatra",
     "asia/japan/chugoku",
+    "asia/japan/kansai",
     "australia-oceania/australia/act",
     "australia-oceania/australia/new-south-wales",
+    "central-america/jamaica",
     "europe/cyprus",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
@@ -20,8 +23,10 @@
     "europe/germany/nordrhein-westfalen/muenster-regbez",
     "europe/italy/sud",
     "europe/norway/nord-norge",
+    "europe/norway/trondelag",
     "europe/spain/valencia",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
+    "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/british-columbia/north-admreg",
@@ -34,26 +39,6 @@
     "south-america/brazil/nordeste"
   ],
   "remaining": [
-    {
-      "id": "central-america/jamaica",
-      "pbf_url": "https://download.geofabrik.de/central-america/jamaica-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/warwickshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/warwickshire-latest.osm.pbf"
-    },
-    {
-      "id": "africa/south-sudan",
-      "pbf_url": "https://download.geofabrik.de/africa/south-sudan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/trondelag",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/trondelag-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/kansai",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kansai-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/arkansas",
       "pbf_url": "https://download.geofabrik.de/north-america/us/arkansas-latest.osm.pbf"
