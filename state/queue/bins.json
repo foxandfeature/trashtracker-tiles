@@ -35,6 +35,7 @@
     "africa/saint-helena-ascension-and-tristan-da-cunha",
     "africa/sao-tome-and-principe",
     "africa/senegal-and-gambia",
+    "africa/sierra-leone",
     "africa/somalia",
     "africa/south-africa",
     "africa/south-sudan",
@@ -56,10 +57,12 @@
     "asia/china/fujian",
     "asia/china/gansu",
     "asia/china/guangdong",
+    "asia/china/guangxi",
     "asia/china/guizhou",
     "asia/china/hainan",
     "asia/china/hebei",
     "asia/china/heilongjiang",
+    "asia/china/henan",
     "asia/china/hong-kong",
     "asia/china/hubei",
     "asia/china/hunan",
@@ -169,6 +172,7 @@
     "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/karlovarsky",
     "europe/czech-republic/kralovehradecky",
+    "europe/czech-republic/liberecky",
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/olomoucky",
     "europe/czech-republic/pardubicky",
@@ -248,6 +252,7 @@
     "europe/latvia",
     "europe/liechtenstein",
     "europe/lithuania",
+    "europe/luxembourg",
     "europe/malta",
     "europe/moldova",
     "europe/monaco",
@@ -454,26 +459,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/guangxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/guangxi-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/henan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/henan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/liberecky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/liberecky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/luxembourg",
-      "pbf_url": "https://download.geofabrik.de/europe/luxembourg-latest.osm.pbf"
-    },
-    {
-      "id": "africa/sierra-leone",
-      "pbf_url": "https://download.geofabrik.de/africa/sierra-leone-latest.osm.pbf"
-    },
     {
       "id": "asia/tajikistan",
       "pbf_url": "https://download.geofabrik.de/asia/tajikistan-latest.osm.pbf"
