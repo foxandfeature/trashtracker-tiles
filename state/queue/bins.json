@@ -7,6 +7,7 @@
     "africa/guinea",
     "africa/guinea-bissau",
     "africa/ivory-coast",
+    "africa/mali",
     "africa/nigeria",
     "africa/senegal-and-gambia",
     "africa/somalia",
@@ -22,6 +23,7 @@
     "asia/china/zhejiang",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
+    "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/indonesia/kalimantan",
@@ -36,6 +38,7 @@
     "australia-oceania/australia/act",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/south-australia",
+    "australia-oceania/micronesia",
     "central-america/honduras",
     "central-america/jamaica",
     "central-america/nicaragua",
@@ -79,6 +82,7 @@
     "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
     "europe/poland/zachodniopomorskie",
+    "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
     "europe/spain/islas-baleares",
     "europe/spain/melilla",
@@ -116,6 +120,7 @@
     "north-america/us/california/socal",
     "north-america/us/florida",
     "north-america/us/mississippi",
+    "north-america/us/north-carolina",
     "north-america/us/texas",
     "russia/central-fed-district",
     "russia/crimean-fed-district",
@@ -129,26 +134,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/north-carolina",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/north-carolina-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/southern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/southern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/aragon",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/aragon-latest.osm.pbf"
-    },
-    {
-      "id": "africa/mali",
-      "pbf_url": "https://download.geofabrik.de/africa/mali-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/micronesia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/micronesia-latest.osm.pbf"
-    },
     {
       "id": "europe/andorra",
       "pbf_url": "https://download.geofabrik.de/europe/andorra-latest.osm.pbf"
