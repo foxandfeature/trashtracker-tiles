@@ -10,7 +10,9 @@
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/egypt",
+    "africa/eritrea",
     "africa/ethiopia",
+    "africa/ghana",
     "africa/guinea",
     "africa/guinea-bissau",
     "africa/ivory-coast",
@@ -147,6 +149,7 @@
     "europe/czech-republic/ustecky",
     "europe/czech-republic/vysocina",
     "europe/denmark",
+    "europe/estonia",
     "europe/finland",
     "europe/france/alsace",
     "europe/france/aquitaine",
@@ -182,6 +185,7 @@
     "europe/germany/brandenburg",
     "europe/germany/bremen",
     "europe/germany/hessen",
+    "europe/germany/mecklenburg-vorpommern",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
     "europe/germany/nordrhein-westfalen/detmold-regbez",
@@ -362,6 +366,7 @@
     "russia/central-fed-district",
     "russia/crimean-fed-district",
     "russia/far-eastern-fed-district",
+    "russia/north-caucasus-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/south-fed-district",
@@ -384,26 +389,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/eritrea",
-      "pbf_url": "https://download.geofabrik.de/africa/eritrea-latest.osm.pbf"
-    },
-    {
-      "id": "europe/estonia",
-      "pbf_url": "https://download.geofabrik.de/europe/estonia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/mecklenburg-vorpommern",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/mecklenburg-vorpommern-latest.osm.pbf"
-    },
-    {
-      "id": "africa/ghana",
-      "pbf_url": "https://download.geofabrik.de/africa/ghana-latest.osm.pbf"
-    },
-    {
-      "id": "russia/north-caucasus-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/north-caucasus-fed-district-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/nevada",
       "pbf_url": "https://download.geofabrik.de/north-america/us/nevada-latest.osm.pbf"
