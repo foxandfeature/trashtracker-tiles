@@ -100,11 +100,13 @@
     "asia/sri-lanka",
     "asia/taiwan",
     "asia/thailand",
+    "asia/uzbekistan",
     "asia/vietnam",
     "asia/yemen",
     "australia-oceania/australia/act",
     "australia-oceania/australia/ashmore-cartier",
     "australia-oceania/australia/christmas-island",
+    "australia-oceania/australia/coral-sea-islands",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/south-australia",
@@ -182,6 +184,7 @@
     "europe/germany/bayern/oberpfalz",
     "europe/germany/bayern/schwaben",
     "europe/germany/bayern/unterfranken",
+    "europe/germany/berlin",
     "europe/germany/brandenburg",
     "europe/germany/bremen",
     "europe/germany/hessen",
@@ -275,6 +278,7 @@
     "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/derbyshire",
+    "europe/united-kingdom/england/dorset",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
@@ -348,6 +352,7 @@
     "north-america/us/mississippi",
     "north-america/us/missouri",
     "north-america/us/nebraska",
+    "north-america/us/nevada",
     "north-america/us/new-jersey",
     "north-america/us/new-mexico",
     "north-america/us/new-york",
@@ -389,26 +394,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/nevada",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/nevada-latest.osm.pbf"
-    },
-    {
-      "id": "asia/uzbekistan",
-      "pbf_url": "https://download.geofabrik.de/asia/uzbekistan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/berlin",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/berlin-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/coral-sea-islands",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/coral-sea-islands-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/dorset",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/dorset-latest.osm.pbf"
-    },
     {
       "id": "asia/north-korea",
       "pbf_url": "https://download.geofabrik.de/asia/north-korea-latest.osm.pbf"
