@@ -79,6 +79,7 @@
     "asia/china/jiangxi",
     "asia/china/jilin",
     "asia/china/liaoning",
+    "asia/china/macau",
     "asia/china/ningxia",
     "asia/china/qinghai",
     "asia/china/shaanxi",
@@ -86,6 +87,7 @@
     "asia/china/shanghai",
     "asia/china/shanxi",
     "asia/china/sichuan",
+    "asia/china/tianjin",
     "asia/china/tibet",
     "asia/china/xinjiang",
     "asia/china/yunnan",
@@ -214,6 +216,7 @@
     "europe/france/corse",
     "europe/france/franche-comte",
     "europe/france/guadeloupe",
+    "europe/france/guyane",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
@@ -423,6 +426,7 @@
     "north-america/us/district-of-columbia",
     "north-america/us/florida",
     "north-america/us/georgia",
+    "north-america/us/hawaii",
     "north-america/us/idaho",
     "north-america/us/illinois",
     "north-america/us/indiana",
@@ -482,6 +486,7 @@
     "south-america/chile",
     "south-america/colombia",
     "south-america/ecuador",
+    "south-america/guyana",
     "south-america/paraguay",
     "south-america/peru",
     "south-america/suriname",
@@ -489,26 +494,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/hawaii",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/hawaii-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/guyane",
-      "pbf_url": "https://download.geofabrik.de/europe/france/guyane-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/macau",
-      "pbf_url": "https://download.geofabrik.de/asia/china/macau-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/tianjin",
-      "pbf_url": "https://download.geofabrik.de/asia/china/tianjin-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/guyana",
-      "pbf_url": "https://download.geofabrik.de/south-america/guyana-latest.osm.pbf"
-    },
     {
       "id": "africa/cape-verde",
       "pbf_url": "https://download.geofabrik.de/africa/cape-verde-latest.osm.pbf"
