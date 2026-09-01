@@ -51,6 +51,7 @@
     "asia/india/central-zone",
     "asia/india/eastern-zone",
     "asia/india/north-eastern-zone",
+    "asia/india/northern-zone",
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
@@ -97,6 +98,7 @@
     "australia-oceania/pitcairn-islands",
     "australia-oceania/tokelau",
     "australia-oceania/tuvalu",
+    "central-america/belize",
     "central-america/honduras",
     "central-america/jamaica",
     "central-america/nicaragua",
@@ -141,6 +143,7 @@
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/baden-wuerttemberg/tuebingen-regbez",
     "europe/germany/bayern/oberbayern",
@@ -270,6 +273,7 @@
     "north-america/canada/ontario",
     "north-america/canada/prince-edward-island",
     "north-america/canada/quebec",
+    "north-america/greenland",
     "north-america/mexico",
     "north-america/us/alaska",
     "north-america/us/arizona",
@@ -284,6 +288,7 @@
     "north-america/us/georgia",
     "north-america/us/idaho",
     "north-america/us/illinois",
+    "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/minnesota",
@@ -324,26 +329,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/greenland",
-      "pbf_url": "https://download.geofabrik.de/north-america/greenland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/karlsruhe-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/northern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/northern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/belize",
-      "pbf_url": "https://download.geofabrik.de/central-america/belize-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/maryland",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/maryland-latest.osm.pbf"
-    },
     {
       "id": "asia/china/jiangxi",
       "pbf_url": "https://download.geofabrik.de/asia/china/jiangxi-latest.osm.pbf"
