@@ -11,6 +11,7 @@
     "africa/guinea-bissau",
     "africa/ivory-coast",
     "africa/kenya",
+    "africa/madagascar",
     "africa/mali",
     "africa/niger",
     "africa/nigeria",
@@ -91,8 +92,11 @@
     "europe/denmark",
     "europe/finland",
     "europe/france/alsace",
+    "europe/france/bourgogne",
     "europe/france/bretagne",
     "europe/france/centre",
+    "europe/france/corse",
+    "europe/france/languedoc-roussillon",
     "europe/france/limousin",
     "europe/france/mayotte",
     "europe/france/midi-pyrenees",
@@ -189,6 +193,7 @@
     "europe/united-kingdom/england/west-sussex",
     "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/england/wiltshire",
+    "europe/united-kingdom/england/worcestershire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/british-columbia/interior-admreg",
@@ -239,26 +244,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/france/languedoc-roussillon",
-      "pbf_url": "https://download.geofabrik.de/europe/france/languedoc-roussillon-latest.osm.pbf"
-    },
-    {
-      "id": "africa/madagascar",
-      "pbf_url": "https://download.geofabrik.de/africa/madagascar-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/corse",
-      "pbf_url": "https://download.geofabrik.de/europe/france/corse-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/worcestershire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/worcestershire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/bourgogne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/bourgogne-latest.osm.pbf"
-    },
     {
       "id": "asia/taiwan",
       "pbf_url": "https://download.geofabrik.de/asia/taiwan-latest.osm.pbf"
