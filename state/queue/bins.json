@@ -18,11 +18,13 @@
     "asia/china/hebei",
     "asia/china/jiangsu",
     "asia/china/shaanxi",
+    "asia/china/yunnan",
     "asia/china/zhejiang",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
+    "asia/indonesia/kalimantan",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/israel-and-palestine",
@@ -43,6 +45,7 @@
     "europe/cyprus",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
+    "europe/denmark",
     "europe/finland",
     "europe/france/mayotte",
     "europe/france/nord-pas-de-calais",
@@ -78,6 +81,7 @@
     "europe/poland/zachodniopomorskie",
     "europe/spain/castilla-la-mancha",
     "europe/spain/islas-baleares",
+    "europe/spain/melilla",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
@@ -95,6 +99,7 @@
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
+    "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/england/wiltshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -124,26 +129,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/yunnan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/yunnan-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/kalimantan",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/kalimantan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/melilla",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/melilla-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/west-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-yorkshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/denmark",
-      "pbf_url": "https://download.geofabrik.de/europe/denmark-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/north-carolina",
       "pbf_url": "https://download.geofabrik.de/north-america/us/north-carolina-latest.osm.pbf"
