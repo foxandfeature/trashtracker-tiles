@@ -36,9 +36,11 @@
     "europe/bosnia-herzegovina",
     "europe/cyprus",
     "europe/czech-republic/stredocesky",
+    "europe/denmark",
     "europe/finland",
     "europe/france/mayotte",
     "europe/france/nord-pas-de-calais",
+    "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/baden-wuerttemberg/tuebingen-regbez",
@@ -48,6 +50,7 @@
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
     "europe/germany/nordrhein-westfalen/detmold-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
+    "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
@@ -56,6 +59,7 @@
     "europe/norway/nord-norge",
     "europe/norway/trondelag",
     "europe/poland/lodzkie",
+    "europe/poland/podlaskie",
     "europe/poland/warminsko-mazurskie",
     "europe/spain/castilla-la-mancha",
     "europe/spain/valencia",
@@ -89,6 +93,7 @@
     "north-america/us/washington",
     "russia/central-fed-district",
     "russia/crimean-fed-district",
+    "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
@@ -99,26 +104,6 @@
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "russia/northwestern-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/northwestern-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/provence-alpes-cote-d-azur",
-      "pbf_url": "https://download.geofabrik.de/europe/france/provence-alpes-cote-d-azur-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/podlaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/podlaskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/denmark",
-      "pbf_url": "https://download.geofabrik.de/europe/denmark-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/koeln-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/koeln-regbez-latest.osm.pbf"
-    },
     {
       "id": "europe/iceland",
       "pbf_url": "https://download.geofabrik.de/europe/iceland-latest.osm.pbf"
