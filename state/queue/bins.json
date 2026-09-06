@@ -2,13 +2,17 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/ivory-coast",
     "africa/south-sudan",
+    "africa/sudan",
     "asia/china/hebei",
     "asia/india/central-zone",
     "asia/indonesia/sumatra",
     "asia/japan/chugoku",
+    "asia/mongolia",
     "asia/philippines",
     "australia-oceania/australia/act",
+    "central-america/jamaica",
     "europe/austria",
     "europe/cyprus",
     "europe/czech-republic/stredocesky",
@@ -34,31 +38,12 @@
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/florida",
+    "north-america/us/mississippi",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "central-america/jamaica",
-      "pbf_url": "https://download.geofabrik.de/central-america/jamaica-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/mississippi",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/mississippi-latest.osm.pbf"
-    },
-    {
-      "id": "africa/sudan",
-      "pbf_url": "https://download.geofabrik.de/africa/sudan-latest.osm.pbf"
-    },
-    {
-      "id": "africa/ivory-coast",
-      "pbf_url": "https://download.geofabrik.de/africa/ivory-coast-latest.osm.pbf"
-    },
-    {
-      "id": "asia/mongolia",
-      "pbf_url": "https://download.geofabrik.de/asia/mongolia-latest.osm.pbf"
-    },
     {
       "id": "africa/guinea",
       "pbf_url": "https://download.geofabrik.de/africa/guinea-latest.osm.pbf"
