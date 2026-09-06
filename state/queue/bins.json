@@ -25,6 +25,7 @@
     "asia/japan/chubu",
     "asia/japan/chugoku",
     "asia/japan/kanto",
+    "asia/japan/kyushu",
     "asia/mongolia",
     "asia/nepal",
     "asia/philippines",
@@ -52,6 +53,7 @@
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
+    "europe/iceland",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/kosovo",
@@ -59,6 +61,7 @@
     "europe/norway/nord-norge",
     "europe/norway/trondelag",
     "europe/poland/lodzkie",
+    "europe/poland/lubelskie",
     "europe/poland/podlaskie",
     "europe/poland/warminsko-mazurskie",
     "europe/spain/castilla-la-mancha",
@@ -87,7 +90,9 @@
     "north-america/us/colorado",
     "north-america/us/florida",
     "north-america/us/georgia",
+    "north-america/us/illinois",
     "north-america/us/mississippi",
+    "north-america/us/new-york",
     "north-america/us/ohio",
     "north-america/us/pennsylvania",
     "north-america/us/washington",
@@ -104,26 +109,6 @@
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "europe/iceland",
-      "pbf_url": "https://download.geofabrik.de/europe/iceland-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/illinois",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/illinois-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/kyushu",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kyushu-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/lubelskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lubelskie-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-york",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-york-latest.osm.pbf"
-    },
     {
       "id": "africa/somalia",
       "pbf_url": "https://download.geofabrik.de/africa/somalia-latest.osm.pbf"
