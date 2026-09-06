@@ -64,6 +64,7 @@
     "central-america/jamaica",
     "europe/albania",
     "europe/austria",
+    "europe/belarus",
     "europe/belgium",
     "europe/bosnia-herzegovina",
     "europe/cyprus",
@@ -76,6 +77,7 @@
     "europe/france/alsace",
     "europe/france/aquitaine",
     "europe/france/auvergne",
+    "europe/france/basse-normandie",
     "europe/france/bretagne",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
@@ -126,10 +128,12 @@
     "europe/poland/dolnoslaskie",
     "europe/poland/lodzkie",
     "europe/poland/lubelskie",
+    "europe/poland/lubuskie",
     "europe/poland/mazowieckie",
     "europe/poland/podlaskie",
     "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
+    "europe/poland/wielkopolskie",
     "europe/portugal",
     "europe/romania",
     "europe/serbia",
@@ -204,6 +208,7 @@
     "north-america/us/oklahoma",
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
+    "north-america/us/south-carolina",
     "north-america/us/tennessee",
     "north-america/us/texas",
     "north-america/us/utah",
@@ -229,26 +234,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/south-carolina",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/south-carolina-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/basse-normandie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/basse-normandie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/belarus",
-      "pbf_url": "https://download.geofabrik.de/europe/belarus-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/lubuskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lubuskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/wielkopolskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/wielkopolskie-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/lancashire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/lancashire-latest.osm.pbf"
