@@ -20,6 +20,7 @@
     "africa/ivory-coast",
     "africa/kenya",
     "africa/lesotho",
+    "africa/liberia",
     "africa/libya",
     "africa/madagascar",
     "africa/malawi",
@@ -164,6 +165,7 @@
     "europe/czech-republic/zlinsky",
     "europe/denmark",
     "europe/estonia",
+    "europe/faroe-islands",
     "europe/finland",
     "europe/france/alsace",
     "europe/france/aquitaine",
@@ -302,6 +304,7 @@
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/dorset",
     "europe/united-kingdom/england/durham",
+    "europe/united-kingdom/england/east-sussex",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/essex",
     "europe/united-kingdom/england/gloucestershire",
@@ -321,6 +324,7 @@
     "europe/united-kingdom/england/northamptonshire",
     "europe/united-kingdom/england/northumberland",
     "europe/united-kingdom/england/nottinghamshire",
+    "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/south-yorkshire",
     "europe/united-kingdom/england/staffordshire",
@@ -331,6 +335,7 @@
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
     "europe/united-kingdom/england/west-yorkshire",
+    "europe/united-kingdom/england/wiltshire",
     "europe/united-kingdom/england/worcestershire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -429,26 +434,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/faroe-islands",
-      "pbf_url": "https://download.geofabrik.de/europe/faroe-islands-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/wiltshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/wiltshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/east-sussex",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/east-sussex-latest.osm.pbf"
-    },
-    {
-      "id": "africa/liberia",
-      "pbf_url": "https://download.geofabrik.de/africa/liberia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/oxfordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/oxfordshire-latest.osm.pbf"
-    },
     {
       "id": "europe/malta",
       "pbf_url": "https://download.geofabrik.de/europe/malta-latest.osm.pbf"
