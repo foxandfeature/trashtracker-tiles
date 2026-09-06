@@ -141,6 +141,7 @@
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/georgia",
     "europe/germany/baden-wuerttemberg/freiburg-regbez",
     "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
@@ -176,6 +177,7 @@
     "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/kosovo",
+    "europe/latvia",
     "europe/lithuania",
     "europe/moldova",
     "europe/monaco",
@@ -238,6 +240,7 @@
     "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/derbyshire",
+    "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/dorset",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/greater-london",
@@ -255,6 +258,7 @@
     "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/south-yorkshire",
     "europe/united-kingdom/england/staffordshire",
+    "europe/united-kingdom/england/suffolk",
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
@@ -346,29 +350,10 @@
     "south-america/colombia",
     "south-america/ecuador",
     "south-america/paraguay",
-    "south-america/peru"
+    "south-america/peru",
+    "south-america/uruguay"
   ],
   "remaining": [
-    {
-      "id": "europe/georgia",
-      "pbf_url": "https://download.geofabrik.de/europe/georgia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/latvia",
-      "pbf_url": "https://download.geofabrik.de/europe/latvia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/suffolk",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/suffolk-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/uruguay",
-      "pbf_url": "https://download.geofabrik.de/south-america/uruguay-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/devon",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/devon-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/nevada",
       "pbf_url": "https://download.geofabrik.de/north-america/us/nevada-latest.osm.pbf"
