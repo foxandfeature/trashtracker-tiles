@@ -20,40 +20,25 @@
     "europe/germany/nordrhein-westfalen/muenster-regbez",
     "europe/italy/nord-ovest",
     "europe/norway/nord-norge",
+    "europe/norway/trondelag",
+    "europe/poland/warminsko-mazurskie",
     "europe/ukraine",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
+    "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/newfoundland-and-labrador",
+    "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/us/arkansas",
+    "north-america/us/california/norcal",
     "north-america/us/florida",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/warwickshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/warwickshire-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/california/norcal",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/california/norcal-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/ontario",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/ontario-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/warminsko-mazurskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/warminsko-mazurskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/trondelag",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/trondelag-latest.osm.pbf"
-    },
     {
       "id": "central-america/jamaica",
       "pbf_url": "https://download.geofabrik.de/central-america/jamaica-latest.osm.pbf"
