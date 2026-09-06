@@ -10,10 +10,12 @@
     "africa/ivory-coast",
     "africa/kenya",
     "africa/mali",
+    "africa/nigeria",
     "africa/somalia",
     "africa/south-africa",
     "africa/south-sudan",
     "africa/sudan",
+    "africa/tanzania",
     "antarctica",
     "asia/china/hebei",
     "asia/india/central-zone",
@@ -37,6 +39,7 @@
     "central-america/honduras",
     "central-america/jamaica",
     "europe/austria",
+    "europe/belgium",
     "europe/bosnia-herzegovina",
     "europe/cyprus",
     "europe/czech-republic/plzensky",
@@ -58,6 +61,7 @@
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
+    "europe/greece",
     "europe/iceland",
     "europe/ireland-and-northern-ireland",
     "europe/italy/nord-est",
@@ -65,6 +69,7 @@
     "europe/kosovo",
     "europe/netherlands/overijssel",
     "europe/norway/nord-norge",
+    "europe/norway/ostlandet",
     "europe/norway/trondelag",
     "europe/poland/lodzkie",
     "europe/poland/lubelskie",
@@ -119,26 +124,6 @@
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "europe/norway/ostlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/ostlandet-latest.osm.pbf"
-    },
-    {
-      "id": "africa/nigeria",
-      "pbf_url": "https://download.geofabrik.de/africa/nigeria-latest.osm.pbf"
-    },
-    {
-      "id": "africa/tanzania",
-      "pbf_url": "https://download.geofabrik.de/africa/tanzania-latest.osm.pbf"
-    },
-    {
-      "id": "europe/belgium",
-      "pbf_url": "https://download.geofabrik.de/europe/belgium-latest.osm.pbf"
-    },
-    {
-      "id": "europe/greece",
-      "pbf_url": "https://download.geofabrik.de/europe/greece-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/alberta",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/alberta-latest.osm.pbf"
