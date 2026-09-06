@@ -39,9 +39,11 @@
     "antarctica",
     "asia/azerbaijan",
     "asia/bangladesh",
+    "asia/china/anhui",
     "asia/china/chongqing",
     "asia/china/gansu",
     "asia/china/guangdong",
+    "asia/china/guangxi",
     "asia/china/guizhou",
     "asia/china/hebei",
     "asia/china/heilongjiang",
@@ -91,10 +93,12 @@
     "asia/sri-lanka",
     "asia/taiwan",
     "asia/thailand",
+    "asia/uzbekistan",
     "asia/vietnam",
     "asia/yemen",
     "australia-oceania/australia/act",
     "australia-oceania/australia/ashmore-cartier",
+    "australia-oceania/australia/coral-sea-islands",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/south-australia",
@@ -260,6 +264,7 @@
     "europe/united-kingdom/england/durham",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/greater-london",
+    "europe/united-kingdom/england/greater-manchester",
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/hertfordshire",
     "europe/united-kingdom/england/kent",
@@ -374,26 +379,6 @@
     "south-america/uruguay"
   ],
   "remaining": [
-    {
-      "id": "asia/china/guangxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/guangxi-latest.osm.pbf"
-    },
-    {
-      "id": "asia/uzbekistan",
-      "pbf_url": "https://download.geofabrik.de/asia/uzbekistan-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/anhui",
-      "pbf_url": "https://download.geofabrik.de/asia/china/anhui-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/coral-sea-islands",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/coral-sea-islands-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/greater-manchester",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/greater-manchester-latest.osm.pbf"
-    },
     {
       "id": "europe/czech-republic/kralovehradecky",
       "pbf_url": "https://download.geofabrik.de/europe/czech-republic/kralovehradecky-latest.osm.pbf"
