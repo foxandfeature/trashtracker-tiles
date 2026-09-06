@@ -20,6 +20,7 @@
     "antarctica",
     "asia/china/hebei",
     "asia/india/central-zone",
+    "asia/india/eastern-zone",
     "asia/india/north-eastern-zone",
     "asia/india/southern-zone",
     "asia/indonesia/java",
@@ -52,6 +53,7 @@
     "europe/czech-republic/ustecky",
     "europe/denmark",
     "europe/finland",
+    "europe/france/alsace",
     "europe/france/aquitaine",
     "europe/france/languedoc-roussillon",
     "europe/france/mayotte",
@@ -114,6 +116,7 @@
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/manitoba",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/northwest-territories",
     "north-america/canada/nunavut/kitikmeot",
@@ -122,6 +125,7 @@
     "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/mexico",
+    "north-america/us/arizona",
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
@@ -130,6 +134,7 @@
     "north-america/us/florida",
     "north-america/us/georgia",
     "north-america/us/illinois",
+    "north-america/us/maryland",
     "north-america/us/michigan",
     "north-america/us/mississippi",
     "north-america/us/new-york",
@@ -154,26 +159,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/manitoba",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/manitoba-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/alsace",
-      "pbf_url": "https://download.geofabrik.de/europe/france/alsace-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/arizona",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/arizona-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/maryland",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/maryland-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/eastern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/eastern-zone-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/virginia",
       "pbf_url": "https://download.geofabrik.de/north-america/us/virginia-latest.osm.pbf"
