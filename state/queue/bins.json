@@ -65,6 +65,7 @@
     "asia/china/liaoning",
     "asia/china/qinghai",
     "asia/china/shaanxi",
+    "asia/china/shandong",
     "asia/china/shanxi",
     "asia/china/sichuan",
     "asia/china/tibet",
@@ -97,6 +98,7 @@
     "asia/japan/tohoku",
     "asia/kazakhstan",
     "asia/kyrgyzstan",
+    "asia/laos",
     "asia/lebanon",
     "asia/malaysia-singapore-brunei",
     "asia/mongolia",
@@ -181,6 +183,7 @@
     "europe/france/picardie",
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
+    "europe/france/reunion",
     "europe/france/rhone-alpes",
     "europe/georgia",
     "europe/germany/baden-wuerttemberg/freiburg-regbez",
@@ -296,6 +299,7 @@
     "europe/united-kingdom/england/durham",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/essex",
+    "europe/united-kingdom/england/gloucestershire",
     "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/england/greater-manchester",
     "europe/united-kingdom/england/hampshire",
@@ -330,6 +334,7 @@
     "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/kootenay-admreg",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/british-columbia/okanagan-admreg",
     "north-america/canada/british-columbia/southcoast-admreg",
     "north-america/canada/manitoba",
     "north-america/canada/new-brunswick",
@@ -419,26 +424,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/laos",
-      "pbf_url": "https://download.geofabrik.de/asia/laos-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/reunion",
-      "pbf_url": "https://download.geofabrik.de/europe/france/reunion-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/okanagan-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/okanagan-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/shandong",
-      "pbf_url": "https://download.geofabrik.de/asia/china/shandong-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/gloucestershire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/gloucestershire-latest.osm.pbf"
-    },
     {
       "id": "africa/mauritania",
       "pbf_url": "https://download.geofabrik.de/africa/mauritania-latest.osm.pbf"
