@@ -4,31 +4,16 @@
   "lock": [
     "asia/india/central-zone",
     "asia/indonesia/sumatra",
+    "asia/japan/chugoku",
+    "europe/france/rhone-alpes",
+    "europe/norway/nord-norge",
+    "europe/ukraine",
     "europe/united-kingdom/scotland",
     "north-america/canada/quebec",
-    "russia/siberian-fed-district"
+    "russia/siberian-fed-district",
+    "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "europe/france/rhone-alpes",
-      "pbf_url": "https://download.geofabrik.de/europe/france/rhone-alpes-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/nord-norge",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/nord-norge-latest.osm.pbf"
-    },
-    {
-      "id": "europe/ukraine",
-      "pbf_url": "https://download.geofabrik.de/europe/ukraine-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/sudeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/sudeste-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/chugoku",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/chugoku-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/nordrhein-westfalen/muenster-regbez",
       "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/muenster-regbez-latest.osm.pbf"
