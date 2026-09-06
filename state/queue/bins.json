@@ -36,6 +36,7 @@
     "asia/china/hong-kong",
     "asia/china/jiangxi",
     "asia/china/jilin",
+    "asia/china/qinghai",
     "asia/china/shaanxi",
     "asia/china/shanxi",
     "asia/china/sichuan",
@@ -75,6 +76,7 @@
     "asia/yemen",
     "australia-oceania/australia/act",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/australia/queensland",
     "australia-oceania/australia/south-australia",
     "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
@@ -89,9 +91,11 @@
     "europe/belgium",
     "europe/bosnia-herzegovina",
     "europe/bulgaria",
+    "europe/croatia",
     "europe/cyprus",
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/plzensky",
+    "europe/czech-republic/praha",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/vysocina",
@@ -291,29 +295,10 @@
     "south-america/brazil/sul",
     "south-america/chile",
     "south-america/colombia",
+    "south-america/paraguay",
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/australia/queensland",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/queensland-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/paraguay",
-      "pbf_url": "https://download.geofabrik.de/south-america/paraguay-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/praha",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/praha-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/qinghai",
-      "pbf_url": "https://download.geofabrik.de/asia/china/qinghai-latest.osm.pbf"
-    },
-    {
-      "id": "europe/croatia",
-      "pbf_url": "https://download.geofabrik.de/europe/croatia-latest.osm.pbf"
-    },
     {
       "id": "asia/china/heilongjiang",
       "pbf_url": "https://download.geofabrik.de/asia/china/heilongjiang-latest.osm.pbf"
