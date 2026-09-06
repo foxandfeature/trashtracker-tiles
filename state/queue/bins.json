@@ -3,10 +3,13 @@
   "failed": [],
   "lock": [
     "africa/south-sudan",
+    "asia/china/hebei",
     "asia/india/central-zone",
     "asia/indonesia/sumatra",
     "asia/japan/chugoku",
+    "asia/philippines",
     "australia-oceania/australia/act",
+    "europe/austria",
     "europe/cyprus",
     "europe/czech-republic/stredocesky",
     "europe/france/rhone-alpes",
@@ -24,31 +27,13 @@
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/quebec",
+    "north-america/us/arkansas",
+    "north-america/us/florida",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "asia/philippines",
-      "pbf_url": "https://download.geofabrik.de/asia/philippines-latest.osm.pbf"
-    },
-    {
-      "id": "europe/austria",
-      "pbf_url": "https://download.geofabrik.de/europe/austria-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/arkansas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/arkansas-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hebei",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hebei-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/florida",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/florida-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/warwickshire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/warwickshire-latest.osm.pbf"
