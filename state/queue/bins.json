@@ -48,6 +48,7 @@
     "asia/philippines",
     "asia/sri-lanka",
     "asia/thailand",
+    "asia/vietnam",
     "australia-oceania/australia/act",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/south-australia",
@@ -87,6 +88,7 @@
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
+    "europe/germany/sachsen-anhalt",
     "europe/greece",
     "europe/hungary",
     "europe/iceland",
@@ -100,6 +102,7 @@
     "europe/netherlands/friesland",
     "europe/netherlands/gelderland",
     "europe/netherlands/noord-brabant",
+    "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
@@ -119,6 +122,7 @@
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
     "europe/spain/extremadura",
+    "europe/spain/galicia",
     "europe/spain/melilla",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
@@ -165,6 +169,7 @@
     "north-america/us/michigan",
     "north-america/us/minnesota",
     "north-america/us/mississippi",
+    "north-america/us/new-mexico",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
     "north-america/us/ohio",
@@ -194,26 +199,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/galicia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/galicia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/noord-holland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/noord-holland-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-mexico",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-mexico-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/sachsen-anhalt",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/sachsen-anhalt-latest.osm.pbf"
-    },
-    {
-      "id": "asia/vietnam",
-      "pbf_url": "https://download.geofabrik.de/asia/vietnam-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/nebraska",
       "pbf_url": "https://download.geofabrik.de/north-america/us/nebraska-latest.osm.pbf"
