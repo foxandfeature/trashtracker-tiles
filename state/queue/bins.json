@@ -27,6 +27,7 @@
     "asia/china/gansu",
     "asia/china/hebei",
     "asia/china/shaanxi",
+    "asia/china/shanxi",
     "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
@@ -70,6 +71,7 @@
     "europe/belgium",
     "europe/bosnia-herzegovina",
     "europe/cyprus",
+    "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/plzensky",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
@@ -178,6 +180,7 @@
     "north-america/canada/alberta",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/island-admreg",
+    "north-america/canada/british-columbia/kootenay-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/manitoba",
     "north-america/canada/newfoundland-and-labrador",
@@ -201,6 +204,7 @@
     "north-america/us/illinois",
     "north-america/us/indiana",
     "north-america/us/maryland",
+    "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/minnesota",
     "north-america/us/mississippi",
@@ -225,6 +229,7 @@
     "russia/far-eastern-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
+    "russia/south-fed-district",
     "russia/ural-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
@@ -239,26 +244,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "asia/china/shanxi",
-      "pbf_url": "https://download.geofabrik.de/asia/china/shanxi-latest.osm.pbf"
-    },
-    {
-      "id": "russia/south-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/south-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/massachusetts",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/massachusetts-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/kootenay-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/kootenay-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/moravskoslezky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/moravskoslezky-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/podkarpackie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/podkarpackie-latest.osm.pbf"
