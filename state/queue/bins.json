@@ -7,6 +7,7 @@
     "africa/benin",
     "africa/botswana",
     "africa/burkina-faso",
+    "africa/burundi",
     "africa/cameroon",
     "africa/canary-islands",
     "africa/central-african-republic",
@@ -129,6 +130,7 @@
     "australia-oceania/australia/ashmore-cartier",
     "australia-oceania/australia/coral-sea-islands",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/australia/northern-territory",
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/south-australia",
     "australia-oceania/australia/tasmania",
@@ -141,6 +143,7 @@
     "australia-oceania/tokelau",
     "central-america/bahamas",
     "central-america/belize",
+    "central-america/costa-rica",
     "central-america/cuba",
     "central-america/el-salvador",
     "central-america/guatemala",
@@ -213,6 +216,7 @@
     "europe/germany/bayern/unterfranken",
     "europe/germany/berlin",
     "europe/germany/brandenburg",
+    "europe/germany/bremen",
     "europe/germany/hamburg",
     "europe/germany/hessen",
     "europe/germany/mecklenburg-vorpommern",
@@ -308,6 +312,7 @@
     "europe/ukraine",
     "europe/united-kingdom/england/bedfordshire",
     "europe/united-kingdom/england/berkshire",
+    "europe/united-kingdom/england/bristol",
     "europe/united-kingdom/england/buckinghamshire",
     "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cheshire",
@@ -449,26 +454,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "central-america/costa-rica",
-      "pbf_url": "https://download.geofabrik.de/central-america/costa-rica-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bremen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bremen-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/bristol",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/bristol-latest.osm.pbf"
-    },
-    {
-      "id": "africa/burundi",
-      "pbf_url": "https://download.geofabrik.de/africa/burundi-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/northern-territory",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/northern-territory-latest.osm.pbf"
-    },
     {
       "id": "europe/azores",
       "pbf_url": "https://download.geofabrik.de/europe/azores-latest.osm.pbf"
