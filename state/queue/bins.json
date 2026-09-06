@@ -6,6 +6,7 @@
     "africa/angola",
     "africa/benin",
     "africa/cameroon",
+    "africa/canary-islands",
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/egypt",
@@ -104,6 +105,7 @@
     "europe/bulgaria",
     "europe/croatia",
     "europe/cyprus",
+    "europe/czech-republic/jihocesky",
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/pardubicky",
     "europe/czech-republic/plzensky",
@@ -130,6 +132,7 @@
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
+    "europe/france/picardie",
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
@@ -223,6 +226,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/buckinghamshire",
     "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/derbyshire",
@@ -267,6 +271,7 @@
     "north-america/canada/saskatchewan",
     "north-america/canada/yukon",
     "north-america/mexico",
+    "north-america/us/alabama",
     "north-america/us/alaska",
     "north-america/us/arizona",
     "north-america/us/arkansas",
@@ -329,26 +334,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/france/picardie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/picardie-latest.osm.pbf"
-    },
-    {
-      "id": "africa/canary-islands",
-      "pbf_url": "https://download.geofabrik.de/africa/canary-islands-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/jihocesky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/jihocesky-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/alabama",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/alabama-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/buckinghamshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/buckinghamshire-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/iowa",
       "pbf_url": "https://download.geofabrik.de/north-america/us/iowa-latest.osm.pbf"
