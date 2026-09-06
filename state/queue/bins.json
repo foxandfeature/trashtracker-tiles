@@ -3,6 +3,8 @@
   "failed": [],
   "lock": [
     "africa/angola",
+    "africa/benin",
+    "africa/congo-democratic-republic",
     "africa/guinea",
     "africa/ivory-coast",
     "africa/south-sudan",
@@ -12,6 +14,7 @@
     "asia/india/north-eastern-zone",
     "asia/india/southern-zone",
     "asia/indonesia/java",
+    "asia/indonesia/kalimantan",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/israel-and-palestine",
@@ -46,6 +49,7 @@
     "europe/sweden",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/scotland",
@@ -64,6 +68,7 @@
     "north-america/us/georgia",
     "north-america/us/mississippi",
     "russia/central-fed-district",
+    "russia/crimean-fed-district",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
@@ -74,26 +79,6 @@
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "asia/indonesia/kalimantan",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/kalimantan-latest.osm.pbf"
-    },
-    {
-      "id": "africa/benin",
-      "pbf_url": "https://download.geofabrik.de/africa/benin-latest.osm.pbf"
-    },
-    {
-      "id": "africa/congo-democratic-republic",
-      "pbf_url": "https://download.geofabrik.de/africa/congo-democratic-republic-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/cornwall",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cornwall-latest.osm.pbf"
-    },
-    {
-      "id": "russia/crimean-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/crimean-fed-district-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/hertfordshire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/hertfordshire-latest.osm.pbf"
