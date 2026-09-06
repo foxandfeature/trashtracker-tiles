@@ -42,6 +42,7 @@
     "africa/nigeria",
     "africa/rwanda",
     "africa/senegal-and-gambia",
+    "africa/seychelles",
     "africa/sierra-leone",
     "africa/somalia",
     "africa/south-africa",
@@ -156,6 +157,8 @@
     "australia-oceania/australia/western-australia",
     "australia-oceania/cook-islands",
     "australia-oceania/fiji",
+    "australia-oceania/kiribati",
+    "australia-oceania/micronesia",
     "australia-oceania/new-caledonia",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
@@ -163,6 +166,7 @@
     "australia-oceania/samoa",
     "australia-oceania/solomon-islands",
     "australia-oceania/tokelau",
+    "australia-oceania/tonga",
     "australia-oceania/vanuatu",
     "australia-oceania/wallis-et-futuna",
     "central-america/bahamas",
@@ -274,6 +278,7 @@
     "europe/italy/sud",
     "europe/kosovo",
     "europe/latvia",
+    "europe/liechtenstein",
     "europe/lithuania",
     "europe/luxembourg",
     "europe/macedonia",
@@ -494,26 +499,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/kiribati",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/kiribati-latest.osm.pbf"
-    },
-    {
-      "id": "europe/liechtenstein",
-      "pbf_url": "https://download.geofabrik.de/europe/liechtenstein-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/micronesia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/micronesia-latest.osm.pbf"
-    },
-    {
-      "id": "africa/seychelles",
-      "pbf_url": "https://download.geofabrik.de/africa/seychelles-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/tonga",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/tonga-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/us-virgin-islands",
       "pbf_url": "https://download.geofabrik.de/north-america/us/us-virgin-islands-latest.osm.pbf"
