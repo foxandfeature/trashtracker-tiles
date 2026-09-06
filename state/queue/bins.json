@@ -5,6 +5,7 @@
     "africa/algeria",
     "africa/angola",
     "africa/benin",
+    "africa/burkina-faso",
     "africa/cameroon",
     "africa/canary-islands",
     "africa/central-african-republic",
@@ -96,6 +97,7 @@
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
+    "australia-oceania/samoa",
     "australia-oceania/tokelau",
     "central-america/belize",
     "central-america/cuba",
@@ -188,6 +190,7 @@
     "europe/netherlands/flevoland",
     "europe/netherlands/friesland",
     "europe/netherlands/gelderland",
+    "europe/netherlands/groningen",
     "europe/netherlands/limburg",
     "europe/netherlands/noord-brabant",
     "europe/netherlands/noord-holland",
@@ -226,6 +229,7 @@
     "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
+    "europe/spain/ceuta",
     "europe/spain/extremadura",
     "europe/spain/galicia",
     "europe/spain/islas-baleares",
@@ -307,6 +311,7 @@
     "north-america/us/kansas",
     "north-america/us/kentucky",
     "north-america/us/louisiana",
+    "north-america/us/maine",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
@@ -359,26 +364,6 @@
     "south-america/uruguay"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/ceuta",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/ceuta-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/groningen",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/groningen-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/samoa",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/samoa-latest.osm.pbf"
-    },
-    {
-      "id": "africa/burkina-faso",
-      "pbf_url": "https://download.geofabrik.de/africa/burkina-faso-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/maine",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/maine-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/australia/ashmore-cartier",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/ashmore-cartier-latest.osm.pbf"
