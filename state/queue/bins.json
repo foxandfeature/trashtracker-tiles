@@ -7,10 +7,12 @@
     "africa/benin",
     "africa/cameroon",
     "africa/canary-islands",
+    "africa/central-african-republic",
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/egypt",
     "africa/ethiopia",
+    "africa/ghana",
     "africa/guinea",
     "africa/ivory-coast",
     "africa/kenya",
@@ -148,6 +150,7 @@
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
     "europe/germany/bayern/oberpfalz",
+    "europe/germany/bayern/schwaben",
     "europe/germany/bayern/unterfranken",
     "europe/germany/brandenburg",
     "europe/germany/hessen",
@@ -230,6 +233,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/berkshire",
     "europe/united-kingdom/england/buckinghamshire",
     "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cornwall",
@@ -292,6 +296,7 @@
     "north-america/us/illinois",
     "north-america/us/indiana",
     "north-america/us/iowa",
+    "north-america/us/kansas",
     "north-america/us/kentucky",
     "north-america/us/louisiana",
     "north-america/us/maryland",
@@ -344,26 +349,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/bayern/schwaben",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/schwaben-latest.osm.pbf"
-    },
-    {
-      "id": "africa/central-african-republic",
-      "pbf_url": "https://download.geofabrik.de/africa/central-african-republic-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/berkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/berkshire-latest.osm.pbf"
-    },
-    {
-      "id": "africa/ghana",
-      "pbf_url": "https://download.geofabrik.de/africa/ghana-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/kansas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/kansas-latest.osm.pbf"
-    },
     {
       "id": "europe/georgia",
       "pbf_url": "https://download.geofabrik.de/europe/georgia-latest.osm.pbf"
