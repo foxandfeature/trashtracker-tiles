@@ -12,6 +12,7 @@
     "africa/madagascar",
     "africa/mali",
     "africa/mozambique",
+    "africa/niger",
     "africa/nigeria",
     "africa/somalia",
     "africa/south-africa",
@@ -96,6 +97,7 @@
     "europe/hungary",
     "europe/iceland",
     "europe/ireland-and-northern-ireland",
+    "europe/italy/isole",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
@@ -110,8 +112,10 @@
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
+    "europe/norway/sorlandet",
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
+    "europe/poland/dolnoslaskie",
     "europe/poland/lodzkie",
     "europe/poland/lubelskie",
     "europe/poland/podlaskie",
@@ -127,6 +131,7 @@
     "europe/spain/cataluna",
     "europe/spain/extremadura",
     "europe/spain/galicia",
+    "europe/spain/islas-baleares",
     "europe/spain/madrid",
     "europe/spain/melilla",
     "europe/spain/pais-vasco",
@@ -209,26 +214,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "africa/niger",
-      "pbf_url": "https://download.geofabrik.de/africa/niger-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/dolnoslaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/dolnoslaskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/sorlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/sorlandet-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/islas-baleares",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/islas-baleares-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/isole",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/isole-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/mazowieckie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/mazowieckie-latest.osm.pbf"
