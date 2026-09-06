@@ -7,6 +7,7 @@
     "africa/congo-democratic-republic",
     "africa/guinea",
     "africa/ivory-coast",
+    "africa/south-africa",
     "africa/south-sudan",
     "africa/sudan",
     "asia/china/hebei",
@@ -38,10 +39,12 @@
     "europe/germany/bayern/oberpfalz",
     "europe/germany/bayern/unterfranken",
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
+    "europe/germany/nordrhein-westfalen/detmold-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
+    "europe/kosovo",
     "europe/norway/nord-norge",
     "europe/norway/trondelag",
     "europe/poland/warminsko-mazurskie",
@@ -51,6 +54,7 @@
     "europe/ukraine",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
+    "europe/united-kingdom/england/hertfordshire",
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -67,6 +71,7 @@
     "north-america/us/florida",
     "north-america/us/georgia",
     "north-america/us/mississippi",
+    "north-america/us/washington",
     "russia/central-fed-district",
     "russia/crimean-fed-district",
     "russia/siberian-fed-district",
@@ -79,26 +84,6 @@
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/hertfordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/hertfordshire-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/washington",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/washington-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/detmold-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/detmold-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "europe/kosovo",
-      "pbf_url": "https://download.geofabrik.de/europe/kosovo-latest.osm.pbf"
-    },
-    {
-      "id": "africa/south-africa",
-      "pbf_url": "https://download.geofabrik.de/africa/south-africa-latest.osm.pbf"
-    },
     {
       "id": "asia/japan/kanto",
       "pbf_url": "https://download.geofabrik.de/asia/japan/kanto-latest.osm.pbf"
