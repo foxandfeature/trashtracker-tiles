@@ -9,13 +9,16 @@
     "africa/sudan",
     "asia/china/hebei",
     "asia/india/central-zone",
+    "asia/india/north-eastern-zone",
     "asia/india/southern-zone",
     "asia/indonesia/java",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/israel-and-palestine",
+    "asia/japan/chubu",
     "asia/japan/chugoku",
     "asia/mongolia",
+    "asia/nepal",
     "asia/philippines",
     "australia-oceania/australia/act",
     "australia-oceania/australia/south-australia",
@@ -41,6 +44,7 @@
     "europe/poland/warminsko-mazurskie",
     "europe/spain/valencia",
     "europe/sweden",
+    "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/warwickshire",
@@ -63,32 +67,13 @@
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
+    "south-america/bolivia",
     "south-america/brazil/nordeste",
     "south-america/brazil/norte",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "asia/india/north-eastern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/north-eastern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/chubu",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/chubu-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/bolivia",
-      "pbf_url": "https://download.geofabrik.de/south-america/bolivia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/turkey",
-      "pbf_url": "https://download.geofabrik.de/europe/turkey-latest.osm.pbf"
-    },
-    {
-      "id": "asia/nepal",
-      "pbf_url": "https://download.geofabrik.de/asia/nepal-latest.osm.pbf"
-    },
     {
       "id": "asia/indonesia/kalimantan",
       "pbf_url": "https://download.geofabrik.de/asia/indonesia/kalimantan-latest.osm.pbf"
