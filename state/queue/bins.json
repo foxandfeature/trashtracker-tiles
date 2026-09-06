@@ -35,6 +35,7 @@
     "asia/mongolia",
     "asia/nepal",
     "asia/philippines",
+    "asia/thailand",
     "australia-oceania/australia/act",
     "australia-oceania/australia/south-australia",
     "central-america/honduras",
@@ -45,6 +46,7 @@
     "europe/cyprus",
     "europe/czech-republic/plzensky",
     "europe/czech-republic/stredocesky",
+    "europe/czech-republic/ustecky",
     "europe/denmark",
     "europe/finland",
     "europe/france/mayotte",
@@ -78,9 +80,12 @@
     "europe/poland/lubelskie",
     "europe/poland/podlaskie",
     "europe/poland/warminsko-mazurskie",
+    "europe/slovakia",
+    "europe/slovenia",
     "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
     "europe/spain/cataluna",
+    "europe/spain/melilla",
     "europe/spain/valencia",
     "europe/sweden",
     "europe/turkey",
@@ -129,26 +134,6 @@
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "europe/czech-republic/ustecky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/ustecky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/slovakia",
-      "pbf_url": "https://download.geofabrik.de/europe/slovakia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/slovenia",
-      "pbf_url": "https://download.geofabrik.de/europe/slovenia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/thailand",
-      "pbf_url": "https://download.geofabrik.de/asia/thailand-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/melilla",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/melilla-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/connecticut",
       "pbf_url": "https://download.geofabrik.de/north-america/us/connecticut-latest.osm.pbf"
