@@ -127,6 +127,7 @@
     "europe/spain/cataluna",
     "europe/spain/extremadura",
     "europe/spain/galicia",
+    "europe/spain/madrid",
     "europe/spain/melilla",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
@@ -139,6 +140,8 @@
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/hertfordshire",
+    "europe/united-kingdom/england/leicestershire",
+    "europe/united-kingdom/england/lincolnshire",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/northumberland",
     "europe/united-kingdom/england/south-yorkshire",
@@ -159,6 +162,7 @@
     "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/mexico",
+    "north-america/us/alaska",
     "north-america/us/arizona",
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
@@ -200,30 +204,11 @@
     "south-america/brazil/norte",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
+    "south-america/chile",
     "south-america/colombia",
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/madrid",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/madrid-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/alaska",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/alaska-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/lincolnshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/lincolnshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/leicestershire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/leicestershire-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/chile",
-      "pbf_url": "https://download.geofabrik.de/south-america/chile-latest.osm.pbf"
-    },
     {
       "id": "africa/niger",
       "pbf_url": "https://download.geofabrik.de/africa/niger-latest.osm.pbf"
