@@ -33,6 +33,7 @@
     "africa/nigeria",
     "africa/rwanda",
     "africa/senegal-and-gambia",
+    "africa/sierra-leone",
     "africa/somalia",
     "africa/south-africa",
     "africa/south-sudan",
@@ -118,6 +119,7 @@
     "asia/sri-lanka",
     "asia/syria",
     "asia/taiwan",
+    "asia/tajikistan",
     "asia/thailand",
     "asia/uzbekistan",
     "asia/vietnam",
@@ -146,6 +148,7 @@
     "central-america/honduras",
     "central-america/jamaica",
     "central-america/nicaragua",
+    "central-america/panama",
     "europe/albania",
     "europe/austria",
     "europe/belarus",
@@ -257,6 +260,7 @@
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/sorlandet",
+    "europe/norway/svalbard-janmayen",
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
     "europe/poland/dolnoslaskie",
@@ -408,6 +412,7 @@
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
     "north-america/us/puerto-rico",
+    "north-america/us/rhode-island",
     "north-america/us/south-carolina",
     "north-america/us/south-dakota",
     "north-america/us/tennessee",
@@ -444,26 +449,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "central-america/panama",
-      "pbf_url": "https://download.geofabrik.de/central-america/panama-latest.osm.pbf"
-    },
-    {
-      "id": "africa/sierra-leone",
-      "pbf_url": "https://download.geofabrik.de/africa/sierra-leone-latest.osm.pbf"
-    },
-    {
-      "id": "asia/tajikistan",
-      "pbf_url": "https://download.geofabrik.de/asia/tajikistan-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/rhode-island",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/rhode-island-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/svalbard-janmayen",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/svalbard-janmayen-latest.osm.pbf"
-    },
     {
       "id": "central-america/costa-rica",
       "pbf_url": "https://download.geofabrik.de/central-america/costa-rica-latest.osm.pbf"
