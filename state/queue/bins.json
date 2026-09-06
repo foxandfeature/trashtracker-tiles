@@ -5,11 +5,13 @@
     "africa/algeria",
     "africa/angola",
     "africa/benin",
+    "africa/cameroon",
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/guinea",
     "africa/ivory-coast",
     "africa/kenya",
+    "africa/lesotho",
     "africa/madagascar",
     "africa/mali",
     "africa/morocco",
@@ -27,6 +29,7 @@
     "africa/zimbabwe",
     "antarctica",
     "asia/bangladesh",
+    "asia/china/chongqing",
     "asia/china/gansu",
     "asia/china/guizhou",
     "asia/china/hebei",
@@ -105,6 +108,7 @@
     "europe/france/franche-comte",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
+    "europe/france/limousin",
     "europe/france/mayotte",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
@@ -152,6 +156,7 @@
     "europe/netherlands/noord-brabant",
     "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
+    "europe/netherlands/utrecht",
     "europe/netherlands/zeeland",
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
@@ -289,26 +294,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "africa/lesotho",
-      "pbf_url": "https://download.geofabrik.de/africa/lesotho-latest.osm.pbf"
-    },
-    {
-      "id": "africa/cameroon",
-      "pbf_url": "https://download.geofabrik.de/africa/cameroon-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/chongqing",
-      "pbf_url": "https://download.geofabrik.de/asia/china/chongqing-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/utrecht",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/utrecht-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/limousin",
-      "pbf_url": "https://download.geofabrik.de/europe/france/limousin-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/australia/queensland",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/queensland-latest.osm.pbf"
