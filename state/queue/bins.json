@@ -10,6 +10,7 @@
     "africa/ivory-coast",
     "africa/kenya",
     "africa/mali",
+    "africa/mozambique",
     "africa/nigeria",
     "africa/somalia",
     "africa/south-africa",
@@ -88,12 +89,14 @@
     "europe/poland/lubelskie",
     "europe/poland/podlaskie",
     "europe/poland/warminsko-mazurskie",
+    "europe/serbia",
     "europe/slovakia",
     "europe/slovenia",
     "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
+    "europe/spain/extremadura",
     "europe/spain/melilla",
     "europe/spain/valencia",
     "europe/sweden",
@@ -130,8 +133,10 @@
     "north-america/us/michigan",
     "north-america/us/mississippi",
     "north-america/us/new-york",
+    "north-america/us/north-carolina",
     "north-america/us/ohio",
     "north-america/us/pennsylvania",
+    "north-america/us/tennessee",
     "north-america/us/texas",
     "north-america/us/washington",
     "north-america/us/wisconsin",
@@ -149,26 +154,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/extremadura",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/extremadura-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/north-carolina",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/north-carolina-latest.osm.pbf"
-    },
-    {
-      "id": "europe/serbia",
-      "pbf_url": "https://download.geofabrik.de/europe/serbia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/tennessee",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/tennessee-latest.osm.pbf"
-    },
-    {
-      "id": "africa/mozambique",
-      "pbf_url": "https://download.geofabrik.de/africa/mozambique-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/manitoba",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/manitoba-latest.osm.pbf"
