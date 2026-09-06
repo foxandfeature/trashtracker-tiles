@@ -24,6 +24,7 @@
     "africa/madagascar",
     "africa/malawi",
     "africa/mali",
+    "africa/mauritania",
     "africa/morocco",
     "africa/mozambique",
     "africa/namibia",
@@ -127,6 +128,7 @@
     "australia-oceania/australia/western-australia",
     "australia-oceania/cook-islands",
     "australia-oceania/new-zealand",
+    "australia-oceania/papua-new-guinea",
     "australia-oceania/samoa",
     "australia-oceania/tokelau",
     "central-america/bahamas",
@@ -152,12 +154,14 @@
     "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/liberecky",
     "europe/czech-republic/moravskoslezky",
+    "europe/czech-republic/olomoucky",
     "europe/czech-republic/pardubicky",
     "europe/czech-republic/plzensky",
     "europe/czech-republic/praha",
     "europe/czech-republic/stredocesky",
     "europe/czech-republic/ustecky",
     "europe/czech-republic/vysocina",
+    "europe/czech-republic/zlinsky",
     "europe/denmark",
     "europe/estonia",
     "europe/finland",
@@ -209,6 +213,7 @@
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
     "europe/germany/rheinland-pfalz",
+    "europe/germany/saarland",
     "europe/germany/sachsen",
     "europe/germany/sachsen-anhalt",
     "europe/germany/schleswig-holstein",
@@ -424,26 +429,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/mauritania",
-      "pbf_url": "https://download.geofabrik.de/africa/mauritania-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/papua-new-guinea",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/papua-new-guinea-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/olomoucky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/olomoucky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/saarland",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/saarland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/zlinsky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/zlinsky-latest.osm.pbf"
-    },
     {
       "id": "europe/faroe-islands",
       "pbf_url": "https://download.geofabrik.de/europe/faroe-islands-latest.osm.pbf"
