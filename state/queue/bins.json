@@ -37,6 +37,7 @@
     "asia/china/hong-kong",
     "asia/china/jiangxi",
     "asia/china/jilin",
+    "asia/china/liaoning",
     "asia/china/qinghai",
     "asia/china/shaanxi",
     "asia/china/shanxi",
@@ -182,6 +183,7 @@
     "europe/poland/podlaskie",
     "europe/poland/pomorskie",
     "europe/poland/slaskie",
+    "europe/poland/swietokrzyskie",
     "europe/poland/warminsko-mazurskie",
     "europe/poland/wielkopolskie",
     "europe/poland/zachodniopomorskie",
@@ -192,6 +194,7 @@
     "europe/slovenia",
     "europe/spain/andalucia",
     "europe/spain/aragon",
+    "europe/spain/cantabria",
     "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
@@ -244,6 +247,7 @@
     "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/canada/saskatchewan",
+    "north-america/canada/yukon",
     "north-america/mexico",
     "north-america/us/alaska",
     "north-america/us/arizona",
@@ -283,6 +287,7 @@
     "north-america/us/washington",
     "north-america/us/west-virginia",
     "north-america/us/wisconsin",
+    "north-america/us/wyoming",
     "russia/central-fed-district",
     "russia/crimean-fed-district",
     "russia/far-eastern-fed-district",
@@ -304,26 +309,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/wyoming",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/wyoming-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/liaoning",
-      "pbf_url": "https://download.geofabrik.de/asia/china/liaoning-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/yukon",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/yukon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/cantabria",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/cantabria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/swietokrzyskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/swietokrzyskie-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/malopolskie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/malopolskie-latest.osm.pbf"
