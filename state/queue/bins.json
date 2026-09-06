@@ -10,6 +10,7 @@
     "africa/canary-islands",
     "africa/central-african-republic",
     "africa/chad",
+    "africa/comores",
     "africa/congo-democratic-republic",
     "africa/egypt",
     "africa/ethiopia",
@@ -37,6 +38,7 @@
     "africa/zambia",
     "africa/zimbabwe",
     "antarctica",
+    "asia/afghanistan",
     "asia/azerbaijan",
     "asia/bangladesh",
     "asia/china/anhui",
@@ -111,6 +113,7 @@
     "australia-oceania/new-zealand",
     "australia-oceania/samoa",
     "australia-oceania/tokelau",
+    "central-america/bahamas",
     "central-america/belize",
     "central-america/cuba",
     "central-america/el-salvador",
@@ -262,6 +265,7 @@
     "europe/united-kingdom/england/buckinghamshire",
     "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cornwall",
+    "europe/united-kingdom/england/cumbria",
     "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/devon",
     "europe/united-kingdom/england/dorset",
@@ -351,6 +355,7 @@
     "north-america/us/pennsylvania",
     "north-america/us/puerto-rico",
     "north-america/us/south-carolina",
+    "north-america/us/south-dakota",
     "north-america/us/tennessee",
     "north-america/us/texas",
     "north-america/us/utah",
@@ -384,26 +389,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/afghanistan",
-      "pbf_url": "https://download.geofabrik.de/asia/afghanistan-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/south-dakota",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/south-dakota-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/bahamas",
-      "pbf_url": "https://download.geofabrik.de/central-america/bahamas-latest.osm.pbf"
-    },
-    {
-      "id": "africa/comores",
-      "pbf_url": "https://download.geofabrik.de/africa/comores-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/cumbria",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cumbria-latest.osm.pbf"
-    },
     {
       "id": "asia/china/hunan",
       "pbf_url": "https://download.geofabrik.de/asia/china/hunan-latest.osm.pbf"
