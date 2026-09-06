@@ -35,6 +35,7 @@
     "asia/china/jilin",
     "asia/china/shaanxi",
     "asia/china/shanxi",
+    "asia/china/sichuan",
     "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
@@ -100,6 +101,7 @@
     "europe/france/bourgogne",
     "europe/france/bretagne",
     "europe/france/centre",
+    "europe/france/champagne-ardenne",
     "europe/france/franche-comte",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
@@ -107,6 +109,7 @@
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
+    "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/freiburg-regbez",
@@ -222,6 +225,7 @@
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
     "north-america/canada/quebec",
+    "north-america/canada/saskatchewan",
     "north-america/mexico",
     "north-america/us/alaska",
     "north-america/us/arizona",
@@ -248,6 +252,7 @@
     "north-america/us/new-mexico",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
+    "north-america/us/north-dakota",
     "north-america/us/ohio",
     "north-america/us/oklahoma",
     "north-america/us/oregon",
@@ -279,26 +284,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/france/poitou-charentes",
-      "pbf_url": "https://download.geofabrik.de/europe/france/poitou-charentes-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/saskatchewan",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/saskatchewan-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/sichuan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/sichuan-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/north-dakota",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/north-dakota-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/champagne-ardenne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/champagne-ardenne-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
       "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/karlsruhe-regbez-latest.osm.pbf"
