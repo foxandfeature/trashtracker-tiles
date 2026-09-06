@@ -48,12 +48,14 @@
     "asia/japan/kanto",
     "asia/japan/kyushu",
     "asia/japan/tohoku",
+    "asia/kazakhstan",
     "asia/malaysia-singapore-brunei",
     "asia/mongolia",
     "asia/myanmar",
     "asia/nepal",
     "asia/pakistan",
     "asia/philippines",
+    "asia/south-korea",
     "asia/sri-lanka",
     "asia/taiwan",
     "asia/thailand",
@@ -61,6 +63,7 @@
     "australia-oceania/australia/act",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/south-australia",
+    "australia-oceania/australia/tasmania",
     "australia-oceania/new-zealand",
     "australia-oceania/tokelau",
     "central-america/honduras",
@@ -98,6 +101,7 @@
     "europe/germany/bayern/oberfranken",
     "europe/germany/bayern/oberpfalz",
     "europe/germany/bayern/unterfranken",
+    "europe/germany/brandenburg",
     "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
@@ -208,6 +212,7 @@
     "north-america/us/idaho",
     "north-america/us/illinois",
     "north-america/us/indiana",
+    "north-america/us/louisiana",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
@@ -249,26 +254,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/louisiana",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/louisiana-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/brandenburg",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/brandenburg-latest.osm.pbf"
-    },
-    {
-      "id": "asia/south-korea",
-      "pbf_url": "https://download.geofabrik.de/asia/south-korea-latest.osm.pbf"
-    },
-    {
-      "id": "asia/kazakhstan",
-      "pbf_url": "https://download.geofabrik.de/asia/kazakhstan-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/tasmania",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/tasmania-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/australia/western-australia",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/western-australia-latest.osm.pbf"
