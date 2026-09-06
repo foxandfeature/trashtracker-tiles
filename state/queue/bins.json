@@ -51,6 +51,7 @@
     "australia-oceania/tokelau",
     "central-america/honduras",
     "central-america/jamaica",
+    "europe/albania",
     "europe/austria",
     "europe/belgium",
     "europe/bosnia-herzegovina",
@@ -62,6 +63,7 @@
     "europe/finland",
     "europe/france/alsace",
     "europe/france/aquitaine",
+    "europe/france/bretagne",
     "europe/france/languedoc-roussillon",
     "europe/france/mayotte",
     "europe/france/midi-pyrenees",
@@ -119,9 +121,12 @@
     "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/england/cornwall",
+    "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/hertfordshire",
+    "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/northumberland",
+    "europe/united-kingdom/england/south-yorkshire",
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/scotland",
@@ -179,26 +184,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/south-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/south-yorkshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/albania",
-      "pbf_url": "https://download.geofabrik.de/europe/albania-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/north-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/north-yorkshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/bretagne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/bretagne-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/derbyshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/derbyshire-latest.osm.pbf"
-    },
     {
       "id": "russia/far-eastern-fed-district",
       "pbf_url": "https://download.geofabrik.de/russia/far-eastern-fed-district-latest.osm.pbf"
