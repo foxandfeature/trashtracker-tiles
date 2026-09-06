@@ -66,12 +66,14 @@
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
     "europe/greece",
+    "europe/hungary",
     "europe/iceland",
     "europe/ireland-and-northern-ireland",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/kosovo",
+    "europe/monaco",
     "europe/netherlands/noord-brabant",
     "europe/netherlands/overijssel",
     "europe/norway/nord-norge",
@@ -105,6 +107,7 @@
     "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/newfoundland-and-labrador",
+    "north-america/canada/northwest-territories",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
@@ -126,6 +129,7 @@
     "north-america/us/pennsylvania",
     "north-america/us/texas",
     "north-america/us/washington",
+    "north-america/us/wisconsin",
     "russia/central-fed-district",
     "russia/crimean-fed-district",
     "russia/northwestern-fed-district",
@@ -136,29 +140,10 @@
     "south-america/brazil/nordeste",
     "south-america/brazil/norte",
     "south-america/brazil/sudeste",
-    "south-america/brazil/sul"
+    "south-america/brazil/sul",
+    "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/wisconsin",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/wisconsin-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/colombia",
-      "pbf_url": "https://download.geofabrik.de/south-america/colombia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/monaco",
-      "pbf_url": "https://download.geofabrik.de/europe/monaco-latest.osm.pbf"
-    },
-    {
-      "id": "europe/hungary",
-      "pbf_url": "https://download.geofabrik.de/europe/hungary-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/northwest-territories",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/northwest-territories-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/australia/new-south-wales",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/new-south-wales-latest.osm.pbf"
