@@ -234,6 +234,7 @@
     "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/derbyshire",
+    "europe/united-kingdom/england/dorset",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/england/hampshire",
@@ -242,6 +243,7 @@
     "europe/united-kingdom/england/lancashire",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/lincolnshire",
+    "europe/united-kingdom/england/merseyside",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/northumberland",
@@ -290,6 +292,7 @@
     "north-america/us/illinois",
     "north-america/us/indiana",
     "north-america/us/iowa",
+    "north-america/us/kentucky",
     "north-america/us/louisiana",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
@@ -299,6 +302,7 @@
     "north-america/us/missouri",
     "north-america/us/montana",
     "north-america/us/nebraska",
+    "north-america/us/new-hampshire",
     "north-america/us/new-jersey",
     "north-america/us/new-mexico",
     "north-america/us/new-york",
@@ -308,6 +312,7 @@
     "north-america/us/oklahoma",
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
+    "north-america/us/puerto-rico",
     "north-america/us/south-carolina",
     "north-america/us/tennessee",
     "north-america/us/texas",
@@ -339,26 +344,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/merseyside",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/merseyside-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/kentucky",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/kentucky-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/puerto-rico",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/puerto-rico-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/dorset",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/dorset-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-hampshire",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-hampshire-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/bayern/schwaben",
       "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/schwaben-latest.osm.pbf"
