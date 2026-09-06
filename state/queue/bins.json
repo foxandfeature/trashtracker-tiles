@@ -2,6 +2,7 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/angola",
     "africa/guinea",
     "africa/ivory-coast",
     "africa/south-sudan",
@@ -10,6 +11,7 @@
     "asia/india/central-zone",
     "asia/india/southern-zone",
     "asia/indonesia/java",
+    "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/israel-and-palestine",
     "asia/japan/chugoku",
@@ -55,35 +57,18 @@
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
     "north-america/us/florida",
+    "north-america/us/georgia",
     "north-america/us/mississippi",
     "russia/central-fed-district",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
     "south-america/brazil/nordeste",
-    "south-america/brazil/sudeste"
+    "south-america/brazil/norte",
+    "south-america/brazil/sudeste",
+    "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "south-america/brazil/norte",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/norte-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/sulawesi",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/sulawesi-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/georgia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/georgia-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/sul",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/sul-latest.osm.pbf"
-    },
-    {
-      "id": "africa/angola",
-      "pbf_url": "https://download.geofabrik.de/africa/angola-latest.osm.pbf"
-    },
     {
       "id": "asia/india/north-eastern-zone",
       "pbf_url": "https://download.geofabrik.de/asia/india/north-eastern-zone-latest.osm.pbf"
