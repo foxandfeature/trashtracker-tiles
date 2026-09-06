@@ -46,10 +46,12 @@
     "asia/myanmar",
     "asia/nepal",
     "asia/philippines",
+    "asia/sri-lanka",
     "asia/thailand",
     "australia-oceania/australia/act",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/south-australia",
+    "australia-oceania/new-zealand",
     "australia-oceania/tokelau",
     "central-america/honduras",
     "central-america/jamaica",
@@ -70,6 +72,7 @@
     "europe/france/mayotte",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
+    "europe/france/pays-de-la-loire",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
@@ -117,6 +120,7 @@
     "europe/spain/cataluna",
     "europe/spain/extremadura",
     "europe/spain/melilla",
+    "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
     "europe/switzerland",
@@ -186,29 +190,10 @@
     "south-america/brazil/norte",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
-    "south-america/colombia"
+    "south-america/colombia",
+    "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/france/pays-de-la-loire",
-      "pbf_url": "https://download.geofabrik.de/europe/france/pays-de-la-loire-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/peru",
-      "pbf_url": "https://download.geofabrik.de/south-america/peru-latest.osm.pbf"
-    },
-    {
-      "id": "asia/sri-lanka",
-      "pbf_url": "https://download.geofabrik.de/asia/sri-lanka-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/new-zealand",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/new-zealand-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/pais-vasco",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/pais-vasco-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/galicia",
       "pbf_url": "https://download.geofabrik.de/europe/spain/galicia-latest.osm.pbf"
