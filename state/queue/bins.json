@@ -17,6 +17,7 @@
     "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
+    "africa/uganda",
     "africa/zambia",
     "antarctica",
     "asia/china/gansu",
@@ -38,6 +39,7 @@
     "asia/japan/hokkaido",
     "asia/japan/kanto",
     "asia/japan/kyushu",
+    "asia/malaysia-singapore-brunei",
     "asia/mongolia",
     "asia/myanmar",
     "asia/nepal",
@@ -88,6 +90,7 @@
     "europe/monaco",
     "europe/netherlands/drenthe",
     "europe/netherlands/friesland",
+    "europe/netherlands/gelderland",
     "europe/netherlands/noord-brabant",
     "europe/netherlands/overijssel",
     "europe/norway/nord-norge",
@@ -96,6 +99,7 @@
     "europe/poland/lodzkie",
     "europe/poland/lubelskie",
     "europe/poland/podlaskie",
+    "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
     "europe/portugal",
     "europe/serbia",
@@ -117,6 +121,7 @@
     "europe/united-kingdom/england/hertfordshire",
     "europe/united-kingdom/england/northumberland",
     "europe/united-kingdom/england/warwickshire",
+    "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
@@ -169,26 +174,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/west-midlands",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-midlands-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/gelderland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/gelderland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/slaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/slaskie-latest.osm.pbf"
-    },
-    {
-      "id": "asia/malaysia-singapore-brunei",
-      "pbf_url": "https://download.geofabrik.de/asia/malaysia-singapore-brunei-latest.osm.pbf"
-    },
-    {
-      "id": "africa/uganda",
-      "pbf_url": "https://download.geofabrik.de/africa/uganda-latest.osm.pbf"
-    },
     {
       "id": "south-america/brazil/centro-oeste",
       "pbf_url": "https://download.geofabrik.de/south-america/brazil/centro-oeste-latest.osm.pbf"
