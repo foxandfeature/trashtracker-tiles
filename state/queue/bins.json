@@ -146,8 +146,10 @@
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
     "australia-oceania/cook-islands",
+    "australia-oceania/fiji",
     "australia-oceania/new-zealand",
     "australia-oceania/papua-new-guinea",
+    "australia-oceania/polynesie-francaise",
     "australia-oceania/samoa",
     "australia-oceania/tokelau",
     "australia-oceania/wallis-et-futuna",
@@ -391,6 +393,7 @@
     "north-america/canada/quebec",
     "north-america/canada/saskatchewan",
     "north-america/canada/yukon",
+    "north-america/greenland",
     "north-america/mexico",
     "north-america/us/alabama",
     "north-america/us/alaska",
@@ -404,6 +407,7 @@
     "north-america/us/district-of-columbia",
     "north-america/us/florida",
     "north-america/us/georgia",
+    "north-america/us/hawaii",
     "north-america/us/idaho",
     "north-america/us/illinois",
     "north-america/us/indiana",
@@ -465,30 +469,11 @@
     "south-america/ecuador",
     "south-america/paraguay",
     "south-america/peru",
+    "south-america/suriname",
     "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/polynesie-francaise",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/polynesie-francaise-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/suriname",
-      "pbf_url": "https://download.geofabrik.de/south-america/suriname-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/hawaii",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/hawaii-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/fiji",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/fiji-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/greenland",
-      "pbf_url": "https://download.geofabrik.de/north-america/greenland-latest.osm.pbf"
-    },
     {
       "id": "europe/france/guyane",
       "pbf_url": "https://download.geofabrik.de/europe/france/guyane-latest.osm.pbf"
