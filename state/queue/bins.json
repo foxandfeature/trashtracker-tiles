@@ -113,6 +113,7 @@
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/freiburg-regbez",
+    "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/baden-wuerttemberg/tuebingen-regbez",
     "europe/germany/bayern/niederbayern",
@@ -151,6 +152,7 @@
     "europe/netherlands/noord-brabant",
     "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
+    "europe/netherlands/zeeland",
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
@@ -168,6 +170,7 @@
     "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
     "europe/poland/wielkopolskie",
+    "europe/poland/zachodniopomorskie",
     "europe/portugal",
     "europe/romania",
     "europe/serbia",
@@ -216,6 +219,7 @@
     "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/kootenay-admreg",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/british-columbia/southcoast-admreg",
     "north-america/canada/manitoba",
     "north-america/canada/new-brunswick",
     "north-america/canada/newfoundland-and-labrador",
@@ -263,6 +267,7 @@
     "north-america/us/utah",
     "north-america/us/virginia",
     "north-america/us/washington",
+    "north-america/us/west-virginia",
     "north-america/us/wisconsin",
     "russia/central-fed-district",
     "russia/crimean-fed-district",
@@ -284,26 +289,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/karlsruhe-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/zeeland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/zeeland-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/southcoast-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/southcoast-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/west-virginia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/west-virginia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/zachodniopomorskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/zachodniopomorskie-latest.osm.pbf"
-    },
     {
       "id": "africa/lesotho",
       "pbf_url": "https://download.geofabrik.de/africa/lesotho-latest.osm.pbf"
