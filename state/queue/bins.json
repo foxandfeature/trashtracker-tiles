@@ -42,6 +42,7 @@
     "africa/south-africa",
     "africa/south-sudan",
     "africa/sudan",
+    "africa/swaziland",
     "africa/tanzania",
     "africa/togo",
     "africa/tunisia",
@@ -86,6 +87,7 @@
     "asia/china/xinjiang",
     "asia/china/yunnan",
     "asia/china/zhejiang",
+    "asia/east-timor",
     "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
@@ -128,6 +130,7 @@
     "asia/taiwan",
     "asia/tajikistan",
     "asia/thailand",
+    "asia/turkmenistan",
     "asia/uzbekistan",
     "asia/vietnam",
     "asia/yemen",
@@ -196,11 +199,13 @@
     "europe/france/champagne-ardenne",
     "europe/france/corse",
     "europe/france/franche-comte",
+    "europe/france/guadeloupe",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
     "europe/france/limousin",
     "europe/france/lorraine",
+    "europe/france/martinique",
     "europe/france/mayotte",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
@@ -464,26 +469,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/france/guadeloupe",
-      "pbf_url": "https://download.geofabrik.de/europe/france/guadeloupe-latest.osm.pbf"
-    },
-    {
-      "id": "africa/swaziland",
-      "pbf_url": "https://download.geofabrik.de/africa/swaziland-latest.osm.pbf"
-    },
-    {
-      "id": "asia/turkmenistan",
-      "pbf_url": "https://download.geofabrik.de/asia/turkmenistan-latest.osm.pbf"
-    },
-    {
-      "id": "asia/east-timor",
-      "pbf_url": "https://download.geofabrik.de/asia/east-timor-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/martinique",
-      "pbf_url": "https://download.geofabrik.de/europe/france/martinique-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/polynesie-francaise",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/polynesie-francaise-latest.osm.pbf"
