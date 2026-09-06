@@ -58,6 +58,7 @@
     "asia/china/hong-kong",
     "asia/china/hubei",
     "asia/china/hunan",
+    "asia/china/jiangsu",
     "asia/china/jiangxi",
     "asia/china/jilin",
     "asia/china/liaoning",
@@ -163,6 +164,7 @@
     "europe/france/bretagne",
     "europe/france/centre",
     "europe/france/champagne-ardenne",
+    "europe/france/corse",
     "europe/france/franche-comte",
     "europe/france/haute-normandie",
     "europe/france/ile-de-france",
@@ -191,6 +193,7 @@
     "europe/germany/bayern/unterfranken",
     "europe/germany/berlin",
     "europe/germany/brandenburg",
+    "europe/germany/hamburg",
     "europe/germany/hessen",
     "europe/germany/mecklenburg-vorpommern",
     "europe/germany/niedersachsen",
@@ -269,6 +272,7 @@
     "europe/spain/madrid",
     "europe/spain/melilla",
     "europe/spain/murcia",
+    "europe/spain/navarra",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
@@ -293,6 +297,7 @@
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/herefordshire",
     "europe/united-kingdom/england/hertfordshire",
+    "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/lancashire",
     "europe/united-kingdom/england/leicestershire",
@@ -409,26 +414,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/navarra",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/navarra-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/corse",
-      "pbf_url": "https://download.geofabrik.de/europe/france/corse-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/hamburg",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/hamburg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/isle-of-wight",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/isle-of-wight-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/jiangsu",
-      "pbf_url": "https://download.geofabrik.de/asia/china/jiangsu-latest.osm.pbf"
-    },
     {
       "id": "central-america/nicaragua",
       "pbf_url": "https://download.geofabrik.de/central-america/nicaragua-latest.osm.pbf"
