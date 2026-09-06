@@ -8,6 +8,7 @@
     "africa/sudan",
     "asia/china/hebei",
     "asia/india/central-zone",
+    "asia/india/southern-zone",
     "asia/indonesia/java",
     "asia/indonesia/sumatra",
     "asia/israel-and-palestine",
@@ -15,8 +16,10 @@
     "asia/mongolia",
     "asia/philippines",
     "australia-oceania/australia/act",
+    "australia-oceania/australia/south-australia",
     "central-america/jamaica",
     "europe/austria",
+    "europe/bosnia-herzegovina",
     "europe/cyprus",
     "europe/czech-republic/stredocesky",
     "europe/finland",
@@ -45,8 +48,10 @@
     "north-america/canada/quebec",
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
+    "north-america/us/california/socal",
     "north-america/us/florida",
     "north-america/us/mississippi",
+    "russia/central-fed-district",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
@@ -54,26 +59,6 @@
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/california/socal",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/california/socal-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/southern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/southern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "russia/central-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/central-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/bosnia-herzegovina",
-      "pbf_url": "https://download.geofabrik.de/europe/bosnia-herzegovina-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/south-australia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/south-australia-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/valencia",
       "pbf_url": "https://download.geofabrik.de/europe/spain/valencia-latest.osm.pbf"
