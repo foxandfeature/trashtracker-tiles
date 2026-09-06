@@ -21,6 +21,7 @@
     "asia/israel-and-palestine",
     "asia/japan/chubu",
     "asia/japan/chugoku",
+    "asia/japan/kanto",
     "asia/mongolia",
     "asia/nepal",
     "asia/philippines",
@@ -35,6 +36,7 @@
     "europe/finland",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
+    "europe/germany/baden-wuerttemberg/tuebingen-regbez",
     "europe/germany/bayern/oberfranken",
     "europe/germany/bayern/oberpfalz",
     "europe/germany/bayern/unterfranken",
@@ -47,7 +49,9 @@
     "europe/kosovo",
     "europe/norway/nord-norge",
     "europe/norway/trondelag",
+    "europe/poland/lodzkie",
     "europe/poland/warminsko-mazurskie",
+    "europe/spain/castilla-la-mancha",
     "europe/spain/valencia",
     "europe/sweden",
     "europe/turkey",
@@ -71,6 +75,7 @@
     "north-america/us/florida",
     "north-america/us/georgia",
     "north-america/us/mississippi",
+    "north-america/us/pennsylvania",
     "north-america/us/washington",
     "russia/central-fed-district",
     "russia/crimean-fed-district",
@@ -84,26 +89,6 @@
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "asia/japan/kanto",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kanto-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/baden-wuerttemberg/tuebingen-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/tuebingen-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/lodzkie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lodzkie-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/pennsylvania",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/pennsylvania-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/castilla-la-mancha",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/castilla-la-mancha-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/nunavut/kitikmeot",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/nunavut/kitikmeot-latest.osm.pbf"
