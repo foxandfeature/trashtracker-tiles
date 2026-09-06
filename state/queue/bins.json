@@ -2,20 +2,25 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/south-sudan",
     "asia/india/central-zone",
     "asia/indonesia/sumatra",
     "asia/japan/chugoku",
     "australia-oceania/australia/act",
+    "europe/cyprus",
     "europe/czech-republic/stredocesky",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
+    "europe/germany/bayern/oberfranken",
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
+    "europe/italy/nord-ovest",
     "europe/norway/nord-norge",
     "europe/ukraine",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/scotland",
+    "europe/united-kingdom/wales",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/quebec",
@@ -24,26 +29,6 @@
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "europe/italy/nord-ovest",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/nord-ovest-latest.osm.pbf"
-    },
-    {
-      "id": "europe/cyprus",
-      "pbf_url": "https://download.geofabrik.de/europe/cyprus-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/oberfranken",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberfranken-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/wales",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/wales-latest.osm.pbf"
-    },
-    {
-      "id": "africa/south-sudan",
-      "pbf_url": "https://download.geofabrik.de/africa/south-sudan-latest.osm.pbf"
-    },
     {
       "id": "asia/philippines",
       "pbf_url": "https://download.geofabrik.de/asia/philippines-latest.osm.pbf"
