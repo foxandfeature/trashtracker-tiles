@@ -94,7 +94,9 @@
     "australia-oceania/new-zealand",
     "australia-oceania/tokelau",
     "central-america/belize",
+    "central-america/cuba",
     "central-america/el-salvador",
+    "central-america/guatemala",
     "central-america/honduras",
     "central-america/jamaica",
     "europe/albania",
@@ -106,6 +108,7 @@
     "europe/croatia",
     "europe/cyprus",
     "europe/czech-republic/jihocesky",
+    "europe/czech-republic/karlovarsky",
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/pardubicky",
     "europe/czech-republic/plzensky",
@@ -171,6 +174,7 @@
     "europe/italy/sud",
     "europe/kosovo",
     "europe/lithuania",
+    "europe/moldova",
     "europe/monaco",
     "europe/netherlands/drenthe",
     "europe/netherlands/flevoland",
@@ -285,6 +289,7 @@
     "north-america/us/idaho",
     "north-america/us/illinois",
     "north-america/us/indiana",
+    "north-america/us/iowa",
     "north-america/us/louisiana",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
@@ -334,26 +339,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/iowa",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/iowa-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/cuba",
-      "pbf_url": "https://download.geofabrik.de/central-america/cuba-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/karlovarsky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/karlovarsky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/moldova",
-      "pbf_url": "https://download.geofabrik.de/europe/moldova-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/guatemala",
-      "pbf_url": "https://download.geofabrik.de/central-america/guatemala-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/merseyside",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/merseyside-latest.osm.pbf"
