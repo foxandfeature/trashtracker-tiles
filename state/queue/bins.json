@@ -2,6 +2,7 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/algeria",
     "africa/angola",
     "africa/benin",
     "africa/congo-democratic-republic",
@@ -10,6 +11,7 @@
     "africa/south-africa",
     "africa/south-sudan",
     "africa/sudan",
+    "antarctica",
     "asia/china/hebei",
     "asia/india/central-zone",
     "asia/india/north-eastern-zone",
@@ -34,6 +36,7 @@
     "europe/cyprus",
     "europe/czech-republic/stredocesky",
     "europe/finland",
+    "europe/france/nord-pas-de-calais",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/baden-wuerttemberg/tuebingen-regbez",
@@ -65,6 +68,7 @@
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/newfoundland-and-labrador",
+    "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
@@ -75,6 +79,7 @@
     "north-america/us/florida",
     "north-america/us/georgia",
     "north-america/us/mississippi",
+    "north-america/us/ohio",
     "north-america/us/pennsylvania",
     "north-america/us/washington",
     "russia/central-fed-district",
@@ -89,26 +94,6 @@
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/nunavut/kitikmeot",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/nunavut/kitikmeot-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/ohio",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/ohio-latest.osm.pbf"
-    },
-    {
-      "id": "antarctica",
-      "pbf_url": "https://download.geofabrik.de/antarctica-latest.osm.pbf"
-    },
-    {
-      "id": "africa/algeria",
-      "pbf_url": "https://download.geofabrik.de/africa/algeria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/nord-pas-de-calais",
-      "pbf_url": "https://download.geofabrik.de/europe/france/nord-pas-de-calais-latest.osm.pbf"
-    },
     {
       "id": "europe/netherlands/overijssel",
       "pbf_url": "https://download.geofabrik.de/europe/netherlands/overijssel-latest.osm.pbf"
