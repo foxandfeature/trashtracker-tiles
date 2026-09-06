@@ -9,6 +9,7 @@
     "africa/guinea",
     "africa/ivory-coast",
     "africa/kenya",
+    "africa/madagascar",
     "africa/mali",
     "africa/mozambique",
     "africa/nigeria",
@@ -39,6 +40,7 @@
     "asia/japan/chubu",
     "asia/japan/chugoku",
     "asia/japan/hokkaido",
+    "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/japan/kyushu",
     "asia/malaysia-singapore-brunei",
@@ -47,6 +49,7 @@
     "asia/nepal",
     "asia/philippines",
     "asia/sri-lanka",
+    "asia/taiwan",
     "asia/thailand",
     "asia/vietnam",
     "australia-oceania/australia/act",
@@ -108,6 +111,7 @@
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/trondelag",
+    "europe/norway/vestlandet",
     "europe/poland/lodzkie",
     "europe/poland/lubelskie",
     "europe/poland/podlaskie",
@@ -169,6 +173,7 @@
     "north-america/us/michigan",
     "north-america/us/minnesota",
     "north-america/us/mississippi",
+    "north-america/us/nebraska",
     "north-america/us/new-mexico",
     "north-america/us/new-york",
     "north-america/us/north-carolina",
@@ -199,26 +204,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/nebraska",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/nebraska-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/vestlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/vestlandet-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/kansai",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kansai-latest.osm.pbf"
-    },
-    {
-      "id": "africa/madagascar",
-      "pbf_url": "https://download.geofabrik.de/africa/madagascar-latest.osm.pbf"
-    },
-    {
-      "id": "asia/taiwan",
-      "pbf_url": "https://download.geofabrik.de/asia/taiwan-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/madrid",
       "pbf_url": "https://download.geofabrik.de/europe/spain/madrid-latest.osm.pbf"
