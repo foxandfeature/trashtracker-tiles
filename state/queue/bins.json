@@ -37,6 +37,7 @@
     "africa/sudan",
     "africa/tanzania",
     "africa/togo",
+    "africa/tunisia",
     "africa/uganda",
     "africa/zambia",
     "africa/zimbabwe",
@@ -122,6 +123,7 @@
     "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
+    "australia-oceania/cook-islands",
     "australia-oceania/new-zealand",
     "australia-oceania/samoa",
     "australia-oceania/tokelau",
@@ -133,6 +135,7 @@
     "central-america/haiti-and-domrep",
     "central-america/honduras",
     "central-america/jamaica",
+    "central-america/nicaragua",
     "europe/albania",
     "europe/austria",
     "europe/belarus",
@@ -261,6 +264,7 @@
     "europe/slovenia",
     "europe/spain/andalucia",
     "europe/spain/aragon",
+    "europe/spain/asturias",
     "europe/spain/cantabria",
     "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
@@ -384,6 +388,7 @@
     "north-america/us/tennessee",
     "north-america/us/texas",
     "north-america/us/utah",
+    "north-america/us/vermont",
     "north-america/us/virginia",
     "north-america/us/washington",
     "north-america/us/west-virginia",
@@ -414,26 +419,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "central-america/nicaragua",
-      "pbf_url": "https://download.geofabrik.de/central-america/nicaragua-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/vermont",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/vermont-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/asturias",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/asturias-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/cook-islands",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/cook-islands-latest.osm.pbf"
-    },
-    {
-      "id": "africa/tunisia",
-      "pbf_url": "https://download.geofabrik.de/africa/tunisia-latest.osm.pbf"
-    },
     {
       "id": "asia/laos",
       "pbf_url": "https://download.geofabrik.de/asia/laos-latest.osm.pbf"
