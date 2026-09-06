@@ -30,6 +30,7 @@
     "asia/china/gansu",
     "asia/china/guizhou",
     "asia/china/hebei",
+    "asia/china/hong-kong",
     "asia/china/jiangxi",
     "asia/china/jilin",
     "asia/china/shaanxi",
@@ -38,6 +39,7 @@
     "asia/india/central-zone",
     "asia/india/eastern-zone",
     "asia/india/north-eastern-zone",
+    "asia/india/northern-zone",
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
@@ -95,8 +97,10 @@
     "europe/france/aquitaine",
     "europe/france/auvergne",
     "europe/france/basse-normandie",
+    "europe/france/bourgogne",
     "europe/france/bretagne",
     "europe/france/centre",
+    "europe/france/franche-comte",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
     "europe/france/mayotte",
@@ -238,6 +242,7 @@
     "north-america/us/michigan",
     "north-america/us/minnesota",
     "north-america/us/mississippi",
+    "north-america/us/montana",
     "north-america/us/nebraska",
     "north-america/us/new-jersey",
     "north-america/us/new-mexico",
@@ -274,26 +279,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/montana",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/montana-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/bourgogne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/bourgogne-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hong-kong",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hong-kong-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/northern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/northern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/franche-comte",
-      "pbf_url": "https://download.geofabrik.de/europe/france/franche-comte-latest.osm.pbf"
-    },
     {
       "id": "europe/france/poitou-charentes",
       "pbf_url": "https://download.geofabrik.de/europe/france/poitou-charentes-latest.osm.pbf"
