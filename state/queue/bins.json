@@ -21,6 +21,7 @@
     "africa/tanzania",
     "africa/uganda",
     "africa/zambia",
+    "africa/zimbabwe",
     "antarctica",
     "asia/bangladesh",
     "asia/china/gansu",
@@ -50,6 +51,7 @@
     "asia/mongolia",
     "asia/myanmar",
     "asia/nepal",
+    "asia/pakistan",
     "asia/philippines",
     "asia/sri-lanka",
     "asia/taiwan",
@@ -139,6 +141,7 @@
     "europe/serbia",
     "europe/slovakia",
     "europe/slovenia",
+    "europe/spain/andalucia",
     "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
@@ -159,6 +162,7 @@
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/hertfordshire",
+    "europe/united-kingdom/england/lancashire",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/lincolnshire",
     "europe/united-kingdom/england/north-yorkshire",
@@ -167,6 +171,7 @@
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
+    "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/england/worcestershire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -234,26 +239,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/lancashire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/lancashire-latest.osm.pbf"
-    },
-    {
-      "id": "africa/zimbabwe",
-      "pbf_url": "https://download.geofabrik.de/africa/zimbabwe-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/andalucia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/andalucia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/pakistan",
-      "pbf_url": "https://download.geofabrik.de/asia/pakistan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/west-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-yorkshire-latest.osm.pbf"
-    },
     {
       "id": "asia/china/shanxi",
       "pbf_url": "https://download.geofabrik.de/asia/china/shanxi-latest.osm.pbf"
