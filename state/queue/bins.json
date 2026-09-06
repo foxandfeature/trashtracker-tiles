@@ -8,6 +8,8 @@
     "africa/congo-democratic-republic",
     "africa/guinea",
     "africa/ivory-coast",
+    "africa/kenya",
+    "africa/mali",
     "africa/somalia",
     "africa/south-africa",
     "africa/south-sudan",
@@ -57,6 +59,7 @@
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
     "europe/iceland",
+    "europe/ireland-and-northern-ireland",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/kosovo",
@@ -67,6 +70,7 @@
     "europe/poland/lubelskie",
     "europe/poland/podlaskie",
     "europe/poland/warminsko-mazurskie",
+    "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
     "europe/spain/valencia",
     "europe/sweden",
@@ -100,6 +104,7 @@
     "north-america/us/new-york",
     "north-america/us/ohio",
     "north-america/us/pennsylvania",
+    "north-america/us/texas",
     "north-america/us/washington",
     "russia/central-fed-district",
     "russia/crimean-fed-district",
@@ -114,26 +119,6 @@
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/aragon",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/aragon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/ireland-and-northern-ireland",
-      "pbf_url": "https://download.geofabrik.de/europe/ireland-and-northern-ireland-latest.osm.pbf"
-    },
-    {
-      "id": "africa/kenya",
-      "pbf_url": "https://download.geofabrik.de/africa/kenya-latest.osm.pbf"
-    },
-    {
-      "id": "africa/mali",
-      "pbf_url": "https://download.geofabrik.de/africa/mali-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/texas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/texas-latest.osm.pbf"
-    },
     {
       "id": "europe/norway/ostlandet",
       "pbf_url": "https://download.geofabrik.de/europe/norway/ostlandet-latest.osm.pbf"
