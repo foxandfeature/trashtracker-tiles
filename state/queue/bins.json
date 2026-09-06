@@ -20,9 +20,11 @@
     "africa/uganda",
     "africa/zambia",
     "antarctica",
+    "asia/bangladesh",
     "asia/china/gansu",
     "asia/china/hebei",
     "asia/china/shaanxi",
+    "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
     "asia/india/north-eastern-zone",
@@ -123,6 +125,7 @@
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
+    "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/hertfordshire",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/northumberland",
@@ -165,11 +168,13 @@
     "north-america/us/pennsylvania",
     "north-america/us/tennessee",
     "north-america/us/texas",
+    "north-america/us/utah",
     "north-america/us/virginia",
     "north-america/us/washington",
     "north-america/us/wisconsin",
     "russia/central-fed-district",
     "russia/crimean-fed-district",
+    "russia/far-eastern-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/ural-fed-district",
@@ -184,26 +189,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "russia/far-eastern-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/far-eastern-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "asia/bangladesh",
-      "pbf_url": "https://download.geofabrik.de/asia/bangladesh-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/utah",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/utah-latest.osm.pbf"
-    },
-    {
-      "id": "asia/gcc-states",
-      "pbf_url": "https://download.geofabrik.de/asia/gcc-states-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/hampshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/hampshire-latest.osm.pbf"
-    },
     {
       "id": "europe/france/pays-de-la-loire",
       "pbf_url": "https://download.geofabrik.de/europe/france/pays-de-la-loire-latest.osm.pbf"
