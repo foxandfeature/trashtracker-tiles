@@ -37,7 +37,9 @@
     "asia/philippines",
     "asia/thailand",
     "australia-oceania/australia/act",
+    "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/south-australia",
+    "australia-oceania/tokelau",
     "central-america/honduras",
     "central-america/jamaica",
     "europe/austria",
@@ -49,6 +51,7 @@
     "europe/czech-republic/ustecky",
     "europe/denmark",
     "europe/finland",
+    "europe/france/aquitaine",
     "europe/france/languedoc-roussillon",
     "europe/france/mayotte",
     "europe/france/nord-pas-de-calais",
@@ -74,6 +77,8 @@
     "europe/italy/sud",
     "europe/kosovo",
     "europe/monaco",
+    "europe/netherlands/drenthe",
+    "europe/netherlands/friesland",
     "europe/netherlands/noord-brabant",
     "europe/netherlands/overijssel",
     "europe/norway/nord-norge",
@@ -144,26 +149,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/australia/new-south-wales",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/new-south-wales-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/tokelau",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/tokelau-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/friesland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/friesland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/aquitaine",
-      "pbf_url": "https://download.geofabrik.de/europe/france/aquitaine-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/drenthe",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/drenthe-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/extremadura",
       "pbf_url": "https://download.geofabrik.de/europe/spain/extremadura-latest.osm.pbf"
