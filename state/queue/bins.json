@@ -18,6 +18,7 @@
     "asia/india/southern-zone",
     "asia/indonesia/java",
     "asia/indonesia/kalimantan",
+    "asia/indonesia/nusa-tenggara",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/israel-and-palestine",
@@ -36,6 +37,7 @@
     "europe/cyprus",
     "europe/czech-republic/stredocesky",
     "europe/finland",
+    "europe/france/mayotte",
     "europe/france/nord-pas-de-calais",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
@@ -50,6 +52,7 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/kosovo",
+    "europe/netherlands/overijssel",
     "europe/norway/nord-norge",
     "europe/norway/trondelag",
     "europe/poland/lodzkie",
@@ -73,9 +76,11 @@
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
     "north-america/canada/quebec",
+    "north-america/mexico",
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
+    "north-america/us/colorado",
     "north-america/us/florida",
     "north-america/us/georgia",
     "north-america/us/mississippi",
@@ -94,26 +99,6 @@
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "europe/netherlands/overijssel",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/overijssel-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/nusa-tenggara",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/nusa-tenggara-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/colorado",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/colorado-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/mayotte",
-      "pbf_url": "https://download.geofabrik.de/europe/france/mayotte-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/mexico",
-      "pbf_url": "https://download.geofabrik.de/north-america/mexico-latest.osm.pbf"
-    },
     {
       "id": "russia/northwestern-fed-district",
       "pbf_url": "https://download.geofabrik.de/russia/northwestern-fed-district-latest.osm.pbf"
