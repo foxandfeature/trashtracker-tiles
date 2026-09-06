@@ -6,34 +6,19 @@
     "asia/indonesia/sumatra",
     "asia/japan/chugoku",
     "europe/france/rhone-alpes",
+    "europe/germany/baden-wuerttemberg/stuttgart-regbez",
+    "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
+    "europe/germany/nordrhein-westfalen/muenster-regbez",
     "europe/norway/nord-norge",
     "europe/ukraine",
     "europe/united-kingdom/scotland",
+    "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/quebec",
     "russia/siberian-fed-district",
     "south-america/brazil/sudeste"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/nordrhein-westfalen/muenster-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/muenster-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/north-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/north-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/duesseldorf-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/newfoundland-and-labrador",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/newfoundland-and-labrador-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/baden-wuerttemberg/stuttgart-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/stuttgart-regbez-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/australia/act",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/act-latest.osm.pbf"
