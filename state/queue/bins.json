@@ -17,7 +17,9 @@
     "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
+    "africa/zambia",
     "antarctica",
+    "asia/china/gansu",
     "asia/china/hebei",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
@@ -35,6 +37,7 @@
     "asia/japan/kanto",
     "asia/japan/kyushu",
     "asia/mongolia",
+    "asia/myanmar",
     "asia/nepal",
     "asia/philippines",
     "asia/thailand",
@@ -91,6 +94,7 @@
     "europe/poland/lubelskie",
     "europe/poland/podlaskie",
     "europe/poland/warminsko-mazurskie",
+    "europe/portugal",
     "europe/serbia",
     "europe/slovakia",
     "europe/slovenia",
@@ -143,6 +147,7 @@
     "north-america/us/pennsylvania",
     "north-america/us/tennessee",
     "north-america/us/texas",
+    "north-america/us/virginia",
     "north-america/us/washington",
     "north-america/us/wisconsin",
     "russia/central-fed-district",
@@ -159,26 +164,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/virginia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/virginia-latest.osm.pbf"
-    },
-    {
-      "id": "africa/zambia",
-      "pbf_url": "https://download.geofabrik.de/africa/zambia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/portugal",
-      "pbf_url": "https://download.geofabrik.de/europe/portugal-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/gansu",
-      "pbf_url": "https://download.geofabrik.de/asia/china/gansu-latest.osm.pbf"
-    },
-    {
-      "id": "asia/myanmar",
-      "pbf_url": "https://download.geofabrik.de/asia/myanmar-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/bayern/oberbayern",
       "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberbayern-latest.osm.pbf"
