@@ -27,6 +27,7 @@
     "africa/niger",
     "africa/nigeria",
     "africa/rwanda",
+    "africa/senegal-and-gambia",
     "africa/somalia",
     "africa/south-africa",
     "africa/south-sudan",
@@ -67,6 +68,7 @@
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/iran",
+    "asia/iraq",
     "asia/israel-and-palestine",
     "asia/japan/chubu",
     "asia/japan/chugoku",
@@ -90,6 +92,7 @@
     "asia/vietnam",
     "asia/yemen",
     "australia-oceania/australia/act",
+    "australia-oceania/australia/ashmore-cartier",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/south-australia",
@@ -123,6 +126,7 @@
     "europe/czech-republic/ustecky",
     "europe/czech-republic/vysocina",
     "europe/denmark",
+    "europe/estonia",
     "europe/finland",
     "europe/france/alsace",
     "europe/france/aquitaine",
@@ -210,6 +214,7 @@
     "europe/poland/lubuskie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
+    "europe/poland/opolskie",
     "europe/poland/podkarpackie",
     "europe/poland/podlaskie",
     "europe/poland/pomorskie",
@@ -364,26 +369,6 @@
     "south-america/uruguay"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/australia/ashmore-cartier",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/ashmore-cartier-latest.osm.pbf"
-    },
-    {
-      "id": "europe/estonia",
-      "pbf_url": "https://download.geofabrik.de/europe/estonia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/iraq",
-      "pbf_url": "https://download.geofabrik.de/asia/iraq-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/opolskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/opolskie-latest.osm.pbf"
-    },
-    {
-      "id": "africa/senegal-and-gambia",
-      "pbf_url": "https://download.geofabrik.de/africa/senegal-and-gambia-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/tyne-and-wear",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/tyne-and-wear-latest.osm.pbf"
