@@ -8,6 +8,7 @@
     "africa/cameroon",
     "africa/chad",
     "africa/congo-democratic-republic",
+    "africa/egypt",
     "africa/guinea",
     "africa/ivory-coast",
     "africa/kenya",
@@ -89,6 +90,7 @@
     "australia-oceania/new-zealand",
     "australia-oceania/tokelau",
     "central-america/belize",
+    "central-america/el-salvador",
     "central-america/honduras",
     "central-america/jamaica",
     "europe/albania",
@@ -131,6 +133,7 @@
     "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/baden-wuerttemberg/tuebingen-regbez",
+    "europe/germany/bayern/mittelfranken",
     "europe/germany/bayern/niederbayern",
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
@@ -209,6 +212,7 @@
     "europe/spain/islas-baleares",
     "europe/spain/madrid",
     "europe/spain/melilla",
+    "europe/spain/murcia",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
@@ -232,6 +236,7 @@
     "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/south-yorkshire",
+    "europe/united-kingdom/england/staffordshire",
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
@@ -319,26 +324,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "central-america/el-salvador",
-      "pbf_url": "https://download.geofabrik.de/central-america/el-salvador-latest.osm.pbf"
-    },
-    {
-      "id": "africa/egypt",
-      "pbf_url": "https://download.geofabrik.de/africa/egypt-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/mittelfranken",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/mittelfranken-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/staffordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/staffordshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/murcia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/murcia-latest.osm.pbf"
-    },
     {
       "id": "north-america/canada/nova-scotia",
       "pbf_url": "https://download.geofabrik.de/north-america/canada/nova-scotia-latest.osm.pbf"
