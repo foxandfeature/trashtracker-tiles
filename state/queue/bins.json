@@ -22,9 +22,11 @@
     "africa/mali",
     "africa/morocco",
     "africa/mozambique",
+    "africa/namibia",
     "africa/niger",
     "africa/nigeria",
     "africa/rwanda",
+    "africa/sierra-leone",
     "africa/somalia",
     "africa/south-africa",
     "africa/south-sudan",
@@ -38,6 +40,7 @@
     "asia/afghanistan",
     "asia/bangladesh",
     "asia/china/anhui",
+    "asia/china/beijing",
     "asia/china/chongqing",
     "asia/china/fujian",
     "asia/china/gansu",
@@ -122,6 +125,7 @@
     "europe/belgium",
     "europe/bosnia-herzegovina",
     "europe/bulgaria",
+    "europe/croatia",
     "europe/cyprus",
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/pardubicky",
@@ -292,6 +296,7 @@
     "north-america/us/california/socal",
     "north-america/us/colorado",
     "north-america/us/connecticut",
+    "north-america/us/delaware",
     "north-america/us/florida",
     "north-america/us/georgia",
     "north-america/us/idaho",
@@ -349,26 +354,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/delaware",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/delaware-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/beijing",
-      "pbf_url": "https://download.geofabrik.de/asia/china/beijing-latest.osm.pbf"
-    },
-    {
-      "id": "africa/namibia",
-      "pbf_url": "https://download.geofabrik.de/africa/namibia-latest.osm.pbf"
-    },
-    {
-      "id": "africa/sierra-leone",
-      "pbf_url": "https://download.geofabrik.de/africa/sierra-leone-latest.osm.pbf"
-    },
-    {
-      "id": "europe/croatia",
-      "pbf_url": "https://download.geofabrik.de/europe/croatia-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/lubuskie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/lubuskie-latest.osm.pbf"
