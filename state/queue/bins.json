@@ -17,6 +17,7 @@
     "asia/indonesia/sumatra",
     "asia/japan/chubu",
     "asia/japan/chugoku",
+    "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/japan/tohoku",
     "asia/nepal",
@@ -26,11 +27,14 @@
     "australia-oceania/australia/new-south-wales",
     "europe/belgium",
     "europe/bosnia-herzegovina",
+    "europe/czech-republic/stredocesky",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/bayern/niederbayern",
+    "europe/germany/nordrhein-westfalen/arnsberg-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
+    "europe/italy/nord-ovest",
     "europe/netherlands/limburg",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
@@ -39,6 +43,7 @@
     "europe/united-kingdom/scotland",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/british-columbia/southcoast-admreg",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
@@ -54,26 +59,6 @@
     "south-america/paraguay"
   ],
   "remaining": [
-    {
-      "id": "asia/japan/kansai",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kansai-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/nord-ovest",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/nord-ovest-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/stredocesky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/stredocesky-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/southcoast-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/southcoast-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/arnsberg-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/arnsberg-regbez-latest.osm.pbf"
-    },
     {
       "id": "africa/cameroon",
       "pbf_url": "https://download.geofabrik.de/africa/cameroon-latest.osm.pbf"
