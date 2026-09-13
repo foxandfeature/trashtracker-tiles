@@ -4,11 +4,13 @@
   "lock": [
     "africa/algeria",
     "africa/angola",
+    "africa/benin",
     "africa/cameroon",
     "africa/congo-democratic-republic",
     "africa/guinea",
     "africa/ivory-coast",
     "africa/lesotho",
+    "africa/niger",
     "africa/nigeria",
     "africa/rwanda",
     "africa/somalia",
@@ -43,10 +45,12 @@
     "asia/japan/tohoku",
     "asia/malaysia-singapore-brunei",
     "asia/mongolia",
+    "asia/myanmar",
     "asia/nepal",
     "asia/pakistan",
     "asia/philippines",
     "asia/thailand",
+    "asia/yemen",
     "australia-oceania/australia/act",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
@@ -114,6 +118,7 @@
     "north-america/us/california/socal",
     "north-america/us/florida",
     "north-america/us/mississippi",
+    "north-america/us/pennsylvania",
     "russia/central-fed-district",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
@@ -129,26 +134,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "asia/yemen",
-      "pbf_url": "https://download.geofabrik.de/asia/yemen-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/pennsylvania",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/pennsylvania-latest.osm.pbf"
-    },
-    {
-      "id": "africa/benin",
-      "pbf_url": "https://download.geofabrik.de/africa/benin-latest.osm.pbf"
-    },
-    {
-      "id": "asia/myanmar",
-      "pbf_url": "https://download.geofabrik.de/asia/myanmar-latest.osm.pbf"
-    },
-    {
-      "id": "africa/niger",
-      "pbf_url": "https://download.geofabrik.de/africa/niger-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/hertfordshire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/hertfordshire-latest.osm.pbf"
