@@ -16,6 +16,7 @@
     "africa/comores",
     "africa/congo-brazzaville",
     "africa/congo-democratic-republic",
+    "africa/djibouti",
     "africa/egypt",
     "africa/eritrea",
     "africa/ethiopia",
@@ -32,6 +33,7 @@
     "africa/malawi",
     "africa/mali",
     "africa/mauritania",
+    "africa/mauritius",
     "africa/morocco",
     "africa/mozambique",
     "africa/namibia",
@@ -158,6 +160,7 @@
     "australia-oceania/samoa",
     "australia-oceania/solomon-islands",
     "australia-oceania/tokelau",
+    "australia-oceania/tuvalu",
     "australia-oceania/vanuatu",
     "central-america/bahamas",
     "central-america/belize",
@@ -171,6 +174,7 @@
     "central-america/nicaragua",
     "central-america/panama",
     "europe/albania",
+    "europe/andorra",
     "europe/austria",
     "europe/azores",
     "europe/belarus",
@@ -195,6 +199,7 @@
     "europe/czech-republic/zlinsky",
     "europe/denmark",
     "europe/estonia",
+    "europe/faroe-islands",
     "europe/finland",
     "europe/france/alsace",
     "europe/france/aquitaine",
@@ -479,26 +484,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/djibouti",
-      "pbf_url": "https://download.geofabrik.de/africa/djibouti-latest.osm.pbf"
-    },
-    {
-      "id": "africa/mauritius",
-      "pbf_url": "https://download.geofabrik.de/africa/mauritius-latest.osm.pbf"
-    },
-    {
-      "id": "europe/faroe-islands",
-      "pbf_url": "https://download.geofabrik.de/europe/faroe-islands-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/tuvalu",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/tuvalu-latest.osm.pbf"
-    },
-    {
-      "id": "europe/andorra",
-      "pbf_url": "https://download.geofabrik.de/europe/andorra-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/la-rioja",
       "pbf_url": "https://download.geofabrik.de/europe/spain/la-rioja-latest.osm.pbf"
