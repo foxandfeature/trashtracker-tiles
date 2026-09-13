@@ -2,10 +2,12 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/algeria",
     "africa/congo-democratic-republic",
     "africa/south-africa",
     "africa/sudan",
     "africa/tanzania",
+    "asia/china/heilongjiang",
     "asia/china/hong-kong",
     "asia/india/central-zone",
     "asia/india/southern-zone",
@@ -16,11 +18,13 @@
     "asia/japan/kanto",
     "asia/japan/tohoku",
     "asia/nepal",
+    "asia/pakistan",
     "asia/thailand",
     "europe/belgium",
     "europe/bosnia-herzegovina",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
+    "europe/germany/bayern/niederbayern",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
     "europe/netherlands/limburg",
@@ -29,6 +33,7 @@
     "europe/ukraine",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/scotland",
+    "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/nunavut/kitikmeot",
@@ -44,26 +49,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/bayern/niederbayern",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/niederbayern-latest.osm.pbf"
-    },
-    {
-      "id": "africa/algeria",
-      "pbf_url": "https://download.geofabrik.de/africa/algeria-latest.osm.pbf"
-    },
-    {
-      "id": "asia/pakistan",
-      "pbf_url": "https://download.geofabrik.de/asia/pakistan-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/interior-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/interior-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/heilongjiang",
-      "pbf_url": "https://download.geofabrik.de/asia/china/heilongjiang-latest.osm.pbf"
-    },
     {
       "id": "south-america/paraguay",
       "pbf_url": "https://download.geofabrik.de/south-america/paraguay-latest.osm.pbf"
