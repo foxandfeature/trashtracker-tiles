@@ -125,6 +125,7 @@
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
+    "australia-oceania/polynesie-francaise",
     "australia-oceania/samoa",
     "australia-oceania/tokelau",
     "central-america/belize",
@@ -260,6 +261,7 @@
     "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
+    "europe/spain/ceuta",
     "europe/spain/extremadura",
     "europe/spain/galicia",
     "europe/spain/islas-baleares",
@@ -272,6 +274,7 @@
     "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/england/bedfordshire",
+    "europe/united-kingdom/england/buckinghamshire",
     "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/cumbria",
@@ -343,6 +346,7 @@
     "north-america/us/kansas",
     "north-america/us/kentucky",
     "north-america/us/louisiana",
+    "north-america/us/maine",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
@@ -391,29 +395,10 @@
     "south-america/ecuador",
     "south-america/paraguay",
     "south-america/peru",
+    "south-america/uruguay",
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/polynesie-francaise",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/polynesie-francaise-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/ceuta",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/ceuta-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/uruguay",
-      "pbf_url": "https://download.geofabrik.de/south-america/uruguay-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/maine",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/maine-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/buckinghamshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/buckinghamshire-latest.osm.pbf"
-    },
     {
       "id": "europe/france/haute-normandie",
       "pbf_url": "https://download.geofabrik.de/europe/france/haute-normandie-latest.osm.pbf"
