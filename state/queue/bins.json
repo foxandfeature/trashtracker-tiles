@@ -47,10 +47,12 @@
     "asia/china/hong-kong",
     "asia/china/jiangsu",
     "asia/china/liaoning",
+    "asia/china/qinghai",
     "asia/china/shaanxi",
     "asia/china/shandong",
     "asia/china/shanxi",
     "asia/china/sichuan",
+    "asia/china/tibet",
     "asia/china/xinjiang",
     "asia/china/zhejiang",
     "asia/gcc-states",
@@ -141,6 +143,7 @@
     "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/baden-wuerttemberg/tuebingen-regbez",
+    "europe/germany/bayern/mittelfranken",
     "europe/germany/bayern/niederbayern",
     "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
@@ -223,6 +226,7 @@
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/derbyshire",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
+    "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/england/hampshire",
     "europe/united-kingdom/england/hertfordshire",
     "europe/united-kingdom/england/kent",
@@ -270,6 +274,7 @@
     "north-america/us/idaho",
     "north-america/us/illinois",
     "north-america/us/indiana",
+    "north-america/us/iowa",
     "north-america/us/louisiana",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
@@ -319,26 +324,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/bayern/mittelfranken",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/mittelfranken-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/tibet",
-      "pbf_url": "https://download.geofabrik.de/asia/china/tibet-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/iowa",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/iowa-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/greater-london",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/greater-london-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/qinghai",
-      "pbf_url": "https://download.geofabrik.de/asia/china/qinghai-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/cumbria",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cumbria-latest.osm.pbf"
