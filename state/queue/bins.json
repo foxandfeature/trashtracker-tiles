@@ -15,6 +15,7 @@
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
+    "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/japan/chubu",
     "asia/japan/chugoku",
@@ -36,9 +37,11 @@
     "europe/bosnia-herzegovina",
     "europe/cyprus",
     "europe/czech-republic/stredocesky",
+    "europe/finland",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/bayern/niederbayern",
+    "europe/germany/bayern/oberfranken",
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
@@ -46,10 +49,12 @@
     "europe/netherlands/limburg",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
+    "europe/sweden",
     "europe/ukraine",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/scotland",
+    "europe/united-kingdom/wales",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/kootenay-admreg",
     "north-america/canada/british-columbia/north-admreg",
@@ -74,26 +79,6 @@
     "south-america/paraguay"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/bayern/oberfranken",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberfranken-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/wales",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/wales-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/sulawesi",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/sulawesi-latest.osm.pbf"
-    },
-    {
-      "id": "europe/finland",
-      "pbf_url": "https://download.geofabrik.de/europe/finland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/sweden",
-      "pbf_url": "https://download.geofabrik.de/europe/sweden-latest.osm.pbf"
-    },
     {
       "id": "asia/bangladesh",
       "pbf_url": "https://download.geofabrik.de/asia/bangladesh-latest.osm.pbf"
