@@ -111,6 +111,7 @@
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
+    "europe/germany/baden-wuerttemberg/freiburg-regbez",
     "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/bayern/niederbayern",
@@ -139,8 +140,10 @@
     "europe/kosovo",
     "europe/lithuania",
     "europe/monaco",
+    "europe/netherlands/drenthe",
     "europe/netherlands/gelderland",
     "europe/netherlands/limburg",
+    "europe/netherlands/noord-holland",
     "europe/netherlands/overijssel",
     "europe/netherlands/zeeland",
     "europe/netherlands/zuid-holland",
@@ -148,6 +151,7 @@
     "europe/norway/ostlandet",
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
+    "europe/poland/dolnoslaskie",
     "europe/poland/lodzkie",
     "europe/poland/lubelskie",
     "europe/poland/malopolskie",
@@ -251,29 +255,10 @@
     "south-america/colombia",
     "south-america/ecuador",
     "south-america/paraguay",
-    "south-america/peru"
+    "south-america/peru",
+    "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/baden-wuerttemberg/freiburg-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/freiburg-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/venezuela",
-      "pbf_url": "https://download.geofabrik.de/south-america/venezuela-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/noord-holland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/noord-holland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/drenthe",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/drenthe-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/dolnoslaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/dolnoslaskie-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/pomorskie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/pomorskie-latest.osm.pbf"
