@@ -10,6 +10,7 @@
     "africa/cameroon",
     "africa/chad",
     "africa/congo-democratic-republic",
+    "africa/egypt",
     "africa/ghana",
     "africa/guinea",
     "africa/ivory-coast",
@@ -40,6 +41,7 @@
     "asia/china/hebei",
     "asia/china/heilongjiang",
     "asia/china/hong-kong",
+    "asia/china/jiangsu",
     "asia/china/liaoning",
     "asia/china/shaanxi",
     "asia/china/sichuan",
@@ -144,6 +146,7 @@
     "europe/germany/rheinland-pfalz",
     "europe/germany/sachsen",
     "europe/germany/sachsen-anhalt",
+    "europe/germany/schleswig-holstein",
     "europe/germany/thueringen",
     "europe/greece",
     "europe/hungary",
@@ -158,6 +161,7 @@
     "europe/lithuania",
     "europe/monaco",
     "europe/netherlands/drenthe",
+    "europe/netherlands/friesland",
     "europe/netherlands/gelderland",
     "europe/netherlands/limburg",
     "europe/netherlands/noord-brabant",
@@ -209,6 +213,7 @@
     "europe/united-kingdom/england/hertfordshire",
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/leicestershire",
+    "europe/united-kingdom/england/lincolnshire",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/northumberland",
@@ -294,26 +299,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/jiangsu",
-      "pbf_url": "https://download.geofabrik.de/asia/china/jiangsu-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/friesland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/friesland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/lincolnshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/lincolnshire-latest.osm.pbf"
-    },
-    {
-      "id": "africa/egypt",
-      "pbf_url": "https://download.geofabrik.de/africa/egypt-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/schleswig-holstein",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/schleswig-holstein-latest.osm.pbf"
-    },
     {
       "id": "asia/china/shanxi",
       "pbf_url": "https://download.geofabrik.de/asia/china/shanxi-latest.osm.pbf"
