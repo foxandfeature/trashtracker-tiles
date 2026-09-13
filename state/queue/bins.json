@@ -7,12 +7,14 @@
     "africa/south-africa",
     "africa/sudan",
     "africa/tanzania",
+    "asia/china/hebei",
     "asia/china/heilongjiang",
     "asia/china/hong-kong",
     "asia/india/central-zone",
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
+    "asia/indonesia/sumatra",
     "asia/japan/chubu",
     "asia/japan/chugoku",
     "asia/japan/kanto",
@@ -20,6 +22,8 @@
     "asia/nepal",
     "asia/pakistan",
     "asia/thailand",
+    "australia-oceania/australia/act",
+    "australia-oceania/australia/new-south-wales",
     "europe/belgium",
     "europe/bosnia-herzegovina",
     "europe/france/rhone-alpes",
@@ -46,29 +50,10 @@
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
-    "south-america/colombia"
+    "south-america/colombia",
+    "south-america/paraguay"
   ],
   "remaining": [
-    {
-      "id": "south-america/paraguay",
-      "pbf_url": "https://download.geofabrik.de/south-america/paraguay-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/act",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/act-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/new-south-wales",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/new-south-wales-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/sumatra",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/sumatra-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/hebei",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hebei-latest.osm.pbf"
-    },
     {
       "id": "asia/japan/kansai",
       "pbf_url": "https://download.geofabrik.de/asia/japan/kansai-latest.osm.pbf"
