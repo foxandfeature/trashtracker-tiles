@@ -46,8 +46,10 @@
     "asia/china/heilongjiang",
     "asia/china/henan",
     "asia/china/hong-kong",
+    "asia/china/hubei",
     "asia/china/hunan",
     "asia/china/jiangsu",
+    "asia/china/jilin",
     "asia/china/liaoning",
     "asia/china/qinghai",
     "asia/china/shaanxi",
@@ -243,6 +245,7 @@
     "europe/united-kingdom/england/northumberland",
     "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/somerset",
+    "europe/united-kingdom/england/south-yorkshire",
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
@@ -257,6 +260,7 @@
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/british-columbia/southcoast-admreg",
     "north-america/canada/manitoba",
+    "north-america/canada/new-brunswick",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/northwest-territories",
     "north-america/canada/nova-scotia",
@@ -266,6 +270,7 @@
     "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/canada/saskatchewan",
+    "north-america/canada/yukon",
     "north-america/mexico",
     "north-america/us/alaska",
     "north-america/us/arizona",
@@ -329,26 +334,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "asia/china/hubei",
-      "pbf_url": "https://download.geofabrik.de/asia/china/hubei-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/new-brunswick",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/new-brunswick-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/yukon",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/yukon-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/jilin",
-      "pbf_url": "https://download.geofabrik.de/asia/china/jilin-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/south-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/south-yorkshire-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/montana",
       "pbf_url": "https://download.geofabrik.de/north-america/us/montana-latest.osm.pbf"
