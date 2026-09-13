@@ -12,8 +12,10 @@
     "africa/canary-islands",
     "africa/central-african-republic",
     "africa/chad",
+    "africa/congo-brazzaville",
     "africa/congo-democratic-republic",
     "africa/egypt",
+    "africa/ethiopia",
     "africa/ghana",
     "africa/guinea",
     "africa/ivory-coast",
@@ -103,6 +105,7 @@
     "asia/philippines",
     "asia/south-korea",
     "asia/sri-lanka",
+    "asia/syria",
     "asia/taiwan",
     "asia/thailand",
     "asia/uzbekistan",
@@ -137,6 +140,7 @@
     "europe/bulgaria",
     "europe/croatia",
     "europe/cyprus",
+    "europe/czech-republic/jihocesky",
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/pardubicky",
     "europe/czech-republic/plzensky",
@@ -206,6 +210,7 @@
     "europe/kosovo",
     "europe/latvia",
     "europe/lithuania",
+    "europe/moldova",
     "europe/monaco",
     "europe/netherlands/drenthe",
     "europe/netherlands/friesland",
@@ -379,26 +384,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/congo-brazzaville",
-      "pbf_url": "https://download.geofabrik.de/africa/congo-brazzaville-latest.osm.pbf"
-    },
-    {
-      "id": "africa/ethiopia",
-      "pbf_url": "https://download.geofabrik.de/africa/ethiopia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/jihocesky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/jihocesky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/moldova",
-      "pbf_url": "https://download.geofabrik.de/europe/moldova-latest.osm.pbf"
-    },
-    {
-      "id": "asia/syria",
-      "pbf_url": "https://download.geofabrik.de/asia/syria-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/merseyside",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/merseyside-latest.osm.pbf"
