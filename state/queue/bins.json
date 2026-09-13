@@ -28,6 +28,7 @@
     "africa/madagascar",
     "africa/malawi",
     "africa/mali",
+    "africa/mauritania",
     "africa/morocco",
     "africa/mozambique",
     "africa/namibia",
@@ -244,6 +245,7 @@
     "europe/moldova",
     "europe/monaco",
     "europe/netherlands/drenthe",
+    "europe/netherlands/flevoland",
     "europe/netherlands/friesland",
     "europe/netherlands/gelderland",
     "europe/netherlands/groningen",
@@ -293,6 +295,7 @@
     "europe/spain/madrid",
     "europe/spain/melilla",
     "europe/spain/murcia",
+    "europe/spain/navarra",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
@@ -355,6 +358,7 @@
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/ontario",
+    "north-america/canada/prince-edward-island",
     "north-america/canada/quebec",
     "north-america/canada/saskatchewan",
     "north-america/canada/yukon",
@@ -402,6 +406,7 @@
     "north-america/us/south-dakota",
     "north-america/us/tennessee",
     "north-america/us/texas",
+    "north-america/us/us-virgin-islands",
     "north-america/us/utah",
     "north-america/us/virginia",
     "north-america/us/washington",
@@ -434,26 +439,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/us-virgin-islands",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/us-virgin-islands-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/flevoland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/flevoland-latest.osm.pbf"
-    },
-    {
-      "id": "africa/mauritania",
-      "pbf_url": "https://download.geofabrik.de/africa/mauritania-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/navarra",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/navarra-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/prince-edward-island",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/prince-edward-island-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/asturias",
       "pbf_url": "https://download.geofabrik.de/europe/spain/asturias-latest.osm.pbf"
