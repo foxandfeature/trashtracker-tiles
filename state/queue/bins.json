@@ -124,14 +124,19 @@
     "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/canada/saskatchewan",
+    "north-america/mexico",
     "north-america/us/alaska",
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
+    "north-america/us/colorado",
     "north-america/us/florida",
     "north-america/us/georgia",
     "north-america/us/mississippi",
+    "north-america/us/new-york",
     "north-america/us/pennsylvania",
+    "north-america/us/texas",
+    "north-america/us/washington",
     "russia/central-fed-district",
     "russia/crimean-fed-district",
     "russia/siberian-fed-district",
@@ -149,26 +154,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/washington",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/washington-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/mexico",
-      "pbf_url": "https://download.geofabrik.de/north-america/mexico-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/new-york",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/new-york-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/colorado",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/colorado-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/texas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/texas-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/kent",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/kent-latest.osm.pbf"
