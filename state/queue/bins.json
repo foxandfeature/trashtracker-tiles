@@ -49,6 +49,7 @@
     "antarctica",
     "asia/afghanistan",
     "asia/bangladesh",
+    "asia/cambodia",
     "asia/china/anhui",
     "asia/china/beijing",
     "asia/china/chongqing",
@@ -104,6 +105,7 @@
     "asia/japan/shikoku",
     "asia/japan/tohoku",
     "asia/kazakhstan",
+    "asia/kyrgyzstan",
     "asia/lebanon",
     "asia/malaysia-singapore-brunei",
     "asia/mongolia",
@@ -157,10 +159,12 @@
     "europe/croatia",
     "europe/cyprus",
     "europe/czech-republic/jihocesky",
+    "europe/czech-republic/jihomoravsky",
     "europe/czech-republic/karlovarsky",
     "europe/czech-republic/kralovehradecky",
     "europe/czech-republic/liberecky",
     "europe/czech-republic/moravskoslezky",
+    "europe/czech-republic/olomoucky",
     "europe/czech-republic/pardubicky",
     "europe/czech-republic/plzensky",
     "europe/czech-republic/praha",
@@ -233,6 +237,7 @@
     "europe/kosovo",
     "europe/latvia",
     "europe/lithuania",
+    "europe/macedonia",
     "europe/moldova",
     "europe/monaco",
     "europe/netherlands/drenthe",
@@ -424,26 +429,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/czech-republic/jihomoravsky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/jihomoravsky-latest.osm.pbf"
-    },
-    {
-      "id": "asia/kyrgyzstan",
-      "pbf_url": "https://download.geofabrik.de/asia/kyrgyzstan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/olomoucky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/olomoucky-latest.osm.pbf"
-    },
-    {
-      "id": "asia/cambodia",
-      "pbf_url": "https://download.geofabrik.de/asia/cambodia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/macedonia",
-      "pbf_url": "https://download.geofabrik.de/europe/macedonia-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/shropshire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/shropshire-latest.osm.pbf"
