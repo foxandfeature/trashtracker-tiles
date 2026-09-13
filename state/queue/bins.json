@@ -117,6 +117,7 @@
     "europe/ireland-and-northern-ireland",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
+    "europe/italy/sud",
     "europe/kosovo",
     "europe/monaco",
     "europe/netherlands/gelderland",
@@ -133,9 +134,11 @@
     "europe/poland/malopolskie",
     "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
+    "europe/serbia",
     "europe/spain/andalucia",
     "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
+    "europe/spain/cataluna",
     "europe/spain/melilla",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
@@ -159,6 +162,7 @@
     "north-america/canada/british-columbia/kootenay-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/british-columbia/southcoast-admreg",
+    "north-america/canada/manitoba",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/northwest-territories",
     "north-america/canada/nunavut/kitikmeot",
@@ -189,6 +193,7 @@
     "north-america/us/oklahoma",
     "north-america/us/pennsylvania",
     "north-america/us/texas",
+    "north-america/us/utah",
     "north-america/us/virginia",
     "north-america/us/washington",
     "russia/central-fed-district",
@@ -209,26 +214,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/serbia",
-      "pbf_url": "https://download.geofabrik.de/europe/serbia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/italy/sud",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/sud-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/manitoba",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/manitoba-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/cataluna",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/cataluna-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/utah",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/utah-latest.osm.pbf"
-    },
     {
       "id": "asia/sri-lanka",
       "pbf_url": "https://download.geofabrik.de/asia/sri-lanka-latest.osm.pbf"
