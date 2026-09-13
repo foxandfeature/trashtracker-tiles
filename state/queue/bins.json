@@ -16,6 +16,7 @@
     "africa/madagascar",
     "africa/mali",
     "africa/morocco",
+    "africa/mozambique",
     "africa/niger",
     "africa/nigeria",
     "africa/rwanda",
@@ -85,6 +86,7 @@
     "central-america/el-salvador",
     "central-america/honduras",
     "central-america/jamaica",
+    "europe/albania",
     "europe/austria",
     "europe/belgium",
     "europe/bosnia-herzegovina",
@@ -120,6 +122,7 @@
     "europe/germany/bayern/oberpfalz",
     "europe/germany/bayern/unterfranken",
     "europe/germany/brandenburg",
+    "europe/germany/hessen",
     "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
     "europe/germany/nordrhein-westfalen/detmold-regbez",
@@ -156,10 +159,12 @@
     "europe/poland/lubelskie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
+    "europe/poland/pomorskie",
     "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
     "europe/poland/wielkopolskie",
     "europe/portugal",
+    "europe/romania",
     "europe/serbia",
     "europe/slovakia",
     "europe/slovenia",
@@ -259,26 +264,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/poland/pomorskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/pomorskie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/romania",
-      "pbf_url": "https://download.geofabrik.de/europe/romania-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/hessen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/hessen-latest.osm.pbf"
-    },
-    {
-      "id": "africa/mozambique",
-      "pbf_url": "https://download.geofabrik.de/africa/mozambique-latest.osm.pbf"
-    },
-    {
-      "id": "europe/albania",
-      "pbf_url": "https://download.geofabrik.de/europe/albania-latest.osm.pbf"
-    },
     {
       "id": "europe/italy/centro",
       "pbf_url": "https://download.geofabrik.de/europe/italy/centro-latest.osm.pbf"
