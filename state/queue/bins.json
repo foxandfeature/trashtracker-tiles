@@ -3,37 +3,22 @@
   "failed": [],
   "lock": [
     "asia/india/southern-zone",
+    "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/japan/chugoku",
     "asia/japan/kanto",
     "asia/japan/tohoku",
+    "europe/belgium",
+    "europe/norway/ostlandet",
     "europe/ukraine",
+    "europe/united-kingdom/scotland",
+    "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/quebec",
     "south-america/brazil/nordeste",
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/scotland",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/scotland-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/nunavut/kivalliq",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/nunavut/kivalliq-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/western-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/western-zone-latest.osm.pbf"
-    },
-    {
-      "id": "europe/belgium",
-      "pbf_url": "https://download.geofabrik.de/europe/belgium-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/ostlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/ostlandet-latest.osm.pbf"
-    },
     {
       "id": "africa/tanzania",
       "pbf_url": "https://download.geofabrik.de/africa/tanzania-latest.osm.pbf"
