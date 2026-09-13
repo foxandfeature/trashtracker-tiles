@@ -28,7 +28,10 @@
     "asia/thailand",
     "australia-oceania/australia/act",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/australia/south-australia",
+    "australia-oceania/australia/tasmania",
     "australia-oceania/new-zealand",
+    "central-america/jamaica",
     "europe/belgium",
     "europe/bosnia-herzegovina",
     "europe/cyprus",
@@ -44,6 +47,7 @@
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/ukraine",
+    "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/scotland",
     "north-america/canada/british-columbia/interior-admreg",
@@ -59,6 +63,7 @@
     "north-america/canada/saskatchewan",
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
+    "north-america/us/florida",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
@@ -69,26 +74,6 @@
     "south-america/paraguay"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/east-yorkshire-with-hull",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/east-yorkshire-with-hull-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/tasmania",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/tasmania-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/florida",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/florida-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/jamaica",
-      "pbf_url": "https://download.geofabrik.de/central-america/jamaica-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/south-australia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/south-australia-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/bayern/oberfranken",
       "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberfranken-latest.osm.pbf"
