@@ -12,6 +12,7 @@
     "africa/canary-islands",
     "africa/central-african-republic",
     "africa/chad",
+    "africa/comores",
     "africa/congo-brazzaville",
     "africa/congo-democratic-republic",
     "africa/egypt",
@@ -119,6 +120,7 @@
     "asia/yemen",
     "australia-oceania/american-oceania",
     "australia-oceania/australia/act",
+    "australia-oceania/australia/ashmore-cartier",
     "australia-oceania/australia/coral-sea-islands",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
@@ -129,6 +131,7 @@
     "australia-oceania/new-zealand",
     "australia-oceania/polynesie-francaise",
     "australia-oceania/samoa",
+    "australia-oceania/solomon-islands",
     "australia-oceania/tokelau",
     "central-america/belize",
     "central-america/costa-rica",
@@ -360,6 +363,7 @@
     "north-america/us/missouri",
     "north-america/us/montana",
     "north-america/us/nebraska",
+    "north-america/us/nevada",
     "north-america/us/new-hampshire",
     "north-america/us/new-jersey",
     "north-america/us/new-mexico",
@@ -383,6 +387,7 @@
     "russia/central-fed-district",
     "russia/crimean-fed-district",
     "russia/far-eastern-fed-district",
+    "russia/north-caucasus-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/south-fed-district",
@@ -404,26 +409,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/australia/ashmore-cartier",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/ashmore-cartier-latest.osm.pbf"
-    },
-    {
-      "id": "russia/north-caucasus-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/north-caucasus-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/solomon-islands",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/solomon-islands-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/nevada",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/nevada-latest.osm.pbf"
-    },
-    {
-      "id": "africa/comores",
-      "pbf_url": "https://download.geofabrik.de/africa/comores-latest.osm.pbf"
-    },
     {
       "id": "europe/czech-republic/kralovehradecky",
       "pbf_url": "https://download.geofabrik.de/europe/czech-republic/kralovehradecky-latest.osm.pbf"
