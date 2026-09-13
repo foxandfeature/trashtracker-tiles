@@ -42,6 +42,7 @@
     "asia/china/liaoning",
     "asia/china/shaanxi",
     "asia/china/sichuan",
+    "asia/china/zhejiang",
     "asia/gcc-states",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
@@ -93,6 +94,7 @@
     "central-america/jamaica",
     "europe/albania",
     "europe/austria",
+    "europe/belarus",
     "europe/belgium",
     "europe/bosnia-herzegovina",
     "europe/cyprus",
@@ -171,6 +173,7 @@
     "europe/poland/lubelskie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
+    "europe/poland/podkarpackie",
     "europe/poland/podlaskie",
     "europe/poland/pomorskie",
     "europe/poland/slaskie",
@@ -187,6 +190,7 @@
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
     "europe/spain/extremadura",
+    "europe/spain/galicia",
     "europe/spain/islas-baleares",
     "europe/spain/madrid",
     "europe/spain/melilla",
@@ -205,6 +209,7 @@
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/northumberland",
+    "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-sussex",
@@ -284,26 +289,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/belarus",
-      "pbf_url": "https://download.geofabrik.de/europe/belarus-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/podkarpackie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/podkarpackie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/nottinghamshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/nottinghamshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/zhejiang",
-      "pbf_url": "https://download.geofabrik.de/asia/china/zhejiang-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/galicia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/galicia-latest.osm.pbf"
-    },
     {
       "id": "europe/georgia",
       "pbf_url": "https://download.geofabrik.de/europe/georgia-latest.osm.pbf"
