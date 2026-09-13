@@ -3,6 +3,7 @@
   "failed": [],
   "lock": [
     "africa/algeria",
+    "africa/cameroon",
     "africa/congo-democratic-republic",
     "africa/south-africa",
     "africa/sudan",
@@ -19,12 +20,14 @@
     "asia/japan/chugoku",
     "asia/japan/kansai",
     "asia/japan/kanto",
+    "asia/japan/kyushu",
     "asia/japan/tohoku",
     "asia/nepal",
     "asia/pakistan",
     "asia/thailand",
     "australia-oceania/australia/act",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/new-zealand",
     "europe/belgium",
     "europe/bosnia-herzegovina",
     "europe/czech-republic/stredocesky",
@@ -50,7 +53,9 @@
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/quebec",
     "north-america/canada/saskatchewan",
+    "north-america/us/california/norcal",
     "russia/siberian-fed-district",
+    "russia/volga-fed-district",
     "south-america/argentina",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
@@ -59,26 +64,6 @@
     "south-america/paraguay"
   ],
   "remaining": [
-    {
-      "id": "africa/cameroon",
-      "pbf_url": "https://download.geofabrik.de/africa/cameroon-latest.osm.pbf"
-    },
-    {
-      "id": "russia/volga-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/volga-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/new-zealand",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/new-zealand-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/kyushu",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kyushu-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/california/norcal",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/california/norcal-latest.osm.pbf"
-    },
     {
       "id": "europe/cyprus",
       "pbf_url": "https://download.geofabrik.de/europe/cyprus-latest.osm.pbf"
