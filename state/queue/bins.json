@@ -6,12 +6,15 @@
     "africa/cameroon",
     "africa/congo-democratic-republic",
     "africa/south-africa",
+    "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
+    "asia/bangladesh",
     "asia/china/hebei",
     "asia/china/heilongjiang",
     "asia/china/hong-kong",
     "asia/india/central-zone",
+    "asia/india/eastern-zone",
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
@@ -42,6 +45,7 @@
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/bayern/niederbayern",
     "europe/germany/bayern/oberfranken",
+    "europe/germany/bayern/oberpfalz",
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
@@ -49,6 +53,7 @@
     "europe/netherlands/limburg",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
+    "europe/norway/trondelag",
     "europe/sweden",
     "europe/ukraine",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
@@ -79,26 +84,6 @@
     "south-america/paraguay"
   ],
   "remaining": [
-    {
-      "id": "asia/bangladesh",
-      "pbf_url": "https://download.geofabrik.de/asia/bangladesh-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/eastern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/eastern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/oberpfalz",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberpfalz-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/trondelag",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/trondelag-latest.osm.pbf"
-    },
-    {
-      "id": "africa/south-sudan",
-      "pbf_url": "https://download.geofabrik.de/africa/south-sudan-latest.osm.pbf"
-    },
     {
       "id": "asia/indonesia/kalimantan",
       "pbf_url": "https://download.geofabrik.de/asia/indonesia/kalimantan-latest.osm.pbf"
