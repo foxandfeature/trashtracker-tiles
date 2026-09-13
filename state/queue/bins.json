@@ -50,6 +50,7 @@
     "asia/nepal",
     "asia/pakistan",
     "asia/philippines",
+    "asia/taiwan",
     "asia/thailand",
     "asia/yemen",
     "australia-oceania/australia/act",
@@ -71,6 +72,7 @@
     "europe/czech-republic/stredocesky",
     "europe/finland",
     "europe/france/lorraine",
+    "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
@@ -79,6 +81,7 @@
     "europe/germany/bayern/oberpfalz",
     "europe/germany/bayern/unterfranken",
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
+    "europe/germany/nordrhein-westfalen/detmold-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
     "europe/germany/rheinland-pfalz",
@@ -117,10 +120,12 @@
     "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/canada/saskatchewan",
+    "north-america/us/alaska",
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/california/socal",
     "north-america/us/florida",
+    "north-america/us/georgia",
     "north-america/us/mississippi",
     "north-america/us/pennsylvania",
     "russia/central-fed-district",
@@ -139,26 +144,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/georgia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/georgia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/taiwan",
-      "pbf_url": "https://download.geofabrik.de/asia/taiwan-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/alaska",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/alaska-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/provence-alpes-cote-d-azur",
-      "pbf_url": "https://download.geofabrik.de/europe/france/provence-alpes-cote-d-azur-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/nordrhein-westfalen/detmold-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/detmold-regbez-latest.osm.pbf"
-    },
     {
       "id": "europe/france/mayotte",
       "pbf_url": "https://download.geofabrik.de/europe/france/mayotte-latest.osm.pbf"
