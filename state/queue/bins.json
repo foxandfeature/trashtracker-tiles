@@ -62,10 +62,12 @@
     "europe/bosnia-herzegovina",
     "europe/cyprus",
     "europe/czech-republic/moravskoslezky",
+    "europe/czech-republic/plzensky",
     "europe/czech-republic/stredocesky",
     "europe/finland",
     "europe/france/lorraine",
     "europe/france/rhone-alpes",
+    "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/bayern/niederbayern",
     "europe/germany/bayern/oberfranken",
@@ -85,12 +87,15 @@
     "europe/norway/vestlandet",
     "europe/poland/malopolskie",
     "europe/poland/warminsko-mazurskie",
+    "europe/spain/andalucia",
     "europe/spain/valencia",
     "europe/sweden",
+    "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/warwickshire",
+    "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/british-columbia/interior-admreg",
@@ -124,26 +129,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/czech-republic/plzensky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/plzensky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/west-yorkshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-yorkshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/andalucia",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/andalucia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/turkey",
-      "pbf_url": "https://download.geofabrik.de/europe/turkey-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/karlsruhe-regbez-latest.osm.pbf"
-    },
     {
       "id": "asia/yemen",
       "pbf_url": "https://download.geofabrik.de/asia/yemen-latest.osm.pbf"
