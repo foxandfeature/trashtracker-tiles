@@ -42,6 +42,7 @@
     "africa/rwanda",
     "africa/saint-helena-ascension-and-tristan-da-cunha",
     "africa/senegal-and-gambia",
+    "africa/seychelles",
     "africa/sierra-leone",
     "africa/somalia",
     "africa/south-africa",
@@ -154,6 +155,7 @@
     "australia-oceania/fiji",
     "australia-oceania/kiribati",
     "australia-oceania/marshall-islands",
+    "australia-oceania/micronesia",
     "australia-oceania/new-zealand",
     "australia-oceania/niue",
     "australia-oceania/papua-new-guinea",
@@ -275,6 +277,7 @@
     "europe/lithuania",
     "europe/luxembourg",
     "europe/macedonia",
+    "europe/malta",
     "europe/moldova",
     "europe/monaco",
     "europe/montenegro",
@@ -293,6 +296,7 @@
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/sorlandet",
+    "europe/norway/svalbard-janmayen",
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
     "europe/poland/dolnoslaskie",
@@ -384,6 +388,7 @@
     "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/england/wiltshire",
     "europe/united-kingdom/england/worcestershire",
+    "europe/united-kingdom/falklands",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/alberta",
@@ -489,26 +494,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/malta",
-      "pbf_url": "https://download.geofabrik.de/europe/malta-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/micronesia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/micronesia-latest.osm.pbf"
-    },
-    {
-      "id": "africa/seychelles",
-      "pbf_url": "https://download.geofabrik.de/africa/seychelles-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/svalbard-janmayen",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/svalbard-janmayen-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/falklands",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/falklands-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/rutland",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/rutland-latest.osm.pbf"
