@@ -98,7 +98,10 @@
     "europe/finland",
     "europe/france/alsace",
     "europe/france/aquitaine",
+    "europe/france/auvergne",
+    "europe/france/basse-normandie",
     "europe/france/bourgogne",
+    "europe/france/bretagne",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
     "europe/france/lorraine",
@@ -211,6 +214,7 @@
     "north-america/us/georgia",
     "north-america/us/idaho",
     "north-america/us/illinois",
+    "north-america/us/indiana",
     "north-america/us/louisiana",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
@@ -221,6 +225,7 @@
     "north-america/us/north-carolina",
     "north-america/us/ohio",
     "north-america/us/oklahoma",
+    "north-america/us/oregon",
     "north-america/us/pennsylvania",
     "north-america/us/south-carolina",
     "north-america/us/texas",
@@ -249,26 +254,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/france/auvergne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/auvergne-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/bretagne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/bretagne-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/basse-normandie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/basse-normandie-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/indiana",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/indiana-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/oregon",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/oregon-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/baden-wuerttemberg/freiburg-regbez",
       "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/freiburg-regbez-latest.osm.pbf"
