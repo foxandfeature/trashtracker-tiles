@@ -28,6 +28,7 @@
     "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
+    "africa/togo",
     "africa/uganda",
     "africa/zambia",
     "africa/zimbabwe",
@@ -35,11 +36,13 @@
     "asia/afghanistan",
     "asia/bangladesh",
     "asia/china/chongqing",
+    "asia/china/fujian",
     "asia/china/gansu",
     "asia/china/guangdong",
     "asia/china/guizhou",
     "asia/china/hebei",
     "asia/china/heilongjiang",
+    "asia/china/henan",
     "asia/china/hong-kong",
     "asia/china/jiangsu",
     "asia/china/liaoning",
@@ -126,6 +129,7 @@
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/pays-de-la-loire",
+    "europe/france/picardie",
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
@@ -284,6 +288,7 @@
     "north-america/us/utah",
     "north-america/us/virginia",
     "north-america/us/washington",
+    "north-america/us/west-virginia",
     "north-america/us/wisconsin",
     "north-america/us/wyoming",
     "russia/central-fed-district",
@@ -309,26 +314,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "africa/togo",
-      "pbf_url": "https://download.geofabrik.de/africa/togo-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/fujian",
-      "pbf_url": "https://download.geofabrik.de/asia/china/fujian-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/picardie",
-      "pbf_url": "https://download.geofabrik.de/europe/france/picardie-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/west-virginia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/west-virginia-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/henan",
-      "pbf_url": "https://download.geofabrik.de/asia/china/henan-latest.osm.pbf"
-    },
     {
       "id": "asia/china/anhui",
       "pbf_url": "https://download.geofabrik.de/asia/china/anhui-latest.osm.pbf"
