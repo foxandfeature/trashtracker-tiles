@@ -92,6 +92,7 @@
     "europe/czech-republic/vysocina",
     "europe/denmark",
     "europe/finland",
+    "europe/france/alsace",
     "europe/france/aquitaine",
     "europe/france/bourgogne",
     "europe/france/lorraine",
@@ -140,7 +141,9 @@
     "europe/poland/malopolskie",
     "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
+    "europe/poland/wielkopolskie",
     "europe/serbia",
+    "europe/slovakia",
     "europe/slovenia",
     "europe/spain/andalucia",
     "europe/spain/aragon",
@@ -165,6 +168,7 @@
     "europe/united-kingdom/england/worcestershire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
+    "north-america/canada/alberta",
     "north-america/canada/british-columbia/interior-admreg",
     "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/kootenay-admreg",
@@ -210,6 +214,7 @@
     "russia/crimean-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
+    "russia/ural-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
     "south-america/bolivia",
@@ -224,26 +229,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "russia/ural-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/ural-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/wielkopolskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/wielkopolskie-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/alberta",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/alberta-latest.osm.pbf"
-    },
-    {
-      "id": "europe/slovakia",
-      "pbf_url": "https://download.geofabrik.de/europe/slovakia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/alsace",
-      "pbf_url": "https://download.geofabrik.de/europe/france/alsace-latest.osm.pbf"
-    },
     {
       "id": "africa/morocco",
       "pbf_url": "https://download.geofabrik.de/africa/morocco-latest.osm.pbf"
