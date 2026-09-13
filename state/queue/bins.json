@@ -2,6 +2,7 @@
   "done": [],
   "failed": [],
   "lock": [
+    "africa/tanzania",
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
@@ -9,36 +10,20 @@
     "asia/japan/kanto",
     "asia/japan/tohoku",
     "europe/belgium",
+    "europe/france/rhone-alpes",
+    "europe/germany/baden-wuerttemberg/stuttgart-regbez",
+    "europe/netherlands/limburg",
     "europe/norway/ostlandet",
     "europe/ukraine",
     "europe/united-kingdom/scotland",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/quebec",
+    "russia/siberian-fed-district",
     "south-america/brazil/nordeste",
     "south-america/brazil/sul"
   ],
   "remaining": [
-    {
-      "id": "africa/tanzania",
-      "pbf_url": "https://download.geofabrik.de/africa/tanzania-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/rhone-alpes",
-      "pbf_url": "https://download.geofabrik.de/europe/france/rhone-alpes-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/baden-wuerttemberg/stuttgart-regbez",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/stuttgart-regbez-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/limburg",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/limburg-latest.osm.pbf"
-    },
-    {
-      "id": "russia/siberian-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/siberian-fed-district-latest.osm.pbf"
-    },
     {
       "id": "asia/japan/chubu",
       "pbf_url": "https://download.geofabrik.de/asia/japan/chubu-latest.osm.pbf"
