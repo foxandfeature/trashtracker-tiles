@@ -22,6 +22,7 @@
     "asia/japan/kanto",
     "asia/japan/kyushu",
     "asia/japan/tohoku",
+    "asia/mongolia",
     "asia/nepal",
     "asia/pakistan",
     "asia/thailand",
@@ -30,6 +31,7 @@
     "australia-oceania/new-zealand",
     "europe/belgium",
     "europe/bosnia-herzegovina",
+    "europe/cyprus",
     "europe/czech-republic/stredocesky",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
@@ -45,14 +47,17 @@
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/scotland",
     "north-america/canada/british-columbia/interior-admreg",
+    "north-america/canada/british-columbia/kootenay-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/british-columbia/southcoast-admreg",
     "north-america/canada/newfoundland-and-labrador",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
+    "north-america/canada/ontario",
     "north-america/canada/quebec",
     "north-america/canada/saskatchewan",
+    "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
@@ -64,26 +69,6 @@
     "south-america/paraguay"
   ],
   "remaining": [
-    {
-      "id": "europe/cyprus",
-      "pbf_url": "https://download.geofabrik.de/europe/cyprus-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/kootenay-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/kootenay-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "asia/mongolia",
-      "pbf_url": "https://download.geofabrik.de/asia/mongolia-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/ontario",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/ontario-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/arkansas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/arkansas-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/east-yorkshire-with-hull",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/east-yorkshire-with-hull-latest.osm.pbf"
