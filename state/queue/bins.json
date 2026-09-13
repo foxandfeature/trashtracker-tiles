@@ -111,6 +111,7 @@
     "europe/germany/rheinland-pfalz",
     "europe/germany/sachsen",
     "europe/germany/thueringen",
+    "europe/greece",
     "europe/hungary",
     "europe/iceland",
     "europe/ireland-and-northern-ireland",
@@ -159,6 +160,7 @@
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/british-columbia/southcoast-admreg",
     "north-america/canada/newfoundland-and-labrador",
+    "north-america/canada/northwest-territories",
     "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
@@ -176,6 +178,8 @@
     "north-america/us/georgia",
     "north-america/us/idaho",
     "north-america/us/illinois",
+    "north-america/us/maryland",
+    "north-america/us/massachusetts",
     "north-america/us/michigan",
     "north-america/us/minnesota",
     "north-america/us/mississippi",
@@ -185,6 +189,7 @@
     "north-america/us/oklahoma",
     "north-america/us/pennsylvania",
     "north-america/us/texas",
+    "north-america/us/virginia",
     "north-america/us/washington",
     "russia/central-fed-district",
     "russia/crimean-fed-district",
@@ -204,26 +209,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/maryland",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/maryland-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/massachusetts",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/massachusetts-latest.osm.pbf"
-    },
-    {
-      "id": "europe/greece",
-      "pbf_url": "https://download.geofabrik.de/europe/greece-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/northwest-territories",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/northwest-territories-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/virginia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/virginia-latest.osm.pbf"
-    },
     {
       "id": "europe/serbia",
       "pbf_url": "https://download.geofabrik.de/europe/serbia-latest.osm.pbf"
