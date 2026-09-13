@@ -48,6 +48,7 @@
     "asia/indonesia/nusa-tenggara",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
+    "asia/iran",
     "asia/israel-and-palestine",
     "asia/japan/chubu",
     "asia/japan/chugoku",
@@ -92,6 +93,7 @@
     "europe/denmark",
     "europe/finland",
     "europe/france/aquitaine",
+    "europe/france/bourgogne",
     "europe/france/lorraine",
     "europe/france/mayotte",
     "europe/france/nord-pas-de-calais",
@@ -139,6 +141,7 @@
     "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
     "europe/serbia",
+    "europe/slovenia",
     "europe/spain/andalucia",
     "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
@@ -163,6 +166,7 @@
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/british-columbia/interior-admreg",
+    "north-america/canada/british-columbia/island-admreg",
     "north-america/canada/british-columbia/kootenay-admreg",
     "north-america/canada/british-columbia/north-admreg",
     "north-america/canada/british-columbia/southcoast-admreg",
@@ -200,6 +204,7 @@
     "north-america/us/utah",
     "north-america/us/virginia",
     "north-america/us/washington",
+    "north-america/us/wisconsin",
     "north-america/us/wyoming",
     "russia/central-fed-district",
     "russia/crimean-fed-district",
@@ -219,26 +224,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/slovenia",
-      "pbf_url": "https://download.geofabrik.de/europe/slovenia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/bourgogne",
-      "pbf_url": "https://download.geofabrik.de/europe/france/bourgogne-latest.osm.pbf"
-    },
-    {
-      "id": "asia/iran",
-      "pbf_url": "https://download.geofabrik.de/asia/iran-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/island-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/island-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/wisconsin",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/wisconsin-latest.osm.pbf"
-    },
     {
       "id": "russia/ural-fed-district",
       "pbf_url": "https://download.geofabrik.de/russia/ural-fed-district-latest.osm.pbf"
