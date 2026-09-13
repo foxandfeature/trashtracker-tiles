@@ -75,10 +75,13 @@
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/plzensky",
     "europe/czech-republic/stredocesky",
+    "europe/denmark",
     "europe/finland",
     "europe/france/aquitaine",
     "europe/france/lorraine",
     "europe/france/mayotte",
+    "europe/france/nord-pas-de-calais",
+    "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
@@ -100,6 +103,7 @@
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/kosovo",
+    "europe/monaco",
     "europe/netherlands/gelderland",
     "europe/netherlands/limburg",
     "europe/netherlands/overijssel",
@@ -119,6 +123,7 @@
     "europe/sweden",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/hertfordshire",
@@ -174,26 +179,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/cambridgeshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cambridgeshire-latest.osm.pbf"
-    },
-    {
-      "id": "europe/denmark",
-      "pbf_url": "https://download.geofabrik.de/europe/denmark-latest.osm.pbf"
-    },
-    {
-      "id": "europe/monaco",
-      "pbf_url": "https://download.geofabrik.de/europe/monaco-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/nord-pas-de-calais",
-      "pbf_url": "https://download.geofabrik.de/europe/france/nord-pas-de-calais-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/poitou-charentes",
-      "pbf_url": "https://download.geofabrik.de/europe/france/poitou-charentes-latest.osm.pbf"
-    },
     {
       "id": "asia/china/shaanxi",
       "pbf_url": "https://download.geofabrik.de/asia/china/shaanxi-latest.osm.pbf"
