@@ -80,6 +80,7 @@
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
     "australia-oceania/tokelau",
+    "central-america/belize",
     "central-america/el-salvador",
     "central-america/honduras",
     "central-america/jamaica",
@@ -142,6 +143,7 @@
     "europe/poland/lodzkie",
     "europe/poland/lubelskie",
     "europe/poland/malopolskie",
+    "europe/poland/mazowieckie",
     "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
     "europe/poland/wielkopolskie",
@@ -157,6 +159,7 @@
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
+    "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
     "europe/united-kingdom/england/cambridgeshire",
@@ -166,6 +169,7 @@
     "europe/united-kingdom/england/kent",
     "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/norfolk",
+    "europe/united-kingdom/england/northumberland",
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-yorkshire",
@@ -217,6 +221,7 @@
     "north-america/us/wyoming",
     "russia/central-fed-district",
     "russia/crimean-fed-district",
+    "russia/far-eastern-fed-district",
     "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/ural-fed-district",
@@ -234,26 +239,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/poland/mazowieckie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/mazowieckie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/northumberland",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/northumberland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/switzerland",
-      "pbf_url": "https://download.geofabrik.de/europe/switzerland-latest.osm.pbf"
-    },
-    {
-      "id": "russia/far-eastern-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/far-eastern-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/belize",
-      "pbf_url": "https://download.geofabrik.de/central-america/belize-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/madrid",
       "pbf_url": "https://download.geofabrik.de/europe/spain/madrid-latest.osm.pbf"
