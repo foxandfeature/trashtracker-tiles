@@ -6,6 +6,7 @@
     "africa/angola",
     "africa/benin",
     "africa/cameroon",
+    "africa/chad",
     "africa/congo-democratic-republic",
     "africa/guinea",
     "africa/ivory-coast",
@@ -26,6 +27,8 @@
     "africa/zimbabwe",
     "antarctica",
     "asia/bangladesh",
+    "asia/china/guangdong",
+    "asia/china/guizhou",
     "asia/china/hebei",
     "asia/china/heilongjiang",
     "asia/china/hong-kong",
@@ -102,6 +105,7 @@
     "europe/germany/rheinland-pfalz",
     "europe/germany/sachsen",
     "europe/germany/thueringen",
+    "europe/hungary",
     "europe/ireland-and-northern-ireland",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
@@ -123,6 +127,7 @@
     "europe/spain/andalucia",
     "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
+    "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
     "europe/turkey",
@@ -184,26 +189,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "asia/china/guizhou",
-      "pbf_url": "https://download.geofabrik.de/asia/china/guizhou-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/pais-vasco",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/pais-vasco-latest.osm.pbf"
-    },
-    {
-      "id": "africa/chad",
-      "pbf_url": "https://download.geofabrik.de/africa/chad-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/guangdong",
-      "pbf_url": "https://download.geofabrik.de/asia/china/guangdong-latest.osm.pbf"
-    },
-    {
-      "id": "europe/hungary",
-      "pbf_url": "https://download.geofabrik.de/europe/hungary-latest.osm.pbf"
-    },
     {
       "id": "europe/poland/lubelskie",
       "pbf_url": "https://download.geofabrik.de/europe/poland/lubelskie-latest.osm.pbf"
