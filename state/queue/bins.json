@@ -1,28 +1,14 @@
 {
   "done": [],
   "failed": [],
-  "lock": [],
+  "lock": [
+    "asia/indonesia/java",
+    "asia/japan/chugoku",
+    "asia/japan/kanto",
+    "europe/ukraine",
+    "south-america/brazil/nordeste"
+  ],
   "remaining": [
-    {
-      "id": "europe/ukraine",
-      "pbf_url": "https://download.geofabrik.de/europe/ukraine-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/java",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/java-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/chugoku",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/chugoku-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/kanto",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/kanto-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/nordeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/nordeste-latest.osm.pbf"
-    },
     {
       "id": "south-america/brazil/sul",
       "pbf_url": "https://download.geofabrik.de/south-america/brazil/sul-latest.osm.pbf"
