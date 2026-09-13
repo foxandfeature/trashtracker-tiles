@@ -4,6 +4,7 @@
   "lock": [
     "africa/congo-democratic-republic",
     "africa/south-africa",
+    "africa/sudan",
     "africa/tanzania",
     "asia/china/hong-kong",
     "asia/india/southern-zone",
@@ -14,7 +15,9 @@
     "asia/japan/kanto",
     "asia/japan/tohoku",
     "asia/nepal",
+    "asia/thailand",
     "europe/belgium",
+    "europe/bosnia-herzegovina",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
@@ -23,6 +26,8 @@
     "europe/norway/ostlandet",
     "europe/ukraine",
     "europe/united-kingdom/scotland",
+    "north-america/canada/british-columbia/north-admreg",
+    "north-america/canada/nunavut/kitikmeot",
     "north-america/canada/nunavut/kivalliq",
     "north-america/canada/nunavut/qikiqtaaluk",
     "north-america/canada/quebec",
@@ -34,26 +39,6 @@
     "south-america/colombia"
   ],
   "remaining": [
-    {
-      "id": "north-america/canada/nunavut/kitikmeot",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/nunavut/kitikmeot-latest.osm.pbf"
-    },
-    {
-      "id": "europe/bosnia-herzegovina",
-      "pbf_url": "https://download.geofabrik.de/europe/bosnia-herzegovina-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/canada/british-columbia/north-admreg",
-      "pbf_url": "https://download.geofabrik.de/north-america/canada/british-columbia/north-admreg-latest.osm.pbf"
-    },
-    {
-      "id": "africa/sudan",
-      "pbf_url": "https://download.geofabrik.de/africa/sudan-latest.osm.pbf"
-    },
-    {
-      "id": "asia/thailand",
-      "pbf_url": "https://download.geofabrik.de/asia/thailand-latest.osm.pbf"
-    },
     {
       "id": "asia/india/central-zone",
       "pbf_url": "https://download.geofabrik.de/asia/india/central-zone-latest.osm.pbf"
