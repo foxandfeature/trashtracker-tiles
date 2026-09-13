@@ -106,6 +106,7 @@
     "europe/germany/sachsen",
     "europe/germany/thueringen",
     "europe/hungary",
+    "europe/iceland",
     "europe/ireland-and-northern-ireland",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
@@ -121,6 +122,7 @@
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
     "europe/poland/lodzkie",
+    "europe/poland/lubelskie",
     "europe/poland/malopolskie",
     "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
@@ -137,6 +139,7 @@
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/hertfordshire",
     "europe/united-kingdom/england/kent",
+    "europe/united-kingdom/england/leicestershire",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
@@ -165,6 +168,8 @@
     "north-america/us/georgia",
     "north-america/us/idaho",
     "north-america/us/illinois",
+    "north-america/us/michigan",
+    "north-america/us/minnesota",
     "north-america/us/mississippi",
     "north-america/us/new-york",
     "north-america/us/ohio",
@@ -189,26 +194,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/poland/lubelskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lubelskie-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/minnesota",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/minnesota-latest.osm.pbf"
-    },
-    {
-      "id": "europe/iceland",
-      "pbf_url": "https://download.geofabrik.de/europe/iceland-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/leicestershire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/leicestershire-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/michigan",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/michigan-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/niedersachsen",
       "pbf_url": "https://download.geofabrik.de/europe/germany/niedersachsen-latest.osm.pbf"
