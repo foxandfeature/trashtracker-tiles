@@ -63,6 +63,7 @@
     "asia/mongolia",
     "asia/myanmar",
     "asia/nepal",
+    "asia/north-korea",
     "asia/pakistan",
     "asia/philippines",
     "asia/south-korea",
@@ -102,6 +103,7 @@
     "europe/france/languedoc-roussillon",
     "europe/france/lorraine",
     "europe/france/mayotte",
+    "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
@@ -109,6 +111,7 @@
     "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
     "europe/germany/baden-wuerttemberg/stuttgart-regbez",
     "europe/germany/bayern/niederbayern",
+    "europe/germany/bayern/oberbayern",
     "europe/germany/bayern/oberfranken",
     "europe/germany/bayern/oberpfalz",
     "europe/germany/bayern/unterfranken",
@@ -156,6 +159,7 @@
     "europe/spain/andalucia",
     "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
+    "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
     "europe/spain/extremadura",
     "europe/spain/madrid",
@@ -218,6 +222,7 @@
     "north-america/us/ohio",
     "north-america/us/oklahoma",
     "north-america/us/pennsylvania",
+    "north-america/us/south-carolina",
     "north-america/us/texas",
     "north-america/us/utah",
     "north-america/us/virginia",
@@ -244,26 +249,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "asia/north-korea",
-      "pbf_url": "https://download.geofabrik.de/asia/north-korea-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/south-carolina",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/south-carolina-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/castilla-y-leon",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/castilla-y-leon-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/midi-pyrenees",
-      "pbf_url": "https://download.geofabrik.de/europe/france/midi-pyrenees-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/bayern/oberbayern",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/oberbayern-latest.osm.pbf"
-    },
     {
       "id": "europe/france/auvergne",
       "pbf_url": "https://download.geofabrik.de/europe/france/auvergne-latest.osm.pbf"
