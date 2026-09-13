@@ -3,6 +3,7 @@
   "failed": [],
   "lock": [
     "africa/algeria",
+    "africa/angola",
     "africa/cameroon",
     "africa/congo-democratic-republic",
     "africa/ivory-coast",
@@ -23,6 +24,7 @@
     "asia/indonesia/kalimantan",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
+    "asia/israel-and-palestine",
     "asia/japan/chubu",
     "asia/japan/chugoku",
     "asia/japan/kansai",
@@ -39,6 +41,7 @@
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/south-australia",
     "australia-oceania/australia/tasmania",
+    "australia-oceania/australia/victoria",
     "australia-oceania/new-zealand",
     "central-america/jamaica",
     "europe/belgium",
@@ -59,6 +62,7 @@
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/trondelag",
+    "europe/poland/warminsko-mazurskie",
     "europe/sweden",
     "europe/ukraine",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
@@ -79,6 +83,7 @@
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
     "north-america/us/florida",
+    "north-america/us/mississippi",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
@@ -89,26 +94,6 @@
     "south-america/paraguay"
   ],
   "remaining": [
-    {
-      "id": "australia-oceania/australia/victoria",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/victoria-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/mississippi",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/mississippi-latest.osm.pbf"
-    },
-    {
-      "id": "asia/israel-and-palestine",
-      "pbf_url": "https://download.geofabrik.de/asia/israel-and-palestine-latest.osm.pbf"
-    },
-    {
-      "id": "africa/angola",
-      "pbf_url": "https://download.geofabrik.de/africa/angola-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/warminsko-mazurskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/warminsko-mazurskie-latest.osm.pbf"
-    },
     {
       "id": "europe/germany/bayern/unterfranken",
       "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/unterfranken-latest.osm.pbf"
