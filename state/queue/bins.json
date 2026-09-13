@@ -99,6 +99,7 @@
     "europe/france/aquitaine",
     "europe/france/bourgogne",
     "europe/france/ile-de-france",
+    "europe/france/languedoc-roussillon",
     "europe/france/lorraine",
     "europe/france/mayotte",
     "europe/france/nord-pas-de-calais",
@@ -130,6 +131,7 @@
     "europe/italy/nord-ovest",
     "europe/italy/sud",
     "europe/kosovo",
+    "europe/lithuania",
     "europe/monaco",
     "europe/netherlands/gelderland",
     "europe/netherlands/limburg",
@@ -155,6 +157,8 @@
     "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
     "europe/spain/cataluna",
+    "europe/spain/extremadura",
+    "europe/spain/madrid",
     "europe/spain/melilla",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
@@ -203,6 +207,7 @@
     "north-america/us/georgia",
     "north-america/us/idaho",
     "north-america/us/illinois",
+    "north-america/us/louisiana",
     "north-america/us/maryland",
     "north-america/us/massachusetts",
     "north-america/us/michigan",
@@ -239,26 +244,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/madrid",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/madrid-latest.osm.pbf"
-    },
-    {
-      "id": "europe/lithuania",
-      "pbf_url": "https://download.geofabrik.de/europe/lithuania-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/louisiana",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/louisiana-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/extremadura",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/extremadura-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/languedoc-roussillon",
-      "pbf_url": "https://download.geofabrik.de/europe/france/languedoc-roussillon-latest.osm.pbf"
-    },
     {
       "id": "asia/north-korea",
       "pbf_url": "https://download.geofabrik.de/asia/north-korea-latest.osm.pbf"
