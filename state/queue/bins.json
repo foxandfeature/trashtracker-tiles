@@ -11,6 +11,7 @@
     "africa/ivory-coast",
     "africa/kenya",
     "africa/lesotho",
+    "africa/madagascar",
     "africa/mali",
     "africa/niger",
     "africa/nigeria",
@@ -22,6 +23,7 @@
     "africa/tanzania",
     "africa/zambia",
     "africa/zimbabwe",
+    "antarctica",
     "asia/bangladesh",
     "asia/china/hebei",
     "asia/china/heilongjiang",
@@ -95,6 +97,7 @@
     "europe/ireland-and-northern-ireland",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
+    "europe/kosovo",
     "europe/netherlands/gelderland",
     "europe/netherlands/limburg",
     "europe/netherlands/overijssel",
@@ -103,10 +106,12 @@
     "europe/norway/ostlandet",
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
+    "europe/poland/lodzkie",
     "europe/poland/malopolskie",
     "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
     "europe/spain/andalucia",
+    "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
     "europe/spain/valencia",
     "europe/sweden",
@@ -164,26 +169,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/kosovo",
-      "pbf_url": "https://download.geofabrik.de/europe/kosovo-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/lodzkie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lodzkie-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/aragon",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/aragon-latest.osm.pbf"
-    },
-    {
-      "id": "antarctica",
-      "pbf_url": "https://download.geofabrik.de/antarctica-latest.osm.pbf"
-    },
-    {
-      "id": "africa/madagascar",
-      "pbf_url": "https://download.geofabrik.de/africa/madagascar-latest.osm.pbf"
-    },
     {
       "id": "europe/france/aquitaine",
       "pbf_url": "https://download.geofabrik.de/europe/france/aquitaine-latest.osm.pbf"
