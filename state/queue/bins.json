@@ -147,6 +147,7 @@
     "europe/france/franche-comte",
     "europe/france/ile-de-france",
     "europe/france/languedoc-roussillon",
+    "europe/france/limousin",
     "europe/france/lorraine",
     "europe/france/mayotte",
     "europe/france/midi-pyrenees",
@@ -212,6 +213,7 @@
     "europe/poland/kujawsko-pomorskie",
     "europe/poland/lodzkie",
     "europe/poland/lubelskie",
+    "europe/poland/lubuskie",
     "europe/poland/malopolskie",
     "europe/poland/mazowieckie",
     "europe/poland/podkarpackie",
@@ -289,6 +291,7 @@
     "north-america/canada/saskatchewan",
     "north-america/canada/yukon",
     "north-america/mexico",
+    "north-america/us/alabama",
     "north-america/us/alaska",
     "north-america/us/arizona",
     "north-america/us/arkansas",
@@ -303,6 +306,7 @@
     "north-america/us/illinois",
     "north-america/us/indiana",
     "north-america/us/iowa",
+    "north-america/us/kansas",
     "north-america/us/kentucky",
     "north-america/us/louisiana",
     "north-america/us/maryland",
@@ -322,6 +326,7 @@
     "north-america/us/oklahoma",
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
+    "north-america/us/puerto-rico",
     "north-america/us/south-carolina",
     "north-america/us/tennessee",
     "north-america/us/texas",
@@ -354,26 +359,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/poland/lubuskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/lubuskie-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/kansas",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/kansas-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/limousin",
-      "pbf_url": "https://download.geofabrik.de/europe/france/limousin-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/alabama",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/alabama-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/puerto-rico",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/puerto-rico-latest.osm.pbf"
-    },
     {
       "id": "asia/china/jiangxi",
       "pbf_url": "https://download.geofabrik.de/asia/china/jiangxi-latest.osm.pbf"
