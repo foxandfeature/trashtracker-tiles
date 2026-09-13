@@ -6,6 +6,7 @@
     "africa/angola",
     "africa/cameroon",
     "africa/congo-democratic-republic",
+    "africa/guinea",
     "africa/ivory-coast",
     "africa/lesotho",
     "africa/rwanda",
@@ -13,6 +14,7 @@
     "africa/south-sudan",
     "africa/sudan",
     "africa/tanzania",
+    "africa/zimbabwe",
     "asia/bangladesh",
     "asia/china/hebei",
     "asia/china/heilongjiang",
@@ -46,6 +48,7 @@
     "australia-oceania/australia/south-australia",
     "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
+    "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
     "central-america/jamaica",
     "europe/austria",
@@ -64,12 +67,14 @@
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
+    "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/netherlands/gelderland",
     "europe/netherlands/limburg",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/trondelag",
+    "europe/norway/vestlandet",
     "europe/poland/warminsko-mazurskie",
     "europe/sweden",
     "europe/ukraine",
@@ -104,26 +109,6 @@
     "south-america/paraguay"
   ],
   "remaining": [
-    {
-      "id": "europe/italy/nord-est",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/nord-est-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/vestlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/vestlandet-latest.osm.pbf"
-    },
-    {
-      "id": "africa/zimbabwe",
-      "pbf_url": "https://download.geofabrik.de/africa/zimbabwe-latest.osm.pbf"
-    },
-    {
-      "id": "africa/guinea",
-      "pbf_url": "https://download.geofabrik.de/africa/guinea-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/western-australia",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/western-australia-latest.osm.pbf"
-    },
     {
       "id": "europe/united-kingdom/england/warwickshire",
       "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/warwickshire-latest.osm.pbf"
