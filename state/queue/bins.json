@@ -47,6 +47,7 @@
     "europe/belgium",
     "europe/bosnia-herzegovina",
     "europe/cyprus",
+    "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/stredocesky",
     "europe/finland",
     "europe/france/rhone-alpes",
@@ -54,10 +55,12 @@
     "europe/germany/bayern/niederbayern",
     "europe/germany/bayern/oberfranken",
     "europe/germany/bayern/oberpfalz",
+    "europe/germany/bayern/unterfranken",
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
     "europe/italy/nord-ovest",
+    "europe/netherlands/gelderland",
     "europe/netherlands/limburg",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
@@ -82,11 +85,13 @@
     "north-america/canada/saskatchewan",
     "north-america/us/arkansas",
     "north-america/us/california/norcal",
+    "north-america/us/california/socal",
     "north-america/us/florida",
     "north-america/us/mississippi",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
+    "south-america/brazil/centro-oeste",
     "south-america/brazil/nordeste",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
@@ -94,26 +99,6 @@
     "south-america/paraguay"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/bayern/unterfranken",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/bayern/unterfranken-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/moravskoslezky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/moravskoslezky-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/brazil/centro-oeste",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/centro-oeste-latest.osm.pbf"
-    },
-    {
-      "id": "europe/netherlands/gelderland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/gelderland-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/california/socal",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/california/socal-latest.osm.pbf"
-    },
     {
       "id": "africa/rwanda",
       "pbf_url": "https://download.geofabrik.de/africa/rwanda-latest.osm.pbf"
