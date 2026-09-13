@@ -11,6 +11,7 @@
     "africa/ivory-coast",
     "africa/kenya",
     "africa/lesotho",
+    "africa/mali",
     "africa/niger",
     "africa/nigeria",
     "africa/rwanda",
@@ -90,17 +91,20 @@
     "europe/germany/nordrhein-westfalen/muenster-regbez",
     "europe/germany/rheinland-pfalz",
     "europe/germany/sachsen",
+    "europe/germany/thueringen",
     "europe/ireland-and-northern-ireland",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/netherlands/gelderland",
     "europe/netherlands/limburg",
     "europe/netherlands/overijssel",
+    "europe/netherlands/zeeland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
     "europe/poland/malopolskie",
+    "europe/poland/slaskie",
     "europe/poland/warminsko-mazurskie",
     "europe/spain/andalucia",
     "europe/spain/castilla-la-mancha",
@@ -144,6 +148,7 @@
     "north-america/us/washington",
     "russia/central-fed-district",
     "russia/crimean-fed-district",
+    "russia/northwestern-fed-district",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
@@ -159,26 +164,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/netherlands/zeeland",
-      "pbf_url": "https://download.geofabrik.de/europe/netherlands/zeeland-latest.osm.pbf"
-    },
-    {
-      "id": "africa/mali",
-      "pbf_url": "https://download.geofabrik.de/africa/mali-latest.osm.pbf"
-    },
-    {
-      "id": "russia/northwestern-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/northwestern-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "europe/germany/thueringen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/thueringen-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/slaskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/slaskie-latest.osm.pbf"
-    },
     {
       "id": "europe/kosovo",
       "pbf_url": "https://download.geofabrik.de/europe/kosovo-latest.osm.pbf"
