@@ -16,6 +16,7 @@
     "africa/congo-democratic-republic",
     "africa/egypt",
     "africa/ethiopia",
+    "africa/gabon",
     "africa/ghana",
     "africa/guinea",
     "africa/ivory-coast",
@@ -110,6 +111,7 @@
     "asia/syria",
     "asia/taiwan",
     "asia/thailand",
+    "asia/turkmenistan",
     "asia/uzbekistan",
     "asia/vietnam",
     "asia/yemen",
@@ -144,6 +146,7 @@
     "europe/croatia",
     "europe/cyprus",
     "europe/czech-republic/jihocesky",
+    "europe/czech-republic/karlovarsky",
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/pardubicky",
     "europe/czech-republic/plzensky",
@@ -253,6 +256,7 @@
     "europe/slovenia",
     "europe/spain/andalucia",
     "europe/spain/aragon",
+    "europe/spain/cantabria",
     "europe/spain/castilla-la-mancha",
     "europe/spain/castilla-y-leon",
     "europe/spain/cataluna",
@@ -267,6 +271,7 @@
     "europe/switzerland",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/bedfordshire",
     "europe/united-kingdom/england/cambridgeshire",
     "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/cumbria",
@@ -389,26 +394,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/czech-republic/karlovarsky",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/karlovarsky-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/cantabria",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/cantabria-latest.osm.pbf"
-    },
-    {
-      "id": "asia/turkmenistan",
-      "pbf_url": "https://download.geofabrik.de/asia/turkmenistan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/bedfordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/bedfordshire-latest.osm.pbf"
-    },
-    {
-      "id": "africa/gabon",
-      "pbf_url": "https://download.geofabrik.de/africa/gabon-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/polynesie-francaise",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/polynesie-francaise-latest.osm.pbf"
