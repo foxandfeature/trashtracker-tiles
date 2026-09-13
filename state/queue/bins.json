@@ -9,6 +9,7 @@
     "africa/guinea",
     "africa/ivory-coast",
     "africa/lesotho",
+    "africa/nigeria",
     "africa/rwanda",
     "africa/south-africa",
     "africa/south-sudan",
@@ -33,6 +34,7 @@
     "asia/israel-and-palestine",
     "asia/japan/chubu",
     "asia/japan/chugoku",
+    "asia/japan/hokkaido",
     "asia/japan/kansai",
     "asia/japan/kanto",
     "asia/japan/kyushu",
@@ -75,11 +77,13 @@
     "europe/norway/ostlandet",
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
+    "europe/poland/malopolskie",
     "europe/poland/warminsko-mazurskie",
     "europe/sweden",
     "europe/ukraine",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/norfolk",
+    "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
     "north-america/canada/british-columbia/interior-admreg",
@@ -106,29 +110,10 @@
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
     "south-america/colombia",
-    "south-america/paraguay"
+    "south-america/paraguay",
+    "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/warwickshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/warwickshire-latest.osm.pbf"
-    },
-    {
-      "id": "asia/japan/hokkaido",
-      "pbf_url": "https://download.geofabrik.de/asia/japan/hokkaido-latest.osm.pbf"
-    },
-    {
-      "id": "africa/nigeria",
-      "pbf_url": "https://download.geofabrik.de/africa/nigeria-latest.osm.pbf"
-    },
-    {
-      "id": "europe/poland/malopolskie",
-      "pbf_url": "https://download.geofabrik.de/europe/poland/malopolskie-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/peru",
-      "pbf_url": "https://download.geofabrik.de/south-america/peru-latest.osm.pbf"
-    },
     {
       "id": "europe/spain/valencia",
       "pbf_url": "https://download.geofabrik.de/europe/spain/valencia-latest.osm.pbf"
