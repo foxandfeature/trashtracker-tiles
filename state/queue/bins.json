@@ -11,6 +11,7 @@
     "africa/lesotho",
     "africa/nigeria",
     "africa/rwanda",
+    "africa/somalia",
     "africa/south-africa",
     "africa/south-sudan",
     "africa/sudan",
@@ -54,6 +55,7 @@
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
+    "central-america/honduras",
     "central-america/jamaica",
     "europe/austria",
     "europe/belgium",
@@ -72,6 +74,7 @@
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
+    "europe/ireland-and-northern-ireland",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/netherlands/gelderland",
@@ -106,12 +109,14 @@
     "north-america/us/california/socal",
     "north-america/us/florida",
     "north-america/us/mississippi",
+    "russia/central-fed-district",
     "russia/siberian-fed-district",
     "russia/volga-fed-district",
     "south-america/argentina",
     "south-america/bolivia",
     "south-america/brazil/centro-oeste",
     "south-america/brazil/nordeste",
+    "south-america/brazil/norte",
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
     "south-america/colombia",
@@ -119,26 +124,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "south-america/brazil/norte",
-      "pbf_url": "https://download.geofabrik.de/south-america/brazil/norte-latest.osm.pbf"
-    },
-    {
-      "id": "europe/ireland-and-northern-ireland",
-      "pbf_url": "https://download.geofabrik.de/europe/ireland-and-northern-ireland-latest.osm.pbf"
-    },
-    {
-      "id": "central-america/honduras",
-      "pbf_url": "https://download.geofabrik.de/central-america/honduras-latest.osm.pbf"
-    },
-    {
-      "id": "russia/central-fed-district",
-      "pbf_url": "https://download.geofabrik.de/russia/central-fed-district-latest.osm.pbf"
-    },
-    {
-      "id": "africa/somalia",
-      "pbf_url": "https://download.geofabrik.de/africa/somalia-latest.osm.pbf"
-    },
     {
       "id": "europe/czech-republic/plzensky",
       "pbf_url": "https://download.geofabrik.de/europe/czech-republic/plzensky-latest.osm.pbf"
