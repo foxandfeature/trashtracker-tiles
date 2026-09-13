@@ -151,6 +151,7 @@
     "australia-oceania/australia/tasmania",
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
+    "australia-oceania/fiji",
     "australia-oceania/kiribati",
     "australia-oceania/marshall-islands",
     "australia-oceania/new-zealand",
@@ -162,6 +163,7 @@
     "australia-oceania/tokelau",
     "australia-oceania/tuvalu",
     "australia-oceania/vanuatu",
+    "australia-oceania/wallis-et-futuna",
     "central-america/bahamas",
     "central-america/belize",
     "central-america/costa-rica",
@@ -325,6 +327,7 @@
     "europe/spain/extremadura",
     "europe/spain/galicia",
     "europe/spain/islas-baleares",
+    "europe/spain/la-rioja",
     "europe/spain/madrid",
     "europe/spain/melilla",
     "europe/spain/murcia",
@@ -354,6 +357,7 @@
     "europe/united-kingdom/england/greater-london",
     "europe/united-kingdom/england/greater-manchester",
     "europe/united-kingdom/england/hampshire",
+    "europe/united-kingdom/england/herefordshire",
     "europe/united-kingdom/england/hertfordshire",
     "europe/united-kingdom/england/isle-of-wight",
     "europe/united-kingdom/england/kent",
@@ -402,6 +406,7 @@
     "north-america/canada/quebec",
     "north-america/canada/saskatchewan",
     "north-america/canada/yukon",
+    "north-america/greenland",
     "north-america/mexico",
     "north-america/us/alabama",
     "north-america/us/alaska",
@@ -484,26 +489,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/spain/la-rioja",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/la-rioja-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/fiji",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/fiji-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/greenland",
-      "pbf_url": "https://download.geofabrik.de/north-america/greenland-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/wallis-et-futuna",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/wallis-et-futuna-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/herefordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/herefordshire-latest.osm.pbf"
-    },
     {
       "id": "europe/malta",
       "pbf_url": "https://download.geofabrik.de/europe/malta-latest.osm.pbf"
