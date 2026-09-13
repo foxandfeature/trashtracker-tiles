@@ -17,6 +17,7 @@
     "africa/congo-brazzaville",
     "africa/congo-democratic-republic",
     "africa/egypt",
+    "africa/eritrea",
     "africa/ethiopia",
     "africa/gabon",
     "africa/ghana",
@@ -37,6 +38,7 @@
     "africa/niger",
     "africa/nigeria",
     "africa/rwanda",
+    "africa/saint-helena-ascension-and-tristan-da-cunha",
     "africa/senegal-and-gambia",
     "africa/sierra-leone",
     "africa/somalia",
@@ -356,6 +358,7 @@
     "europe/united-kingdom/england/merseyside",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/north-yorkshire",
+    "europe/united-kingdom/england/northamptonshire",
     "europe/united-kingdom/england/northumberland",
     "europe/united-kingdom/england/nottinghamshire",
     "europe/united-kingdom/england/oxfordshire",
@@ -407,6 +410,7 @@
     "north-america/us/district-of-columbia",
     "north-america/us/florida",
     "north-america/us/georgia",
+    "north-america/us/hawaii",
     "north-america/us/idaho",
     "north-america/us/illinois",
     "north-america/us/indiana",
@@ -435,6 +439,7 @@
     "north-america/us/oregon",
     "north-america/us/pennsylvania",
     "north-america/us/puerto-rico",
+    "north-america/us/rhode-island",
     "north-america/us/south-carolina",
     "north-america/us/south-dakota",
     "north-america/us/tennessee",
@@ -474,26 +479,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "north-america/us/rhode-island",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/rhode-island-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/hawaii",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/hawaii-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/northamptonshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/northamptonshire-latest.osm.pbf"
-    },
-    {
-      "id": "africa/eritrea",
-      "pbf_url": "https://download.geofabrik.de/africa/eritrea-latest.osm.pbf"
-    },
-    {
-      "id": "africa/saint-helena-ascension-and-tristan-da-cunha",
-      "pbf_url": "https://download.geofabrik.de/africa/saint-helena-ascension-and-tristan-da-cunha-latest.osm.pbf"
-    },
     {
       "id": "africa/djibouti",
       "pbf_url": "https://download.geofabrik.de/africa/djibouti-latest.osm.pbf"
