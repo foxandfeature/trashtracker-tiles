@@ -10,6 +10,7 @@
     "africa/burundi",
     "africa/cameroon",
     "africa/canary-islands",
+    "africa/central-african-republic",
     "africa/chad",
     "africa/congo-democratic-republic",
     "africa/egypt",
@@ -104,10 +105,12 @@
     "asia/sri-lanka",
     "asia/taiwan",
     "asia/thailand",
+    "asia/uzbekistan",
     "asia/vietnam",
     "asia/yemen",
     "australia-oceania/american-oceania",
     "australia-oceania/australia/act",
+    "australia-oceania/australia/coral-sea-islands",
     "australia-oceania/australia/new-south-wales",
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/south-australia",
@@ -115,6 +118,7 @@
     "australia-oceania/australia/victoria",
     "australia-oceania/australia/western-australia",
     "australia-oceania/new-zealand",
+    "australia-oceania/samoa",
     "australia-oceania/tokelau",
     "central-america/belize",
     "central-america/costa-rica",
@@ -278,6 +282,7 @@
     "europe/united-kingdom/england/south-yorkshire",
     "europe/united-kingdom/england/staffordshire",
     "europe/united-kingdom/england/suffolk",
+    "europe/united-kingdom/england/surrey",
     "europe/united-kingdom/england/tyne-and-wear",
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
@@ -374,26 +379,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/united-kingdom/england/surrey",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/surrey-latest.osm.pbf"
-    },
-    {
-      "id": "africa/central-african-republic",
-      "pbf_url": "https://download.geofabrik.de/africa/central-african-republic-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/coral-sea-islands",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/coral-sea-islands-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/samoa",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/samoa-latest.osm.pbf"
-    },
-    {
-      "id": "asia/uzbekistan",
-      "pbf_url": "https://download.geofabrik.de/asia/uzbekistan-latest.osm.pbf"
-    },
     {
       "id": "africa/congo-brazzaville",
       "pbf_url": "https://download.geofabrik.de/africa/congo-brazzaville-latest.osm.pbf"
