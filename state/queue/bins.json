@@ -8,6 +8,7 @@
     "africa/congo-democratic-republic",
     "africa/ivory-coast",
     "africa/lesotho",
+    "africa/rwanda",
     "africa/south-africa",
     "africa/south-sudan",
     "africa/sudan",
@@ -16,12 +17,15 @@
     "asia/china/hebei",
     "asia/china/heilongjiang",
     "asia/china/hong-kong",
+    "asia/china/liaoning",
     "asia/india/central-zone",
     "asia/india/eastern-zone",
+    "asia/india/north-eastern-zone",
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
     "asia/indonesia/kalimantan",
+    "asia/indonesia/nusa-tenggara",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/israel-and-palestine",
@@ -44,6 +48,7 @@
     "australia-oceania/australia/victoria",
     "australia-oceania/new-zealand",
     "central-america/jamaica",
+    "europe/austria",
     "europe/belgium",
     "europe/bosnia-herzegovina",
     "europe/cyprus",
@@ -99,26 +104,6 @@
     "south-america/paraguay"
   ],
   "remaining": [
-    {
-      "id": "africa/rwanda",
-      "pbf_url": "https://download.geofabrik.de/africa/rwanda-latest.osm.pbf"
-    },
-    {
-      "id": "europe/austria",
-      "pbf_url": "https://download.geofabrik.de/europe/austria-latest.osm.pbf"
-    },
-    {
-      "id": "asia/india/north-eastern-zone",
-      "pbf_url": "https://download.geofabrik.de/asia/india/north-eastern-zone-latest.osm.pbf"
-    },
-    {
-      "id": "asia/indonesia/nusa-tenggara",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/nusa-tenggara-latest.osm.pbf"
-    },
-    {
-      "id": "asia/china/liaoning",
-      "pbf_url": "https://download.geofabrik.de/asia/china/liaoning-latest.osm.pbf"
-    },
     {
       "id": "europe/italy/nord-est",
       "pbf_url": "https://download.geofabrik.de/europe/italy/nord-est-latest.osm.pbf"
