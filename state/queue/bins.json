@@ -137,6 +137,7 @@
     "australia-oceania/australia/ashmore-cartier",
     "australia-oceania/australia/coral-sea-islands",
     "australia-oceania/australia/new-south-wales",
+    "australia-oceania/australia/northern-territory",
     "australia-oceania/australia/queensland",
     "australia-oceania/australia/south-australia",
     "australia-oceania/australia/tasmania",
@@ -205,6 +206,7 @@
     "europe/france/languedoc-roussillon",
     "europe/france/limousin",
     "europe/france/lorraine",
+    "europe/france/martinique",
     "europe/france/mayotte",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
@@ -239,6 +241,7 @@
     "europe/germany/nordrhein-westfalen/koeln-regbez",
     "europe/germany/nordrhein-westfalen/muenster-regbez",
     "europe/germany/rheinland-pfalz",
+    "europe/germany/saarland",
     "europe/germany/sachsen",
     "europe/germany/sachsen-anhalt",
     "europe/germany/schleswig-holstein",
@@ -345,6 +348,7 @@
     "europe/united-kingdom/england/north-yorkshire",
     "europe/united-kingdom/england/northumberland",
     "europe/united-kingdom/england/nottinghamshire",
+    "europe/united-kingdom/england/oxfordshire",
     "europe/united-kingdom/england/shropshire",
     "europe/united-kingdom/england/somerset",
     "europe/united-kingdom/england/south-yorkshire",
@@ -390,6 +394,7 @@
     "north-america/us/colorado",
     "north-america/us/connecticut",
     "north-america/us/delaware",
+    "north-america/us/district-of-columbia",
     "north-america/us/florida",
     "north-america/us/georgia",
     "north-america/us/idaho",
@@ -459,26 +464,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/saarland",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/saarland-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/district-of-columbia",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/district-of-columbia-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/martinique",
-      "pbf_url": "https://download.geofabrik.de/europe/france/martinique-latest.osm.pbf"
-    },
-    {
-      "id": "australia-oceania/australia/northern-territory",
-      "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/northern-territory-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/oxfordshire",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/oxfordshire-latest.osm.pbf"
-    },
     {
       "id": "africa/liberia",
       "pbf_url": "https://download.geofabrik.de/africa/liberia-latest.osm.pbf"
