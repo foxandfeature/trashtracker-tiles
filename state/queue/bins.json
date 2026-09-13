@@ -5,6 +5,7 @@
     "africa/algeria",
     "africa/angola",
     "africa/benin",
+    "africa/botswana",
     "africa/cameroon",
     "africa/chad",
     "africa/congo-democratic-republic",
@@ -110,6 +111,7 @@
     "europe/france/mayotte",
     "europe/france/midi-pyrenees",
     "europe/france/nord-pas-de-calais",
+    "europe/france/pays-de-la-loire",
     "europe/france/poitou-charentes",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
@@ -137,6 +139,7 @@
     "europe/hungary",
     "europe/iceland",
     "europe/ireland-and-northern-ireland",
+    "europe/italy/centro",
     "europe/italy/nord-est",
     "europe/italy/nord-ovest",
     "europe/italy/sud",
@@ -152,6 +155,7 @@
     "europe/netherlands/zuid-holland",
     "europe/norway/nord-norge",
     "europe/norway/ostlandet",
+    "europe/norway/sorlandet",
     "europe/norway/trondelag",
     "europe/norway/vestlandet",
     "europe/poland/dolnoslaskie",
@@ -192,6 +196,7 @@
     "europe/united-kingdom/england/northumberland",
     "europe/united-kingdom/england/warwickshire",
     "europe/united-kingdom/england/west-midlands",
+    "europe/united-kingdom/england/west-sussex",
     "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/england/worcestershire",
     "europe/united-kingdom/scotland",
@@ -264,26 +269,6 @@
     "south-america/venezuela"
   ],
   "remaining": [
-    {
-      "id": "europe/italy/centro",
-      "pbf_url": "https://download.geofabrik.de/europe/italy/centro-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/west-sussex",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-sussex-latest.osm.pbf"
-    },
-    {
-      "id": "europe/norway/sorlandet",
-      "pbf_url": "https://download.geofabrik.de/europe/norway/sorlandet-latest.osm.pbf"
-    },
-    {
-      "id": "africa/botswana",
-      "pbf_url": "https://download.geofabrik.de/africa/botswana-latest.osm.pbf"
-    },
-    {
-      "id": "europe/france/pays-de-la-loire",
-      "pbf_url": "https://download.geofabrik.de/europe/france/pays-de-la-loire-latest.osm.pbf"
-    },
     {
       "id": "europe/italy/isole",
       "pbf_url": "https://download.geofabrik.de/europe/italy/isole-latest.osm.pbf"
