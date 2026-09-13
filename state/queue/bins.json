@@ -50,6 +50,7 @@
     "asia/nepal",
     "asia/pakistan",
     "asia/philippines",
+    "asia/south-korea",
     "asia/taiwan",
     "asia/thailand",
     "asia/yemen",
@@ -72,6 +73,7 @@
     "europe/czech-republic/stredocesky",
     "europe/finland",
     "europe/france/lorraine",
+    "europe/france/mayotte",
     "europe/france/provence-alpes-cote-d-azur",
     "europe/france/rhone-alpes",
     "europe/germany/baden-wuerttemberg/karlsruhe-regbez",
@@ -102,10 +104,12 @@
     "europe/sweden",
     "europe/turkey",
     "europe/ukraine",
+    "europe/united-kingdom/england/cornwall",
     "europe/united-kingdom/england/east-yorkshire-with-hull",
     "europe/united-kingdom/england/hertfordshire",
     "europe/united-kingdom/england/norfolk",
     "europe/united-kingdom/england/warwickshire",
+    "europe/united-kingdom/england/west-midlands",
     "europe/united-kingdom/england/west-yorkshire",
     "europe/united-kingdom/scotland",
     "europe/united-kingdom/wales",
@@ -140,30 +144,11 @@
     "south-america/brazil/sudeste",
     "south-america/brazil/sul",
     "south-america/colombia",
+    "south-america/ecuador",
     "south-america/paraguay",
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/france/mayotte",
-      "pbf_url": "https://download.geofabrik.de/europe/france/mayotte-latest.osm.pbf"
-    },
-    {
-      "id": "south-america/ecuador",
-      "pbf_url": "https://download.geofabrik.de/south-america/ecuador-latest.osm.pbf"
-    },
-    {
-      "id": "asia/south-korea",
-      "pbf_url": "https://download.geofabrik.de/asia/south-korea-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/cornwall",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/cornwall-latest.osm.pbf"
-    },
-    {
-      "id": "europe/united-kingdom/england/west-midlands",
-      "pbf_url": "https://download.geofabrik.de/europe/united-kingdom/england/west-midlands-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/washington",
       "pbf_url": "https://download.geofabrik.de/north-america/us/washington-latest.osm.pbf"
