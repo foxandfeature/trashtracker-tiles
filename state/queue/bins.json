@@ -5,6 +5,8 @@
     "africa/algeria",
     "africa/cameroon",
     "africa/congo-democratic-republic",
+    "africa/ivory-coast",
+    "africa/lesotho",
     "africa/south-africa",
     "africa/south-sudan",
     "africa/sudan",
@@ -18,6 +20,7 @@
     "asia/india/southern-zone",
     "asia/india/western-zone",
     "asia/indonesia/java",
+    "asia/indonesia/kalimantan",
     "asia/indonesia/sulawesi",
     "asia/indonesia/sumatra",
     "asia/japan/chubu",
@@ -26,9 +29,11 @@
     "asia/japan/kanto",
     "asia/japan/kyushu",
     "asia/japan/tohoku",
+    "asia/malaysia-singapore-brunei",
     "asia/mongolia",
     "asia/nepal",
     "asia/pakistan",
+    "asia/philippines",
     "asia/thailand",
     "australia-oceania/australia/act",
     "australia-oceania/australia/new-south-wales",
@@ -84,26 +89,6 @@
     "south-america/paraguay"
   ],
   "remaining": [
-    {
-      "id": "asia/indonesia/kalimantan",
-      "pbf_url": "https://download.geofabrik.de/asia/indonesia/kalimantan-latest.osm.pbf"
-    },
-    {
-      "id": "asia/malaysia-singapore-brunei",
-      "pbf_url": "https://download.geofabrik.de/asia/malaysia-singapore-brunei-latest.osm.pbf"
-    },
-    {
-      "id": "asia/philippines",
-      "pbf_url": "https://download.geofabrik.de/asia/philippines-latest.osm.pbf"
-    },
-    {
-      "id": "africa/lesotho",
-      "pbf_url": "https://download.geofabrik.de/africa/lesotho-latest.osm.pbf"
-    },
-    {
-      "id": "africa/ivory-coast",
-      "pbf_url": "https://download.geofabrik.de/africa/ivory-coast-latest.osm.pbf"
-    },
     {
       "id": "australia-oceania/australia/victoria",
       "pbf_url": "https://download.geofabrik.de/australia-oceania/australia/victoria-latest.osm.pbf"
