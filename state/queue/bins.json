@@ -53,6 +53,7 @@
     "asia/japan/kanto",
     "asia/japan/kyushu",
     "asia/japan/tohoku",
+    "asia/kazakhstan",
     "asia/malaysia-singapore-brunei",
     "asia/mongolia",
     "asia/myanmar",
@@ -81,6 +82,7 @@
     "europe/czech-republic/moravskoslezky",
     "europe/czech-republic/plzensky",
     "europe/czech-republic/stredocesky",
+    "europe/czech-republic/vysocina",
     "europe/denmark",
     "europe/finland",
     "europe/france/aquitaine",
@@ -97,6 +99,7 @@
     "europe/germany/bayern/oberpfalz",
     "europe/germany/bayern/unterfranken",
     "europe/germany/brandenburg",
+    "europe/germany/niedersachsen",
     "europe/germany/nordrhein-westfalen/arnsberg-regbez",
     "europe/germany/nordrhein-westfalen/detmold-regbez",
     "europe/germany/nordrhein-westfalen/duesseldorf-regbez",
@@ -129,6 +132,7 @@
     "europe/spain/andalucia",
     "europe/spain/aragon",
     "europe/spain/castilla-la-mancha",
+    "europe/spain/melilla",
     "europe/spain/pais-vasco",
     "europe/spain/valencia",
     "europe/sweden",
@@ -172,6 +176,7 @@
     "north-america/us/minnesota",
     "north-america/us/mississippi",
     "north-america/us/new-york",
+    "north-america/us/north-carolina",
     "north-america/us/ohio",
     "north-america/us/pennsylvania",
     "north-america/us/texas",
@@ -194,26 +199,6 @@
     "south-america/peru"
   ],
   "remaining": [
-    {
-      "id": "europe/germany/niedersachsen",
-      "pbf_url": "https://download.geofabrik.de/europe/germany/niedersachsen-latest.osm.pbf"
-    },
-    {
-      "id": "asia/kazakhstan",
-      "pbf_url": "https://download.geofabrik.de/asia/kazakhstan-latest.osm.pbf"
-    },
-    {
-      "id": "europe/czech-republic/vysocina",
-      "pbf_url": "https://download.geofabrik.de/europe/czech-republic/vysocina-latest.osm.pbf"
-    },
-    {
-      "id": "north-america/us/north-carolina",
-      "pbf_url": "https://download.geofabrik.de/north-america/us/north-carolina-latest.osm.pbf"
-    },
-    {
-      "id": "europe/spain/melilla",
-      "pbf_url": "https://download.geofabrik.de/europe/spain/melilla-latest.osm.pbf"
-    },
     {
       "id": "north-america/us/arizona",
       "pbf_url": "https://download.geofabrik.de/north-america/us/arizona-latest.osm.pbf"
